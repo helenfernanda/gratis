@@ -130,15 +130,17 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf5a3ac163e69f04c5
 
 ############################### BRASIL TV ABERTA #####################################
 
-
-#EXTINF:-1 tvg-id="BandRede.br" tvg-name="Band" tvg-logo="https://imgur.com/HnL2uBA.png" tvg-shift="0" group-title="Brasil - TV aberta",Band
-http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ" tvg-logo="https://imgur.com/5RQ1PxL.png" group-title="Brasil - TV aberta",Globo RJ
+http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Assembleia.go" tvg-name="Assembleia Goiás" tvg-logo="https://politizar.al.go.leg.br/wp-content/uploads/2019/04/thumbnail_NovaLogo-TV-Alego-branco.png" group-title="Brasil - TV aberta",Assembleia Goiás
 https://ngbvqmbygn.zoeweb.tv/alegolive/smil:alegolive.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ" tvg-logo="https://imgur.com/5RQ1PxL.png" group-title="Brasil - TV aberta",Globo RJ
-http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="Band" tvg-logo="https://imgur.com/HnL2uBA.png" tvg-shift="0" group-title="Brasil - TV aberta",Band
+http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
+
+#EXTINF:-1 tvg-id="canalsaude.br" tvg-name="Canal Saúde" tvg-logo="https://www.gov.br/pt-br/apps/canal-saude/view/++widget++form.widgets.imagem/@@download/Canal+Sa%C3%BAde.jpg" tvg-shift="0" group-title="Brasil - TV aberta",Canal Saúde
+https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Loading.br" tvg-name="Loading TV" tvg-logo="https://imgur.com/DAyMXAx.png" tvg-shift="0" group-title="Brasil - TV aberta",Loading TV
 https://aws.gcp.br.cdn.booyah.live/hls/151073/master_34850987.m3u8
@@ -149,28 +151,28 @@ https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
 #EXTINF:-1 tvg-id="Redebrasil.br" tvg-name="Rede Brasil" tvg-logo="https://imgur.com/ZgnRZ47.png" group-title="Brasil - TV aberta",Rede Brasil
 https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Redemetropole.br" tvg-name="Rede Metrópole" group-title="Brasil - TV aberta" tvg-logo="https://imgur.com/7g9YNdW.png",Rede Metrópole
+http://187.33.200.235:9000/hls/redemetropole.m3u8
+
 #EXTINF:-1 tvg-id="Redetv.br" tvg-name="Rede TV RJ" tvg-logo="https://i.imgur.com/hd76Jt4.png" tvg-shift="0" group-title="Brasil - TV aberta",Rede TV RJ
 https://hls.brasilstream.com.br/live/redetves/redetves/mono.m3u8?token=6410329353875642000
 
-#EXTINF:-1 tvg-id="Redemetropole.br" group-title="Brasil - TV aberta" tvg-logo="https://imgur.com/7g9YNdW.png",Rede Metrópole
-http://187.33.200.235:9000/hls/redemetropole.m3u8
-
-#EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="TV Alternativa (TV Gazeta MA)" tvg-logo="https://imgur.com/lAXbfuU.png" tvg-shift="0" group-title="Brasil - TV aberta",TV Alternativa (TV Gazeta MA)
+#EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="TV Alternativa | TV Gazeta MA" tvg-logo="https://imgur.com/lAXbfuU.png" tvg-shift="0" group-title="Brasil - TV aberta",TV Alternativa | TV Gazeta MA
 http://stmv8.conectastm.com/wagner1168/wagner1168/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Tvufg.go" tvg-name="TV UFG | TV Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Avatar_-_Quadrado_02.png" group-title="Brasil - TV aberta",TV UFG | TV Brasil
-http://wowza.softhost.com.br:1935/ufg/smil:tvufgweb/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Tvbrasil.br" tvg-name="TV Brasil" tvg-logo="https://imgur.com/a6w6x9v.png" group-title="Brasil - TV aberta",TV Brasil
 https://origin-02.nxplay.com.br/TV_BRASIL_NX/index.m3u8
 
-#EXTINF:-1 tvg-id="TVE BRASIL" tvg-logo="https://i.imgur.com/oNpqaxy.png?1" group-title="Brasil - TV aberta",TVE | TV BRASIL
+#EXTINF:-1 tvg-id="Tvufg.go" tvg-name="TV UFG | TV Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Avatar_-_Quadrado_02.png" group-title="Brasil - TV aberta",TV UFG | TV Brasil
+http://wowza.softhost.com.br:1935/ufg/smil:tvufgweb/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVE BRASIL" tvg-name="TVE | TV Brasil" tvg-logo="https://i.imgur.com/oNpqaxy.png?1" group-title="Brasil - TV aberta",TVE | TV BRASIL
 http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TBC.go" tvg-name="TBC Cultura Goiás" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/ececa6333f0610f8e13aafbe16a5830b.png" group-title="Brasil - TV aberta",TBC Cultura Goiás
 http://wz3.dnip.com.br/tvbrasil/tvbrasil.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="Catve (Cultura PR)" tvg-logo="https://imgur.com/yg60ANb.png" group-title="Brasil - TV aberta",Catve (Cultura PR)
+#EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="Catve | Cultura PR" tvg-logo="https://imgur.com/yg60ANb.png" group-title="Brasil - TV aberta",Catve | Cultura PR
 https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1960464540.m3u8
 
 #EXTINF:-1 tvg-id="Tv8.br" group-title="Brasil - TV aberta" tvg-logo="https://imgur.com/YRD2mvJ.png",TV8 Brasil
@@ -179,7 +181,7 @@ https://cdn.jmvstream.com/w/LVW-9773/ngrp:LVW9773_eRZLMN9Hsr_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Redebrasil.br" tvg-name="TV Brasil Oeste" tvg-logo="https://imgur.com/HjlG043.png" group-title="Brasil - TV aberta",TV Brasil Oeste (Rede Brasil)
 https://5ad482a77183d.streamlock.net/operacaotbomt.com.br/operacaotbomt.com.br/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="TV Cidade Verde (SBT PI)" tvg-logo="https://imgur.com/8catiCV.png" tvg-shift="0" group-title="Brasil - TV aberta",TV Cidade Verde (SBT PI) 
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="TV Cidade Verde | SBT PI" tvg-logo="https://imgur.com/8catiCV.png" tvg-shift="0" group-title="Brasil - TV aberta",TV Cidade Verde | SBT PI 
 https://stmv1.transmissaodigital.com/cidadeverde/cidadeverde/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SBT MA" tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="Brasil - TV aberta",SBT MA TV Difusora
