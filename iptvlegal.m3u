@@ -1,8 +1,5 @@
 #EXTM3U url-tvg="http://epg.liveiptv.net/epg.xml,https://cld.pt/dl/download/7a36f027-b90a-4be0-ba89-00acb7d82fa7/RHAEPG.xml"
 
-#EXTINF:-1 tvg-id="101700" tvg-name="Rewind TV" Chile tvg-logo="https://imgur.com/fssx3Gh.png" group-title="Música",Rewind TV Chile
-https://tls.cdnz.cl/rewindtv/rewindtv/playlist.m3u8
-
 #EXTINF:0 channel-id="vevo-reggaeton-and-trap" tvg-logo="http://images.pluto.tv/channels/5f32f397795b750007706448/colorLogoPNG.png" group-title="Música",Vevo Reggaetón & Trap
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32f397795b750007706448/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c868322-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=fc027a03-e512-45db-98af-879f6889407f&userId=&serverSideAds=true
 
@@ -29,6 +26,11 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fd7bca3e0a4ee0007a
 
 #EXTINF:0 channel-id="classica" tvg-logo="http://images.pluto.tv/channels/5f779951372da90007fd45e8/colorLogoPNG.png" group-title="Música",Clássica
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f779951372da90007fd45e8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c8a2ca3-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d0c6b789-884d-4edf-bde4-b9619b8ad48c&userId=&serverSideAds=true
+
+#EXTINF:0 tvg-id="101700" tvg-name="Rewind TV" Chile tvg-logo="https://imgur.com/fssx3Gh.png" group-title="Música",Rewind TV Chile
+https://tls.cdnz.cl/rewindtv/rewindtv/playlist.m3u8
+
+################ BRASIL ###############
 
 #EXTINF:0 channel-id="pluto-tv-cine-sucessos" tvg-logo="https://imgur.com/6k7cOAE.png" group-title="Pluto Brasil",Pluto TV Cine Sucessos
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f120e94a5714d00074576a1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977e45a0-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=52960630-50b9-4a4d-b84b-6ed25b88774b&userId=&serverSideAds=true
@@ -2269,6 +2271,10 @@ http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
 #EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News" tvg-logo="https://imgur.com/WwSAtkh.png" group-title="Notícias",Band News
 http://evpp.mm.uol.com.br:1935/geob_band/bandnewstv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Assembleia.go" tvg-name="Assembleia Goiás" tvg-logo="https://politizar.al.go.leg.br/wp-content/uploads/2019/04/thumbnail_NovaLogo-TV-Alego-branco.png" group-title="TV aberta",Assembleia Goiás
+https://ngbvqmbygn.zoeweb.tv/alegolive/smil:alegolive.smil/playlist.m3u8
+
+
 #EXTINF:-1 tvg-id="TBC.go" tvg-name="TBC Cultura Goiás" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/ececa6333f0610f8e13aafbe16a5830b.png" group-title="TV aberta",TBC Cultura Goiás
 http://wz3.dnip.com.br/tvbrasil/tvbrasil.sdp/playlist.m3u8
 
@@ -2278,7 +2284,7 @@ https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1960464540.
 #EXTINF:-1 tvg-id="CNNBrasil" tvg-name="CNN Brasil" tvg-logo="https://i.imgur.com/iCsbnC8.png" tvg-shift="0" group-title="Notícias",CNN Brasil
 https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
 
-#EXTINF:-1 group-title="Notícias" tvg-id="RaiNews24" tvg-logo="https://m3upt.com/logos/Rai-News-24.png",Rai News 24
+#EXTINF:-1 group-title="Notícias" tvg-id="RaiNews24" tvg-name="Rai News 24 Itália" tvg-logo="https://m3upt.com/logos/Rai-News-24.png",Rai News 24 Itália
 https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_1800/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="FRANCE 24" tvg-name="France 24" tvg-logo="https://imgur.com/Tj0KCYI.png" tvg-shift="0" group-title="Notícias",France 24
@@ -2307,6 +2313,9 @@ http://187.33.200.235:9000/hls/redemetropole.m3u8
 
 #EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="TV Alternativa (TV Gazeta MA)" tvg-logo="https://imgur.com/lAXbfuU.png" tvg-shift="0" group-title="TV aberta",TV Alternativa (TV Gazeta MA)
 http://stmv8.conectastm.com/wagner1168/wagner1168/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tvufg.go" tvg-name="TV UFG | TV Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Avatar_-_Quadrado_02.png" group-title="TV UFG | TV Brasil",TV UFG | TV Brasil
+http://wowza.softhost.com.br:1935/ufg/smil:tvufgweb/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Tvbrasil.br" tvg-name="TV Brasil" tvg-logo="https://imgur.com/a6w6x9v.png" group-title="TV aberta",TV Brasil
 https://origin-02.nxplay.com.br/TV_BRASIL_NX/index.m3u8
@@ -2340,3 +2349,115 @@ https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m
 
 #EXTINF:-1 tvg-id="Tv8.br" group-title="TV Aberta" tvg-logo="https://imgur.com/YRD2mvJ.png",TV - TV8 Brasil
 https://cdn.jmvstream.com/w/LVW-9773/ngrp:LVW9773_eRZLMN9Hsr_all/playlist.m3u8
+
+#################### AUSTRÁLIA TV ABERTA ###################
+
+
+#EXTINF:-1 tvg-name="ABC Adelaide AU" tvg-id="" tvg-logo="https://i.imgur.com/rLCHYCs.png" group-title="Austrália",ABC Adelaide AU
+https://c.mjh.nz/101002510251/
+#EXTINF:-1 tvg-name="ABC Darwin AU" tvg-id="" tvg-logo="https://i.imgur.com/rLCHYCs.png" group-title="Austrália",ABC Darwin AU
+https://c.mjh.nz/101002810281/
+#EXTINF:-1 tvg-name="ABC Hobart AU" tvg-id="" tvg-logo="https://i.imgur.com/rLCHYCs.png" group-title="Austrália",ABC Hobart AU
+https://c.mjh.nz/101002710271/
+#EXTINF:-1 tvg-name="ABC Melbourne AU" tvg-id="" tvg-logo="https://i.imgur.com/rLCHYCs.png" group-title="Austrália",ABC Melbourne AU
+https://c.mjh.nz/101002310231/
+#EXTINF:-1 tvg-name="ABC Perth AU" tvg-id="" tvg-logo="https://i.imgur.com/rLCHYCs.png" group-title="Austrália",ABC Perth AU
+https://c.mjh.nz/3201026102E1/
+#EXTINF:-1 tvg-name="ABC Sydney AU" tvg-id="" tvg-logo="https://i.imgur.com/rLCHYCs.png" group-title="Austrália",ABC Sydney AU
+https://c.mjh.nz/101002210221/
+#EXTINF:-1 tvg-name="ABC Comedy AU" tvg-id="" tvg-logo="https://i.mjh.nz/.images/tv.abc2.png" group-title="Austrália",ABC Comedy AU
+https://c.mjh.nz/abc2/
+#EXTINF:-1 tvg-name="ABC Kids AU" tvg-id="" tvg-logo="https://i.mjh.nz/.images/tv.abckids.png" group-title="Austrália",ABC Kids  AU
+https://c.mjh.nz/101002210222/
+#EXTINF:-1 tvg-name="ABC Me AU" tvg-id="" tvg-logo="https://i.mjh.nz/.images/tv.101002210224.png" group-title="Austrália",ABC Me AU
+https://c.mjh.nz/101002210224/
+#EXTINF:-1 tvg-name="ABC News  AU" tvg-id="abcnews.com.au" tvg-logo="https://i.imgur.com/rdkvOCh.png" group-title="Austrália",ABC News AU
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+#EXTINF:-1 tvg-name="ABC News AU 2" tvg-id="abcnews.com.au" tvg-logo="https://i.imgur.com/rdkvOCh.png" group-title="Austrália",ABC News AU 2
+https://c.mjh.nz/101002210220/
+#EXTINF:-1 tvg-name="ACCTV" tvg-id="" tvg-logo="https://i.mjh.nz/.images/tv.acctv.png" group-title="Austrália",ACCTV AU
+https://i.mjh.nz/au/Sydney/tv.acctv.m3u8
+#EXTINF:-1 tvg-name="Action Hollywood Movies AU" tvg-id="" tvg-logo="https://i.imgur.com/wnlzC0w.jpg" group-title="Austrália",Action Hollywood Movies AU
+https://lightning-actionhollywood-samsungaustralia.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Ausbiz TV AU" tvg-id="tv.7ausbiz" tvg-logo="https://i.imgur.com/8hYBj3q.png" group-title="Austrália",Ausbiz TV AU
+https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Austrália Channel" tvg-logo="https://i.imgur.com/mdNV8tQ.jpg" group-title="Austrália",Austrália Channel
+https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8
+#EXTINF:-1 tvg-name="Fox Sports News AU" tvg-id="australiachannel.com.au" tvg-logo="https://i.imgur.com/vLdszKt.png" group-title="Austrália",Fox Sports News AU
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+#EXTINF:-1 tvg-name="Bloomberg Austrália" tvg-id="australiachannel.com.au" tvg-logo="https://i.imgur.com/KKFqbHw.png" group-title="Austrália",Bloomberg AU
+https://liveprodapnortheast.akamaized.net/oz1/Channel-OZTVqvs-AWS-tokyo-1/Source-OZTVqvs-440-1_live.m3u8
+#EXTINF:-1 tvg-name="Bounty Plus AU" tvg-id="bountyplus.au" tvg-logo="https://i.imgur.com/Q8mmLAB.png" group-title="Austrália",Bounty Plus AU
+https://bountyfilms-bounty-1-au.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="C31 Melbourne AU" tvg-id="" tvg-logo="https://i.imgur.com/Tl79upK.jpg" group-title="Austrália",C31 Melbourne AU
+https://dcunilive47-lh.akamaihd.net/i/dclive_1@739220/master.m3u8
+#EXTINF:-1 tvg-name="Dry Bar Comedy AU" tvg-id="" tvg-logo="https://i.imgur.com/XDqmN1R.png" group-title="Austrália",Dry Bar Comedy AU
+https://drybar-drybarcomedy-1-au.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DUST AU" tvg-logo="https://i.imgur.com/pXXUmuW.jpg" group-title="Austrália",DUST AU
+https://dust-samsung-uk-au.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EURONEWS AU" tvg-logo="https://i.imgur.com/szYOy8S.jpg" group-title="Austrália",EURONEWS AU
+https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="Expo Channel" tvg-id="expochannel.au" tvg-logo="https://i.imgur.com/RpCWw2I.png" group-title="Austrália",Expo Channel AU
+https://tvsn-i.akamaihd.net/hls/live/261837/expo/expo.m3u8
+#EXTINF:-1 tvg-name="Filmstream  AU" tvg-id="" tvg-logo="https://i.imgur.com/cFbzgED.jpg" group-title="Austrália",Filmstream AU
+https://spi-filmstream-1-au.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="Fuel TV AU" tvg-id="fueltv.au" tvg-logo="https://i.imgur.com/XboGSjX.png" group-title="Austrália",Fuel TV AU
+https://fueltv-fueltv-1-au.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="Gusto TV AU" tvg-id="gustotv.au" tvg-logo="https://i.imgur.com/DZD4jTq.png" group-title="Austrália",Gusto TV AU
+https://gustotv-samsung-au.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="Horse and Country AU" tvg-id="horse.au" tvg-logo="https://i.imgur.com/r5Ip3P0.png" group-title="Austrália",Horse and Country AU
+https://hncfree-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Insight TV AU" tvg-id="insight.au" tvg-logo="https://i.imgur.com/gKNP2Gd.png" group-title="Austrália",Insight TV AU
+https://insighttv-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Introuble TV AU" tvg-id="introuble.au" tvg-logo="https://i.imgur.com/iVw55kC.png" group-title="Austrália",Introuble TV AU
+https://introuble-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Inwild TV" tvg-id="inwild.au" tvg-logo="https://i.imgur.com/VSiG39E.png" group-title="Austrália",Inwild TV AU
+https://inwild-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Inwonder TV" tvg-id="inwonder.au" tvg-logo="https://i.imgur.com/d3LshRd.png" group-title="Austrália",Inwonder TV AU
+https://inwonder-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Juice" tvg-id="juice.au" tvg-logo="https://i.mjh.nz/.images/tv.juice.png" group-title="Austrália",Juice TV AU
+https://i.mjh.nz/nz/tv.juice.m3u8
+#EXTINF:-1 tvg-name="MAVTV Motor Sports AU" tvg-id="matv.au" tvg-logo="https://i.imgur.com/CqAhL91.png" group-title="Austrália",MAVTV Motor Sports AU
+https://mavtv-mavtvglobal-1-au.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="MIS Televizija" tvg-id="mis.au" tvg-logo="https://i.imgur.com/XaXRbxj.png" group-title="Austrália",MIS Televizija AU
+https://5afd52b55ff79.streamlock.net/MISTV/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-name="Outdoor Channel AU" tvg-id="outdoor.au" tvg-logo="https://i.imgur.com/mcUDAhZ.png" group-title="Austrália",Outdoor Channel AU
+https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Pulse TV AU" tvg-id="pulse.au" tvg-logo="https://i.imgur.com/vQ6cBdd.png" group-title="Austrália",Pulse TV AU
+https://lightning-pulse-samsungaustralia.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="questclassical.au" tvg-name="QUEST TV Classical AU" tvg-logo="https://i.imgur.com/B69BHnx.jpg" group-title="Música",QUEST TV Classical AU
+https://qwestclassic-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="questjazz.au" tvg-name="QUEST TV Jazz and Beyond AU" tvg-logo="https://i.imgur.com/bhSrOea.jpg" group-title="Música",QUEST TV Jazz and Beyond AU
+https://qwestjazz-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="questmix.au" tvg-name="QUEST TV MIX" tvg-logo="https://i.imgur.com/B69BHnx.jpg" group-title="Música",QUEST TV MIX AU
+https://qwestmix-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Racing.com" tvg-id="Racing.com.au" tvg-logo="https://i.imgur.com/NAY9DTt.png" group-title="Austrália",Racing.com AU
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/628.m3u8
+#EXTINF:-1 tvg-name="Real Stories AU" tvg-id='realstories.au' tvg-logo="https://i.imgur.com/KOkWP6i.jpg" group-title="Austrália",Real Stories AU
+https://lds-realstories-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Rialto AU" tvg-logo="https://i.imgur.com/RnzWT9C.jpg" group-title="Austrália",Rialto AU
+https://rialto-rialto-samsungaustralia.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Ryan and Friends AU" tvg-logo="https://i.imgur.com/M8VTWFk.jpg" group-title="Austrália",Ryan and Friends AU
+https://ryanandfriends-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Sky News Austrália" tvg-id="australiachannel.com.au" tvg-logo="https://i.imgur.com/ZeC0jE4.png" group-title="Notícias",Sky News Austrália
+https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8
+#EXTINF:-1 tvg-name="Sky News Austrália Extra 1" tvg-id="skynews.com.au" tvg-logo="https://i.imgur.com/1XiQezD.png" group-title="Notícias",Sky News Austrália Extra 1
+https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
+#EXTINF:-1 tvg-name="Sky News Austrália Extra 2" tvg-id="skynews.com.au" tvg-logo="https://i.imgur.com/1XiQezD.png" group-title="Notícias",Sky News Austrália Extra 2
+https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
+#EXTINF:-1 tvg-name="Sky News Austrália Extra 3" tvg-id="skynews.com.au" tvg-logo="https://i.imgur.com/1XiQezD.png" group-title="Notícias",Sky News Austrália Extra 3
+https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
+#EXTINF:-1 tvg-name="Smithsonian Channel AU" tvg-id="Smithsonian.au" tvg-logo="https://i.imgur.com/weNdD7r.png" group-title="Austrália",Smithsonian Channel AU
+https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="snowymountains.au" tvg-name="Snowy Mountains AU" tvg-logo="https://i.imgur.com/vuFx0Zd.jpg" group-title="Austrália",Snowy Mountains AU
+http://c.mjh.nz/snowy-mountains/
+#EXTINF:-1 tvg-id="toon.au" tvg-name="Toon Goggles AU" tvg-logo="https://i.imgur.com/XusVyxA.jpg" group-title="Austrália",Toon Goggles AU
+https://toongoggles-toongoggles-3-au.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="travelxp.au" tvg-name="Travel XP AU" tvg-logo="https://i.imgur.com/6V48LwT.jpg" group-title="Austrália",Travel XP AU
+https://travelxp-travelxp-1-au.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id='tvsn.au' tvg-name="TVSN AU" tvg-logo="https://i.imgur.com/TuHnkxP.png" group-title="Austrália",TVSN AU
+https://tvsn-i.akamaihd.net/hls/live/261837/tvsn/tvsn_750.m3u8
+#EXTINF:-1 tvg-id='venn.au' tvg-name="VENN AU" tvg-logo="https://i.imgur.com/H8ucPJd.jpg" group-title="Austrália",VENN AU
+https://venntv-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id='zoomoo.au' tvg-name="Zoo Moo AU" tvg-logo="https://i.imgur.com/1wYnA2i.jpg" group-title="Austrália",Zoo Moo AU
+https://rockentertainment-zoomoo-1.samsung.wurl.com/manifest/playlist.m3u8
