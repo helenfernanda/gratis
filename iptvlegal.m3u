@@ -118,6 +118,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5eb1b17aa5277e00083
 #EXTINF:-1 tvg-id="FRANCE.24" tvg-name="France 24 | Espanha" tvg-logo="https://imgur.com/Tj0KCYI.png" tvg-shift="0" group-title="Notícias",France 24 | Espanha
 https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
 
+#EXTINF:-1 tvg-id="msnbc.eua" tvg-name="MSNBC News | EUA" tvg-logo="https://img.nbc.com/sites/nbcunbc/files/images/2020/2/14/MSNBC-Logo-FullColor-360x300.png" tvg-shift="0" group-title="Notícias",MSNBC News | EUA
+https://1420543146.rsc.cdn77.org/AoFN6bFn3wlWbA2quHgUgA==,1617302855/LS-ATL-54548-10/index.m3u8
+
 #EXTINF:-1 channel-id="newsmax-tv" tvg-name="NewsmaxTV Canadá" tvg-logo="http://images.pluto.tv/channels/55b179af994403942f3061d6/colorLogoPNG.png" group-title="Notícias",NewsmaxTV Canadá
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/55b179af994403942f3061d6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=e71ee630-6a72-11eb-87d7-6fba7c7cde7d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f89afce4-7736-4da2-a4b3-8b8fb7e10f0e&userId=&serverSideAds=true
 
