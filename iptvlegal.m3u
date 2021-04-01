@@ -1,4 +1,5 @@
-#EXTM3U url-tvg="http://epg.liveiptv.net/epg.xml,https://cld.pt/dl/download/7a36f027-b90a-4be0-ba89-00acb7d82fa7/RHAEPG.xml"
+#EXTM3U url-tvg="http://epg.liveiptv.net/epg.xml,https://cld.pt/dl/download/7a36f027-b90a-4be0-ba89-00acb7d82fa7/RHAEPG.xml,https://i.mjh.nz/PlutoTV/de.xml,https://i.mjh.nz/PlutoTV/fr.xml" x-tvg-url="https://i.mjh.nz/PlutoTV/de.xml,https://i.mjh.nz/PlutoTV/mx.xml,https://i.mjh.nz/PlutoTV/uk.xml,https://i.mjh.nz/PlutoTV/fr.xml" refresh="3600"
+
 
 ########### MÚSICA ###################
 
@@ -11,9 +12,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ffcc38adbc38100073
 
 #EXTINF:-1 tvg-name="Loupe EUA" channel-id="loupe-eua" tvg-logo="http://images.pluto.tv/channels/5f0cb39b4ae1f80007bad585/colorLogoPNG.png" group-title="Música",Loupe EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f0cb39b4ae1f80007bad585/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc98e9f5-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=99bbe6a5-becc-4f1b-8af9-bb8f6923faf9&userId=&serverSideAds=true
-
-#EXTINF:-1 channel-id="classicaeua" tvg-name="Pluto Clássica" tvg-logo="http://images.pluto.tv/channels/5f779951372da90007fd45e8/colorLogoPNG.png" group-title="Music",Pluto Clássica
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f779951372da90007fd45e8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c8a2ca3-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d0c6b789-884d-4edf-bde4-b9619b8ad48c&userId=&serverSideAds=true
 
 #EXTINF:-1 channel-id="classica.eua" tvg-name="Pluto Clássica EUA" tvg-logo="http://images.pluto.tv/channels/5f779951372da90007fd45e8/colorLogoPNG.png" group-title="Música",Pluto Clássica EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f779951372da90007fd45e8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c8a2ca3-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d0c6b789-884d-4edf-bde4-b9619b8ad48c&userId=&serverSideAds=true
@@ -57,10 +55,22 @@ http://evpp.mm.uol.com.br:1935/geob_band/bandnewstv/playlist.m3u8
 #EXTINF:-1 tvg-id="CNNBrasil" tvg-name="CNN Brasil" tvg-logo="https://i.imgur.com/iCsbnC8.png" tvg-shift="0" group-title="Notícias",CNN Brasil
 https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
 
+#EXTINF:-1 tvg-id="CNN.br" tvg-name="CNN Brasil" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhT5DNHv9OvqG72ykMMJ4jMNfl4E4_dx43_pIyOJg=s900-c-k-c0x00ffffff-no-rj" tvg-shift="0" group-title="Notícias",CNN Brasil
+https://raw.githubusercontent.com/helenfernanda/gratis/main/cnnbrasil.m3u8
+
+#EXTINF:-1 tvg-id="CNN.br" tvg-name="CNN Brasil" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhT5DNHv9OvqG72ykMMJ4jMNfl4E4_dx43_pIyOJg=s900-c-k-c0x00ffffff-no-rj" tvg-shift="0" group-title="News",CNN Brasil
+https://www.youtube.com/embed/RZ6Smyox7VU
+
 #EXTINF:-1 tvg-id="Recordnews.br" tvg-name="Record News" tvg-logo="https://imgur.com/HaPL1rx.png" tvg-shift="0" group-title="Notícias",Record News
 https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
 
 ############## NOTÍCIAS 24 HORAS - EXTERIOR ##############
+
+#EXTINF:-1 tvg-id="euronews.pt" tvg-name="Euronews | Português" tvg-logo="https://www.lyon-entreprises.com/wp-content/uploads/69729545-2326513357398035-8127287449383600128-n.png" tvg-shift="0" group-title="Notícias",Euronews | Português
+https://raw.githubusercontent.com/helenfernanda/gratis/main/euronews.m3u8
+
+#EXTINF:-1 tvg-id="euronews.pt" tvg-name="Euronews | Português" tvg-logo="https://www.lyon-entreprises.com/wp-content/uploads/69729545-2326513357398035-8127287449383600128-n.png" tvg-shift="0" group-title="News",Euronews | Português
+https://www.youtube.com/embed/VOw7bts_rGQ
 
 #EXTINF:-1 tvg-name="ABC News AU" tvg-id="abcnews.com.au" tvg-logo="https://i.imgur.com/rdkvOCh.png" group-title="Notícias",ABC News AU
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
@@ -87,9 +97,6 @@ https://liveprodapnortheast.akamaized.net/oz1/Channel-OZTVqvs-AWS-tokyo-1/Source
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/54ff7ba69222cb1c2624c584/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=e71e9810-6a72-11eb-87d7-6fba7c7cde7d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=88d2f005-56d6-4bc8-b659-29c225766336&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-name="Bloomberg EUA" channel-id="bloombergeua" tvg-logo="http://images.pluto.tv/channels/54ff7ba69222cb1c2624c584/colorLogoPNG.png" group-title="Notícias",Bloomberg EUA
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/54ff7ba69222cb1c2624c584/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc920c20-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=18960466-0906-4f17-9b41-5c7734d5cfc2&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-name="Bloomberg EUA" channel-id="bloomberg.eua" tvg-logo="http://images.pluto.tv/channels/54ff7ba69222cb1c2624c584/colorLogoPNG.png" group-title="News",Bloomberg EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/54ff7ba69222cb1c2624c584/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc920c20-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=18960466-0906-4f17-9b41-5c7734d5cfc2&userId=&serverSideAds=true
 
 #EXTINF:-1 channel-id="cnet.ca" tvg-name="c|net Canadá" tvg-logo="http://images.pluto.tv/channels/56283c8769ba54637dea0464/colorLogoPNG.png" group-title="Notícias",c|net Canadá
@@ -150,12 +157,12 @@ https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
 http://static.france24.com/live/F24_EN_LO_HLS/live_ios.m3u8
 
 #EXTINF:-1 tvg-id="MSNBC.us" tvg-name="MSNBC News | EUA" tvg-logo="https://img.nbc.com/sites/nbcunbc/files/images/2020/2/14/MSNBC-Logo-FullColor-360x300.png" tvg-shift="0" group-title="Notícias",MSNBC News | EUA
-https://1420543146.rsc.cdn77.org/AoFN6bFn3wlWbA2quHgUgA==,1617302855/LS-ATL-54548-10/index.m3u8
+https://1420543146.rsc.cdn77.org/s9yTj8J-nNBrS5jhPzgL0g==,1617324454/LS-ATL-54548-10/index.m3u8
 
-#EXTINF:-1 tvg-id="nbc.us" tvg-name="NBC News | EUA" tvg-logo="https://img.nbc.com/sites/nbcunbc/files/images/2020/2/14/MSNBC-Logo-FullColor-360x300.png" tvg-shift="0" group-title="Notícias",NBC News | EUA
+#EXTINF:-1 tvg-id="nbc.us" tvg-name="NBC News | EUA" tvg-logo="http://images.pluto.tv/channels/5df97894467dfa00091c873c/colorLogoPNG.png" tvg-shift="0" group-title="Notícias",NBC News | EUA
 https://nbcnews3.akamaized.net/hls/live/723429/NBCNewsNowa418c506/clear/hdntl=exp=1617395273~acl=%2f*~data=hdntl~hmac=a70d90c3e10896f0d5609c0e32b7f9074c86a74f722d5f10d2c6ea54b9503270/VIDEO_1_4596000.m3u8?hdnts=st=1617308872~exp=1617308992~acl=/hls/live/723429/NBCNewsNowa418c506/clear/*~hmac=5592e3af4881efa195ecbeeeec8027754b095f6eec9dc597fd63fe77bc2a7321
 
-#EXTINF:-1 channel-id="nbcnow.us" tvg-logo="http://images.pluto.tv/channels/5df97894467dfa00091c873c/colorLogoPNG.png" group-title="Notícias;EUA",NBC News NOW EUA
+#EXTINF:-1 tvg-name="NBC News NOW | EUA" channel-id="nbcnow.us" tvg-logo="http://images.pluto.tv/channels/5df97894467dfa00091c873c/colorLogoPNG.png" group-title="Notícias",NBC News NOW | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df97894467dfa00091c873c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc978a64-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1d9b7eb4-936f-4e6f-aa71-cc722d53fff9&userId=&serverSideAds=true
 
 #EXTINF:-1 channel-id="newsmax-tv" tvg-name="NewsmaxTV Canadá" tvg-logo="http://images.pluto.tv/channels/55b179af994403942f3061d6/colorLogoPNG.png" group-title="Notícias",NewsmaxTV Canadá
@@ -386,7 +393,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6df6293a12e100070
 
 ##### PLUTO EUA #####
 
-#EXTINF:-1 channel-id="live-music-replay" tvg-logo="http://images.pluto.tv/channels/5873fc21cad696fb37aa9054/colorLogoPNG.png" group-title="Pluto Estados Unidos",Live Music Replay
+#EXTINF:-1 tvg-name="Live Music Replay | EUA" channel-id="live-music-replay" tvg-logo="http://images.pluto.tv/channels/5873fc21cad696fb37aa9054/colorLogoPNG.png" group-title="Música",Live Music Replay | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5873fc21cad696fb37aa9054/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c759330-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=98079c5b-45f4-4521-b056-6fd814776109&userId=&serverSideAds=true
 
 #EXTINF:-1 channel-id="cmt-equal-play" tvg-logo="http://images.pluto.tv/channels/5f68f53eb1e5800007390bf8/colorLogoPNG.png" group-title="Pluto Estados Unidos",CMT Equal Play
