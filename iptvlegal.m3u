@@ -1,8 +1,6 @@
 #EXTM3U url-tvg="http://epg.liveiptv.net/epg.xml,https://cld.pt/dl/download/7a36f027-b90a-4be0-ba89-00acb7d82fa7/RHAEPG.xml,https://i.mjh.nz/PlutoTV/de.xml,https://i.mjh.nz/PlutoTV/fr.xml" x-tvg-url="https://i.mjh.nz/PlutoTV/de.xml,https://i.mjh.nz/PlutoTV/mx.xml,https://i.mjh.nz/PlutoTV/uk.xml,https://i.mjh.nz/PlutoTV/fr.xml" refresh="3600"
 
-
 ########### MÚSICA ###################
-
 
 #EXTINF:-1 tvg-name="Loupe Brasil" channel-id="loupe-br" tvg-logo="http://images.pluto.tv/channels/600b248969c6580007e91a2d/colorLogoPNG.png" group-title="Música",Loupe Brasil
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/600b248969c6580007e91a2d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b24c9db0-8dd8-11eb-83c3-1ff76e6e06e9&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7a6e25a5-cd97-4493-beb5-5001da599dd1&userId=&serverSideAds=true
@@ -52,13 +50,13 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fc31252d35decbc
 #EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News" tvg-logo="https://imgur.com/WwSAtkh.png" group-title="Notícias",Band News
 http://evpp.mm.uol.com.br:1935/geob_band/bandnewstv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CNNBrasil" tvg-name="CNN Brasil" tvg-logo="https://i.imgur.com/iCsbnC8.png" tvg-shift="0" group-title="Notícias",CNN Brasil
+#EXTINF:-1 tvg-id="CNNBrasil" tvg-name="CNN Brasil" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhT5DNHv9OvqG72ykMMJ4jMNfl4E4_dx43_pIyOJg=s900-c-k-c0x00ffffff-no-rj" tvg-shift="0" group-title="Notícias",CNN Brasil
 https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
 
 #EXTINF:-1 tvg-id="CNN.br" tvg-name="CNN Brasil" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhT5DNHv9OvqG72ykMMJ4jMNfl4E4_dx43_pIyOJg=s900-c-k-c0x00ffffff-no-rj" tvg-shift="0" group-title="Notícias",CNN Brasil
 https://raw.githubusercontent.com/helenfernanda/gratis/main/cnnbrasil.m3u8
 
-#EXTINF:-1 tvg-id="CNN.br" tvg-name="CNN Brasil" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhT5DNHv9OvqG72ykMMJ4jMNfl4E4_dx43_pIyOJg=s900-c-k-c0x00ffffff-no-rj" tvg-shift="0" group-title="News",CNN Brasil
+#EXTINF:-1 tvg-id="CNNyt.br" tvg-name="CNN Brasil" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhT5DNHv9OvqG72ykMMJ4jMNfl4E4_dx43_pIyOJg=s900-c-k-c0x00ffffff-no-rj" tvg-shift="0" group-title="News",CNN Brasil
 https://www.youtube.com/embed/RZ6Smyox7VU
 
 #EXTINF:-1 tvg-id="Recordnews.br" tvg-name="Record News" tvg-logo="https://imgur.com/HaPL1rx.png" tvg-shift="0" group-title="Notícias",Record News
@@ -69,7 +67,7 @@ https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
 #EXTINF:-1 tvg-id="euronews.pt" tvg-name="Euronews | Português" tvg-logo="https://www.lyon-entreprises.com/wp-content/uploads/69729545-2326513357398035-8127287449383600128-n.png" tvg-shift="0" group-title="Notícias",Euronews | Português
 https://raw.githubusercontent.com/helenfernanda/gratis/main/euronews.m3u8
 
-#EXTINF:-1 tvg-id="euronews.pt" tvg-name="Euronews | Português" tvg-logo="https://www.lyon-entreprises.com/wp-content/uploads/69729545-2326513357398035-8127287449383600128-n.png" tvg-shift="0" group-title="News",Euronews | Português
+#EXTINF:-1 tvg-id="euronewsyt.pt" tvg-name="Euronews | Português" tvg-logo="https://www.lyon-entreprises.com/wp-content/uploads/69729545-2326513357398035-8127287449383600128-n.png" tvg-shift="0" group-title="News",Euronews | Português
 https://www.youtube.com/embed/VOw7bts_rGQ
 
 #EXTINF:-1 tvg-name="ABC News AU" tvg-id="abcnews.com.au" tvg-logo="https://i.imgur.com/rdkvOCh.png" group-title="Notícias",ABC News AU
