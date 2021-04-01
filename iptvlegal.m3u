@@ -590,9 +590,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bb3fea0f711fd76340
 #EXTINF:-1 channel-id="qvc-1" tvg-logo="http://images.pluto.tv/channels/5bdcdf1e851dd5632e2c11d1/colorLogoPNG.png" group-title="Pluto Estados Unidos",QVC
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bdcdf1e851dd5632e2c11d1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc94cb42-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e3f7c8f3-9b7e-4411-a0c3-0df9a401045b&userId=&serverSideAds=true
 
-#EXTINF:-1 channel-id="weather-nation" tvg-logo="http://images.pluto.tv/channels/5bdce04659ee03633e758130/colorLogoPNG.png" group-title="Notícias",WeatherNation EUA
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bdce04659ee03633e758130/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc94cb43-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=28d59b7e-e3fd-4337-838d-dc0e7091a5de&userId=&serverSideAds=true
-
 #EXTINF:-1 channel-id="dog-the-bounty-hunter" tvg-logo="http://images.pluto.tv/channels/5bee1a7359ee03633e780238/colorLogoPNG.png" group-title="Pluto Estados Unidos",Dog the Bounty Hunter
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bee1a7359ee03633e780238/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc94cb44-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=563f7fd2-1dce-40e0-9e0d-af0d6ca3b068&userId=&serverSideAds=true
 
@@ -713,7 +710,10 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fb6c84dd37df3b4
 #EXTINF:-1 channel-id="choppertown" tvg-logo="http://images.pluto.tv/channels/5d2646a1970eb273b28db077/colorLogoPNG.png" group-title="Pluto Estados Unidos",Choppertown
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d2646a1970eb273b28db077/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc9603c3-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=80874d35-a041-47ae-a0dc-026889a834b3&userId=&serverSideAds=true
 
-#EXTINF:-1 channel-id="weathernation-2" tvg-logo="http://images.pluto.tv/channels/5d2cb7ac552e3773bc48982e/colorLogoPNG.png" group-title="Notícias",WeatherNation 2 EUA
+#EXTINF:-1 channel-id="weather-nation" tvg-name="WeatherNation EUA" tvg-logo="http://images.pluto.tv/channels/5bdce04659ee03633e758130/colorLogoPNG.png" group-title="Notícias",WeatherNation EUA
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bdce04659ee03633e758130/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc94cb43-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=28d59b7e-e3fd-4337-838d-dc0e7091a5de&userId=&serverSideAds=true
+
+#EXTINF:-1 channel-id="weathernation-2" tvg-name="WeatherNation 2 EUA" tvg-logo="http://images.pluto.tv/channels/5d2cb7ac552e3773bc48982e/colorLogoPNG.png" group-title="Notícias",WeatherNation 2 EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d2cb7ac552e3773bc48982e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc9603c4-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=25668c6a-7ace-492d-885e-07daa2edbb8e&userId=&serverSideAds=true
 
 #EXTINF:-1 channel-id="dallas-cowboys-cheerleaders" tvg-logo="http://images.pluto.tv/channels/5d40855b3fb0855028c99b6f/colorLogoPNG.png" group-title="Pluto Estados Unidos",Dallas Cowboy Cheerleaders
