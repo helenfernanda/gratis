@@ -58,6 +58,9 @@ https://c.mjh.nz/101002210220/
 #EXTINF:-1 tvg-name="Al Jazeera | English" tvg-id="aljazeeraingles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Al-jazeera-logo.jpg" group-title="Notícias",Al Jazeera | English
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 
+#EXTINF:-1 tvg-name="Ausbiz Austrália" tvg-id="tv.7ausbiz" tvg-logo="https://i.imgur.com/8hYBj3q.png" group-title="Notícias",Ausbiz Austrália
+https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Austrália Channel" tvg-logo="https://i.imgur.com/mdNV8tQ.jpg" group-title="Notícias",Austrália Channel
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8
 
@@ -115,6 +118,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5eb1b05ea168cc00076
 #EXTINF:-1 channel-id="cbsn-pittsburgh" tvg-name="CBSN Pittsburgh" tvg-logo="http://images.pluto.tv/channels/5eb1b17aa5277e00083f6521/colorLogoPNG.png" group-title="Notícias",CBSN Pittsburgh
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5eb1b17aa5277e00083f6521/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc9874c4-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=cc6d79c0-8930-4d03-9cd1-d19d054ec65e&userId=&serverSideAds=true
 
+#EXTINF:-1 channel-id="cnn" tvg-name="CNN EUA" tvg-logo="http://images.pluto.tv/channels/5421f71da6af422839419cb3/colorLogoPNG.png" group-title="Notícias",CNN EUA
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af422839419cb3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc91e510-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=03988411-6463-422e-81c6-ec0873b4bd7a&userId=&serverSideAds=true
+
 #EXTINF:-1 tvg-id="FRANCE24.es" tvg-name="France 24 | Francês" tvg-logo="https://imgur.com/Tj0KCYI.png" tvg-shift="0" group-title="Notícias",France 24 | Francês
 https://static.france24.com/live/F24_FR_LO_HLS/live_web.m3u8
 
@@ -141,6 +147,24 @@ https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_18
 
 #EXTINF:-1 channel-id="sky-news-2" tvg-name="Sky News 2 EUA" tvg-logo="http://images.pluto.tv/channels/5cf5a3ac163e69f04c5b11b1/colorLogoPNG.png" group-title="Notícias",Sky News 2 EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf5a3ac163e69f04c5b11b1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc958e95-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ab85c55d-2986-4e99-86f1-703e0f49a895&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-name="Sky News Austrália" tvg-id="australiachannel.com.au" tvg-logo="https://i.imgur.com/ZeC0jE4.png" group-title="Notícias",Sky News Austrália
+https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8
+
+#EXTINF:-1 tvg-name="Sky News Austrália Extra 1" tvg-id="skynews.au1" tvg-logo="https://i.imgur.com/1XiQezD.png" group-title="Notícias",Sky News Austrália Extra 1
+https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
+
+#EXTINF:-1 tvg-name="Sky News Austrália Extra 2" tvg-id="skynews.au2" tvg-logo="https://i.imgur.com/1XiQezD.png" group-title="Notícias",Sky News Austrália Extra 2
+https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
+
+#EXTINF:-1 tvg-name="Sky News Austrália Extra 3" tvg-id="skynews.au3" tvg-logo="https://i.imgur.com/1XiQezD.png" group-title="Notícias",Sky News Austrália Extra 3
+https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
+
+#EXTINF:-1 channel-id="weather-nation" tvg-name="WeatherNation EUA" tvg-logo="http://images.pluto.tv/channels/5bdce04659ee03633e758130/colorLogoPNG.png" group-title="Notícias",WeatherNation EUA
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bdce04659ee03633e758130/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc94cb43-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=28d59b7e-e3fd-4337-838d-dc0e7091a5de&userId=&serverSideAds=true
+
+#EXTINF:-1 channel-id="weathernation-2" tvg-name="WeatherNation 2 EUA" tvg-logo="http://images.pluto.tv/channels/5d2cb7ac552e3773bc48982e/colorLogoPNG.png" group-title="Notícias",WeatherNation 2 EUA
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d2cb7ac552e3773bc48982e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc9603c4-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=25668c6a-7ace-492d-885e-07daa2edbb8e&userId=&serverSideAds=true
 
 ############################### BRASIL TV ABERTA #####################################
 
@@ -366,9 +390,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5331d5fb753499095a0
 
 #EXTINF:-1 channel-id="glory-kickboxing" tvg-logo="http://images.pluto.tv/channels/5417a212ff9fba68282fbf5e/colorLogoPNG.png" group-title="Pluto Estados Unidos",GLORY Kickboxing
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc91be02-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0ac43c86-e002-46f2-a208-84224f6e5938&userId=&serverSideAds=true
-
-#EXTINF:-1 channel-id="cnn" tvg-logo="http://images.pluto.tv/channels/5421f71da6af422839419cb3/colorLogoPNG.png" group-title="Notícias",CNN
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af422839419cb3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc91e510-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=03988411-6463-422e-81c6-ec0873b4bd7a&userId=&serverSideAds=true
 
 #EXTINF:-1 channel-id="mst3k" tvg-logo="http://images.pluto.tv/channels/545943f1c9f133a519bbac92/colorLogoPNG.png" group-title="Pluto Estados Unidos",MST3K
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/545943f1c9f133a519bbac92/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc91e511-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b9072853-c69f-453f-97a2-1577b05441c5&userId=&serverSideAds=true
@@ -709,12 +730,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fb6c84dd37df3b4
 
 #EXTINF:-1 channel-id="choppertown" tvg-logo="http://images.pluto.tv/channels/5d2646a1970eb273b28db077/colorLogoPNG.png" group-title="Pluto Estados Unidos",Choppertown
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d2646a1970eb273b28db077/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc9603c3-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=80874d35-a041-47ae-a0dc-026889a834b3&userId=&serverSideAds=true
-
-#EXTINF:-1 channel-id="weather-nation" tvg-name="WeatherNation EUA" tvg-logo="http://images.pluto.tv/channels/5bdce04659ee03633e758130/colorLogoPNG.png" group-title="Notícias",WeatherNation EUA
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bdce04659ee03633e758130/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc94cb43-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=28d59b7e-e3fd-4337-838d-dc0e7091a5de&userId=&serverSideAds=true
-
-#EXTINF:-1 channel-id="weathernation-2" tvg-name="WeatherNation 2 EUA" tvg-logo="http://images.pluto.tv/channels/5d2cb7ac552e3773bc48982e/colorLogoPNG.png" group-title="Notícias",WeatherNation 2 EUA
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d2cb7ac552e3773bc48982e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc9603c4-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=25668c6a-7ace-492d-885e-07daa2edbb8e&userId=&serverSideAds=true
 
 #EXTINF:-1 channel-id="dallas-cowboys-cheerleaders" tvg-logo="http://images.pluto.tv/channels/5d40855b3fb0855028c99b6f/colorLogoPNG.png" group-title="Pluto Estados Unidos",Dallas Cowboy Cheerleaders
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d40855b3fb0855028c99b6f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc962ad1-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7390b981-2c4b-416b-bcd3-d5d63a4d3bf2&userId=&serverSideAds=true
@@ -2412,10 +2427,9 @@ https://c.mjh.nz/101002210224/
 
 #EXTINF:-1 tvg-name="ACCTV" tvg-id="" tvg-logo="https://i.mjh.nz/.images/tv.acctv.png" group-title="Austrália",ACCTV AU
 https://i.mjh.nz/au/Sydney/tv.acctv.m3u8
+
 #EXTINF:-1 tvg-name="Action Hollywood Movies AU" tvg-id="" tvg-logo="https://i.imgur.com/wnlzC0w.jpg" group-title="Austrália",Action Hollywood Movies AU
 https://lightning-actionhollywood-samsungaustralia.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Ausbiz Austrália" tvg-id="tv.7ausbiz" tvg-logo="https://i.imgur.com/8hYBj3q.png" group-title="Notícias",Ausbiz Austrália
-https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8
 
 #EXTINF:-1 tvg-name="Bounty Plus AU" tvg-id="bountyplus.au" tvg-logo="https://i.imgur.com/Q8mmLAB.png" group-title="Austrália",Bounty Plus AU
 https://bountyfilms-bounty-1-au.samsung.wurl.com/manifest/playlist.m3u8
@@ -2473,14 +2487,7 @@ https://lds-realstories-samsungau.amagi.tv/playlist.m3u8
 https://rialto-rialto-samsungaustralia.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Ryan and Friends AU" tvg-logo="https://i.imgur.com/M8VTWFk.jpg" group-title="Austrália",Ryan and Friends AU
 https://ryanandfriends-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Sky News Austrália" tvg-id="australiachannel.com.au" tvg-logo="https://i.imgur.com/ZeC0jE4.png" group-title="Notícias",Sky News Austrália
-https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8
-#EXTINF:-1 tvg-name="Sky News Austrália Extra 1" tvg-id="skynews.com.au" tvg-logo="https://i.imgur.com/1XiQezD.png" group-title="Notícias",Sky News Austrália Extra 1
-https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
-#EXTINF:-1 tvg-name="Sky News Austrália Extra 2" tvg-id="skynews.com.au" tvg-logo="https://i.imgur.com/1XiQezD.png" group-title="Notícias",Sky News Austrália Extra 2
-https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
-#EXTINF:-1 tvg-name="Sky News Austrália Extra 3" tvg-id="skynews.com.au" tvg-logo="https://i.imgur.com/1XiQezD.png" group-title="Notícias",Sky News Austrália Extra 3
-https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
+
 #EXTINF:-1 tvg-name="Smithsonian Channel AU" tvg-id="Smithsonian.au" tvg-logo="https://i.imgur.com/weNdD7r.png" group-title="Austrália",Smithsonian Channel AU
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="snowymountains.au" tvg-name="Snowy Mountains AU" tvg-logo="https://i.imgur.com/vuFx0Zd.jpg" group-title="Austrália",Snowy Mountains AU
