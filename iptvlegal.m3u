@@ -115,8 +115,14 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5eb1b05ea168cc00076
 #EXTINF:-1 channel-id="cbsn-pittsburgh" tvg-name="CBSN Pittsburgh" tvg-logo="http://images.pluto.tv/channels/5eb1b17aa5277e00083f6521/colorLogoPNG.png" group-title="Notícias",CBSN Pittsburgh
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5eb1b17aa5277e00083f6521/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc9874c4-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=cc6d79c0-8930-4d03-9cd1-d19d054ec65e&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="FRANCE.24" tvg-name="France 24 | Espanha" tvg-logo="https://imgur.com/Tj0KCYI.png" tvg-shift="0" group-title="Notícias",France 24 | Espanha
+#EXTINF:-1 tvg-id="FRANCE24.es" tvg-name="France 24 | Francês" tvg-logo="https://imgur.com/Tj0KCYI.png" tvg-shift="0" group-title="Notícias",France 24 | Francês
+https://static.france24.com/live/F24_FR_LO_HLS/live_web.m3u8
+
+#EXTINF:-1 tvg-id="FRANCE24.es" tvg-name="France 24 | Espanhol" tvg-logo="https://imgur.com/Tj0KCYI.png" tvg-shift="0" group-title="Notícias",France 24 | Espanhol
 https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
+
+#EXTINF:-1 tvg-id="FRANCE24.en" tvg-name="France 24 | Inglês" tvg-logo="https://imgur.com/Tj0KCYI.png" tvg-shift="0" group-title="Notícias",France 24 | Inglês
+http://static.france24.com/live/F24_EN_LO_HLS/live_ios.m3u8
 
 #EXTINF:-1 tvg-id="msnbc.eua" tvg-name="MSNBC News | EUA" tvg-logo="https://img.nbc.com/sites/nbcunbc/files/images/2020/2/14/MSNBC-Logo-FullColor-360x300.png" tvg-shift="0" group-title="Notícias",MSNBC News | EUA
 https://1420543146.rsc.cdn77.org/AoFN6bFn3wlWbA2quHgUgA==,1617302855/LS-ATL-54548-10/index.m3u8
