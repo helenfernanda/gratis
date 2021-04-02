@@ -208,6 +208,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5268abcd0ce20a84720
 #EXTINF:-1 group-title="Notícias" tvg-id="RaiNews24" tvg-name="Rai News 24 Itália" tvg-logo="https://m3upt.com/logos/Rai-News-24.png",Rai News 24 Itália
 https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_1800/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="redbull" tvg-name="Redbull TV" tvg-logo="https://img2.gratispng.com/20180824/fph/kisspng-red-bull-tv-television-film-streaming-media-red-bull-tv-primavera-sound-5b805de6d852c0.5594931315351393028861.jpg" tvg-shift="0" group-title="Notícias",Redbull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+
 #EXTINF:-1 channel-id="sky-news-2" tvg-name="Sky News 2 EUA" tvg-logo="http://images.pluto.tv/channels/5cf5a3ac163e69f04c5b11b1/colorLogoPNG.png" group-title="Notícias",Sky News 2 EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf5a3ac163e69f04c5b11b1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc958e95-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ab85c55d-2986-4e99-86f1-703e0f49a895&userId=&serverSideAds=true
 
@@ -261,11 +264,13 @@ https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/playlist.m3u8
 #EXTINF:-1 tvg-id="Loading.br" tvg-name="Loading TV" tvg-logo="https://imgur.com/DAyMXAx.png" tvg-shift="0" group-title="Brasil - TV aberta",Loading TV
 https://aws.gcp.br.cdn.booyah.live/hls/151073/master_34850987.m3u8
 
-#EXTINF:-1 tvg-id="Multishow.br" tvg-name="Multishow" tvg-logo="https://logodownload.org/wp-content/uploads/2017/03/multishow-logo-8.png" tvg-shift="0" group-title="Brasil - TV aberta",Multishow http://live.video.globo.com/h/1402196702233012345678915746222339876543210pJEKZjeaTYyxXDM3Kaz8QQ/k/app/a/A/u/anyone/d/s/hls-msw24ha/hls-msw24ha_1417/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Multishow.br" tvg-name="Multishow HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/03/multishow-logo-8.png" tvg-shift="0" group-title="Brasil - TV aberta",Multishow HD http://live.video.globo.com/h/1402196702233012345678915746222339876543210pJEKZjeaTYyxXDM3Kaz8QQ/k/app/a/A/u/anyone/d/s/hls-msw24ha/hls-msw24ha_4783/playlist.m3u8
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="Multishow" tvg-logo="https://logodownload.org/wp-content/uploads/2017/03/multishow-logo-8.png" tvg-shift="0" group-title="Brasil - TV aberta",Multishow
+http://live.video.globo.com/h/1402196702233012345678915746222339876543210pJEKZjeaTYyxXDM3Kaz8QQ/k/app/a/A/u/anyone/d/s/hls-msw24ha/hls-msw24ha_1417/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Multishow.br" tvg-name="Multishow HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/03/multishow-logo-8.png" tvg-shift="0" group-title="Brasil - TV aberta",Multishow HD
+http://live.video.globo.com/h/1402196702233012345678915746222339876543210pJEKZjeaTYyxXDM3Kaz8QQ/k/app/a/A/u/anyone/d/s/hls-msw24ha/hls-msw24ha_4783/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="Multishow HD 2" tvg-logo="https://logodownload.org/wp-content/uploads/2017/03/multishow-logo-8.png" tvg-shift="0" group-title="Brasil - TV aberta",Multishow HD 2
 https://live.video.globo.com/h/1402196702233012345678915746222339876543210pJEKZjeaTYyxXDM3Kaz8QQ/k/app/a/A/u/anyone/d/s/hls-msw24ha/hls-msw24ha_2126/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-name="Record" tvg-logo="https://imgur.com/ZrZ0Tg1.png" tvg-shift="0" group-title="Brasil - TV aberta",Record
