@@ -1,0 +1,94 @@
+#EXTM3U refresh="3600" url-tvg="http://epg.liveiptv.net/epg.xml,https://cld.pt/dl/download/7a36f027-b90a-4be0-ba89-00acb7d82fa7/RHAEPG.xml,https://i.mjh.nz/PlutoTV/de.xml,https://i.mjh.nz/PlutoTV/fr.xml" x-tvg-url="https://i.mjh.nz/PlutoTV/de.xml,https://i.mjh.nz/PlutoTV/mx.xml,https://i.mjh.nz/PlutoTV/uk.xml,https://i.mjh.nz/PlutoTV/fr.xml"
+
+
+########### MÚSICA ###################
+
+#EXTINF:-1 tvg-id="5f984784ccb4de0007dfad74" group-title="Música" tvg-name="Clubbing TV Alemanha" tvg-logo="https://images.pluto.tv/channels/5f984784ccb4de0007dfad74/colorLogoPNG.png",Clubbing TV Alemanha
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f984784ccb4de0007dfad74/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-name="Clubbing TV Espanha" channel-id="clubbing-tv-es" tvg-logo="http://images.pluto.tv/channels/600ad4ad6537680007be2ea6/colorLogoPNG.png" group-title="Música",Clubbing TV Espanha
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/600ad4ad6537680007be2ea6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a9a8e551-8b68-11eb-b9cd-1bc319230674&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=70bc0c2a-93a5-4713-b658-cad49ec55f38&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="" tvg-name="Clubbing TV UK" tvg-id="600ad1a372e57c0007dbee5a" tvg-logo="https://images.pluto.tv/channels/600ad1a372e57c0007dbee5a/colorLogoPNG.png" group-title="Música",Clubbing TV UK
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/600ad1a372e57c0007dbee5a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-name="Juice TV Austrália" tvg-id="juice.au" tvg-logo="https://i.mjh.nz/.images/tv.juice.png" group-title="Música",Juice TV AU
+https://i.mjh.nz/nz/tv.juice.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Música" tvg-name="Live in Concert | Alemanha" tvg-logo="https://images.pluto.tv/channels/603d01a55123740007f8375a/colorLogoPNG.png",Live in Concert | Alemanha
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/603d01a55123740007f8375a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-name="Live Music Replay | EUA" channel-id="live-music-replay" tvg-logo="http://images.pluto.tv/channels/5873fc21cad696fb37aa9054/colorLogoPNG.png" group-title="Música",Live Music Replay | EUA
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5873fc21cad696fb37aa9054/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c759330-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=98079c5b-45f4-4521-b056-6fd814776109&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/62CjWTa.jpg" group-title="Música" tvg-name="Loop 80s | EUA",Loop 80s | EUA
+https://55e014b3437040d08777729c863a2097.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Loop80s/playlist.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/62CjWTa.jpg" group-title="Música" tvg-name="Loop 90s | EUA",Loop 90s | EUA
+https://6eb959e10c2a4477a5b14100220c3c5f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Loop90s/playlist.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/62CjWTa.jpg" group-title="Música" tvg-name="Loop Country | EUA",Loop Country | EUA
+https://053155d1274848ed85106dbf20adc283.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_LoopCountry/playlist.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/62CjWTa.jpg" group-title="Música" tvg-name="Loop Hip-Hop | EUA",Loop Hip-Hop | EUA
+https://5580b04771d94e5eb245830c5975eb77.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_LoopHipHop/playlist.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/62CjWTa.jpg" group-title="Música" tvg-name="Loop Hottest | EUA",Loop Hottest | EUA
+https://a0da9e6a83bc4a739ceb39f81766fce0.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_LoopHottest/playlist.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/62CjWTa.jpg" group-title="Música" tvg-name="Loop Party | EUA",Loop Party | EUA
+https://aa25f9002c724666a6e1e9402e78f94f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_LoopParty/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Loupe Brasil" channel-id="loupe-br" tvg-logo="http://images.pluto.tv/channels/600b248969c6580007e91a2d/colorLogoPNG.png" group-title="Música",Loupe Brasil
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/600b248969c6580007e91a2d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b24c9db0-8dd8-11eb-83c3-1ff76e6e06e9&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7a6e25a5-cd97-4493-beb5-5001da599dd1&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-name="Loupe Argentina" channel-id="loupe-ar" tvg-logo="http://images.pluto.tv/channels/5ffcc38adbc38100073511f2/colorLogoPNG.png" group-title="Música",Loupe Argentina
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ffcc38adbc38100073511f2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=98a3fd62-8e3f-11eb-9619-637dcb8e0f08&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a35b3c8a-7da4-45c8-99f2-06811ca4c06d&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-name="Loupe EUA" channel-id="loupe-eua" tvg-logo="http://images.pluto.tv/channels/5f0cb39b4ae1f80007bad585/colorLogoPNG.png" group-title="Música",Loupe EUA
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f0cb39b4ae1f80007bad585/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc98e9f5-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=99bbe6a5-becc-4f1b-8af9-bb8f6923faf9&userId=&serverSideAds=true
+
+#EXTINF:-1 channel-id="mtv-biggest-pop" tvg-name="MTV Biggest Pop | EUA" group-title="Música" tvg-logo="http://images.pluto.tv/channels/5d14fd1a252d35decbc4080c/colorLogoPNG.png",MTV Biggest Pop | EUA
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fd1a252d35decbc4080c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7e6cd0-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=5aadef90-1bb2-47f4-9f66-7ff231f9b031&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-name="MTV Yo! EUA" channel-id="yo-mtv" tvg-logo="http://images.pluto.tv/channels/5d14fc31252d35decbc4080b/colorLogoPNG.png" group-title="Música",MTV Yo! EUA
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fc31252d35decbc4080b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7e45c2-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dfeb1d80-be28-4be3-b669-23fa79a8aec7&userId=&serverSideAds=true
+
+#EXTINF:-1 channel-id="classica.eua" tvg-name="Pluto Clássica EUA" tvg-logo="http://images.pluto.tv/channels/5f779951372da90007fd45e8/colorLogoPNG.png" group-title="Música",Pluto Clássica EUA
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f779951372da90007fd45e8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c8a2ca3-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d0c6b789-884d-4edf-bde4-b9619b8ad48c&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="questclassical.au" tvg-name="Quest TV Classical Austrália" tvg-logo="https://i.imgur.com/B69BHnx.jpg" group-title="Música",Quest TV Classical Austrália
+https://qwestclassic-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="questjazz.au" tvg-name="Quest TV Jazz and Beyond Austrália" tvg-logo="https://i.imgur.com/bhSrOea.jpg" group-title="Música",Quest TV Jazz and Beyond Austrália
+https://qwestjazz-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="questmix.au" tvg-name="Quest TV Mix Austrália" tvg-logo="https://i.imgur.com/B69BHnx.jpg" group-title="Música",Quest TV Mix Austrália
+https://qwestmix-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 channel-id="vevo-reggaeton-and-trap" tvg-name="Vevo Reggaetón & Trap" tvg-logo="http://images.pluto.tv/channels/5f32f397795b750007706448/colorLogoPNG.png" group-title="Música",Vevo Reggaetón & Trap
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32f397795b750007706448/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c868322-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=fc027a03-e512-45db-98af-879f6889407f&userId=&serverSideAds=true
+
+#EXTINF:-1 channel-id="vevo-country" tvg-name="Vevo Country" tvg-logo="http://images.pluto.tv/channels/5da0d75e84830900098a1ea0/colorLogoPNG.png" group-title="Música",Vevo Country
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0d75e84830900098a1ea0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c808fb2-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a7f46d76-39c5-4794-883c-4d22a9c41fde&userId=&serverSideAds=true
+
+#EXTINF:-1 channel-id="vevo-randb" tvg-name="Vevo R&B" tvg-logo="http://images.pluto.tv/channels/5da0d83f66c9700009b96d0e/colorLogoPNG.png" group-title="Música",Vevo R&B
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c80b6c0-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6bc0815e-fe9a-464b-9d20-af824e8dcdc5&userId=&serverSideAds=true
+
+#EXTINF:-1 channel-id="vevo-pop" tvg-name="Vevo Pop" tvg-logo="http://images.pluto.tv/channels/5d93b635b43dd1a399b39eee/colorLogoPNG.png" group-title="Música",Vevo Pop
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c8068a2-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f01ebfed-7ad5-4d03-b1ca-023870fcb436&userId=&serverSideAds=true
+
+#EXTINF:-1 channel-id="vevo-70s" tvg-name="Vevo 70s" tvg-logo="http://images.pluto.tv/channels/5f32f26bcd8aea00071240e5/colorLogoPNG.png" group-title="Música",Vevo 70s
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c868321-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1d158533-4c2c-4f85-8afd-5c0cbcdcb90a&userId=&serverSideAds=true
+
+#EXTINF:-1 channel-id="vevo-80s" tvg-name="Vevo 80s" tvg-logo="http://images.pluto.tv/channels/5fd7b8bf927e090007685853/colorLogoPNG.png" group-title="Música",Vevo 80s
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fd7b8bf927e090007685853/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c8aa1d1-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=43501a2e-2968-4f0a-9974-5f5683f1f0db&userId=&serverSideAds=true
+
+#EXTINF:-1 channel-id="vevo-90s" tvg-name="Vevo 90s" tvg-logo="http://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/colorLogoPNG.png" group-title="Música",Vevo 90s
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c8aa1d2-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=350f636b-2a16-48a8-9dfd-208857d4c1a7&userId=&serverSideAds=true
+
+#EXTINF:-1 channel-id="vevo-2k" tvg-name="Vevo 2K" tvg-logo="http://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/colorLogoPNG.png" group-title="Música",Vevo 2K
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c8b6520-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=085b69d0-8c20-45f3-b57d-7845972596d9&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="101700" tvg-name="Rewind TV Chile" tvg-logo="https://imgur.com/fssx3Gh.png" group-title="Música",Rewind TV Chile
+https://tls.cdnz.cl/rewindtv/rewindtv/playlist.m3u8
