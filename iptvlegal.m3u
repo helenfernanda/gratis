@@ -65,6 +65,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fc31252d35decbc
 #EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News" tvg-logo="https://imgur.com/WwSAtkh.png" group-title="Notícias",Band News
 http://evpp.mm.uol.com.br:1935/geob_band/bandnewstv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Cbn.br" tvg-name="CBN" tvg-shift="0" tvg-logo="https://m.cbn.globoradio.globo.com/estaticos/img/CBN_1024x1024.png" group-title="Notícias",CBN
+https://live-fe-as-01-13.video.globo.com/d/m/nl/s/hls-cbnsp24ha/hls-cbnsp24ha_2359/playlist.m3u8
+
 #EXTINF:-1 tvg-id="CNNBrasil" tvg-name="CNN Brasil" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhT5DNHv9OvqG72ykMMJ4jMNfl4E4_dx43_pIyOJg=s900-c-k-c0x00ffffff-no-rj" tvg-shift="0" group-title="Notícias",CNN Brasil
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1617342532/ei/5FtmYLGxN8WdwQTagZXQBA/ip/2804:d59:800b:fa00:11a3:e3e1:c13:486c/id/PJE2lbF9SSU.1/itag/94/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D135/hls_chunk_host/r2---sn-cg51pauxax-btos.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/4410/mh/yM/mm/44/mn/sn-cg51pauxax-btos/ms/lva/mv/m/mvi/2/pl/40/dover/11/keepalive/yes/fexp/24001373,24007246/mt/1617320425/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRQIhAOXKu-g9wx0GEMtsf7F3OFWeLKhRz9NubxIJrFBZ3Lh5AiBBZfwQHlcoFK23iDe5nKle_mjxhFuonKq4apMhM-UT9g%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRgIhALB05XRj1QKi3WGtPSAGwTCNyF-02hGkZGly3qMGQhgwAiEArPGRgliUO3Y7w4G2ytHvCRGRHKjvwQeX5qnwLgM6ovI%3D/playlist/index.m3u8
 
@@ -175,8 +178,8 @@ https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
 #EXTINF:-1 tvg-id="FRANCE24.en" tvg-name="France 24 | Inglês" tvg-logo="https://imgur.com/Tj0KCYI.png" tvg-shift="0" group-title="Notícias",France 24 | Inglês
 http://static.france24.com/live/F24_EN_LO_HLS/live_ios.m3u8
 
-#EXTINF:-1 tvg-id="MSNBC.us" tvg-name="MSNBC News | EUA" tvg-logo="https://img.nbc.com/sites/nbcunbc/files/images/2020/2/14/MSNBC-Logo-FullColor-360x300.png" tvg-shift="0" group-title="Notícias",MSNBC News | EUA
-https://1420543146.rsc.cdn77.org/s9yTj8J-nNBrS5jhPzgL0g==,1617324454/LS-ATL-54548-10/index.m3u8
+#EXTINF:-1 tvg-id="MSNBC.us" tvg-name="MSNBC News | EUA" tvg-logo="https://img.nbc.com/sites/nbcunbc/files/images/2021/3/26/MSNBC-Logo-FullColor-350x300.png" tvg-shift="0" group-title="Notícias",MSNBC News | EUA
+"https://1420543146.rsc.cdn77.org/s9yTj8J-nNBrS5jhPzgL0g==,1617324454/LS-ATL-54548-10/index.m3u8"
 
 #EXTINF:-1 tvg-id="nasatv" tvg-name="Nasa TV" tvg-logo="https://i.pinimg.com/736x/3f/5e/bf/3f5ebf2e0705d15e32bade0baa5caebe.jpg" tvg-shift="0" group-title="Notícias",Nasa TV
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1617347754/ei/SnBmYLfEOcuJ1sQPkJCNmAk/ip/2804:d59:800b:fa00:1990:34cc:3dc7:544a/id/21X5lGlDOfg.3/itag/300/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D298/hls_chunk_host/r5---sn-cg51pauxax-btos.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/4900/mh/N8/mm/44/mn/sn-cg51pauxax-btos/ms/lva/mv/m/mvi/5/pl/40/dover/11/keepalive/yes/fexp/24001373,24007246/mt/1617325942/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRAIgRNybAlLb0y0xbMRDbpJLSC5TQWoTKZSZy43Bfwu4z9gCIFSL2KT-0x9iKyilBolboVjhqUjkOXu3jfvTWBaHDwkA/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRAIgFPzXVsyodma_CJlQ45WlF5PMfi-cei_s1Dy-s7wkzp0CIBeEJvMi5hur4Bw6DBl4LDl8KdUu6fOCzv2-QZcf-08w/playlist/index.m3u8
@@ -226,10 +229,13 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5331d5fb753499095a0
 #EXTINF:-1 channel-id="weather-nation" tvg-name="WeatherNation EUA" tvg-logo="http://images.pluto.tv/channels/5bdce04659ee03633e758130/colorLogoPNG.png" group-title="Notícias",WeatherNation EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bdce04659ee03633e758130/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc94cb43-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=28d59b7e-e3fd-4337-838d-dc0e7091a5de&userId=&serverSideAds=true
 
-#EXTINF:-1 channel-id="weathernation-2" tvg-name="WeatherNation 2 EUA" tvg-logo="http://images.pluto.tv/channels/5d2cb7ac552e3773bc48982e/colorLogoPNG.png" group-title="Notícias",WeatherNation 2 EUA
+#EXTINF:-1 channel-id="weathernation-2" tvg-name="WeatherNation 2 EUA" tvg-logo="http://images.pluto.tv/channels/5bdce04659ee03633e758130/colorLogoPNG.png" group-title="Notícias",WeatherNation 2 EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d2cb7ac552e3773bc48982e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc9603c4-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=25668c6a-7ace-492d-885e-07daa2edbb8e&userId=&serverSideAds=true
 
 ############################### BRASIL TV ABERTA #####################################
+
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="Rede Globo" tvg-logo="https://imgur.com/5RQ1PxL.png" group-title="Brasil - TV aberta",Rede Globo
+https://live-fe-as-11-37.video.globo.com/d/m/nl/s/hls-globo-go01/hls-globo-go01_1573/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ" tvg-logo="https://imgur.com/5RQ1PxL.png" group-title="Brasil - TV aberta",Globo RJ
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
@@ -239,6 +245,9 @@ https://ngbvqmbygn.zoeweb.tv/alegolive/smil:alegolive.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BandRede.br" tvg-name="Band" tvg-logo="https://imgur.com/HnL2uBA.png" tvg-shift="0" group-title="Brasil - TV aberta",Band
 http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Futura.br" tvg-name="Canal Futura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Canal_Futura.png" tvg-shift="0" group-title="Brasil - TV aberta",Canal Futura
+https://live-fe-as-11-36.video.globo.com/d/nl/s/hls-futura24ha/hls-futura24ha_2126/playlist.m3u8
 
 #EXTINF:-1 tvg-id="canalsaude.br" tvg-name="Canal Saúde" tvg-logo="https://www.gov.br/pt-br/apps/canal-saude/view/++widget++form.widgets.imagem/@@download/Canal+Sa%C3%BAde.jpg" tvg-shift="0" group-title="Brasil - TV aberta",Canal Saúde
 https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/playlist.m3u8
