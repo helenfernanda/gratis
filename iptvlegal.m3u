@@ -578,6 +578,25 @@ https://weathernationtv.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K1kJf1s.png" group-title="Roku Estados Unidos" tvg-name="Wipeout Xtra | EUA",Wipeout Xtra | EUA
 https://endemol-wipeoutxtra-1.roku.wurl.com/manifest/playlist.m3u8
 
+############### FILMRISE EUA ################
+#EXTINF:-1 tvg-name="Filmrise Classics | EUA" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71te2lAHq5L._SY355_.png" group-title="Filmrise EUA",Filmrise Classics | EUA
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/648x432_5000000/index.m3u8
+
+#EXTINF:-1 tvg-name="Filmrise Family | EUA" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81VZaxj6a1L._SY355_.png" group-title="Filmrise EUA",Filmrise Family | EUA
+http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefamily/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-name="FilmRise Forensic Files 24/7 | EUA" tvg-logo="https://i.imgur.com/XuWEujn.png" group-title="Filmrise EUA",FilmRise Forensic Files 24/7 | EUA
+http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokuforensicfiles/CDN/master.m3u8
+
+#EXTINF:-1 tvg-name="FilmRise Forensic Mysteries 24/7 | EUA" tvg-logo="https://i.imgur.com/XuWEujn.png" group-title="Filmrise EUA",FilmRise Mysteries 24/7 | EUA
+http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Filmrise Movies | EUA" tvg-logo="https://i.imgur.com/XuWEujn.png" group-title="Filmrise EUA",Filmrise Movies | EUA
+http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-name="FilmRise Sci-Fi | EUA" tvg-logo="https://i.imgur.com/XuWEujn.png" group-title="Filmrise EUA",FilmRise Sci-Fi | EUA
+http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokufilmrisesci-fi/CDN/master.m3u8
+
 ##### PLUTO EUA #####
 
 #EXTINF:-1 channel-id="pluto007" tvg-name="Pluto TV 007 | EUA" tvg-logo="http://images.pluto.tv/channels/5f68f53eb1e5800007390bf8/colorLogoPNG.png" group-title="Pluto Estados Unidos",Pluto TV 007 | EUA
