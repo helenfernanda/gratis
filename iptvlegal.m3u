@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="http://epg.liveiptv.net/epg.xml,https://cld.pt/dl/download/7a36f027-b90a-4be0-ba89-00acb7d82fa7/RHAEPG.xml,https://i.mjh.nz/PlutoTV/de.xml,https://i.mjh.nz/PlutoTV/fr.xml" x-tvg-url="https://i.mjh.nz/PlutoTV/de.xml,https://i.mjh.nz/PlutoTV/mx.xml,https://i.mjh.nz/PlutoTV/uk.xml,https://i.mjh.nz/PlutoTV/fr.xml" refresh="3600"
 
-#EXTINF:-1 tvg-name="Vulcão Geldingadalir, Islândia" tvg-logo="https://www.gov.br/cgu/pt-br/educacao-cidada/programas/desenho-redacao/edicoes-anteriores/imagens/3-icone-camera-mais.png" group-title="Câmera parada",Vulcão Geldingadalir, Islândia
+#EXTINF:-1 tvg-name="Vulcão Geldingadalir - Islândia" tvg-logo="https://www.gov.br/cgu/pt-br/educacao-cidada/programas/desenho-redacao/edicoes-anteriores/imagens/3-icone-camera-mais.png" group-title="Câmera parada",Vulcão Geldingadalir - Islândia
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1617344005/ei/pWFmYJKCNMbYxQSghq2ICA/ip/2804:d59:800b:fa00:11a3:e3e1:c13:486c/id/BA-9QzIcr3c.8/itag/94/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D135/hls_chunk_host/r1---sn-cg51pauxax-j1ne.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/980/mh/Lz/mm/44/mn/sn-cg51pauxax-j1ne/ms/lva/mv/m/mvi/1/pcm2cms/yes/pl/40/dover/11/keepalive/yes/fexp/24001373,24007246/mt/1617321863/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRQIgLY_SP-5GB6e5JZihI5XitqMHdHBSKiXYl07Bq3kofqUCIQCdSpEMP1es0bDwtRq8TQkzlRC0V5hiZPXTz8JLgg_FRA%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pcm2cms,pl/lsig/AG3C_xAwRgIhAL3hUM9b__EH7pVQDAoU_B0oMc8S-hq_qiNI7r-s1gMiAiEAp0VH9U518ihW98OEWwoLsLGzuMwrEN9RoJYvkB0O7oU%3D/playlist/index.m3u8
 
 #EXTINF:-1 tvg-name="Aquário de tubarões" tvg-logo="https://www.gov.br/cgu/pt-br/educacao-cidada/programas/desenho-redacao/edicoes-anteriores/imagens/3-icone-camera-mais.png" group-title="Câmera parada",Aquário de tubarões
@@ -65,7 +65,10 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fc31252d35decbc
 #EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News" tvg-logo="https://imgur.com/WwSAtkh.png" group-title="Notícias",Band News
 http://evpp.mm.uol.com.br:1935/geob_band/bandnewstv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Cbn.br" tvg-name="CBN" tvg-shift="0" tvg-logo="https://m.cbn.globoradio.globo.com/estaticos/img/CBN_1024x1024.png" group-title="Notícias",CBN
+#EXTINF:-1 tvg-id="Cbn.br" tvg-name="CBN RJ" tvg-shift="0" tvg-logo="https://m.cbn.globoradio.globo.com/estaticos/img/CBN_1024x1024.png" group-title="Notícias",CBN RJ
+https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
+
+#EXTINF:-1 tvg-id="Cbn.br" tvg-name="CBN SP" tvg-shift="0" tvg-logo="https://m.cbn.globoradio.globo.com/estaticos/img/CBN_1024x1024.png" group-title="Notícias",CBN SP
 https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
 
 #EXTINF:-1 tvg-id="CNNBrasil" tvg-name="CNN Brasil" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhT5DNHv9OvqG72ykMMJ4jMNfl4E4_dx43_pIyOJg=s900-c-k-c0x00ffffff-no-rj" tvg-shift="0" group-title="Notícias",CNN Brasil
@@ -240,6 +243,9 @@ https://live-fe-as-11-37.video.globo.com/d/m/nl/s/hls-globo-go01/hls-globo-go01_
 #EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ" tvg-logo="https://imgur.com/5RQ1PxL.png" group-title="Brasil - TV aberta",Globo RJ
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo SP" tvg-logo="https://imgur.com/5RQ1PxL.png" group-title="Brasil - TV aberta",Globo SP
+https://live.video.globo.com/d/nl/s/hls-globo-sp1/hls-globo-sp1_3475/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Assembleia.go" tvg-name="Assembleia Goiás" tvg-logo="https://politizar.al.go.leg.br/wp-content/uploads/2019/04/thumbnail_NovaLogo-TV-Alego-branco.png" group-title="Brasil - TV aberta",Assembleia Goiás
 https://ngbvqmbygn.zoeweb.tv/alegolive/smil:alegolive.smil/playlist.m3u8
 
@@ -254,6 +260,13 @@ https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Loading.br" tvg-name="Loading TV" tvg-logo="https://imgur.com/DAyMXAx.png" tvg-shift="0" group-title="Brasil - TV aberta",Loading TV
 https://aws.gcp.br.cdn.booyah.live/hls/151073/master_34850987.m3u8
+
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="Multishow" tvg-logo="https://logodownload.org/wp-content/uploads/2017/03/multishow-logo-8.png" tvg-shift="0" group-title="Brasil - TV aberta",Multishow http://live.video.globo.com/h/1402196702233012345678915746222339876543210pJEKZjeaTYyxXDM3Kaz8QQ/k/app/a/A/u/anyone/d/s/hls-msw24ha/hls-msw24ha_1417/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="Multishow HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/03/multishow-logo-8.png" tvg-shift="0" group-title="Brasil - TV aberta",Multishow HD http://live.video.globo.com/h/1402196702233012345678915746222339876543210pJEKZjeaTYyxXDM3Kaz8QQ/k/app/a/A/u/anyone/d/s/hls-msw24ha/hls-msw24ha_4783/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="Multishow HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/03/multishow-logo-8.png" tvg-shift="0" group-title="Brasil - TV aberta",Multishow HD
+https://live.video.globo.com/h/1402196702233012345678915746222339876543210pJEKZjeaTYyxXDM3Kaz8QQ/k/app/a/A/u/anyone/d/s/hls-msw24ha/hls-msw24ha_2126/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-name="Record" tvg-logo="https://imgur.com/ZrZ0Tg1.png" tvg-shift="0" group-title="Brasil - TV aberta",Record
 https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
@@ -309,8 +322,11 @@ https://stmv1.srvstm.com/muriloevangelistade9411/muriloevangelistade9411/playlis
 #EXTINF:-1 tvg-id="Tvmetropole.br" group-title="Brasil - TV aberta" tvg-logo="https://imgur.com/EhJNGIy.png",TV Metrópole
 https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Tv8.br" group-title="Brasil - TV aberta" tvg-logo="https://imgur.com/YRD2mvJ.png",TV - TV8 Brasil
+#EXTINF:-1 tvg-id="Tv8.br" group-title="Brasil - TV aberta" tvg-logo="https://imgur.com/YRD2mvJ.png",TV8 Brasil
 https://cdn.jmvstream.com/w/LVW-9773/ngrp:LVW9773_eRZLMN9Hsr_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="unisctv" tvg-name="Unisc TV" group-title="Brasil - TV aberta" tvg-logo="https://lh3.googleusercontent.com/proxy/EPJnEw2jl6EIMkp1YvpK-pgvDJ6qxKsH3oTArkik5kWJh3lt2VUArdNtmrRe1JRvzg3U6bFjL9Z7LIw8jZcfph6reL3ePVjDqyHQlmHFifCFMhjs3JvbwMB__QKB4mLysW_rSh8_B_Yf_HoBQNxfHYepACMqtUU8dLkuC8Ih_uDlZjKLEi-T",Unisc TV
+https://tv.unisc.br/hls/test.m3u8
 
 
 ################ PLUTO BRASIL ###############
