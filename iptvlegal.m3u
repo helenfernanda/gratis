@@ -1,4 +1,5 @@
-#EXTM3U url-tvg="http://epg.liveiptv.net/epg.xml,https://cld.pt/dl/download/7a36f027-b90a-4be0-ba89-00acb7d82fa7/RHAEPG.xml,https://i.mjh.nz/PlutoTV/de.xml,https://i.mjh.nz/PlutoTV/fr.xml" x-tvg-url="https://i.mjh.nz/PlutoTV/de.xml,https://i.mjh.nz/PlutoTV/mx.xml,https://i.mjh.nz/PlutoTV/uk.xml,https://i.mjh.nz/PlutoTV/fr.xml" refresh="3600"
+#EXTM3U
+url-tvg="http://epg.liveiptv.net/epg.xml,https://cld.pt/dl/download/7a36f027-b90a-4be0-ba89-00acb7d82fa7/RHAEPG.xml,https://i.mjh.nz/PlutoTV/de.xml,https://i.mjh.nz/PlutoTV/fr.xml" x-tvg-url="https://i.mjh.nz/PlutoTV/de.xml,https://i.mjh.nz/PlutoTV/mx.xml,https://i.mjh.nz/PlutoTV/uk.xml,https://i.mjh.nz/PlutoTV/fr.xml" refresh="3600"
 
 #EXTINF:-1 tvg-name="Vulcão Geldingadalir - Islândia" tvg-logo="https://www.gov.br/cgu/pt-br/educacao-cidada/programas/desenho-redacao/edicoes-anteriores/imagens/3-icone-camera-mais.png" group-title="Câmera parada",Vulcão Geldingadalir - Islândia
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1617344005/ei/pWFmYJKCNMbYxQSghq2ICA/ip/2804:d59:800b:fa00:11a3:e3e1:c13:486c/id/BA-9QzIcr3c.8/itag/94/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D135/hls_chunk_host/r1---sn-cg51pauxax-j1ne.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/980/mh/Lz/mm/44/mn/sn-cg51pauxax-j1ne/ms/lva/mv/m/mvi/1/pcm2cms/yes/pl/40/dover/11/keepalive/yes/fexp/24001373,24007246/mt/1617321863/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRQIgLY_SP-5GB6e5JZihI5XitqMHdHBSKiXYl07Bq3kofqUCIQCdSpEMP1es0bDwtRq8TQkzlRC0V5hiZPXTz8JLgg_FRA%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pcm2cms,pl/lsig/AG3C_xAwRgIhAL3hUM9b__EH7pVQDAoU_B0oMc8S-hq_qiNI7r-s1gMiAiEAp0VH9U518ihW98OEWwoLsLGzuMwrEN9RoJYvkB0O7oU%3D/playlist/index.m3u8
@@ -107,7 +108,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fd7bca3e0a4ee0007a
 #EXTINF:-1 tvg-id="101700" tvg-name="Rewind TV Chile" tvg-logo="https://imgur.com/fssx3Gh.png" group-title="Música",Rewind TV Chile
 https://tls.cdnz.cl/rewindtv/rewindtv/playlist.m3u8
 
-############## NOTÍCIAS 24 HORAS - BRASIL ##############
+############## NOTÍCIAS 24 HORAS - BRASIL e PORTUGAL ##############
 
 #EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News" tvg-logo="https://imgur.com/WwSAtkh.png" group-title="Notícias",Band News
 http://evpp.mm.uol.com.br:1935/geob_band/bandnewstv/playlist.m3u8
@@ -121,25 +122,10 @@ https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
 #EXTINF:-1 tvg-id="Recordnews.br" tvg-name="Record News" tvg-logo="https://imgur.com/HaPL1rx.png" tvg-shift="0" group-title="Notícias",Record News
 https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
 
-############## NOTÍCIAS 24 HORAS - EXTERIOR ##############
-
 #EXTINF:-1 tvg-id="euronews.pt" tvg-name="Euronews | Português" tvg-logo="https://www.lyon-entreprises.com/wp-content/uploads/69729545-2326513357398035-8127287449383600128-n.png" tvg-shift="0" group-title="Notícias",Euronews | Português
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1617339550/ei/PlBmYInYIpmI1sQPoJOmoAk/ip/2804:d59:800b:fa00:11a3:e3e1:c13:486c/id/VOw7bts_rGQ.2/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r2---sn-cg51pauxax-j1ne.googlevideo.com/playlist_duration/30/manifest_duration/30/gcr/br/vprv/1/playlist_type/DVR/initcwndbps/4360/mh/RR/mm/44/mn/sn-cg51pauxax-j1ne/ms/lva/mv/m/mvi/2/pcm2cms/yes/pl/40/dover/11/keepalive/yes/fexp/24001373,24007246/mt/1617317784/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,gcr,vprv,playlist_type/sig/AOq0QJ8wRQIhAPEHkm7fLVfDkyBC6LuYrABM0KNgwtE-cll4na_po_KLAiBoNzf4o_cebRHSppoTgAN8RHopSauF8_0u7BPFEPmipg%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pcm2cms,pl/lsig/AG3C_xAwRQIga3OwIG1W2fqPPKFbWfgAbPIe9cLrWwhaN8wJzN8OJYoCIQDBLQGP3Mmm2Shosa_spbs_pd6mHrHYSbjnzgK0nuzIyQ%3D%3D/playlist/index.m3u8
 
-#EXTINF:-1 tvg-id="Euronews.nws" tvg-name="Euronews | Inglês" tvg-logo="https://www.lyon-entreprises.com/wp-content/uploads/69729545-2326513357398035-8127287449383600128-n.png" tvg-shift="0" group-title="Notícias",Euronews | Inglês
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1617341165/ei/jVZmYPjWN5KNobIP7_mLkAg/ip/2804:d59:800b:fa00:11a3:e3e1:c13:486c/id/sPgqEHsONK8.2/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r3---sn-cg51pauxax-btos.googlevideo.com/playlist_duration/30/manifest_duration/30/gcr/br/vprv/1/playlist_type/DVR/initcwndbps/4500/mh/nD/mm/44/mn/sn-cg51pauxax-btos/ms/lva/mv/m/mvi/3/pl/40/dover/11/keepalive/yes/fexp/24001373,24007246/mt/1617318984/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,gcr,vprv,playlist_type/sig/AOq0QJ8wRgIhAOX87zbuYHRNBEe9SW2kyjtFNWlx7VmZvfcbZop8-IbBAiEAmTZtlDOXqZK5u6HgSrNJOzuNRbEsAEeY3Bw2rdyJXBY%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIgUX-lxZ9gHhsULfvdLiptsDvUbW-GqiGqc6XgYS2BZZ4CIQCtSutM125qwD3ZJ8x-Cu6HNy4pMFAUouMwJJM3cP4Mpg%3D%3D/playlist/index.m3u8
-
-#EXTINF:-1 tvg-id="euronews.au" tvg-name="Euronews | Austrália" tvg-logo="https://i.imgur.com/szYOy8S.jpg" group-title="Notícias",Euronews | Austrália
-https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-id="EuronewsFR.nws" tvg-name="Euronews | Francês" tvg-logo="https://www.lyon-entreprises.com/wp-content/uploads/69729545-2326513357398035-8127287449383600128-n.png" group-title="Notícias",Euronews | Francês
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1617340580/ei/RFRmYIX3L8GG1sQP5YWX4AY/ip/2804:d59:800b:fa00:11a3:e3e1:c13:486c/id/MsN0_WNXvh8.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r1---sn-cg51pauxax-btos.googlevideo.com/playlist_duration/30/manifest_duration/30/gcr/br/vprv/1/playlist_type/DVR/initcwndbps/4480/mh/wV/mm/44/mn/sn-cg51pauxax-btos/ms/lva/mv/m/mvi/1/pl/40/dover/11/keepalive/yes/fexp/24001373,24007246/mt/1617317303/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,gcr,vprv,playlist_type/sig/AOq0QJ8wRgIhAL2mVk0CnJTIopx-PVZDWSzYcrqK-oTBY5YYr8jsaBxPAiEAn-Zc_mUxamesUJznFvlGA0a-zAf86cww-m7aT9r7L-U%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIhAOIaU88DVt-UjQ2W18-BibJCSxdqttTkREDmuzVtBz9vAiB-EO3PxIl8S76xcnwf2KEVmFbilTPBWITun41hUP6gOw%3D%3D/playlist/index.m3u8
-
-#EXTINF:-1 tvg-id="EuronewsES.nws" tvg-name="Euronews | Espanhol" tvg-logo="https://www.lyon-entreprises.com/wp-content/uploads/69729545-2326513357398035-8127287449383600128-n.png" group-title="Notícias",Euronews | Espanhol
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1617340255/ei/_1JmYNiSLNSmwQT3naeYBQ/ip/2804:d59:800b:fa00:11a3:e3e1:c13:486c/id/JbKgQhFlMdU.2/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r1---sn-cg51pauxax-j1ne.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/3770/mh/KY/mm/44/mn/sn-cg51pauxax-j1ne/ms/lva/mv/m/mvi/1/pl/40/dover/11/keepalive/yes/fexp/24001373,24007246/mt/1617318504/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRgIhANr-W_1v4F1w1q7NqMydXK94lx-UO-5yZdG2Jr7pO17dAiEArCmu8pkEYvfRae-CNguguOLNrEue-xWYJGeYbaLyug0%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRAIgT9jFpUBMGcfMzkmlESPAl_oKIcXXeP2VRMThJm3UYr4CIF88Gi7AdHseQ70zabh5NlhHcqGYn_wMP84dJICXTj7W/playlist/index.m3u8
-
-#EXTINF:-1 tvg-id="EuronewsDE.nws" tvg-name="Euronews | Alemão" tvg-logo="https://www.lyon-entreprises.com/wp-content/uploads/69729545-2326513357398035-8127287449383600128-n.png" group-title="Notícias",Euronews | Alemão
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1617340370/ei/clNmYOaOHcXAwQTvzZnYBA/ip/2804:d59:800b:fa00:11a3:e3e1:c13:486c/id/gdyuPcnSDuY.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r5---sn-cg51pauxax-btos.googlevideo.com/playlist_duration/30/manifest_duration/30/gcr/br/vprv/1/playlist_type/DVR/initcwndbps/4480/mh/VA/mm/44/mn/sn-cg51pauxax-btos/ms/lva/mv/m/mvi/5/pl/40/dover/11/keepalive/yes/fexp/24001373,24007246/mt/1617317303/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,gcr,vprv,playlist_type/sig/AOq0QJ8wRQIgZO2sd4a_Cn3ByPQnd521u-_Mss4GY_h3zR27WM_eLtwCIQDOCaMT7z2cBmDU6nNmzu0yZlBFfp0tlfCjlp_bAhyI0A%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRgIhAKRA-CP88cw43JTnJZbFoPY4cuQvFVz-RzPi09IP3OwGAiEA56yvphZWrBpBoIjp9eqluarqIl7cY8KVk7otPUKc7F8%3D/playlist/index.m3u8
+############## NOTÍCIAS 24 HORAS - EXTERIOR ##############
 
 #EXTINF:-1 tvg-name="ABC News | Austrália" tvg-id="abcnews.com.au" tvg-logo="https://i.imgur.com/rdkvOCh.png" group-title="Notícias",ABC News | Austrália
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
@@ -155,6 +141,12 @@ https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Austrália Channel" tvg-logo="https://i.imgur.com/mdNV8tQ.jpg" group-title="Notícias",Austrália Channel
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8
+
+#EXTINF:-1 tvg-id="BBCNews.nws" tvg-name="BBC News | UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/BBC_News_2019.svg/1200px-BBC_News_2019.svg.png" group-title="Notícias",BBC News | UK
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/27?pprotocol=hls
+
+#EXTINF:-1 tvg-id="Bbcworldnews.br" tvg-name="BBC World News" tvg-logo="https://pbs.twimg.com/profile_images/1150717770478379008/8-XiwK-s.png" group-title="Notícias",BBC World News
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3268?pprotocol=hls
 
 #EXTINF:-1 channel-id="black-news-channel" tvg-name="Black News Channel" tvg-logo="http://images.pluto.tv/channels/5f1efad04320070007dbb60b/colorLogoPNG.png" group-title="Notícias",Black News Channel
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1efad04320070007dbb60b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc991103-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7c9203aa-61d9-4778-a4bf-aad65ce33300&userId=&serverSideAds=true
@@ -177,7 +169,10 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56283c8769ba54637de
 #EXTINF:-1 channel-id="cnet.eua" tvg-name="c|net EUA" tvg-logo="http://images.pluto.tv/channels/56283c8769ba54637dea0464/colorLogoPNG.png" group-title="Notícias",c|net EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56283c8769ba54637dea0464/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc928153-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=956807c1-c826-4518-b9c8-6df19cdc2575&userId=&serverSideAds=true
 
-#EXTINF:-1 channel-id="cbsn-2" tvg-name="CBSN 2" tvg-logo="http://images.pluto.tv/channels/5a6b92f6e22a617379789618/colorLogoPNG.png" group-title="Notícias",CBSN 2
+#EXTINF:-1 tvg-id="cbsnews" tvg-name="CBS News" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51UjITm0Z-L.png" group-title="Notícias",CBS News
+https://dai.google.com/linear/hls/pa/event/Sid4xiTQTkCT1SLu6rjUSQ/stream/fa8633e0-4fff-4983-94b1-0041dc0987ed:SCL/variant/2aaf56a9716cc9a9f28658004cb0db29/bandwidth/3394688.m3u8
+
+#EXTINF:-1 tvg-id="cbsn-2" tvg-name="CBSN 2" tvg-logo="http://images.pluto.tv/channels/5a6b92f6e22a617379789618/colorLogoPNG.png" group-title="Notícias",CBSN 2
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a6b92f6e22a617379789618/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc93b9d2-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e9f94aa8-085d-4f8a-a1d7-d2166ea6c9c9&userId=&serverSideAds=true
 
 #EXTINF:-1 channel-id="cbsn-bay-area" tvg-name="CBSN Bay Area" tvg-logo="http://images.pluto.tv/channels/5eb1afb21486df0007abc57c/colorLogoPNG.png" group-title="Notícias",CBSN Bay Area
@@ -216,8 +211,36 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5eb1b05ea168cc00076
 #EXTINF:-1 channel-id="cbsn-pittsburgh" tvg-name="CBSN Pittsburgh" tvg-logo="http://images.pluto.tv/channels/5eb1b17aa5277e00083f6521/colorLogoPNG.png" group-title="Notícias",CBSN Pittsburgh
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5eb1b17aa5277e00083f6521/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc9874c4-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=cc6d79c0-8930-4d03-9cd1-d19d054ec65e&userId=&serverSideAds=true
 
+#EXTINF:-1 tvg-id="CGTN.us" tvg-name="CGTN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/CGTN.png" group-title="Notícias",CGTN em Inglês | China
+https://live.cgtn.com/500/prog_index.m3u8
+
 #EXTINF:-1 channel-id="cnn" tvg-name="CNN EUA" tvg-logo="http://images.pluto.tv/channels/5421f71da6af422839419cb3/colorLogoPNG.png" group-title="Notícias",CNN EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af422839419cb3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc91e510-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=03988411-6463-422e-81c6-ec0873b4bd7a&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="News18India.uk" tvg-name="News 18 India" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwng2wX2UU3iLDG9rgU0dRaiwxfYQ7TeksV6T0IgJqg=s900-c-k-c0x00ffffff-no-rj" group-title="Notícias",CNN News 18 | Índia
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1617430219/ei/a7JnYIqfCOKZ1sQP8uqncA/ip/2804:d59:800b:fa00:dd6e:febf:95d:8f9f/id/gD7k4o8JBJI.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r2---sn-cg51pauxax-j1ne.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/1100/mh/7_/mm/44/mn/sn-cg51pauxax-j1ne/ms/lva/mv/m/mvi/2/pl/40/dover/11/keepalive/yes/fexp/24001373,24007246/mt/1617408516/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRgIhAKLzmp3UKwue6FIoURc8mk1rlaXnIpmAbyTfSslJMz8dAiEAzn0J72PwKJSydCoAKqEgmySIZ1D-ZOSptBaObMWPBNQ%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIgdz47Lal2xYYA2sVSVrMq09PKInXYbCFW_7dlcGaZD7gCIQCSgw7gO6pCYw6zDjI3dvkaHtaz11Jz1tN0OzTPCn8CUg%3D%3D/playlist/index.m3u8
+
+#EXTINF:-1 tvg-id="dwelle" tvg-name="DW English" tvg-shift="0" tvg-logo="https://www.lyon-entreprises.com/wp-content/uploads/69729545-2326513357398035-8127287449383600128-n.png" group-title="Notícias",DW News em Inglês
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1617434494/ei/HsNnYLb8GIe2wQTh-Iy4DA/ip/2804:d59:800b:fa00:dd6e:febf:95d:8f9f/id/qMtcWqCL_UQ.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r3---sn-cg51pauxax-btos.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/4950/mh/S0/mm/44/mn/sn-cg51pauxax-btos/ms/lva/mv/m/mvi/3/pl/40/dover/11/keepalive/yes/fexp/24001373,24007246/beids/9466586/mt/1617412586/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRAIgRR8bx2G8Ml5bAXxyp1k_BNz650PiVD0_BsMEjpxjn0ICIFQeXRm-SU5uMeHvrKCDLeUWUqwnV9KWYKDMzmn_HcPX/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRAIgM0E9fBoCHADOwNG1eljsQQMqzfQiNGxTI58PlfuLmwsCICtmqqFucpi1QwQ9mnlxgjo79UAR6tVrUO4X4ZdFYG1M/playlist/index.m3u8
+
+#EXTINF:-1 tvg-id="Euronews.nws" tvg-name="Euronews em Inglês" tvg-logo="https://www.lyon-entreprises.com/wp-content/uploads/69729545-2326513357398035-8127287449383600128-n.png" tvg-shift="0" group-title="Notícias",Euronews | Inglês
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1617341165/ei/jVZmYPjWN5KNobIP7_mLkAg/ip/2804:d59:800b:fa00:11a3:e3e1:c13:486c/id/sPgqEHsONK8.2/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r3---sn-cg51pauxax-btos.googlevideo.com/playlist_duration/30/manifest_duration/30/gcr/br/vprv/1/playlist_type/DVR/initcwndbps/4500/mh/nD/mm/44/mn/sn-cg51pauxax-btos/ms/lva/mv/m/mvi/3/pl/40/dover/11/keepalive/yes/fexp/24001373,24007246/mt/1617318984/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,gcr,vprv,playlist_type/sig/AOq0QJ8wRgIhAOX87zbuYHRNBEe9SW2kyjtFNWlx7VmZvfcbZop8-IbBAiEAmTZtlDOXqZK5u6HgSrNJOzuNRbEsAEeY3Bw2rdyJXBY%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIgUX-lxZ9gHhsULfvdLiptsDvUbW-GqiGqc6XgYS2BZZ4CIQCtSutM125qwD3ZJ8x-Cu6HNy4pMFAUouMwJJM3cP4Mpg%3D%3D/playlist/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K1kJf1s.png" group-title="Notícias" tvg-name="Euronews Roku | EUA",Euronews News Roku | EUA
+https://euronews-euronews-world-1.roku.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="euronews.au" tvg-name="Euronews | Austrália" tvg-logo="https://i.imgur.com/szYOy8S.jpg" group-title="Notícias",Euronews | Austrália
+https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EuronewsFR.nws" tvg-name="Euronews em Francês" tvg-logo="https://www.lyon-entreprises.com/wp-content/uploads/69729545-2326513357398035-8127287449383600128-n.png" group-title="Notícias",Euronews | Francês
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1617340580/ei/RFRmYIX3L8GG1sQP5YWX4AY/ip/2804:d59:800b:fa00:11a3:e3e1:c13:486c/id/MsN0_WNXvh8.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r1---sn-cg51pauxax-btos.googlevideo.com/playlist_duration/30/manifest_duration/30/gcr/br/vprv/1/playlist_type/DVR/initcwndbps/4480/mh/wV/mm/44/mn/sn-cg51pauxax-btos/ms/lva/mv/m/mvi/1/pl/40/dover/11/keepalive/yes/fexp/24001373,24007246/mt/1617317303/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,gcr,vprv,playlist_type/sig/AOq0QJ8wRgIhAL2mVk0CnJTIopx-PVZDWSzYcrqK-oTBY5YYr8jsaBxPAiEAn-Zc_mUxamesUJznFvlGA0a-zAf86cww-m7aT9r7L-U%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIhAOIaU88DVt-UjQ2W18-BibJCSxdqttTkREDmuzVtBz9vAiB-EO3PxIl8S76xcnwf2KEVmFbilTPBWITun41hUP6gOw%3D%3D/playlist/index.m3u8
+
+#EXTINF:-1 tvg-id="EuronewsES.nws" tvg-name="Euronews em Espanhol" tvg-logo="https://www.lyon-entreprises.com/wp-content/uploads/69729545-2326513357398035-8127287449383600128-n.png" group-title="Notícias",Euronews | Espanhol
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1617340255/ei/_1JmYNiSLNSmwQT3naeYBQ/ip/2804:d59:800b:fa00:11a3:e3e1:c13:486c/id/JbKgQhFlMdU.2/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r1---sn-cg51pauxax-j1ne.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/3770/mh/KY/mm/44/mn/sn-cg51pauxax-j1ne/ms/lva/mv/m/mvi/1/pl/40/dover/11/keepalive/yes/fexp/24001373,24007246/mt/1617318504/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRgIhANr-W_1v4F1w1q7NqMydXK94lx-UO-5yZdG2Jr7pO17dAiEArCmu8pkEYvfRae-CNguguOLNrEue-xWYJGeYbaLyug0%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRAIgT9jFpUBMGcfMzkmlESPAl_oKIcXXeP2VRMThJm3UYr4CIF88Gi7AdHseQ70zabh5NlhHcqGYn_wMP84dJICXTj7W/playlist/index.m3u8
+
+#EXTINF:-1 tvg-id="EuronewsDE.nws" tvg-name="Euronews em Alemão" tvg-logo="https://www.lyon-entreprises.com/wp-content/uploads/69729545-2326513357398035-8127287449383600128-n.png" group-title="Notícias",Euronews | Alemão
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1617340370/ei/clNmYOaOHcXAwQTvzZnYBA/ip/2804:d59:800b:fa00:11a3:e3e1:c13:486c/id/gdyuPcnSDuY.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r5---sn-cg51pauxax-btos.googlevideo.com/playlist_duration/30/manifest_duration/30/gcr/br/vprv/1/playlist_type/DVR/initcwndbps/4480/mh/VA/mm/44/mn/sn-cg51pauxax-btos/ms/lva/mv/m/mvi/5/pl/40/dover/11/keepalive/yes/fexp/24001373,24007246/mt/1617317303/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,gcr,vprv,playlist_type/sig/AOq0QJ8wRQIgZO2sd4a_Cn3ByPQnd521u-_Mss4GY_h3zR27WM_eLtwCIQDOCaMT7z2cBmDU6nNmzu0yZlBFfp0tlfCjlp_bAhyI0A%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRgIhAKRA-CP88cw43JTnJZbFoPY4cuQvFVz-RzPi09IP3OwGAiEA56yvphZWrBpBoIjp9eqluarqIl7cY8KVk7otPUKc7F8%3D/playlist/index.m3u8
+
 
 #EXTINF:-1 tvg-id="FRANCE24.es" tvg-name="France 24 | Francês" tvg-logo="https://imgur.com/Tj0KCYI.png" tvg-shift="0" group-title="Notícias",France 24 | Francês
 https://static.france24.com/live/F24_FR_LO_HLS/live_web.m3u8
@@ -257,6 +280,12 @@ https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_18
 
 #EXTINF:-1 tvg-id="redbull" tvg-name="Redbull TV" tvg-logo="https://img2.gratispng.com/20180824/fph/kisspng-red-bull-tv-television-film-streaming-media-red-bull-tv-primavera-sound-5b805de6d852c0.5594931315351393028861.jpg" tvg-shift="0" group-title="Notícias",Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+
+#EXTINF:-1 tvg-id="RussiaToday.uk" tvg-name="Russia Today" tvg-shift="0" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1024px-Russia-today-logo.svg.png" group-title="Notícias",Russia Today em Inglês
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1617433858/ei/osBnYM6MMpvM1sQPxfGowAY/ip/2804:d59:800b:fa00:dd6e:febf:95d:8f9f/id/NvCSr7qzAAM.31/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/r3---sn-cg51pauxax-j1ne.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/1420/mh/HH/mm/44/mn/sn-cg51pauxax-j1ne/ms/lva/mv/m/mvi/3/pl/40/dover/11/keepalive/yes/fexp/24001373,24007246/mt/1617412107/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRQIhALm7_anJZ54S1xfpFdQqo_8OAZIBTpFVOhIXqAGudnZyAiBI_AtNWrHKyM_EMVPrl9cSJRQbNnnl5IXDiccLI7q2Hw%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRgIhAKKmGTveE1jxh6uVUDGBSTiZIcHqrfTM_1_828dRMKsxAiEA4Q615H5M_ZCuXGSUcYDslRGpYQibTgk5s-juaWbiG0Q%3D/playlist/index.m3u8
+
+#EXTINF:-1 channel-id="SkyNews.uk" tvg-name="Sky News" tvg-logo="http://images.pluto.tv/channels/5cf5a3ac163e69f04c5b11b1/colorLogoPNG.png" group-title="Notícias",Sky News | UK
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1617433193/ei/Cb5nYL_mJOG05gTEz5voBw/ip/2804:d59:800b:fa00:dd6e:febf:95d:8f9f/id/9Auq9mYxFEE.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/r3---sn-cg51pauxax-j1ne.googlevideo.com/playlist_duration/30/manifest_duration/30/gcr/br/vprv/1/playlist_type/DVR/initcwndbps/1060/mh/Yv/mm/44/mn/sn-cg51pauxax-j1ne/ms/lva/mv/m/mvi/3/pcm2cms/yes/pl/40/dover/11/keepalive/yes/fexp/24001373,24007246/mt/1617411385/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,gcr,vprv,playlist_type/sig/AOq0QJ8wRQIhAM0jP9SrvkJtTjsdktL-2McKh5zqT2vYOrDohset0yMRAiBL5PPSy5v0sG6CSnJe-dBgU8FExwiOutv3_5_rVYA_Pg%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pcm2cms,pl/lsig/AG3C_xAwRQIgFjjWeheH7sAw3m5Iw7lhy-HBFB8XuSRiPpbIXoR-DFMCIQC3-EOGSYE1AmRXAqVlSHQo8KZlYsC1cmkqCP7Uuo1PxQ%3D%3D/playlist/index.m3u8
 
 #EXTINF:-1 channel-id="sky-news-2" tvg-name="Sky News 2 EUA" tvg-logo="http://images.pluto.tv/channels/5cf5a3ac163e69f04c5b11b1/colorLogoPNG.png" group-title="Notícias",Sky News 2 EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf5a3ac163e69f04c5b11b1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc958e95-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ab85c55d-2986-4e99-86f1-703e0f49a895&userId=&serverSideAds=true
@@ -379,7 +408,6 @@ https://cdn.jmvstream.com/w/LVW-9773/ngrp:LVW9773_eRZLMN9Hsr_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="unisctv" tvg-name="Unisc TV" group-title="Brasil - TV aberta" tvg-logo="https://lh3.googleusercontent.com/proxy/EPJnEw2jl6EIMkp1YvpK-pgvDJ6qxKsH3oTArkik5kWJh3lt2VUArdNtmrRe1JRvzg3U6bFjL9Z7LIw8jZcfph6reL3ePVjDqyHQlmHFifCFMhjs3JvbwMB__QKB4mLysW_rSh8_B_Yf_HoBQNxfHYepACMqtUU8dLkuC8Ih_uDlZjKLEi-T",Unisc TV
 https://tv.unisc.br/hls/test.m3u8
-
 
 ################ PLUTO BRASIL ###############
 
@@ -512,9 +540,6 @@ https://4ea7abcc97144832b81dc50c6e8d6330.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SXWX2Wf.png" group-title="Roku Estados Unidos" tvg-name="" tvg-name="Deal or No Deal | EUA",Deal or No Deal | EUA
 https://endemol-dealornodeal-1.roku.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K1kJf1s.png" group-title="Notícias" tvg-name="Euronews Roku | EUA",Euronews News Roku | EUA
-https://euronews-euronews-world-1.roku.wurl.com/manifest/playlist.m3u8
-
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/6Hb2XXs.jpg" group-title="Roku Estados Unidos" tvg-name="Fox Soul | EUA",Fox Soul | EUA
 http://fox-foxsoul-roku.amagi.tv/playlist.m3u8
 
@@ -578,6 +603,7 @@ https://weathernationtv.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K1kJf1s.png" group-title="Roku Estados Unidos" tvg-name="Wipeout Xtra | EUA",Wipeout Xtra | EUA
 https://endemol-wipeoutxtra-1.roku.wurl.com/manifest/playlist.m3u8
 
+
 ############### FILMRISE EUA ################
 #EXTINF:-1 tvg-name="Filmrise Classics | EUA" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71te2lAHq5L._SY355_.png" group-title="Filmrise EUA",Filmrise Classics | EUA
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/648x432_5000000/index.m3u8
@@ -597,7 +623,7 @@ http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/
 #EXTINF:-1 tvg-name="FilmRise Sci-Fi | EUA" tvg-logo="https://i.imgur.com/XuWEujn.png" group-title="Filmrise EUA",FilmRise Sci-Fi | EUA
 http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokufilmrisesci-fi/CDN/master.m3u8
 
-##### PLUTO EUA #####
+################## PLUTO EUA #####
 
 #EXTINF:-1 channel-id="pluto007" tvg-name="Pluto TV 007 | EUA" tvg-logo="http://images.pluto.tv/channels/5f68f53eb1e5800007390bf8/colorLogoPNG.png" group-title="Pluto Estados Unidos",Pluto TV 007 | EUA
 https://service-stitcher.clusters.pluto.tv/session/b82bb497-93c0-11eb-9d6c-0242ac110002.json?clientTime=1617374503&advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=5f6286f9-d6b1-4a1b-bdb5-e7d9b2fdbce4&clientModelNumber=na&deviceDNT=false&deviceId=5f6286f9-d6b1-4a1b-bdb5-e7d9b2fdbce4&deviceLat=37.7510&deviceLon=-97.8220&deviceMake=Opera&deviceModel=web&deviceType=web&deviceVersion=73.0.3856.421&marketingRegion=US&serverSideAds=true&sessionID=b82bb497-93c0-11eb-9d6c-0242ac110002&sid=b82bb497-93c0-11eb-9d6c-0242ac110002&userId=&serverSideAds=true
