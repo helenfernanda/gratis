@@ -6,6 +6,9 @@ url-tvg="http://epg.liveiptv.net/epg.xml,https://cld.pt/dl/download/7a36f027-b90
 #EXTINF:-1 tvg-id="1hdru" group-title="Música" tvg-name="1HD" tvg-logo="https://www.1hd.tv/bitrix/templates/smashweb_v2/images/logo.svg",1HD Music | Estônia
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/mono.m3u8
 
+#EXTINF:-1 tvg-id="Castoutofparadise" group-title="Música" tvg-name="Castoutofparadise" tvg-logo="https://www.1hd.tv/bitrix/templates/smashweb_v2/images/logo.svg",Castoutofparadise | EUA
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3611&pprotocol=hls
+
 #EXTINF:-1 tvg-id="5f984784ccb4de0007dfad74" group-title="Música" tvg-name="Clubbing TV Alemanha" tvg-logo="https://images.pluto.tv/channels/5f984784ccb4de0007dfad74/colorLogoPNG.png",Clubbing TV | Alemanha
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f984784ccb4de0007dfad74/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
@@ -17,6 +20,12 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/600ad1a37
 
 #EXTINF:-1 channel-id="cmt-equal-play" tvg-name="CMT Equal Play" tvg-logo="http://images.pluto.tv/channels/5f68f53eb1e5800007390bf8/colorLogoPNG.png" group-title="Música",CMT Equal Play | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f68f53eb1e5800007390bf8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c896951-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=42bcfa63-aec5-4760-b993-bf2501603b69&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="BoxHits.uk" tvg-name="Box Hits" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Box_hits.svg/1280px-Box_hits.svg.png" group-title="Música",Box Hits | Reino Unido
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/5947?pprotocol=hls
+
+#EXTINF:-1 tvg-id="tribetv" group-title="Música" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWeckfObfyFWhe5JuPFGqaZgCiFyBSZXjg4RqleTMoxnlpG_wSOg3gOaRJjYdxQHUbZa0&usqp=CAU" tvg-name="Tribe TV",Filmon Tribe TV
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/2987&pprotocol=hls
 
 #EXTINF:-1 tvg-name="Juice TV Austrália" tvg-id="juice.au" tvg-logo="https://i.mjh.nz/.images/tv.juice.png" group-title="Música",Juice TV | Austrália
 https://i.mjh.nz/nz/tv.juice.m3u8
@@ -2530,9 +2539,6 @@ https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/25?ppr
 
 #EXTINF:-1 tvg-id="BBC4.uk" tvg-name="BBC Four" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/BBC_Four.svg/1200px-BBC_Four.svg.png" group-title="Reino Unido: Filmon",BBC 4 | Reino Unido
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/103?pprotocol=hls
-
-#EXTINF:-1 tvg-id="BoxHits.uk" tvg-name="Box Hits" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Box_hits.svg/1280px-Box_hits.svg.png" group-title="Reino Unido: Filmon",Box Hits | Reino Unido
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/5947?pprotocol=hls
 
 #EXTINF:-1 tvg-id="CBSAction.uk" tvg-name="CBS Action" tvg-logo="https://presentationarchive.com/cbsaction2017/left-c.jpg" group-title="Reino Unido: Filmon",CBS Action | Reino Unido
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/1952?pprotocol=hls
