@@ -157,9 +157,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/54ff7ba69222cb1c262
 #EXTINF:-1 tvg-name="Bloomberg EUA" channel-id="bloombergeua" tvg-logo="http://images.pluto.tv/channels/54ff7ba69222cb1c2624c584/colorLogoPNG.png" group-title="Notícias",Bloomberg EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/54ff7ba69222cb1c2624c584/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc920c20-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=18960466-0906-4f17-9b41-5c7734d5cfc2&userId=&serverSideAds=true
 
-#EXTINF:-1 channel-id="yahoo-finance" tvg-name="Yahoo Finance | EUA" tvg-logo="http://images.pluto.tv/channels/5f161c0a8ba90f0007d5bd0b/colorLogoPNG.png" group-title="Notícias",Yahoo Finance | EUA
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f161c0a8ba90f0007d5bd0b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc991101-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=5405d8e5-1f39-4ff4-8b85-bce9c635d926&userId=&serverSideAds=true
-
 #EXTINF:-1 channel-id="cnet.ca" tvg-name="c|net Canadá" tvg-logo="http://images.pluto.tv/channels/56283c8769ba54637dea0464/colorLogoPNG.png" group-title="Notícias",c|net Canadá
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56283c8769ba54637dea0464/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=e71ee631-6a72-11eb-87d7-6fba7c7cde7d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=09d27f56-6a80-4c50-8d57-1c28c0d44144&userId=&serverSideAds=true
 
@@ -250,6 +247,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5268abcd0ce20a84720
 #EXTINF:-1 group-title="Notícias" tvg-id="RaiNews24" tvg-name="Rai News 24 Itália" tvg-logo="https://m3upt.com/logos/Rai-News-24.png",Rai News 24 Itália
 https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_1800/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="RussiaToday.uk" tvg-name="Russia Today" tvg-shift="0" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1024px-Russia-today-logo.svg.png" group-title="Notícias",Russia Today SD em Inglês
+https://nowontv.info/filmon-hd.php?url=https://www.filmon.com/api-v2/channel/93?pprotocol=hls
+
 #EXTINF:-1 channel-id="sky-news-2" tvg-name="Sky News 2 EUA" tvg-logo="http://images.pluto.tv/channels/5cf5a3ac163e69f04c5b11b1/colorLogoPNG.png" group-title="Notícias",Sky News 2 EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf5a3ac163e69f04c5b11b1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc958e95-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ab85c55d-2986-4e99-86f1-703e0f49a895&userId=&serverSideAds=true
 
@@ -279,6 +279,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bdce04659ee03633e7
 
 #EXTINF:-1 channel-id="weathernation-2" tvg-name="WeatherNation 2 EUA" tvg-logo="http://images.pluto.tv/channels/5bdce04659ee03633e758130/colorLogoPNG.png" group-title="Notícias",Weather Nation 2 EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d2cb7ac552e3773bc48982e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc9603c4-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=25668c6a-7ace-492d-885e-07daa2edbb8e&userId=&serverSideAds=true
+
+#EXTINF:-1 channel-id="yahoo-finance" tvg-name="Yahoo Finance | EUA" tvg-logo="http://images.pluto.tv/channels/5f161c0a8ba90f0007d5bd0b/colorLogoPNG.png" group-title="Notícias",Yahoo Finance | EUA
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f161c0a8ba90f0007d5bd0b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc991101-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=5405d8e5-1f39-4ff4-8b85-bce9c635d926&userId=&serverSideAds=true
 
 ################### Videogame ###############
 
@@ -2504,6 +2507,80 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ed6828192e8b30007
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fceaab478f2af00080ff51f/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 
 ##################################### REINO UNIDO #####
+
+######################### Reino Unido: Filmon ##################################
+
+#EXTINF:-1 tvg-id="FiveUSA.uk" tvg-name="5 USA" tvg-logo="https://pbs.twimg.com/profile_images/976093616136441857/nPDUA0kg.jpg" group-title="Reino Unido: Filmon",5 USA | Reino Unido
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/845?pprotocol=hls
+
+#EXTINF:-1 tvg-id="BBCOneHD.uk" tvg-name="BBC One" tvg-logo="https://pbs.twimg.com/profile_images/1346856559738056705/8yLLv96E_400x400.jpg" group-title="Reino Unido: Filmon",BBC One | Reino Unido
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/14?pprotocol=hls
+
+#EXTINF:-1 tvg-id="BBC1NorthernIreland.uk" tvg-name="BBC 1 Northern Ireland" tvg-logo="https://pbs.twimg.com/profile_images/1346856559738056705/8yLLv96E_400x400.jpg" group-title="Reino Unido: Filmon",BBC 1 Northern Ireland (UK)
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/361?pprotocol=hls
+
+#EXTINF:-1 tvg-id="BBC1Scotland.uk" tvg-name="BBC 1 Scotland" tvg-logo="https://pbs.twimg.com/profile_images/1346856559738056705/8yLLv96E_400x400.jpg" group-title="Reino Unido: Filmon",BBC 1 Scotland (UK)
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3166?pprotocol=hls
+
+#EXTINF:-1 tvg-id="BBC1Wales.uk" tvg-name="BBC 1 Wales" tvg-logo="https://pbs.twimg.com/profile_images/1346856559738056705/8yLLv96E_400x400.jpg" group-title="Reino Unido: Filmon",BBC 1 Wales (UK)
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3227?pprotocol=hls
+
+#EXTINF:-1 tvg-id="BBC2.uk" tvg-name="BBC Two" tvg-logo="https://veja.abril.com.br/wp-content/uploads/2016/11/bbc21.png" group-title="Reino Unido: Filmon",BBC 2 | Reino Unido
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/25?pprotocol=hls
+
+#EXTINF:-1 tvg-id="BBC4.uk" tvg-name="BBC Four" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/BBC_Four.svg/1200px-BBC_Four.svg.png" group-title="Reino Unido: Filmon",BBC 4 | Reino Unido
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/103?pprotocol=hls
+
+#EXTINF:-1 tvg-id="BoxHits.uk" tvg-name="Box Hits" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Box_hits.svg/1280px-Box_hits.svg.png" group-title="Reino Unido: Filmon",Box Hits | Reino Unido
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/5947?pprotocol=hls
+
+#EXTINF:-1 tvg-id="CBSAction.uk" tvg-name="CBS Action" tvg-logo="https://presentationarchive.com/cbsaction2017/left-c.jpg" group-title="Reino Unido: Filmon",CBS Action | Reino Unido
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/1952?pprotocol=hls
+
+#EXTINF:-1 tvg-id="Channel4.uk" tvg-name="Channel 4" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnj5-UCkqcufVmucfYwPFt4cHvz8__pkfDTfh7CAKA=s900-c-k-c0x00ffffff-no-rj" group-title="Reino Unido: Filmon",Channel 4
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/2?pprotocol=hls
+
+#EXTINF:-1 tvg-id="Channel5.uk" tvg-name="Channel 5" tvg-logo="https://static.next-episode.net/tv-shows-images/huge/channel-5-uk-documentaries.jpg" group-title="Reino Unido: Filmon",Channel 5
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/22?pprotocol=hls
+
+#EXTINF:-1 tvg-id="Drama.uk" tvg-name="Drama" tvg-logo="https://pbs.twimg.com/profile_images/743754792757977088/8z6Ds85z.jpg" group-title="Reino Unido: Filmon",Drama | Reino Unido
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/5944?pprotocol=hls
+
+#EXTINF:-1 tvg-id="FoodNetwork.uk" tvg-name="Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Food_Network_-_Logo_2016.png" group-title="Reino Unido: Filmon",Food Network | Reino Unido
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/20?pprotocol=hls
+
+#EXTINF:-1 tvg-id="Really.uk" tvg-name="Really" tvg-logo="https://lh3.googleusercontent.com/proxy/EoGdjjcwQeQ0ozomtczdoDigopuKWa1gCPuAy1mX4WD4ZoFwTFA85anpeYU6N4AMbSQ5L4gb2uPFG3m8KmgtIqpMUSXY2K-UjB0Xr3BW8Zngorcn" group-title="Reino Unido: Filmon",Really | Reino Unido
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/2798?pprotocol=hls
+
+######################################### REINO UNIDO itv channels #######################
+#EXTINF:-1 tvg-id="ITV1London.uk" tvg-name="itv" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhZGzYBPp6VnmunMtgGbKkG1bqRMBm8i5IHE55Ndg=s900-c-k-c0x00ffffff-no-rj" group-title="Reino Unido: itv",itv | Reino Unido
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/11?pprotocol=hls
+
+#EXTINF:-1 tvg-id="ITV1plus1.uk" tvg-name="itv +1" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhZGzYBPp6VnmunMtgGbKkG1bqRMBm8i5IHE55Ndg=s900-c-k-c0x00ffffff-no-rj" group-title="Reino Unido: itv",itv +1 | Reino Unido
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/1817?pprotocol=hls
+
+#EXTINF:-1 tvg-id="ITV2.uk" tvg-name="itv 2" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhZGzYBPp6VnmunMtgGbKkG1bqRMBm8i5IHE55Ndg=s900-c-k-c0x00ffffff-no-rj" group-title="Reino Unido: itv",itv 2 | Reino Unido
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/67?pprotocol=hls
+
+#EXTINF:-1 tvg-id="ITV2plus1.uk" tvg-name="itv 2+1" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhZGzYBPp6VnmunMtgGbKkG1bqRMBm8i5IHE55Ndg=s900-c-k-c0x00ffffff-no-rj" group-title="Reino Unido: itv",itv 2+1 | Reino Unido
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/1820?pprotocol=hls
+
+#EXTINF:-1 tvg-id="ITV3.uk" tvg-name="itv 3" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhZGzYBPp6VnmunMtgGbKkG1bqRMBm8i5IHE55Ndg=s900-c-k-c0x00ffffff-no-rj" group-title="Reino Unido: itv",itv 3 | Reino Unido
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/23?pprotocol=hls
+
+#EXTINF:-1 tvg-id="ITV3plus1.uk" tvg-name="itv 3+1" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhZGzYBPp6VnmunMtgGbKkG1bqRMBm8i5IHE55Ndg=s900-c-k-c0x00ffffff-no-rj" group-title="Reino Unido: itv",itv 3+1 | Reino Unido
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/1823?pprotocol=hls
+
+#EXTINF:-1 tvg-id="ITV4.uk" tvg-name="itv 4" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhZGzYBPp6VnmunMtgGbKkG1bqRMBm8i5IHE55Ndg=s900-c-k-c0x00ffffff-no-rj" group-title="Reino Unido: itv",itv 4 | Reino Unido
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/101?pprotocol=hls
+
+#EXTINF:-1 tvg-id="ITV4plus1.uk" tvg-name="itv 4+1" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhZGzYBPp6VnmunMtgGbKkG1bqRMBm8i5IHE55Ndg=s900-c-k-c0x00ffffff-no-rj" group-title="Reino Unido: itv",itv 4+1 | Reino Unido
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/1826?pprotocol=hls
+
+#EXTINF:-1 tvg-id="ITVBe.uk" tvg-name="itv Be" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhZGzYBPp6VnmunMtgGbKkG1bqRMBm8i5IHE55Ndg=s900-c-k-c0x00ffffff-no-rj" group-title="Reino Unido: itv",itv Be | Reino Unido
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3211?pprotocol=hls
+
+########################## REINO UNIDO PLUTO ###################
 
 #EXTINF:-1 tvg-id="5d4af00df345adb154b7a1f4" tvg-logo="https://images.pluto.tv/channels/5d4af00df345adb154b7a1f4/colorLogoPNG.png" group-title="Reino Unido: Pluto",21 Jump Street UK
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d4af00df345adb154b7a1f4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
