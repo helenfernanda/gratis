@@ -3,19 +3,22 @@ url-tvg="http://epg.liveiptv.net/epg.xml,https://cld.pt/dl/download/7a36f027-b90
 
 ########### MÚSICA ###################
 
-#EXTINF:-1 tvg-id="5f984784ccb4de0007dfad74" group-title="Música" tvg-name="Clubbing TV Alemanha" tvg-logo="https://images.pluto.tv/channels/5f984784ccb4de0007dfad74/colorLogoPNG.png",Clubbing TV Alemanha
+#EXTINF:-1 tvg-id="1hdru" group-title="Música" tvg-name="1HD" tvg-logo="https://www.1hd.tv/bitrix/templates/smashweb_v2/images/logo.svg",1HD Music | Estônia
+http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/mono.m3u8
+
+#EXTINF:-1 tvg-id="5f984784ccb4de0007dfad74" group-title="Música" tvg-name="Clubbing TV Alemanha" tvg-logo="https://images.pluto.tv/channels/5f984784ccb4de0007dfad74/colorLogoPNG.png",Clubbing TV | Alemanha
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f984784ccb4de0007dfad74/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1 tvg-name="Clubbing TV Espanha" channel-id="clubbing-tv-es" tvg-logo="http://images.pluto.tv/channels/600ad4ad6537680007be2ea6/colorLogoPNG.png" group-title="Música",Clubbing TV Espanha
+#EXTINF:-1 tvg-name="Clubbing TV Espanha" channel-id="clubbing-tv-es" tvg-logo="http://images.pluto.tv/channels/600ad4ad6537680007be2ea6/colorLogoPNG.png" group-title="Música",Clubbing TV | Espanha
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/600ad4ad6537680007be2ea6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a9a8e551-8b68-11eb-b9cd-1bc319230674&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=70bc0c2a-93a5-4713-b658-cad49ec55f38&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="" tvg-name="Clubbing TV UK" tvg-id="600ad1a372e57c0007dbee5a" tvg-logo="https://images.pluto.tv/channels/600ad1a372e57c0007dbee5a/colorLogoPNG.png" group-title="Música",Clubbing TV UK
+#EXTINF:-1 tvg-id="" tvg-name="Clubbing TV UK" tvg-id="600ad1a372e57c0007dbee5a" tvg-logo="https://images.pluto.tv/channels/600ad1a372e57c0007dbee5a/colorLogoPNG.png" group-title="Música",Clubbing TV | Reino Unido
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/600ad1a372e57c0007dbee5a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 channel-id="cmt-equal-play" tvg-name="CMT Equal Play" tvg-logo="http://images.pluto.tv/channels/5f68f53eb1e5800007390bf8/colorLogoPNG.png" group-title="Música",CMT Equal Play | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f68f53eb1e5800007390bf8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c896951-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=42bcfa63-aec5-4760-b993-bf2501603b69&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-name="Juice TV Austrália" tvg-id="juice.au" tvg-logo="https://i.mjh.nz/.images/tv.juice.png" group-title="Música",Juice TV AU
+#EXTINF:-1 tvg-name="Juice TV Austrália" tvg-id="juice.au" tvg-logo="https://i.mjh.nz/.images/tv.juice.png" group-title="Música",Juice TV | Austrália
 https://i.mjh.nz/nz/tv.juice.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Música" tvg-name="Live in Concert | Alemanha" tvg-logo="https://images.pluto.tv/channels/603d01a55123740007f8375a/colorLogoPNG.png",Live in Concert | Alemanha
@@ -69,6 +72,9 @@ https://qwestjazz-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="questmix.au" tvg-name="Quest TV Mix Austrália" tvg-logo="https://i.imgur.com/B69BHnx.jpg" group-title="Música",Quest TV Mix Austrália
 https://qwestmix-samsungau.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="101700" tvg-name="Rewind TV Chile" tvg-logo="https://imgur.com/fssx3Gh.png" group-title="Música",Rewind TV Chile
+https://tls.cdnz.cl/rewindtv/rewindtv/playlist.m3u8
+
 #EXTINF:-1 channel-id="vevo-reggaeton-and-trap" tvg-name="Vevo Reggaetón & Trap" tvg-logo="http://images.pluto.tv/channels/5f32f397795b750007706448/colorLogoPNG.png" group-title="Música",Vevo Reggaetón & Trap
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32f397795b750007706448/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c868322-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=fc027a03-e512-45db-98af-879f6889407f&userId=&serverSideAds=true
 
@@ -93,8 +99,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fd7bb1f86d94a00079
 #EXTINF:-1 channel-id="vevo-2k" tvg-name="Vevo 2K" tvg-logo="http://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/colorLogoPNG.png" group-title="Música",Vevo 2K
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c8b6520-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=085b69d0-8c20-45f3-b57d-7845972596d9&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="101700" tvg-name="Rewind TV Chile" tvg-logo="https://imgur.com/fssx3Gh.png" group-title="Música",Rewind TV Chile
-https://tls.cdnz.cl/rewindtv/rewindtv/playlist.m3u8
+
 
 ############## NOTÍCIAS 24 HORAS - BRASIL ##############
 
@@ -112,6 +117,7 @@ http://srvx.io:80/live/7885037935/fireurl.co/71837.ts
 
 #EXTINF:-1 tvg-id="Recordnews.br" tvg-name="Record News" tvg-logo="https://imgur.com/HaPL1rx.png" tvg-shift="0" group-title="Notícias",Record News
 https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
+
 
 ############## NOTÍCIAS 24 HORAS - EXTERIOR ##############
 
@@ -314,26 +320,29 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca7f16c37b88b26947
 
 ############################### BRASIL TV ABERTA #####################################
 
-#EXTINF:-1 tvg-id="Globo.br" tvg-name="Rede Globo" tvg-logo="https://imgur.com/5RQ1PxL.png" group-title="Brasil: TV aberta",Rede Globo
-https://live-fe-as-11-37.video.globo.com/d/m/nl/s/hls-globo-go01/hls-globo-go01_1573/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ" tvg-logo="https://imgur.com/5RQ1PxL.png" group-title="Brasil: TV aberta",Globo RJ
-http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo SP" tvg-logo="https://imgur.com/5RQ1PxL.png" group-title="Brasil: TV aberta",Globo SP
-https://live.video.globo.com/d/nl/s/hls-globo-sp1/hls-globo-sp1_3475/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Assembleia.go" tvg-name="Assembleia Goiás" tvg-logo="https://politizar.al.go.leg.br/wp-content/uploads/2019/04/thumbnail_NovaLogo-TV-Alego-branco.png" group-title="Brasil: TV aberta",Assembleia Goiás
-https://ngbvqmbygn.zoeweb.tv/alegolive/smil:alegolive.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="agromais" tvg-name="Agro Mais" tvg-logo="https://portaldoqueijo.com.br/site/wp-content/uploads/2020/06/101158384_143665053919698_2333568191340478464_o.png" group-title="Brasil: TV aberta",Agro+
+https://evpp.mm.uol.com.br/geob_band/agromais/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BandRede.br" tvg-name="Band" tvg-logo="https://imgur.com/HnL2uBA.png" tvg-shift="0" group-title="Brasil: TV aberta",Band
 http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Futura.br" tvg-name="Canal Futura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Canal_Futura.png" tvg-shift="0" group-title="Brasil: TV aberta",Canal Futura
-https://live-fe-as-11-36.video.globo.com/d/nl/s/hls-futura24ha/hls-futura24ha_2126/playlist.m3u8
-
 #EXTINF:-1 tvg-id="canalsaude.br" tvg-name="Canal Saúde" tvg-logo="https://www.gov.br/pt-br/apps/canal-saude/view/++widget++form.widgets.imagem/@@download/Canal+Sa%C3%BAde.jpg" tvg-shift="0" group-title="Brasil: TV aberta",Canal Saúde
 https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/playlist.m3u8
+
+#EXTINF:-1 tvg-id="culturapara" tvg-logo="https://listaiptv.gratis/logos/imagens/culturapara.png" group-title="Brasil: TV aberta",Cultura do Pará
+http://str.portalcultura.com.br/funtelpa/tv_funtelpa/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Desenhos antigos 1" tvg-logo="https://i.pinimg.com/originals/f5/1d/08/f51d08be05919290355ac004cdd5c2d6.png" tvg-shift="0" group-title="Brasil: TV aberta",Desenhos antigos 1
+https://srv5.zcast.com.br/tvmanchete/tvmanchete/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Desenhos antigos 2" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhx6Sn1FvNRTiny_BxWXjOlNoV9SOFZd1iL-r6sSw=s900-c-k-c0x00ffffff-no-rj" tvg-shift="0" group-title="Brasil: TV aberta",Desenhos antigos 2
+https://stmv1.srvstm.com/muriloevangelistade9411/muriloevangelistade9411/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ SD" tvg-logo="https://imgur.com/5RQ1PxL.png" group-title="Brasil: TV aberta",Globo RJ SD
+http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ HD" tvg-logo="https://imgur.com/5RQ1PxL.png" group-title="Brasil: TV aberta",Globo RJ HD
+http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Multishow.br" tvg-name="Multishow" tvg-logo="https://logodownload.org/wp-content/uploads/2017/03/multishow-logo-8.png" tvg-shift="0" group-title="Brasil: TV aberta",Multishow
 http://live.video.globo.com/h/1402196702233012345678915746222339876543210pJEKZjeaTYyxXDM3Kaz8QQ/k/app/a/A/u/anyone/d/s/hls-msw24ha/hls-msw24ha_1417/playlist.m3u8
@@ -350,55 +359,82 @@ https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
 #EXTINF:-1 tvg-id="Redebrasil.br" tvg-name="Rede Brasil" tvg-logo="https://imgur.com/ZgnRZ47.png" group-title="Brasil: TV aberta",Rede Brasil
 https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Redemetropole.br" tvg-name="Rede Metrópole" group-title="Brasil: TV aberta" tvg-logo="https://imgur.com/7g9YNdW.png",Rede Metrópole
-http://187.33.200.235:9000/hls/redemetropole.m3u8
-
-#EXTINF:-1 tvg-id="Redetv.br" tvg-name="Rede TV RJ" tvg-logo="https://i.imgur.com/hd76Jt4.png" tvg-shift="0" group-title="Brasil: TV aberta",Rede TV RJ
-https://hls.brasilstream.com.br/live/redetves/redetves/mono.m3u8?token=6410329353875642000
-
-#EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="TV Alternativa | TV Gazeta MA" tvg-logo="https://imgur.com/lAXbfuU.png" tvg-shift="0" group-title="Brasil: TV aberta",TV Alternativa | TV Gazeta MA
-http://stmv8.conectastm.com/wagner1168/wagner1168/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Tvbrasil.br" tvg-name="TV Brasil" tvg-logo="https://imgur.com/a6w6x9v.png" group-title="Brasil: TV aberta",TV Brasil
-https://origin-02.nxplay.com.br/TV_BRASIL_NX/index.m3u8
-
-#EXTINF:-1 tvg-id="Tvufg.go" tvg-name="TV UFG | TV Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Avatar_-_Quadrado_02.png" group-title="Brasil: TV aberta",TV UFG | TV Brasil
-http://wowza.softhost.com.br:1935/ufg/smil:tvufgweb/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TVE BRASIL" tvg-name="TVE | TV Brasil" tvg-logo="https://i.imgur.com/oNpqaxy.png?1" group-title="Brasil: TV aberta",TVE | TV BRASIL
-http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TVBrasilCentral.br" tvg-name="TBC Cultura Goiás" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/ececa6333f0610f8e13aafbe16a5830b.png" group-title="Brasil: TV aberta",TBC Cultura Goiás
-http://wz3.dnip.com.br/tvbrasil/tvbrasil.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="Catve | Cultura PR" tvg-logo="https://imgur.com/yg60ANb.png" group-title="Brasil: TV aberta",Catve | Cultura PR
-https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1960464540.m3u8
-
-#EXTINF:-1 tvg-name="TV8" tvg-id="Tv8.br" group-title="Brasil: TV aberta" tvg-logo="https://imgur.com/YRD2mvJ.png",TV8 Brasil
-https://cdn.jmvstream.com/w/LVW-9773/ngrp:LVW9773_eRZLMN9Hsr_all/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Redebrasil.br" tvg-name="TV Brasil Oeste" tvg-logo="https://imgur.com/HjlG043.png" group-title="Brasil: TV aberta",TV Brasil Oeste (Rede Brasil)
+#EXTINF:-1 tvg-id="Redebrasil.br" tvg-name="TV Brasil Oeste" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngiy6kmZ2e2moV1EZeW3KgPDcjD6yHdQsEB8pvddQ=s900-c-k-c0x00ffffff-no-rj" group-title="Brasil: TV aberta", Rede Brasil | TV Brasil Oeste (MT)
 https://5ad482a77183d.streamlock.net/operacaotbomt.com.br/operacaotbomt.com.br/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="TV Cidade Verde | SBT PI" tvg-logo="https://imgur.com/8catiCV.png" tvg-shift="0" group-title="Brasil: TV aberta",TV Cidade Verde | SBT PI 
+#EXTINF:-1 tvg-id="Redemetropole.br" tvg-name="Rede Metrópole" group-title="Brasil: TV aberta" tvg-logo="https://play-lh.googleusercontent.com/yAp592JJ2UwfANsFzndnqQDnwbx9EcVo1lbikgbxz3mgR0V7Fp6Jtif0EFFl0CrDNbM",Rede Metrópole
+http://187.33.200.235:9000/hls/redemetropole.m3u8
+
+#EXTINF:-1 tvg-id="Redeminas.br" tvg-name="Rede Minas" group-title="Brasil: TV aberta" tvg-logo="https://pbs.twimg.com/profile_images/1151111400615550976/MQW6Uj8p.png",Rede Minas SD
+https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_.m3u8
+
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="Rede TV RJ" tvg-logo="https://i.imgur.com/hd76Jt4.png" tvg-shift="0" group-title="Brasil: TV aberta",Rede TV (RJ)
+https://hls.brasilstream.com.br/live/redetves/redetves/mono.m3u8?token=6410329353875642000
+
+#EXTINF:-1 tvg-id="Assembleia.go" tvg-name="Assembleia Goiás" tvg-logo="https://politizar.al.go.leg.br/wp-content/uploads/2019/04/thumbnail_NovaLogo-TV-Alego-branco.png" group-title="Brasil: TV aberta",TV Alego
+https://ngbvqmbygn.zoeweb.tv/alegolive/smil:alegolive.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PUCTV.br" tvg-name="PUC TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3c/Logo_puctv.png" tvg-shift="0" group-title="Brasil: TV aberta",TV Aparecida | PUC TV (GO)
+https://59fb88a1b1108.streamlock.net/pucgoias/aovivo/chunklist_w897014956.m3u8
+
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="TV Cidade Verde PI" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/29/Logotipo_da_Rede_Cidade_Verde.png" tvg-shift="0" group-title="Brasil: TV aberta",SBT | TV Cidade Verde (PI)
 https://stmv1.transmissaodigital.com/cidadeverde/cidadeverde/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT Maranhão" tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="Brasil: TV aberta",TV Difusora | SBT Maranhão
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT Maranhão" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b4/Logotipo_da_TV_Difusora.png" group-title="Brasil: TV aberta",SBT | TV Difusora (MA)
 http://difusorama.zoeweb.tv:1935/z437-live/stream/chunklist_w1260675550.m3u8
 
-#EXTINF:-1 tvg-id="Sbt.br" tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="Brasil: TV aberta",SBT Caruaru PE 
-http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8
+#EXTINF:-1 tvg-logo="https://imagens.ne10.uol.com.br/img/imagens/2020/10/22/a38a58f118_design-sem-nome5.jpg" group-title="Brasil: TV aberta",SBT | TV Jornal (PE)
+http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://imagens.ne10.uol.com.br/img/imagens/2020/10/22/a38a58f118_design-sem-nome5.jpg" group-title="Brasil: TV aberta",SBT | TV Jornal Caruaru (PE)
+http://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Tvmanchete" tvg-name="Manchete 1" tvg-logo="https://imgur.com/dQRl59I.png" tvg-shift="0" group-title="Brasil: TV aberta",Manchete 1
-https://srv5.zcast.com.br/tvmanchete/tvmanchete/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/567312773319630848/Sho8pafO.png" group-title="Brasil: TV aberta",SBT | TV Serra Dourada (GO)
+https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="manchete" tvg-name="Manchete 2" tvg-logo="https://imgur.com/dQRl59I.png" tvg-shift="0" group-title="Brasil: TV aberta",Manchete 2
-https://stmv1.srvstm.com/muriloevangelistade9411/muriloevangelistade9411/playlist.m3u8
+#EXTINF:-1 tvg-id="Terraviva.br" tvg-name="Terra Viva" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/Terra_Viva_logo.svg" tvg-shift="0" group-title="Brasil: TV aberta",Terra Viva
+https://evpp.mm.uol.com.br/band_live/terraviva/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Tvmetropole.br" group-title="Brasil: TV aberta" tvg-logo="https://imgur.com/EhJNGIy.png",TV Metrópole
+#EXTINF:-1 tvg-id="Tvbrasil.br" tvg-name="TV Brasil" tvg-logo="https://www.fenaert.org.br/images/Novatvbrasil.jpg" group-title="Brasil: TV aberta",TV Brasil 240
+https://tvbrasil-stream.ebc.com.br/STsEBCLIVE_240/index.m3u8
+
+#EXTINF:-1 tvg-id="Tvbrasil.br" tvg-name="TV Brasil" tvg-logo="https://www.fenaert.org.br/images/Novatvbrasil.jpg" group-title="Brasil: TV aberta",TV Brasil 480
+https://tvbrasil-stream.ebc.com.br/STsEBCLIVE_480/index.m3u8
+
+#EXTINF:-1 tvg-id="Tvbrasil.br" tvg-name="TV Brasil" tvg-logo="https://www.fenaert.org.br/images/Novatvbrasil.jpg" group-title="Brasil: TV aberta",TV Brasil 720
+https://tvbrasil-stream.ebc.com.br/STsEBCLIVE_720/index.m3u8
+
+#EXTINF:-1 tvg-id="Tvbrasil.br" tvg-name="TV Brasil" tvg-logo="https://www.fenaert.org.br/images/Novatvbrasil.jpg" group-title="Brasil: TV aberta",TV Brasil HD
+https://origin-02.nxplay.com.br/TV_BRASIL_NX/index.m3u8
+
+#EXTINF:-1 tvg-id="TVbrasil.br" tvg-name="TV Brasil | TVE" tvg-logo="https://pbs.twimg.com/profile_images/927523078690787328/cY2qU7jK_400x400.jpg" group-title="Brasil: TV aberta",TV Brasil | TVE (RS)
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tbrasil.br" tvg-name="TV UFG | TV Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Avatar_-_Quadrado_02.png" group-title="Brasil: TV aberta",TV Brasil - TV UFG (GO)
+http://wowza.softhost.com.br:1935/ufg/smil:tvufgweb/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tvcamara.br" tvg-name="TV Câmara" tvg-logo="https://logodownload.org/wp-content/uploads/2019/01/tv-camara-logo.png" group-title="Brasil: TV aberta",TV Câmara 
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+
+#EXTINF:-1 tvg-id="Tvcamara.br" tvg-name="TV Câmara" tvg-logo="https://logodownload.org/wp-content/uploads/2019/01/tv-camara-logo.png" group-title="Brasil: TV aberta",TV Câmara 2
+https://stream3.camara.gov.br/tv2/manifest.m3u8
+
+#EXTINF:-1 tvg-id="Tvcamara.br" tvg-name="TV Câmara" tvg-logo="https://logodownload.org/wp-content/uploads/2019/01/tv-camara-logo.png" group-title="Brasil: TV aberta",TV Câmara 3
+https://stream3.camara.gov.br/tv2/manifest.m3u8
+
+#EXTINF:-1 tvg-id="catve.br" tvg-name="Cultura | Catve PR" tvg-logo="https://imgur.com/yg60ANb.png" group-title="Brasil: TV aberta",TV Cultura | Catve (PR)
+https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1960464540.m3u8
+
+#EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="TBC Cultura Goiás" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/ececa6333f0610f8e13aafbe16a5830b.png" group-title="Brasil: TV aberta",TV Cultura | TBC (GO)
+http://wz3.dnip.com.br/tvbrasil/tvbrasil.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="TV Gazeta | TV Alternativa (MA)" tvg-logo="https://imgur.com/lAXbfuU.png" tvg-shift="0" group-title="Brasil: TV aberta",TV Gazeta | Alternativa (MA)
+http://stmv8.conectastm.com/wagner1168/wagner1168/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tvmetropole.br" group-title="Brasil: TV aberta" tvg-logo="https://imgur.com/EhJNGIy.png",TV Metrópole | Caucaia (CE)
 https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Tv8.br" group-title="Brasil: TV aberta" tvg-logo="https://imgur.com/YRD2mvJ.png",TV8 Brasil
+#EXTINF:-1 tvg-name="TV8" tvg-id="Tv8.br" group-title="Brasil: TV aberta" tvg-logo="https://imgur.com/YRD2mvJ.png",TV8 Brasil
 https://cdn.jmvstream.com/w/LVW-9773/ngrp:LVW9773_eRZLMN9Hsr_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="unisctv" tvg-name="Unisc TV" group-title="Brasil: TV aberta" tvg-logo="https://lh3.googleusercontent.com/proxy/EPJnEw2jl6EIMkp1YvpK-pgvDJ6qxKsH3oTArkik5kWJh3lt2VUArdNtmrRe1JRvzg3U6bFjL9Z7LIw8jZcfph6reL3ePVjDqyHQlmHFifCFMhjs3JvbwMB__QKB4mLysW_rSh8_B_Yf_HoBQNxfHYepACMqtUU8dLkuC8Ih_uDlZjKLEi-T",Unisc TV
@@ -1428,14 +1464,14 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5616f9c0ada51f8004c
 #EXTINF:-1 channel-id="black-ink-crew" tvg-logo="http://images.pluto.tv/channels/5d51e2bceca5b4b2c0e06c50/colorLogoPNG.png" group-title="EUA: MTV e VH1",Black Ink Crew | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d51e2bceca5b4b2c0e06c50/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc9678f0-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3aed084d-b5c8-4bb2-9143-db79e56220bc&userId=&serverSideAds=true
 
-#EXTINF:-1 channel-id="vh1-i-love-reality" tvg-logo="http://images.pluto.tv/channels/5d7154fa8326b6ce4ec31f2e/colorLogoPNG.png" group-title="EUA: MTV e VH1",VH1 I Love Reality | EUA
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d7154fa8326b6ce4ec31f2e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc9678f4-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b059b819-69cd-49c6-9e53-71939a6403ee&userId=&serverSideAds=true
-
-#EXTINF:-1 channel-id="vh1-hip-hop-family" tvg-logo="http://images.pluto.tv/channels/5d71561df6f2e6d0b6493bf5/colorLogoPNG.png" group-title="EUA: MTV e VH1",VH1 Hip Hop Family | EUA
+#EXTINF:-1 channel-id="vh1-hip-hop-family" tvg-logo="http://images.pluto.tv/channels/5d71561df6f2e6d0b6493bf5/colorLogoPNG.png" group-title="EUA: MTV e VH1",Hip Hop Family | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d71561df6f2e6d0b6493bf5/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc9678f5-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d966e3f0-a091-456d-bbef-179450e804ec&userId=&serverSideAds=true
 
-#EXTINF:-1 channel-id="vh1-hip-hop-family-2" tvg-logo="http://images.pluto.tv/channels/5f7789c1d210fd0007a92182/colorLogoPNG.png" group-title="EUA: MTV e VH1",VH1 Hip Hop Family 2 | EUA
+#EXTINF:-1 channel-id="vh1-hip-hop-family-2" tvg-logo="http://images.pluto.tv/channels/5f7789c1d210fd0007a92182/colorLogoPNG.png" group-title="EUA: MTV e VH1",Hip Hop Family 2 | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f7789c1d210fd0007a92182/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc9a4981-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bae2b1e5-2f33-4d1d-bd73-cd3dfbbfbb92&userId=&serverSideAds=true
+
+#EXTINF:-1 channel-id="vh1-i-love-reality" tvg-logo="http://images.pluto.tv/channels/5d7154fa8326b6ce4ec31f2e/colorLogoPNG.png" group-title="EUA: MTV e VH1",I Love Reality | EUA
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d7154fa8326b6ce4ec31f2e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc9678f4-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b059b819-69cd-49c6-9e53-71939a6403ee&userId=&serverSideAds=true
 
 #EXTINF:-1 channel-id="love-and-hip-hop" tvg-logo="http://images.pluto.tv/channels/5d51ddf0369acdb278dfb05e/colorLogoPNG.png" group-title="EUA: MTV e VH1",Love & Hip Hop | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d51ddf0369acdb278dfb05e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc9651e5-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=80068276-c01b-42b1-ab69-765c87e3a9f7&userId=&serverSideAds=true
@@ -1455,7 +1491,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96d351652631e36d
 #EXTINF:-1 channel-id="mtv-pluto-tv" tvg-logo="http://images.pluto.tv/channels/5ca672f515a62078d2ec0ad2/colorLogoPNG.png" group-title="EUA: MTV e VH1",MTV Pluto | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca672f515a62078d2ec0ad2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc954074-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0a99ad58-c51e-4cc7-81bd-35fedc41791b&userId=&serverSideAds=true
 
-#EXTINF:-1 channel-id="mtv-spankin-new" tvg-logo="http://images.pluto.tv/channels/5d14fdb8ca91eedee1633117/colorLogoPNG.png" group-title="EUA: MTV e VH1",MTV Spankin" New | EUA
+#EXTINF:-1 channel-id="mtv-spankin-new" tvg-logo="http://images.pluto.tv/channels/5d14fdb8ca91eedee1633117/colorLogoPNG.png" group-title="EUA: MTV e VH1",MTV Spankin' New | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fdb8ca91eedee1633117/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7e6cd1-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=86fe2c41-24ae-4853-942c-7cf0a3b53856&userId=&serverSideAds=true
 
 #EXTINF:-1 channel-id="the-challenge" tvg-logo="http://images.pluto.tv/channels/5d48685da7e9f476aa8a1888/colorLogoPNG.png" group-title="EUA: MTV e VH1",The Challenge | EUA 
@@ -2688,3 +2724,4 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ea190ae8
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad8d796e738977e2c31094a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="5ca1ddd108ee5378be82db3a" tvg-logo="https://images.pluto.tv/channels/5ca1ddd108ee5378be82db3a/colorLogoPNG.png" group-title="Reino Unido: Pluto",Worst Cooks in America UK
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca1ddd108ee5378be82db3a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
