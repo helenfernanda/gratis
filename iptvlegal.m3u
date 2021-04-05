@@ -3,10 +3,13 @@ url-tvg="http://epg.liveiptv.net/epg.xml,https://cld.pt/dl/download/7a36f027-b90
 
 ########### MÚSICA ###################
 
-#EXTINF:-1 tvg-id="1hdru" group-title="Música" tvg-name="1HD" tvg-logo="https://www.1hd.tv/bitrix/templates/smashweb_v2/images/logo.svg",1HD Music | Estônia
+#EXTINF:-1 tvg-id="1hdru" group-title="Música" tvg-name="1HD" tvg-logo="https://lh3.googleusercontent.com/iHSgMsaVX7oFDLU73HzrQGBw6sOPlUxvdOOvjAZpMuYM63AqnK_0ZUP9E8t_l1pD1A=w220-rw",1HD Music | Estônia
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/mono.m3u8
 
-#EXTINF:-1 tvg-id="Castoutofparadise" group-title="Música" tvg-name="Castoutofparadise" tvg-logo="https://www.1hd.tv/bitrix/templates/smashweb_v2/images/logo.svg",Castoutofparadise | EUA
+#EXTINF:-1 tvg-id="BoxHits.uk" tvg-name="Box Hits" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Box_hits.svg/1280px-Box_hits.svg.png" group-title="Música",Box Hits | Reino Unido
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/5947?pprotocol=hls
+
+#EXTINF:-1 tvg-id="Castoutofparadise" group-title="Música" tvg-name="Castoutofparadise" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWeckfObfyFWhe5JuPFGqaZgCiFyBSZXjg4RqleTMoxnlpG_wSOg3gOaRJjYdxQHUbZa0&usqp=CAU",Castoutofparadise | EUA
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3611&pprotocol=hls
 
 #EXTINF:-1 tvg-id="5f984784ccb4de0007dfad74" group-title="Música" tvg-name="Clubbing TV Alemanha" tvg-logo="https://images.pluto.tv/channels/5f984784ccb4de0007dfad74/colorLogoPNG.png",Clubbing TV | Alemanha
@@ -20,9 +23,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/600ad1a37
 
 #EXTINF:-1 channel-id="cmt-equal-play" tvg-name="CMT Equal Play" tvg-logo="http://images.pluto.tv/channels/5f68f53eb1e5800007390bf8/colorLogoPNG.png" group-title="Música",CMT Equal Play | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f68f53eb1e5800007390bf8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c896951-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=42bcfa63-aec5-4760-b993-bf2501603b69&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="BoxHits.uk" tvg-name="Box Hits" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Box_hits.svg/1280px-Box_hits.svg.png" group-title="Música",Box Hits | Reino Unido
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/5947?pprotocol=hls
 
 #EXTINF:-1 tvg-id="tribetv" group-title="Música" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWeckfObfyFWhe5JuPFGqaZgCiFyBSZXjg4RqleTMoxnlpG_wSOg3gOaRJjYdxQHUbZa0&usqp=CAU" tvg-name="Tribe TV",Filmon Tribe TV
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/2987&pprotocol=hls
@@ -54,13 +54,13 @@ https://a0da9e6a83bc4a739ceb39f81766fce0.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/62CjWTa.jpg" group-title="Música" tvg-name="Loop Party | EUA",Loop Party | EUA
 https://aa25f9002c724666a6e1e9402e78f94f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_LoopParty/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Loupe Brasil" channel-id="loupe-br" tvg-logo="http://images.pluto.tv/channels/600b248969c6580007e91a2d/colorLogoPNG.png" group-title="Música",Loupe Brasil
+#EXTINF:-1 tvg-name="Loupe Brasil" channel-id="loupe-br" tvg-logo="https://media-exp1.licdn.com/dms/image/C4D0BAQFyyXznCPCX5Q/company-logo_200_200/0/1519921044747?e=2159024400&v=beta&t=zG7sdc7PpRBdwxr00jP9ssNa_WfXxGLxPkvpeuKePlI" group-title="Música",Loupe Brasil
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/600b248969c6580007e91a2d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b24c9db0-8dd8-11eb-83c3-1ff76e6e06e9&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7a6e25a5-cd97-4493-beb5-5001da599dd1&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-name="Loupe Argentina" channel-id="loupe-ar" tvg-logo="http://images.pluto.tv/channels/5ffcc38adbc38100073511f2/colorLogoPNG.png" group-title="Música",Loupe Argentina
+#EXTINF:-1 tvg-name="Loupe Argentina" channel-id="loupe-ar" tvg-logo="https://media-exp1.licdn.com/dms/image/C4D0BAQFyyXznCPCX5Q/company-logo_200_200/0/1519921044747?e=2159024400&v=beta&t=zG7sdc7PpRBdwxr00jP9ssNa_WfXxGLxPkvpeuKePlI" group-title="Música",Loupe Argentina
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ffcc38adbc38100073511f2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=98a3fd62-8e3f-11eb-9619-637dcb8e0f08&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a35b3c8a-7da4-45c8-99f2-06811ca4c06d&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-name="Loupe EUA" channel-id="loupe-eua" tvg-logo="http://images.pluto.tv/channels/5f0cb39b4ae1f80007bad585/colorLogoPNG.png" group-title="Música",Loupe EUA
+#EXTINF:-1 tvg-name="Loupe EUA" channel-id="loupe-eua" tvg-logo="https://media-exp1.licdn.com/dms/image/C4D0BAQFyyXznCPCX5Q/company-logo_200_200/0/1519921044747?e=2159024400&v=beta&t=zG7sdc7PpRBdwxr00jP9ssNa_WfXxGLxPkvpeuKePlI" group-title="Música",Loupe EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f0cb39b4ae1f80007bad585/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc98e9f5-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=99bbe6a5-becc-4f1b-8af9-bb8f6923faf9&userId=&serverSideAds=true
 
 #EXTINF:-1 channel-id="mtv-biggest-pop" tvg-name="MTV Biggest Pop | EUA" group-title="Música" tvg-logo="http://images.pluto.tv/channels/5d14fd1a252d35decbc4080c/colorLogoPNG.png",MTV Biggest Pop | EUA
