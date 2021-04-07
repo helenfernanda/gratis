@@ -9,6 +9,9 @@ http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/mono.m3u8
 #EXTINF:-1 tvg-id="BoxHits.uk" tvg-name="Box Hits" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Box_hits.svg/1280px-Box_hits.svg.png" group-title="Música",Box Hits | Reino Unido
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/5947?pprotocol=hls
 
+#EXTINF:-1 tvg-id="" group-title="Música" tvg-name="BritRox" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWeckfObfyFWhe5JuPFGqaZgCiFyBSZXjg4RqleTMoxnlpG_wSOg3gOaRJjYdxQHUbZa0&usqp=CAU",BritRox
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3698&pprotocol=hls
+
 #EXTINF:-1 tvg-id="Castoutofparadise" group-title="Música" tvg-name="Castoutofparadise" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWeckfObfyFWhe5JuPFGqaZgCiFyBSZXjg4RqleTMoxnlpG_wSOg3gOaRJjYdxQHUbZa0&usqp=CAU",Castoutofparadise | EUA
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3611&pprotocol=hls
 
@@ -24,8 +27,29 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/600ad1a37
 #EXTINF:-1 channel-id="cmt-equal-play" tvg-name="CMT Equal Play" tvg-logo="http://images.pluto.tv/channels/5f68f53eb1e5800007390bf8/colorLogoPNG.png" group-title="Música",CMT Equal Play | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f68f53eb1e5800007390bf8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c896951-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=42bcfa63-aec5-4760-b993-bf2501603b69&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="tribetv" group-title="Música" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWeckfObfyFWhe5JuPFGqaZgCiFyBSZXjg4RqleTMoxnlpG_wSOg3gOaRJjYdxQHUbZa0&usqp=CAU" tvg-name="Tribe TV",Filmon Tribe TV
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/2987&pprotocol=hls
+#EXTINF:-1 tvg-id="" group-title="Música" tvg-name="Country Star" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWeckfObfyFWhe5JuPFGqaZgCiFyBSZXjg4RqleTMoxnlpG_wSOg3gOaRJjYdxQHUbZa0&usqp=CAU",Country Star
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3008&pprotocol=hls
+
+#EXTINF:-1 tvg-id="" group-title="Música" tvg-name="DMTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWeckfObfyFWhe5JuPFGqaZgCiFyBSZXjg4RqleTMoxnlpG_wSOg3gOaRJjYdxQHUbZa0&usqp=CAU",DMTV
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3056&pprotocol=hls
+
+#EXTINF:-1 tvg-id="" group-title="Música" tvg-name="EDM TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWeckfObfyFWhe5JuPFGqaZgCiFyBSZXjg4RqleTMoxnlpG_wSOg3gOaRJjYdxQHUbZa0&usqp=CAU",EDM TV
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3863&pprotocol=hls
+
+#EXTINF:-1 tvg-id="" group-title="Música" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWeckfObfyFWhe5JuPFGqaZgCiFyBSZXjg4RqleTMoxnlpG_wSOg3gOaRJjYdxQHUbZa0&usqp=CAU" tvg-name="Filmon Jazz and Blues",Filmon Jazz and Blues
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/530&pprotocol=hls
+
+#EXTINF:-1 tvg-id="" group-title="Música" tvg-name="Hot Rock" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWeckfObfyFWhe5JuPFGqaZgCiFyBSZXjg4RqleTMoxnlpG_wSOg3gOaRJjYdxQHUbZa0&usqp=CAU",Hot Rock
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/4667&pprotocol=hls
+
+#EXTINF:-1 tvg-id="" group-title="Música" tvg-name="Ireland Country" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWeckfObfyFWhe5JuPFGqaZgCiFyBSZXjg4RqleTMoxnlpG_wSOg3gOaRJjYdxQHUbZa0&usqp=CAU",Ireland Country
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3683&pprotocol=hls
+
+#EXTINF:-1 tvg-id="" group-title="Música" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWeckfObfyFWhe5JuPFGqaZgCiFyBSZXjg4RqleTMoxnlpG_wSOg3gOaRJjYdxQHUbZa0&usqp=CAU" tvg-name="Janey Kirk",Janey Kirk | Country
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3551&pprotocol=hls
+
+#EXTINF:-1 tvg-id="" group-title="Música" tvg-name="JBTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWeckfObfyFWhe5JuPFGqaZgCiFyBSZXjg4RqleTMoxnlpG_wSOg3gOaRJjYdxQHUbZa0&usqp=CAU",JBTV
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/2999&pprotocol=hls
 
 #EXTINF:-1 tvg-name="Juice TV Austrália" tvg-id="juice.au" tvg-logo="https://i.mjh.nz/.images/tv.juice.png" group-title="Música",Juice TV | Austrália
 https://i.mjh.nz/nz/tv.juice.m3u8
@@ -63,11 +87,17 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ffcc38adbc38100073
 #EXTINF:-1 tvg-name="Loupe EUA" channel-id="loupe-eua" tvg-logo="https://media-exp1.licdn.com/dms/image/C4D0BAQFyyXznCPCX5Q/company-logo_200_200/0/1519921044747?e=2159024400&v=beta&t=zG7sdc7PpRBdwxr00jP9ssNa_WfXxGLxPkvpeuKePlI" group-title="Música",Loupe EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f0cb39b4ae1f80007bad585/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc98e9f5-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=99bbe6a5-becc-4f1b-8af9-bb8f6923faf9&userId=&serverSideAds=true
 
+#EXTINF:-1 tvg-id="" group-title="Música" tvg-name="Miami Music Television" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWeckfObfyFWhe5JuPFGqaZgCiFyBSZXjg4RqleTMoxnlpG_wSOg3gOaRJjYdxQHUbZa0&usqp=CAU",Miami Music Television | EUA
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/4670&pprotocol=hls
+
 #EXTINF:-1 channel-id="mtv-biggest-pop" tvg-name="MTV Biggest Pop | EUA" group-title="Música" tvg-logo="http://images.pluto.tv/channels/5d14fd1a252d35decbc4080c/colorLogoPNG.png",MTV Biggest Pop | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fd1a252d35decbc4080c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7e6cd0-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=5aadef90-1bb2-47f4-9f66-7ff231f9b031&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-name="MTV Yo! EUA" channel-id="yo-mtv" tvg-logo="http://images.pluto.tv/channels/5d14fc31252d35decbc4080b/colorLogoPNG.png" group-title="Música",MTV Yo! EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fc31252d35decbc4080b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7e45c2-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dfeb1d80-be28-4be3-b669-23fa79a8aec7&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWeckfObfyFWhe5JuPFGqaZgCiFyBSZXjg4RqleTMoxnlpG_wSOg3gOaRJjYdxQHUbZa0&usqp=CAU" group-title="Música" tvg-name="New Star TV",New Star TV
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3065&pprotocol=hls
 
 #EXTINF:-1 channel-id="classica.eua" tvg-name="Pluto Clássica EUA" tvg-logo="http://images.pluto.tv/channels/5f779951372da90007fd45e8/colorLogoPNG.png" group-title="Música",Pluto Clássica EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f779951372da90007fd45e8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c8a2ca3-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d0c6b789-884d-4edf-bde4-b9619b8ad48c&userId=&serverSideAds=true
@@ -81,8 +111,20 @@ https://qwestjazz-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="questmix.au" tvg-name="Quest TV Mix Austrália" tvg-logo="https://i.imgur.com/B69BHnx.jpg" group-title="Música",Quest TV Mix Austrália
 https://qwestmix-samsungau.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWeckfObfyFWhe5JuPFGqaZgCiFyBSZXjg4RqleTMoxnlpG_wSOg3gOaRJjYdxQHUbZa0&usqp=CAU" group-title="Música" tvg-name="Road2Fame",Road2Fame
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3347&pprotocol=hls
+
 #EXTINF:-1 tvg-id="101700" tvg-name="Rewind TV Chile" tvg-logo="https://imgur.com/fssx3Gh.png" group-title="Música",Rewind TV Chile
 https://tls.cdnz.cl/rewindtv/rewindtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Música" tvg-name="Talent Watch" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWeckfObfyFWhe5JuPFGqaZgCiFyBSZXjg4RqleTMoxnlpG_wSOg3gOaRJjYdxQHUbZa0&usqp=CAU",Talent Watch
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/4706&pprotocol=hls
+
+#EXTINF:-1 tvg-id="Tipstr.TV" group-title="Música" tvg-name="Tipstr.TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWeckfObfyFWhe5JuPFGqaZgCiFyBSZXjg4RqleTMoxnlpG_wSOg3gOaRJjYdxQHUbZa0&usqp=CAU",Tipstr.TV
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3539&pprotocol=hls
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWeckfObfyFWhe5JuPFGqaZgCiFyBSZXjg4RqleTMoxnlpG_wSOg3gOaRJjYdxQHUbZa0&usqp=CAU" tvg-id="tribetv" group-title="Música" tvg-name="Tribe TV",Tribe TV
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/2987&pprotocol=hls
 
 #EXTINF:-1 channel-id="vevo-reggaeton-and-trap" tvg-name="Vevo Reggaetón & Trap" tvg-logo="http://images.pluto.tv/channels/5f32f397795b750007706448/colorLogoPNG.png" group-title="Música",Vevo Reggaetón & Trap
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32f397795b750007706448/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c868322-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=fc027a03-e512-45db-98af-879f6889407f&userId=&serverSideAds=true
@@ -136,8 +178,14 @@ https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea09
 #EXTINF:-1 tvg-name="ABC News 2 | Austrália" tvg-id="abcnews.com.au" tvg-logo="https://i.imgur.com/rdkvOCh.png" group-title="Notícias",ABC News 2 | Austrália
 https://c.mjh.nz/101002210220/
 
-#EXTINF:-1 tvg-name="Al Jazeera | English" tvg-id="aljazeeraingles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Al-jazeera-logo.jpg" group-title="Notícias",Al Jazeera | English
+#EXTINF:-1 tvg-name="Al Jazeera Arabe" tvg-id="AlJazeeraArabe.nws" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Al-jazeera-logo.jpg" group-title="Notícias",Al Jazeera | Árabe
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3035?pprotocol=hls
+
+#EXTINF:-1 tvg-name="Al Jazeera | English" tvg-id="Al-JazeeraEnglish.net" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Al-jazeera-logo.jpg" group-title="Notícias",Al Jazeera | Inglês
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+
+#EXTINF:-1 tvg-name="Al Jazeera Mubasher" tvg-id="Al-Jazeera.net" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Al-jazeera-logo.jpg" group-title="Notícias",Al Jazeera | Mubasher
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3032?pprotocol=hls
 
 #EXTINF:-1 tvg-name="Ausbiz Austrália" tvg-id="tv.7ausbiz" tvg-logo="https://i.imgur.com/8hYBj3q.png" group-title="Notícias",Ausbiz Austrália
 https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8
@@ -222,6 +270,9 @@ https://live.cgtn.com/500/prog_index.m3u8
 
 #EXTINF:-1 channel-id="cnn" tvg-name="CNN EUA" tvg-logo="http://images.pluto.tv/channels/5421f71da6af422839419cb3/colorLogoPNG.png" group-title="Notícias",CNN EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af422839419cb3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc91e510-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=03988411-6463-422e-81c6-ec0873b4bd7a&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.desifree.tv/wp-content/uploads/DUBAI-SPORTS.jpg" tvg-name="Dubai Sports" group-title="Notícias",Dubai Sports | Emirados Árabes Unidos 
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/79?pprotocol=hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K1kJf1s.png" group-title="Notícias" tvg-name="Euronews Roku | EUA",Euronews Roku | EUA
 https://euronews-euronews-world-1.roku.wurl.com/manifest/playlist.m3u8
@@ -336,6 +387,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad8d907e
 #EXTINF:-1 channel-id="pluto-tv-gamer" tvg-logo="http://images.pluto.tv/channels/5ca7f16c37b88b2694731c79/colorLogoPNG.png" group-title="Videogame",Pluto TV Gamer
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca7f16c37b88b2694731c79/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc956782-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8f11f607-b195-41da-80ce-b246f72c0030&userId=&serverSideAds=true
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWeckfObfyFWhe5JuPFGqaZgCiFyBSZXjg4RqleTMoxnlpG_wSOg3gOaRJjYdxQHUbZa0&usqp=CAU" group-title="Música" tvg-name="The Miki Show",The Miki Show | EUA
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/728&pprotocol=hls
+
 ############################### BRASIL TV ABERTA #####################################
 
 #EXTINF:-1 tvg-id="agromais" tvg-name="Agro Mais" tvg-logo="https://portaldoqueijo.com.br/site/wp-content/uploads/2020/06/101158384_143665053919698_2333568191340478464_o.png" group-title="Brasil: TV aberta",Agro+
@@ -349,6 +403,9 @@ https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/playlist.m3u8
 
 #EXTINF:-1 tvg-id="culturapara" tvg-logo="https://listaiptv.gratis/logos/imagens/culturapara.png" group-title="Brasil: TV aberta",Cultura do Pará
 http://str.portalcultura.com.br/funtelpa/tv_funtelpa/live.m3u8
+
+#EXTINF:-1 tvg-id="demaistv.br" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5a0ca2ab1c68adcde7bf577af87071b8.jpg" group-title="Brasil: TV aberta",D+ TV
+https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ SD" tvg-logo="https://imgur.com/5RQ1PxL.png" group-title="Brasil: TV aberta",Globo RJ SD
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
@@ -1365,8 +1422,17 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bb1b439ea5c9e53afd
 #EXTINF:-1 channel-id="et-live" tvg-logo="http://images.pluto.tv/channels/5dc0c78281eddb0009a02d5e/colorLogoPNG.png" group-title="EUA: Celebridades",ET Live
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dc0c78281eddb0009a02d5e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc973c44-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=85a40cb6-c939-41ff-b702-166c0715d8d0&userId=&serverSideAds=true
 
+#EXTINF:-1 tvg-id="" group-title="EUA: Celebridades" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWeckfObfyFWhe5JuPFGqaZgCiFyBSZXjg4RqleTMoxnlpG_wSOg3gOaRJjYdxQHUbZa0&usqp=CAU" tvg-name="Hollywood Show Live",Hollywood Show Live
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/4280&pprotocol=hls
+
+#EXTINF:-1 tvg-id="" group-title="EUA: Celebridades" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWeckfObfyFWhe5JuPFGqaZgCiFyBSZXjg4RqleTMoxnlpG_wSOg3gOaRJjYdxQHUbZa0&usqp=CAU" tvg-name="Movie Loft TV",Movie Loft TV
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/2719&pprotocol=hls
+
 #EXTINF:-1 channel-id="people-tv" tvg-logo="http://images.pluto.tv/channels/59c2c3ae40e64939daad8b76/colorLogoPNG.png" group-title="EUA: Celebridades",PeopleTV | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/59c2c3ae40e64939daad8b76/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc9392c3-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=da9858d9-53a6-4766-8e59-080eda2d7071&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="" group-title="EUA: Celebridades" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWeckfObfyFWhe5JuPFGqaZgCiFyBSZXjg4RqleTMoxnlpG_wSOg3gOaRJjYdxQHUbZa0&usqp=CAU" tvg-name="Star Shop",Star Shop | EUA
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3575&pprotocol=hls
 
 #EXTINF:-1 channel-id="today-1" tvg-logo="http://images.pluto.tv/channels/5d695f7db53adf96b78e7ce3/colorLogoPNG.png" group-title="EUA: Celebridades",Today
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d695f7db53adf96b78e7ce3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc9678f3-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9c890872-d28a-45bf-8ed7-d15679d9a94c&userId=&serverSideAds=true
@@ -1414,6 +1480,12 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e9f2c05172a0f0007d
 #EXTINF:-1 channel-id="combate-world" tvg-logo="http://images.pluto.tv/channels/5bb1ac3e268cae539bcedb07/colorLogoPNG.png" group-title="EUA: Esporte",Combate World | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bb1ac3e268cae539bcedb07/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc94a431-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=2bbd94dc-bee9-4891-92d0-dfe9d836361c&userId=&serverSideAds=true
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWeckfObfyFWhe5JuPFGqaZgCiFyBSZXjg4RqleTMoxnlpG_wSOg3gOaRJjYdxQHUbZa0&usqp=CAU" tvg-name="Destination X" tvg-id="" group-title="EUA: Esporte",Destination X
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3785&pprotocol=hls
+
+#EXTINF:-1 tvg-id="" group-title="EUA: Esporte" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWeckfObfyFWhe5JuPFGqaZgCiFyBSZXjg4RqleTMoxnlpG_wSOg3gOaRJjYdxQHUbZa0&usqp=CAU" tvg-name="Distant Roads",Distant Roads
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/787&pprotocol=hls
+
 #EXTINF:-1 channel-id="fight" tvg-logo="http://images.pluto.tv/channels/5812b0f2237a6ff45d16c3f9/colorLogoPNG.png" group-title="EUA: Esporte",Fight | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b0f2237a6ff45d16c3f9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc92f680-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=261c4098-55b0-4ed8-9969-86a7f250c44c&userId=&serverSideAds=true
 
@@ -1438,6 +1510,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e66968a70f34c0007d
 #EXTINF:-1 channel-id="mls" tvg-logo="http://images.pluto.tv/channels/5cb626cfcaf83414128f439c/colorLogoPNG.png" group-title="EUA: Esporte",MLS - Futebol | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc956785-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=99fdc87a-1b66-44e7-a963-4fd46b16f58b&userId=&serverSideAds=true
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWeckfObfyFWhe5JuPFGqaZgCiFyBSZXjg4RqleTMoxnlpG_wSOg3gOaRJjYdxQHUbZa0&usqp=CAU" tvg-name="MMA Now" tvg-id="" group-title="EUA: Esporte",MMA Now
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3860&pprotocol=hls
+
 #EXTINF:-1 channel-id="nfl-channel" tvg-logo="http://images.pluto.tv/channels/5ced7d5df64be98e07ed47b6/colorLogoPNG.png" group-title="EUA: Esporte",NFL Channel
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc958e94-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dce17222-dcee-4cd2-81d7-4717e3f8134d&userId=&serverSideAds=true
 
@@ -1449,6 +1524,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f84ce2ac265700008d
 
 #EXTINF:-1 channel-id="pga-tour" tvg-logo="http://images.pluto.tv/channels/5de94dacb394a300099fa22a/colorLogoPNG.png" group-title="EUA: Esporte",PGA Tour - Golfe | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de94dacb394a300099fa22a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc978a62-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1ca4f58c-2c89-46ad-b241-45c4f1c7f77b&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWeckfObfyFWhe5JuPFGqaZgCiFyBSZXjg4RqleTMoxnlpG_wSOg3gOaRJjYdxQHUbZa0&usqp=CAU" tvg-name="Planet X Sport" tvg-id="" group-title="EUA: Esporte",Planet X Sport
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3854&pprotocol=hls
 
 #EXTINF:-1 channel-id="pluto-tv-action-sports" tvg-logo="http://images.pluto.tv/channels/5db867744f229f0009266784/colorLogoPNG.png" group-title="EUA: Esporte",Pluto TV Action Sports | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5db867744f229f0009266784/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc973c43-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d2c8a264-d51d-455d-a27e-d9882458001d&userId=&serverSideAds=true
@@ -1477,8 +1555,26 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 #EXTINF:-1 channel-id="spike-outdoors" tvg-logo="http://images.pluto.tv/channels/5c393cad2de254456f7ef8c2/colorLogoPNG.png" group-title="EUA: Esporte",Spike Outdoors | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c393cad2de254456f7ef8c2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc94f254-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=db20fee1-70c0-4454-85d6-f589c2726be9&userId=&serverSideAds=true
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWeckfObfyFWhe5JuPFGqaZgCiFyBSZXjg4RqleTMoxnlpG_wSOg3gOaRJjYdxQHUbZa0&usqp=CAU" tvg-name="Sports Bloopers" tvg-id="" group-title="EUA: Esporte",Sports Bloopers
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3110&pprotocol=hls
+
 #EXTINF:-1 channel-id="stadium" tvg-logo="http://images.pluto.tv/channels/59974b6d7ec5063cb56f24c9/colorLogoPNG.png" group-title="EUA: Esporte",Stadium | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/59974b6d7ec5063cb56f24c9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc9392c0-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=08eb340c-dab0-4f15-815b-e42f91d5d5bc&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="" group-title="EUA: Esporte" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWeckfObfyFWhe5JuPFGqaZgCiFyBSZXjg4RqleTMoxnlpG_wSOg3gOaRJjYdxQHUbZa0&usqp=CAU" tvg-name="Steel Dreams",Steel Dreams
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/784&pprotocol=hls
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWeckfObfyFWhe5JuPFGqaZgCiFyBSZXjg4RqleTMoxnlpG_wSOg3gOaRJjYdxQHUbZa0&usqp=CAU" tvg-id="" group-title="EUA: Esporte" tvg-name="Torque and Tush",Torque and Tush | EUA
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3187&pprotocol=hls
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWeckfObfyFWhe5JuPFGqaZgCiFyBSZXjg4RqleTMoxnlpG_wSOg3gOaRJjYdxQHUbZa0&usqp=CAU" tvg-name="UFC Next" tvg-id="" group-title="EUA: Esporte",UFC Next
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/713&pprotocol=hls
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWeckfObfyFWhe5JuPFGqaZgCiFyBSZXjg4RqleTMoxnlpG_wSOg3gOaRJjYdxQHUbZa0&usqp=CAU" tvg-name="XCorps" tvg-id="" group-title="EUA: Esporte",XCorps
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/4289&pprotocol=hls
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWeckfObfyFWhe5JuPFGqaZgCiFyBSZXjg4RqleTMoxnlpG_wSOg3gOaRJjYdxQHUbZa0&usqp=CAU" tvg-name="Xptv Sports" tvg-id="" group-title="EUA: Esporte",Xptv Sports
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/5825&pprotocol=hls
 
 #EXTINF:-1 channel-id="world-poker-tour" tvg-logo="http://images.pluto.tv/channels/5616f9c0ada51f8004c4b091/colorLogoPNG.png" group-title="EUA: Esporte",World Poker Tour | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5616f9c0ada51f8004c4b091/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc925a42-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bf575f6b-16f0-4c67-ba5e-514b0094f09d&userId=&serverSideAds=true
@@ -2375,6 +2471,10 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff5ed9ba24f6a00074
 #EXTINF:-1 channel-id="bob-leponge-es" tvg-logo="http://images.pluto.tv/channels/5ffc8c345822750007e167de/colorLogoPNG.png" group-title="França: Pluto",Bob l"éponge
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ffc8c345822750007e167de/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=dda64e72-6a6f-11eb-8380-d53d31dd7908&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=123f7e78-46a0-4060-b9f6-fe5ddfe4ac5d&userId=&serverSideAds=true
 
+#################################### ITÁLIA: FILMON ####
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWeckfObfyFWhe5JuPFGqaZgCiFyBSZXjg4RqleTMoxnlpG_wSOg3gOaRJjYdxQHUbZa0&usqp=CAU" tvg-id="" group-title="Itália: Filmon" tvg-name="Teos TV",Teos TV | Itália
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3359&pprotocol=hls
 
 #################################### MÉXICO ####
 
@@ -2538,6 +2638,19 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebacbcae43a6d0007
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ed6828192e8b3000743ef61/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 #EXTINF:-1 tvg-id="5fceaab478f2af00080ff51f" tvg-logo="https://images.pluto.tv/channels/5fceaab478f2af00080ff51f/colorLogoPNG.png" group-title="México: Pluto",Yu-Gi-Oh México
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fceaab478f2af00080ff51f/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+
+######################### Mongólia: Filmon ##################################
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWeckfObfyFWhe5JuPFGqaZgCiFyBSZXjg4RqleTMoxnlpG_wSOg3gOaRJjYdxQHUbZa0&usqp=CAU" tvg-id="" group-title="Mongólia: Filmon" tvg-name="Mongolian Invasion",Mongolian Invasion | Mongólia
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/5882&pprotocol=hls
+
+######################### Nigéria: Filmon ##################################
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWeckfObfyFWhe5JuPFGqaZgCiFyBSZXjg4RqleTMoxnlpG_wSOg3gOaRJjYdxQHUbZa0&usqp=CAU" tvg-id="Nollywood.ng" group-title="Nigéria: Filmon" tvg-name="Nollywood",Nollywood | Nigéria
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3617&pprotocol=hls
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWeckfObfyFWhe5JuPFGqaZgCiFyBSZXjg4RqleTMoxnlpG_wSOg3gOaRJjYdxQHUbZa0&usqp=CAU" tvg-id="igborotv.ng" group-title="Nigéria: Filmon" tvg-name="Igboro TV",Igboro TV | Nigéria
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3449&pprotocol=hls
 
 ##################################### REINO UNIDO #####
 
