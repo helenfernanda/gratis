@@ -1,6 +1,56 @@
 #EXTM3U
 url-tvg="http://epg.liveiptv.net/epg.xml,https://cld.pt/dl/download/7a36f027-b90a-4be0-ba89-00acb7d82fa7/RHAEPG.xml,https://i.mjh.nz/PlutoTV/de.xml,https://i.mjh.nz/PlutoTV/fr.xml,https://i.mjh.nz/PlutoTV/us.xml,i.mjh.nz/PlutoTV/uk.xml,https://i.mjh.nz/PlutoTV/ca.xml,https://i.mjh.nz/PlutoTV/mx.xml,https://i.mjh.nz/PlutoTV/br.xml,https://i.mjh.nz/PlutoTV/es.xml" x-tvg-url="https://i.mjh.nz/PlutoTV/de.xml,https://i.mjh.nz/PlutoTV/mx.xml,https://i.mjh.nz/PlutoTV/uk.xml,https://i.mjh.nz/PlutoTV/fr.xml,https://i.mjh.nz/PlutoTV/us.xml,i.mjh.nz/PlutoTV/uk.xml,https://i.mjh.nz/PlutoTV/ca.xml,https://i.mjh.nz/PlutoTV/mx.xml,https://i.mjh.nz/PlutoTV/br.xml,https://i.mjh.nz/PlutoTV/es.xml" refresh="3600"
 
+################################## Culinária em inglês ###########################
+
+#EXTINF:-1 channel-id="americas-test-kitchen" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/31belIZHt8L.png" group-title="Culinária em inglês",America's Test Kitchen
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84f54a82f05300080e6746/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc9826a1-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7d435cb9-df8d-4855-b23f-6f899dcb7f8b&userId=&serverSideAds=true
+
+#EXTINF:-1 channel-id="bbc-food" tvg-logo="http://images.pluto.tv/channels/5fb5844bf5514d0007945bda/colorLogoPNG.png" group-title="Culinária em inglês",BBC Food | EUA
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fb5844bf5514d0007945bda/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc9a97a5-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=158550d2-4810-413b-8ff3-f7f25a4694c0&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="" tvg-name="Dude Food" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWeckfObfyFWhe5JuPFGqaZgCiFyBSZXjg4RqleTMoxnlpG_wSOg3gOaRJjYdxQHUbZa0&usqp=CAU" group-title="Culinária em inglês",Dude Food
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/2915?pprotocol=hls
+
+#EXTINF:-1 tvg-id="" tvg-name="Eco Rico" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWeckfObfyFWhe5JuPFGqaZgCiFyBSZXjg4RqleTMoxnlpG_wSOg3gOaRJjYdxQHUbZa0&usqp=CAU" group-title="Culinária em inglês",Eco Rico
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/710?pprotocol=hls
+
+#EXTINF:-1 channel-id="food-tv" tvg-logo="http://images.pluto.tv/channels/5877ac8cb791f4eb4a140d81/colorLogoPNG.png" group-title="Culinária em inglês",Food TV | EUA
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5877ac8cb791f4eb4a140d81/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc931d94-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=32f960d9-a0a4-41ce-94d9-e22127cdf15d&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="FoodNetwork.uk" tvg-name="Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Food_Network_-_Logo_2016.png" group-title="Culinária em inglês",Food Network | Reino Unido
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/20?pprotocol=hls
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Food_Network_-_Logo_2016.png" tvg-id="FoodNetworkPlus1.uk" group-title="Culinária em inglês" tvg-name="Food Network+1",Food Network+1 | Reino Unido
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/1829&pprotocol=hls
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWeckfObfyFWhe5JuPFGqaZgCiFyBSZXjg4RqleTMoxnlpG_wSOg3gOaRJjYdxQHUbZa0&usqp=CAU" tvg-id="" group-title="Culinária em inglês" tvg-name="Gastrolab TV",Gastrolab TV | EUA
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3005&pprotocol=hls
+
+#EXTINF:-1 channel-id="gordon-ramsays-hells-kitchen" tvg-logo="http://images.pluto.tv/channels/5b4e99f4423e067bd6df6903/colorLogoPNG.png" group-title="Culinária em inglês",Gordon Ramsay"s Hell"s Kitchen | EUA
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e99f4423e067bd6df6903/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc945612-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d2385b8b-8a8b-486d-8323-d342c2815163&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple114/v4/28/b8/f1/28b8f1aa-ffe3-06c1-ba37-bccfac30a5a5/source/512x512bb.jpg" tvg-id="" group-title="Culinária em inglês" tvg-name="iFood TV",iFood TV | EUA
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/2918&pprotocol=hls
+
+#EXTINF:-1 channel-id="pluto-tv-cocina" tvg-logo="http://images.pluto.tv/channels/5d8d0fbaa8742fa3093899da/colorLogoPNG.png" group-title="Culinária em inglês",Pluto TV Cocina | EUA
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d0fbaa8742fa3093899da/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc96c711-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d6802f1a-1f04-45be-b110-e33eb8798429&userId=&serverSideAds=true
+
+#EXTINF:-1 channel-id="tastemade-1" tvg-name="Tastemade EUA" tvg-logo="http://images.pluto.tv/channels/5ece9beb0a542e0007199c2f/colorLogoPNG.png" group-title="Culinária em inglês",Tastemade EUA
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ece9beb0a542e0007199c2f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc98c2e1-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=407d3896-71f8-446b-a9de-e217a351edf4&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="" tvg-name="The Chef Roc TV Show" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd3skriGxefJKEmnknE94FRxss-LujadDvgAAgjpk8fbdw22mXi_u0KHItP5HCapruax4&usqp=CAU" tvg-shift="0" group-title="Culinária em inglês",The Chef Roc TV Show | EUA
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3599&pprotocol=hls
+
+#EXTINF:-1 tvg-id="" tvg-name="Wineram TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWeckfObfyFWhe5JuPFGqaZgCiFyBSZXjg4RqleTMoxnlpG_wSOg3gOaRJjYdxQHUbZa0&usqp=CAU" tvg-shift="0" group-title="Culinária em inglês",Wineram TV | EUA
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3107&pprotocol=hls
+
+#EXTINF:-1 tvg-id="" tvg-name="Woil of Wine" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWeckfObfyFWhe5JuPFGqaZgCiFyBSZXjg4RqleTMoxnlpG_wSOg3gOaRJjYdxQHUbZa0&usqp=CAU" tvg-shift="0" group-title="Culinária em inglês",Woil of Wine | EUA
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3164&pprotocol=hls
+
+#EXTINF:-1 tvg-id="" tvg-name="World Food Championships" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWeckfObfyFWhe5JuPFGqaZgCiFyBSZXjg4RqleTMoxnlpG_wSOg3gOaRJjYdxQHUbZa0&usqp=CAU" group-title="Culinária em inglês",World Food Championships
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/4673?pprotocol=hls
+
 ########### MÚSICA ###################
 
 #EXTINF:-1 tvg-id="1hdru" group-title="Música" tvg-name="1HD" tvg-logo="https://lh3.googleusercontent.com/iHSgMsaVX7oFDLU73HzrQGBw6sOPlUxvdOOvjAZpMuYM63AqnK_0ZUP9E8t_l1pD1A=w220-rw",1HD Music | Estônia
@@ -331,6 +381,12 @@ https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3
 #EXTINF:-1 tvg-name="Sky News Austrália Extra 3" tvg-id="skynews.au3" tvg-logo="https://i.imgur.com/1XiQezD.png" group-title="Notícias",Sky News Austrália Extra 3
 https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
 
+#EXTINF:-1 channel-id="telefe-noticias" tvg-id="TelefeHD.ar" tvg-logo="https://imgur.com/tYW3AbT.png" group-title="Notícias" tvg-name="Telefe Noticias",Telefe Noticias | Argentina
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f523aa5523ae000074745ec/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff334c2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dffc36b9-57c6-4973-9903-2f83d465ac40&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="5f523aa5523ae000074745ec" tvg-logo="https://images.pluto.tv/channels/5f523aa5523ae000074745ec/colorLogoPNG.png" group-title="Notícias" tvg-name="Telefe Noticias",Telefe Noticias | México
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f523aa5523ae000074745ec/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+
 #EXTINF:-1 channel-id="newsy" tvg-name="Newsy" tvg-logo="http://images.pluto.tv/channels/5459795fc9f133a519bc0bef/colorLogoPNG.png" group-title="Notícias",Top Stories by Newsy | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5459795fc9f133a519bc0bef/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc91e512-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a9feb354-d076-43b0-9c88-cefa72c3fbf0&userId=&serverSideAds=true
 
@@ -366,8 +422,20 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5bd7fb15c9a300077
 #EXTINF:-1 channel-id="gamespot" tvg-logo="http://images.pluto.tv/channels/5f186626dcd00d0007936443/colorLogoPNG.png" group-title="Videogame",GameSpot | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f186626dcd00d0007936443/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc991102-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6ecb36e8-d680-49e3-a904-14ec1e90c75b&userId=&serverSideAds=true
 
+#EXTINF:-1 channel-id="gaming-tv-fr" tvg-logo="http://images.pluto.tv/channels/5f8eccd81062c300078a11df/colorLogoPNG.png" group-title="Videogame",Gaming TV | França
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8eccd81062c300078a11df/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=dda4a0c2-6a6f-11eb-8380-d53d31dd7908&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e162ea5a-ce97-4c8c-81c3-64c901aacc1a&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="5ad9bc207ef2767e1846e5a0" group-title="Videogame" tvg-name="IGN" tvg-logo="https://images.pluto.tv/channels/5ad9bc207ef2767e1846e5a0/colorLogoPNG.png",IGN | Alemanha
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad9bc207ef2767e1846e5a0/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 channel-id="ign-es" tvg-logo="http://images.pluto.tv/channels/5f1ac118dd7e6000077e31af/colorLogoPNG.png" group-title="Videogame",IGN | Espanha
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac118dd7e6000077e31af/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a9a64d42-8b68-11eb-b9cd-1bc319230674&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3508bbf3-2a50-49bb-b9bb-0296c416f228&userId=&serverSideAds=true
+
 #EXTINF:-1 channel-id="ign" tvg-logo="http://images.pluto.tv/channels/561c5f613286e48904fb2677/colorLogoPNG.png" group-title="Videogame",IGN | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561c5f613286e48904fb2677/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc928151-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=69c36cf8-9c02-4f73-bb86-8bffeb4a70e8&userId=&serverSideAds=true
+
+#EXTINF:-1 channel-id="ign-fr" tvg-logo="http://images.pluto.tv/channels/5f8ecee24576bc0007a13b79/colorLogoPNG.png" group-title="Videogame",IGN | França
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ecee24576bc0007a13b79/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=dda4eee0-6a6f-11eb-8380-d53d31dd7908&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9030f60f-6b24-446e-8b43-73ed42a17db8&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-id="5ad8d982e738977e2c3109a6" tvg-logo="https://images.pluto.tv/channels/5ad8d982e738977e2c3109a6/colorLogoPNG.png" group-title="Videogame",IGN | UK
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad8d982e738977e2c3109a6/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
@@ -733,8 +801,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5be1be871
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f760c3d41aa2d0007bfde19/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="5ad9be1be738977e2c312134" group-title="Alemanha: Pluto" tvg-name="Glory Kickboxing" tvg-logo="https://images.pluto.tv/channels/5ad9be1be738977e2c312134/colorLogoPNG.png",Glory Kickboxing
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad9be1be738977e2c312134/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-id="5ad9bc207ef2767e1846e5a0" group-title="Alemanha: Pluto" tvg-name="IGN" tvg-logo="https://images.pluto.tv/channels/5ad9bc207ef2767e1846e5a0/colorLogoPNG.png",IGN
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad9bc207ef2767e1846e5a0/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-id="5ad9bda9fd87eb3a2717cce0" group-title="Alemanha: Pluto" tvg-name="Pluto TV Fight" tvg-logo="https://images.pluto.tv/channels/5ad9bda9fd87eb3a2717cce0/colorLogoPNG.png",Pluto TV Fight
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad9bda9fd87eb3a2717cce0/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
@@ -1086,12 +1152,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebacbcae43a6d00078
 #EXTINF:-1 channel-id="failarmy-1" tvg-logo="https://imgur.com/EXYSndm.png" group-title="Argentina: Pluto",FailArmy
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebaccf1734aaf0007142c86/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff24a62-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b9ea5930-45f6-4bd0-bca2-db4f4ca9fbc2&userId=&serverSideAds=true
 
-#### Noticias #####
-
-#EXTINF:-1 channel-id="telefe-noticias" tvg-logo="https://imgur.com/tYW3AbT.png" group-title="Argentina: Pluto",Telefe Noticias
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f523aa5523ae000074745ec/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff334c2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dffc36b9-57c6-4973-9903-2f83d465ac40&userId=&serverSideAds=true
-
-
 #################### AUSTRÁLIA ###################
 
 #EXTINF:-1 tvg-name="ABC Adelaide AU" tvg-id="" tvg-logo="https://i.imgur.com/rLCHYCs.png" group-title="Austrália",ABC Adelaide AU
@@ -1253,9 +1313,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1abf097eb06300079
 
 #EXTINF:-1 channel-id="fail-army-es" tvg-logo="http://images.pluto.tv/channels/5f1abf5fafb5ee0007d4d0ca/colorLogoPNG.png" group-title="Espanha: Pluto",FailArmy
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1abf5fafb5ee0007d4d0ca/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a9a64d41-8b68-11eb-b9cd-1bc319230674&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0ca1c6ec-301d-4365-80fc-e2f942cd0ac4&userId=&serverSideAds=true
-
-#EXTINF:-1 channel-id="ign-es" tvg-logo="http://images.pluto.tv/channels/5f1ac118dd7e6000077e31af/colorLogoPNG.png" group-title="Espanha: Pluto",IGN
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac118dd7e6000077e31af/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a9a64d42-8b68-11eb-b9cd-1bc319230674&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3508bbf3-2a50-49bb-b9bb-0296c416f228&userId=&serverSideAds=true
 
 #EXTINF:-1 channel-id="people-are-awesome-es" tvg-logo="http://images.pluto.tv/channels/5f1ac1780e94100007f94b3f/colorLogoPNG.png" group-title="Espanha: Pluto",People are Awesome
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac1780e94100007f94b3f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a9a67450-8b68-11eb-b9cd-1bc319230674&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f724f6b8-8388-4bae-8401-069c1ef618dd&userId=&serverSideAds=true
@@ -1437,30 +1494,15 @@ https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3575&p
 #EXTINF:-1 channel-id="today-1" tvg-logo="http://images.pluto.tv/channels/5d695f7db53adf96b78e7ce3/colorLogoPNG.png" group-title="EUA: Celebridades",Today
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d695f7db53adf96b78e7ce3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc9678f3-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9c890872-d28a-45bf-8ed7-d15679d9a94c&userId=&serverSideAds=true
 
-################################## eua: culinária ###########################
 
-#EXTINF:-1 channel-id="americas-test-kitchen" tvg-logo="http://images.pluto.tv/channels/5e84f54a82f05300080e6746/colorLogoPNG.png" group-title="EUA: Culinária",America"s Test Kitchen
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84f54a82f05300080e6746/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc9826a1-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7d435cb9-df8d-4855-b23f-6f899dcb7f8b&userId=&serverSideAds=true
-
-#EXTINF:-1 channel-id="bbc-food" tvg-logo="http://images.pluto.tv/channels/5fb5844bf5514d0007945bda/colorLogoPNG.png" group-title="EUA: Culinária",BBC Food | EUA
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fb5844bf5514d0007945bda/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc9a97a5-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=158550d2-4810-413b-8ff3-f7f25a4694c0&userId=&serverSideAds=true
-
-#EXTINF:-1 channel-id="food-tv" tvg-logo="http://images.pluto.tv/channels/5877ac8cb791f4eb4a140d81/colorLogoPNG.png" group-title="EUA: Culinária",Food TV | EUA
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5877ac8cb791f4eb4a140d81/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc931d94-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=32f960d9-a0a4-41ce-94d9-e22127cdf15d&userId=&serverSideAds=true
-
-#EXTINF:-1 channel-id="gordon-ramsays-hells-kitchen" tvg-logo="http://images.pluto.tv/channels/5b4e99f4423e067bd6df6903/colorLogoPNG.png" group-title="EUA: Culinária",Gordon Ramsay"s Hell"s Kitchen | EUA
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e99f4423e067bd6df6903/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc945612-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d2385b8b-8a8b-486d-8323-d342c2815163&userId=&serverSideAds=true
-
-#EXTINF:-1 channel-id="pluto-tv-cocina" tvg-logo="http://images.pluto.tv/channels/5d8d0fbaa8742fa3093899da/colorLogoPNG.png" group-title="EUA: Culinária",Pluto TV Cocina | EUA
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d0fbaa8742fa3093899da/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc96c711-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d6802f1a-1f04-45be-b110-e33eb8798429&userId=&serverSideAds=true
-
-#EXTINF:-1 channel-id="tastemade-1" tvg-name="Tastemade EUA" tvg-logo="http://images.pluto.tv/channels/5ece9beb0a542e0007199c2f/colorLogoPNG.png" group-title="EUA: Culinária",Tastemade EUA
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ece9beb0a542e0007199c2f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc98c2e1-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=407d3896-71f8-446b-a9de-e217a351edf4&userId=&serverSideAds=true
 
 ########## eua: esporte ##############
 
 #EXTINF:-1 channel-id="american-gladiators" tvg-logo="http://images.pluto.tv/channels/5d815e489b315b154db2e053/colorLogoPNG.png" group-title="EUA: Esporte",American Gladiators | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d815e489b315b154db2e053/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc9678f6-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=08cb0a01-f00b-498f-878b-0a06e2eeab1f&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="" tvg-name="Bayou Country Outdoors" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd3skriGxefJKEmnknE94FRxss-LujadDvgAAgjpk8fbdw22mXi_u0KHItP5HCapruax4&usqp=CAU" tvg-shift="0" group-title="EUA: Esporte",Bayou Country Outdoors | EUA
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3271&pprotocol=hls
 
 #EXTINF:-1 channel-id="bein-sports-xtra" tvg-logo="http://images.pluto.tv/channels/5df975e2b27cf5000921c102/colorLogoPNG.png" group-title="EUA: Esporte",beIN Sports Xtra | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc978a63-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=85bfda9c-65f9-4b72-b27b-7a96e9fbf8cf&userId=&serverSideAds=true
@@ -1551,6 +1593,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d486bed428fe37d8ca
 
 #EXTINF:-1 tvg-id="redbull" tvg-name="Redbull TV" tvg-logo="https://img2.gratispng.com/20180824/fph/kisspng-red-bull-tv-television-film-streaming-media-red-bull-tv-primavera-sound-5b805de6d852c0.5594931315351393028861.jpg" tvg-shift="0" group-title="EUA: Esporte",Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+
+#EXTINF:-1 tvg-name="Roopstigo" tvg-logo="https://lh3.googleusercontent.com/proxy/_qsskDmHTvSOXIOnMHej-0FfL_dHQ8bUiSd7t39_4fIqUdMKUt_T3JCW1wFqllbbfz5tJ6_TcppFX9_vU2WsyLxmsklxevBm1IS7p6ftQXOEGPvBWdKtcxtS" tvg-id="Roopstigo" group-title="EUA: Esporte",Roopstigo | EUA
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/2737&pprotocol=hls
 
 #EXTINF:-1 channel-id="spike-outdoors" tvg-logo="http://images.pluto.tv/channels/5c393cad2de254456f7ef8c2/colorLogoPNG.png" group-title="EUA: Esporte",Spike Outdoors | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c393cad2de254456f7ef8c2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc94f254-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=db20fee1-70c0-4454-85d6-f589c2726be9&userId=&serverSideAds=true
@@ -2369,17 +2414,11 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ecc1b37867f00071
 #EXTINF:-1 channel-id="i-carly-fr" tvg-logo="http://images.pluto.tv/channels/5f8ecc7aa44d9c00081fca29/colorLogoPNG.png" group-title="França: Pluto",iCarly TV
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ecc7aa44d9c00081fca29/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=dda4a0c1-6a6f-11eb-8380-d53d31dd7908&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=11a17363-96de-481b-b5ad-edc422b4e036&userId=&serverSideAds=true
 
-#EXTINF:-1 channel-id="gaming-tv-fr" tvg-logo="http://images.pluto.tv/channels/5f8eccd81062c300078a11df/colorLogoPNG.png" group-title="França: Pluto",Gaming TV
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8eccd81062c300078a11df/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=dda4a0c2-6a6f-11eb-8380-d53d31dd7908&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e162ea5a-ce97-4c8c-81c3-64c901aacc1a&userId=&serverSideAds=true
-
 #EXTINF:-1 channel-id="the-pet-collective-fr" tvg-logo="http://images.pluto.tv/channels/5f8ecd336d64c9000754cdf1/colorLogoPNG.png" group-title="França: Pluto",The Pet Collective
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ecd336d64c9000754cdf1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=dda4c7d0-6a6f-11eb-8380-d53d31dd7908&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=65d27040-284a-4348-8184-34e232a896af&userId=&serverSideAds=true
 
 #EXTINF:-1 channel-id="fail-army-fr" tvg-logo="http://images.pluto.tv/channels/5f8ecd9169d2d4000864a974/colorLogoPNG.png" group-title="França: Pluto",FailArmy
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ecd9169d2d4000864a974/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=dda4c7d1-6a6f-11eb-8380-d53d31dd7908&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=775fc931-56b4-4c9f-aa01-73069122c7f5&userId=&serverSideAds=true
-
-#EXTINF:-1 channel-id="ign-fr" tvg-logo="http://images.pluto.tv/channels/5f8ecee24576bc0007a13b79/colorLogoPNG.png" group-title="França: Pluto",IGN
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ecee24576bc0007a13b79/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=dda4eee0-6a6f-11eb-8380-d53d31dd7908&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9030f60f-6b24-446e-8b43-73ed42a17db8&userId=&serverSideAds=true
 
 #EXTINF:-1 channel-id="world-poker-tour-fr-ptv1" tvg-logo="http://images.pluto.tv/channels/5f8ecfb9db6c180007a6d1b0/colorLogoPNG.png" group-title="França: Pluto",WPT
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ecfb9db6c180007a6d1b0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=dda4eee1-6a6f-11eb-8380-d53d31dd7908&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=fbf3c464-abf2-4c90-8652-454269a3774f&userId=&serverSideAds=true
@@ -2628,8 +2667,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ea7215005d66d0007
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f998c1fc54853000797bacd/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 #EXTINF:-1 tvg-id="5de91cf02fc07c0009910465" tvg-logo="https://images.pluto.tv/channels/5de91cf02fc07c0009910465/colorLogoPNG.png" group-title="México: Pluto",Telefe Clásico México
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de91cf02fc07c0009910465/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-#EXTINF:-1 tvg-id="5f523aa5523ae000074745ec" tvg-logo="https://images.pluto.tv/channels/5f523aa5523ae000074745ec/colorLogoPNG.png" group-title="México: Pluto",Telefe Noticias México
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f523aa5523ae000074745ec/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+
 #EXTINF:-1 tvg-id="5ea71d48af1d0b0007d837f4" tvg-logo="https://images.pluto.tv/channels/5ea71d48af1d0b0007d837f4/colorLogoPNG.png" group-title="México: Pluto",The New Detectives México
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ea71d48af1d0b0007d837f4/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 #EXTINF:-1 tvg-id="5ebacbcae43a6d000787b88e" tvg-logo="https://images.pluto.tv/channels/5ebacbcae43a6d000787b88e/colorLogoPNG.png" group-title="México: Pluto",The Pet Collective México
@@ -2680,6 +2718,9 @@ https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/103?pp
 #EXTINF:-1 tvg-id="CBSAction.uk" tvg-name="CBS Action" tvg-logo="https://presentationarchive.com/cbsaction2017/left-c.jpg" group-title="Reino Unido: Filmon",CBS Action | Reino Unido
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/1952?pprotocol=hls
 
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/26/c9/05/26c9050271cdde5fa0c5f4b26fd75185.png" tvg-id="Challenge.uk" group-title="Reino Unido: Filmon" tvg-name="Challenge",Challenge | Reino Unido
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/1036&pprotocol=hls
+
 #EXTINF:-1 tvg-id="Channel4.uk" tvg-name="Channel 4" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnj5-UCkqcufVmucfYwPFt4cHvz8__pkfDTfh7CAKA=s900-c-k-c0x00ffffff-no-rj" group-title="Reino Unido: Filmon",Channel 4
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/2?pprotocol=hls
 
@@ -2689,8 +2730,8 @@ https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/22?ppr
 #EXTINF:-1 tvg-id="Drama.uk" tvg-name="Drama" tvg-logo="https://pbs.twimg.com/profile_images/743754792757977088/8z6Ds85z.jpg" group-title="Reino Unido: Filmon",Drama | Reino Unido
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/5944?pprotocol=hls
 
-#EXTINF:-1 tvg-id="FoodNetwork.uk" tvg-name="Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Food_Network_-_Logo_2016.png" group-title="Reino Unido: Filmon",Food Network | Reino Unido
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/20?pprotocol=hls
+#EXTINF:-1 tvg-id="ForcesTV.uk" tvg-logo="https://www.freeview.co.uk/sites/default/files/styles/255_wide/public/2019-10/ForcesTV-logo-255x140.png" group-title="Reino Unido: Filmon" tvg-name="Forces TV",Forces TV | Reino Unido
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3386&pprotocol=hls
 
 #EXTINF:-1 tvg-id="Really.uk" tvg-name="Really" tvg-logo="https://lh3.googleusercontent.com/proxy/EoGdjjcwQeQ0ozomtczdoDigopuKWa1gCPuAy1mX4WD4ZoFwTFA85anpeYU6N4AMbSQ5L4gb2uPFG3m8KmgtIqpMUSXY2K-UjB0Xr3BW8Zngorcn" group-title="Reino Unido: Filmon",Really | Reino Unido
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/2798?pprotocol=hls
@@ -2942,6 +2983,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad8d1e9e
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ea190ae85a26900075a80e9/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="5ad8d796e738977e2c31094a" tvg-logo="https://images.pluto.tv/channels/5ad8d796e738977e2c31094a/colorLogoPNG.png" group-title="Reino Unido: Pluto",World Poker Tour UK
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad8d796e738977e2c31094a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
 #EXTINF:-1 tvg-id="5ca1ddd108ee5378be82db3a" tvg-logo="https://images.pluto.tv/channels/5ca1ddd108ee5378be82db3a/colorLogoPNG.png" group-title="Reino Unido: Pluto",Worst Cooks in America UK
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca1ddd108ee5378be82db3a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
