@@ -1,5 +1,5 @@
 #EXTM3U
-url-tvg="https://1622862207.rsc.cdn77.org/FTF/ftf_schedule.xml, http://epg.liveiptv.net/epg.xml,https://cld.pt/dl/download/7a36f027-b90a-4be0-ba89-00acb7d82fa7/RHAEPG.xml,https://i.mjh.nz/PlutoTV/de.xml,https://i.mjh.nz/PlutoTV/fr.xml,https://i.mjh.nz/PlutoTV/us.xml,i.mjh.nz/PlutoTV/uk.xml,https://i.mjh.nz/PlutoTV/ca.xml,https://i.mjh.nz/PlutoTV/mx.xml,https://i.mjh.nz/PlutoTV/br.xml,https://i.mjh.nz/PlutoTV/es.xml" x-tvg-url="https://i.mjh.nz/PlutoTV/de.xml,https://i.mjh.nz/PlutoTV/mx.xml,https://i.mjh.nz/PlutoTV/uk.xml,https://i.mjh.nz/PlutoTV/fr.xml,https://i.mjh.nz/PlutoTV/us.xml,i.mjh.nz/PlutoTV/uk.xml,https://i.mjh.nz/PlutoTV/ca.xml,https://i.mjh.nz/PlutoTV/mx.xml,https://i.mjh.nz/PlutoTV/br.xml,https://i.mjh.nz/PlutoTV/es.xml" refresh="3600"
+url-tvg="http://epg.liveiptv.net/epg.xml,https://cld.pt/dl/download/7a36f027-b90a-4be0-ba89-00acb7d82fa7/RHAEPG.xml,https://i.mjh.nz/PlutoTV/de.xml,https://i.mjh.nz/PlutoTV/fr.xml,https://i.mjh.nz/PlutoTV/us.xml,i.mjh.nz/PlutoTV/uk.xml,https://i.mjh.nz/PlutoTV/ca.xml,https://i.mjh.nz/PlutoTV/mx.xml,https://i.mjh.nz/PlutoTV/br.xml,https://i.mjh.nz/PlutoTV/es.xml" x-tvg-url="https://i.mjh.nz/PlutoTV/de.xml,https://i.mjh.nz/PlutoTV/mx.xml,https://i.mjh.nz/PlutoTV/uk.xml,https://i.mjh.nz/PlutoTV/fr.xml,https://i.mjh.nz/PlutoTV/us.xml,i.mjh.nz/PlutoTV/uk.xml,https://i.mjh.nz/PlutoTV/ca.xml,https://i.mjh.nz/PlutoTV/mx.xml,https://i.mjh.nz/PlutoTV/br.xml,https://i.mjh.nz/PlutoTV/es.xml" refresh="3600"
 
 ################################## Culinária em inglês ###########################
 
@@ -470,22 +470,22 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fd7bca3e0a4ee0007a
 
 ############## NOTÍCIAS 24 HORAS - BRASIL ##############
 
-#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News" tvg-logo="https://imgur.com/WwSAtkh.png" group-title="Notícias",Band News
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News" tvg-logo="https://imgur.com/WwSAtkh.png" group-title="Notícias",Band News | Brasil
 http://evpp.mm.uol.com.br:1935/geob_band/bandnewstv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Cbn.br" tvg-name="CBN RJ" tvg-shift="0" tvg-logo="https://m.cbn.globoradio.globo.com/estaticos/img/CBN_1024x1024.png" group-title="Notícias",CBN RJ
+#EXTINF:-1 tvg-id="Cbn.br" tvg-name="CBN RJ" tvg-shift="0" tvg-logo="https://m.cbn.globoradio.globo.com/estaticos/img/CBN_1024x1024.png" group-title="Notícias",CBN RJ | Brasil
 https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
 
-#EXTINF:-1 tvg-id="Cbn.br" tvg-name="CBN SP" tvg-shift="0" tvg-logo="https://m.cbn.globoradio.globo.com/estaticos/img/CBN_1024x1024.png" group-title="Notícias",CBN SP
+#EXTINF:-1 tvg-id="Cbn.br" tvg-name="CBN SP" tvg-shift="0" tvg-logo="https://m.cbn.globoradio.globo.com/estaticos/img/CBN_1024x1024.png" group-title="Notícias",CBN SP | Brasil
 https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
 
 #EXTINF:-1 tvg-id="CNNBrasil" tvg-name="CNN Brasil" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhT5DNHv9OvqG72ykMMJ4jMNfl4E4_dx43_pIyOJg=s900-c-k-c0x00ffffff-no-rj" tvg-shift="0" group-title="Notícias",CNN Brasil
 http://srvx.io:80/live/7885037935/fireurl.co/71837.ts
 
-#EXTINF:-1 tvg-id="Globonews.br" tvg-name="Globo News" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2018/07/globonews.png" tvg-shift="0" group-title="Notícias",Globo News
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="Globo News" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2018/07/globonews.png" tvg-shift="0" group-title="Notícias",Globo News | Brasil
 http://live.video.globo.com/h/1402196702324012345678915746223249876543210St7g4OJToXerIDT3UieWkw/k/app/a/A/u/anyone/d/s/hls-gnews24ha/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="Record News" tvg-logo="https://imgur.com/HaPL1rx.png" tvg-shift="0" group-title="Notícias",Record News
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="Record News" tvg-logo="https://imgur.com/HaPL1rx.png" tvg-shift="0" group-title="Notícias",Record News | Brasil
 https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
 
 ############## NOTÍCIAS 24 HORAS - EXTERIOR ##############
@@ -759,11 +759,13 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad8d907e
 #EXTINF:-1 tvg-id="pluto-tv-gamer" tvg-logo="http://images.pluto.tv/channels/5ca7f16c37b88b2694731c79/colorLogoPNG.png" group-title="Videogame",Pluto TV Gamer
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca7f16c37b88b2694731c79/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc956782-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8f11f607-b195-41da-80ce-b246f72c0030&userId=&serverSideAds=true
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWeckfObfyFWhe5JuPFGqaZgCiFyBSZXjg4RqleTMoxnlpG_wSOg3gOaRJjYdxQHUbZa0&usqp=CAU" group-title="Videogame" tvg-name="The Miki Show",The Miki Show | EUA
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/728&pprotocol=hls
+
 #EXTINF:-1 tvg-id="venn.au" tvg-name="VENN" tvg-logo="https://i.imgur.com/H8ucPJd.jpg" group-title="Videogame",VENN
 https://venntv-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWeckfObfyFWhe5JuPFGqaZgCiFyBSZXjg4RqleTMoxnlpG_wSOg3gOaRJjYdxQHUbZa0&usqp=CAU" group-title="Videogame" tvg-name="The Miki Show",The Miki Show | EUA
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/728&pprotocol=hls
+
 
 ############################### BRASIL TV ABERTA #####################################
 
@@ -806,7 +808,7 @@ http://live.video.globo.com/h/1402196702233012345678915746222339876543210pJEKZje
 #EXTINF:-1 tvg-id="Multishow.br" tvg-name="Multishow HD 2" tvg-logo="https://logodownload.org/wp-content/uploads/2017/03/multishow-logo-8.png" tvg-shift="0" group-title="Brasil: TV aberta",Multishow HD 2
 https://live.video.globo.com/h/1402196702233012345678915746222339876543210pJEKZjeaTYyxXDM3Kaz8QQ/k/app/a/A/u/anyone/d/s/hls-msw24ha/hls-msw24ha_2126/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="Record" tvg-logo="https://imgur.com/ZrZ0Tg1.png" tvg-shift="0" group-title="Brasil: TV aberta",Record
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="Record" tvg-logo="https://i.pinimg.com/originals/93/d3/65/93d365753811901f3fd8fea11c78d79c.jpg" tvg-shift="0" group-title="Brasil: TV aberta",Record
 https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
 
 #EXTINF:-1 tvg-id="Redebrasil.br" tvg-name="Rede Brasil" tvg-logo="https://imgur.com/ZgnRZ47.png" group-title="Brasil: TV aberta",Rede Brasil
@@ -830,7 +832,7 @@ https://stmv1.transmissaodigital.com/cidadeverde/cidadeverde/playlist.m3u8
 #EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT Maranhão" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b4/Logotipo_da_TV_Difusora.png" group-title="Brasil: TV aberta",SBT | TV Difusora (MA)
 http://difusorama.zoeweb.tv:1935/z437-live/stream/chunklist_w1260675550.m3u8
 
-#EXTINF:-1 tvg-id="Terraviva.br" tvg-name="Terra Viva" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/Terra_Viva_logo.svg" tvg-shift="0" group-title="Brasil: TV aberta",Terra Viva
+#EXTINF:-1 tvg-id="Terraviva.br" tvg-name="Terra Viva" tvg-logo="https://1.bp.blogspot.com/-1DYn7WAo9Xc/XyxDWmZ9aeI/AAAAAAABu4Y/yrSqKd72VG8fkB_l6Ti7hUMp-AZUuMMqQCLcBGAsYHQ/w300-c/Terraviva.png" tvg-shift="0" group-title="Brasil: TV aberta",Terra Viva
 https://evpp.mm.uol.com.br/band_live/terraviva/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imagens.ne10.uol.com.br/img/imagens/2020/10/22/a38a58f118_design-sem-nome5.jpg" group-title="Brasil: TV aberta",SBT | TV Jornal (PE)
@@ -887,10 +889,10 @@ http://stmv8.conectastm.com/wagner1168/wagner1168/playlist.m3u8
 #EXTINF:-1 tvg-id="Tvmetropole.br" group-title="Brasil: TV aberta" tvg-logo="https://imgur.com/EhJNGIy.png",TV Metrópole | Caucaia (CE)
 https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
 
-#EXTINF:-1 tvg-name="TV8" tvg-id="Tv8.br" group-title="Brasil: TV aberta" tvg-logo="https://imgur.com/YRD2mvJ.png",TV8 Brasil
+#EXTINF:-1 tvg-name="TV8" tvg-id="Tv8.br" group-title="Brasil: TV aberta" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnju9QKmmAOR2ZznQ5xOWzwSoBOc5QG5cTNGgzK78Q=s300-c-k-c0x00ffffff-no-rj",TV8 Brasil
 https://cdn.jmvstream.com/w/LVW-9773/ngrp:LVW9773_eRZLMN9Hsr_all/playlist.m3u8
 
-#EXTINF:-1 tvg-id="unisctv" tvg-name="Unisc TV" group-title="Brasil: TV aberta" tvg-logo="https://lh3.googleusercontent.com/proxy/EPJnEw2jl6EIMkp1YvpK-pgvDJ6qxKsH3oTArkik5kWJh3lt2VUArdNtmrRe1JRvzg3U6bFjL9Z7LIw8jZcfph6reL3ePVjDqyHQlmHFifCFMhjs3JvbwMB__QKB4mLysW_rSh8_B_Yf_HoBQNxfHYepACMqtUU8dLkuC8Ih_uDlZjKLEi-T",Unisc TV
+#EXTINF:-1 tvg-id="unisctv" tvg-name="Unisc TV" group-title="Brasil: TV aberta" tvg-logo="http://radiosantacruz.com.br/online/wp-content/uploads/2018/01/Unisc-1.jpg",Unisc TV
 https://tv.unisc.br/hls/test.m3u8
 
 ####################### Brasil: Kids #####################
