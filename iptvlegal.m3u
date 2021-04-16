@@ -766,7 +766,7 @@ https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/728&pp
 https://venntv-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Yeeaah.br" tvg-name="Yeeaah" tvg-logo="http://canalyeeah.com.br/wp-content/uploads/2021/01/YEEAAHTV-2021_SITE.png" group-title="Videogame",Yeeaah | Brasil
-http://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
+https://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
 
 
 ############################### BRASIL TV ABERTA #####################################
@@ -834,9 +834,6 @@ https://stmv1.transmissaodigital.com/cidadeverde/cidadeverde/playlist.m3u8
 #EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT Maranhão" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b4/Logotipo_da_TV_Difusora.png" group-title="Brasil: TV aberta",SBT | TV Difusora (MA)
 http://difusorama.zoeweb.tv:1935/z437-live/stream/chunklist_w1260675550.m3u8
 
-#EXTINF:-1 tvg-id="Terraviva.br" tvg-name="Terra Viva" tvg-logo="https://1.bp.blogspot.com/-1DYn7WAo9Xc/XyxDWmZ9aeI/AAAAAAABu4Y/yrSqKd72VG8fkB_l6Ti7hUMp-AZUuMMqQCLcBGAsYHQ/w300-c/Terraviva.png" tvg-shift="0" group-title="Brasil: TV aberta",Terra Viva
-https://evpp.mm.uol.com.br/band_live/terraviva/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://imagens.ne10.uol.com.br/img/imagens/2020/10/22/a38a58f118_design-sem-nome5.jpg" group-title="Brasil: TV aberta",SBT | TV Jornal (PE)
 http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8
  
@@ -845,6 +842,9 @@ http://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/567312773319630848/Sho8pafO.png" group-title="Brasil: TV aberta",SBT | TV Serra Dourada (GO)
 https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Terraviva.br" tvg-name="Terra Viva" tvg-logo="https://1.bp.blogspot.com/-1DYn7WAo9Xc/XyxDWmZ9aeI/AAAAAAABu4Y/yrSqKd72VG8fkB_l6Ti7hUMp-AZUuMMqQCLcBGAsYHQ/w300-c/Terraviva.png" tvg-shift="0" group-title="Brasil: TV aberta",Terra Viva
+https://evpp.mm.uol.com.br/band_live/terraviva/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Assembleia.go" tvg-name="Assembleia Goiás" tvg-logo="https://politizar.al.go.leg.br/wp-content/uploads/2019/04/thumbnail_NovaLogo-TV-Alego-branco.png" group-title="Brasil: TV aberta",TV Alego
 https://ngbvqmbygn.zoeweb.tv/alegolive/smil:alegolive.smil/playlist.m3u8
@@ -884,6 +884,9 @@ https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1960464540.
 
 #EXTINF:-1 tvg-id="" tvg-name="TBC Cultura Goiás" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/ececa6333f0610f8e13aafbe16a5830b.png" group-title="Brasil: TV aberta",TV Cultura | TBC (GO)
 http://wz3.dnip.com.br/tvbrasil/tvbrasil.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tvescola.br" tvg-name="TV Escola" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjMchEFtSE24KRWXsviP6GZD2KLdE_PHlvNvK_c0Q=s900-c-k-c0x00ffffff-no-rj" group-title="Brasil: TV aberta",TV Escola
+https://demo.cdn.tv.br/media/n/BZfJAdy/a/playlist.m3u8?ch=BZfJAdy&t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkZWZhdWx0IzE1NzYwODMyNTgiLCJpYXQiOjE2MTg1ODQ0NjYsImV4cCI6MTYxODYwMjQ2Nn0.htZXOHG-WZf09QBftyvje04ofUSQJrBdiwRZOxg7cIA
 
 #EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="TV Gazeta | TV Alternativa (MA)" tvg-logo="https://imgur.com/lAXbfuU.png" tvg-shift="0" group-title="Brasil: TV aberta",TV Gazeta | Alternativa (MA)
 http://stmv8.conectastm.com/wagner1168/wagner1168/playlist.m3u8
