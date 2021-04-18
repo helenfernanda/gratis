@@ -652,6 +652,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5268abcd0ce20a84720
 #EXTINF:-1 group-title="Notícias" tvg-id="RaiNews24" tvg-name="Rai News 24" tvg-logo="https://m3upt.com/logos/Rai-News-24.png",Rai News 24 | Itália
 https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_1800/chunklist.m3u8
 
+#EXTINF:-1 group-title="Notícias" tvg-id="Reuters" tvg-name="Reuters" tvg-logo="https://media-exp1.licdn.com/dms/image/C510BAQEcIZOHYb20pQ/company-logo_200_200/0/1519862856588?e=2159024400&v=beta&t=MKQWRo4otgPSzFgKzeW5yteogNb55kSLi6trFbbZWdU",Reuters | Reino Unido
+https://32ce4aad1eed49b1ba2999fb68d119c8.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_ReutersNow/73e1a76b-9403-47ae-bc6e-c039ef3140f0/7.m3u8
+
 #EXTINF:-1 group-title="Notícias" tvg-id="RTENews.ie" tvg-name="RTÉ News" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnj24qNPR0Bq7t71eIrDUQqqY6a8cTsVKtJxALYrPQ=s900-c-k-c0x00ffffff-no-rj",RTÉ News | Irlanda
 https://live.rte.ie/live/a/channel3/news.isml/news-audio_128k=128000.m3u8?dvr_window_length=30
 
