@@ -1,8 +1,7 @@
-#EXTM3U
-url-tvg="http://epg.liveiptv.net/epg.xml,https://cld.pt/dl/download/7a36f027-b90a-4be0-ba89-00acb7d82fa7/RHAEPG.xml,https://i.mjh.nz/PlutoTV/de.xml,https://i.mjh.nz/PlutoTV/fr.xml,https://i.mjh.nz/PlutoTV/us.xml,i.mjh.nz/PlutoTV/uk.xml,https://i.mjh.nz/PlutoTV/ca.xml,https://i.mjh.nz/PlutoTV/mx.xml,https://i.mjh.nz/PlutoTV/br.xml,https://i.mjh.nz/PlutoTV/es.xml" x-tvg-url="https://i.mjh.nz/PlutoTV/de.xml,https://i.mjh.nz/PlutoTV/mx.xml,https://i.mjh.nz/PlutoTV/uk.xml,https://i.mjh.nz/PlutoTV/fr.xml,https://i.mjh.nz/PlutoTV/us.xml,i.mjh.nz/PlutoTV/uk.xml,https://i.mjh.nz/PlutoTV/ca.xml,https://i.mjh.nz/PlutoTV/mx.xml,https://i.mjh.nz/PlutoTV/br.xml,https://i.mjh.nz/PlutoTV/es.xml" refresh="3600"
+#EXTM3U refresh="3600" url-tvg="http://epg.liveiptv.net/epg.xml,https://cld.pt/dl/download/7a36f027-b90a-4be0-ba89-00acb7d82fa7/RHAEPG.xml,https://i.mjh.nz/PlutoTV/de.xml,https://i.mjh.nz/PlutoTV/fr.xml,https://i.mjh.nz/PlutoTV/us.xml,https://i.mjh.nz/PlutoTV/uk.xml,https://i.mjh.nz/PlutoTV/ca.xml,https://i.mjh.nz/PlutoTV/mx.xml,https://i.mjh.nz/PlutoTV/br.xml,https://i.mjh.nz/PlutoTV/es.xml" x-tvg-url="https://i.mjh.nz/PlutoTV/de.xml,https://i.mjh.nz/PlutoTV/mx.xml,https://i.mjh.nz/PlutoTV/uk.xml,https://i.mjh.nz/PlutoTV/fr.xml,https://i.mjh.nz/PlutoTV/us.xml,https://i.mjh.nz/PlutoTV/uk.xml,https://i.mjh.nz/PlutoTV/ca.xml,https://i.mjh.nz/PlutoTV/mx.xml,https://i.mjh.nz/PlutoTV/br.xml,https://i.mjh.nz/PlutoTV/es.xml"
 
 
-################################## Pix da Helen Fernanda - editora da lista: meutedio@mail.com ###########################
+### Pix da Helen Fernanda - editora da lista: meutedio@mail.com ###########################
 
 ################################## Culinária em inglês ###########################
 
@@ -108,6 +107,9 @@ https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3785&p
 #EXTINF:-1 tvg-id="" group-title="Esportes em inglês" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWeckfObfyFWhe5JuPFGqaZgCiFyBSZXjg4RqleTMoxnlpG_wSOg3gOaRJjYdxQHUbZa0&usqp=CAU" tvg-name="Distant Roads",Distant Roads
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/787&pprotocol=hls
 
+#EXTINF:-1 tvg-name="ESTV" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41DL9MABXLL.png" group-title="Esportes em inglês",ESTV | EUA
+https://stream-us-east-1.getpublica.com/cl/e279a3cd-1df4-4814-8bf0-f102f79cf26f/1280x720_2300000_4.m3u8
+
 #EXTINF:-1 tvg-id="fight" tvg-logo="http://images.pluto.tv/channels/5812b0f2237a6ff45d16c3f9/colorLogoPNG.png" group-title="Esportes em inglês",Fight | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b0f2237a6ff45d16c3f9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc92f680-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=261c4098-55b0-4ed8-9969-86a7f250c44c&userId=&serverSideAds=true
 
@@ -197,6 +199,9 @@ https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/2737&p
 
 #EXTINF:-1 tvg-id="snowymountains.au" tvg-name="Snowy Mountains" tvg-logo="https://i.imgur.com/vuFx0Zd.jpg" group-title="Esportes em inglês",Snowy Mountains | Austrália
 http://c.mjh.nz/snowy-mountains/
+
+#EXTINF:-1 group-title="Esportes em inglês" tvg-name="Surf Now TV" tvg-logo="https://static.wixstatic.com/media/306046_eb84ec308a7d490a834eec34d97f8670~mv2.png/v1/fill/w_500,h_500,al_c,q_85,usm_0.66_1.00_0.01/SNTV_LOGO_960.webp",Surf Now TV | EUA 
+https://0e52d42a12b74a218576cd628069fa50.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_SurfNowTV/11100072-01d6-4819-ba9a-a99ad479a5c7/3.m3u8
 
 #EXTINF:-1 tvg-id="spike-outdoors" tvg-logo="http://images.pluto.tv/channels/5c393cad2de254456f7ef8c2/colorLogoPNG.png" group-title="Esportes em inglês",Spike Outdoors | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c393cad2de254456f7ef8c2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc94f254-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=db20fee1-70c0-4454-85d6-f589c2726be9&userId=&serverSideAds=true
@@ -613,8 +618,11 @@ https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/79?ppr
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K1kJf1s.png" group-title="Notícias" tvg-name="Euronews Roku | EUA",Euronews Roku | EUA
 https://euronews-euronews-world-1.roku.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-id="euronews.au" tvg-name="Euronews | Austrália" tvg-logo="https://i.imgur.com/szYOy8S.jpg" group-title="Notícias",Euronews | Austrália
+#EXTINF:-1 tvg-id="euronews.au" tvg-name="Euronews" tvg-logo="https://i.imgur.com/szYOy8S.jpg" group-title="Notícias",Euronews | Austrália
 https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EuronewsES.nws" tvg-name="Euronews" tvg-logo="https://i.imgur.com/szYOy8S.jpg" group-title="Notícias",Euronews | Espanhol
+https://2e0d18116bec40e088c0723dc56accf5.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_EuronewsSpanish/3c86bb0c-3f53-461a-8d10-29d4b7570907/0.m3u8
 
 #EXTINF:-1 tvg-id="ForoTV.mx" tvg-name="Foro TV" tvg-logo="https://pbs.twimg.com/profile_images/1057408851253714946/GSxqNEQv_400x400.jpg" group-title="Notícias",Foro TV (Televisa News) | México
 https://stnothds-lh.akamaihd.net/i/sslf0r0tvnus_1@109755/index_1296_av-p.m3u8?sd=10&rebase=on
@@ -663,6 +671,9 @@ https://nowontv.info/filmon-hd.php?url=https://www.filmon.com/api-v2/channel/93?
 
 #EXTINF:-1 tvg-id="RussiaToday.uk" tvg-name="Russia Today" tvg-shift="0" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1024px-Russia-today-logo.svg.png" group-title="Notícias",Russia Today HD em Inglês
 https://rt-news-gd.secure2.footprint.net/1103_2500Kb.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="SpaceNews" tvg-shift="0" tvg-logo="https://spacenews.com/wp-content/uploads/2014/12/sn-social.jpg" group-title="Notícias",SpaceNews
+https://stream-us-east-1.getpublica.com/cl/d2fe4a83-4498-4c93-8283-943d752da68e/1920x1080_3650000_5.m3u8
 
 #EXTINF:-1 tvg-id="sky-news-2" tvg-name="Sky News 2 EUA" tvg-logo="http://images.pluto.tv/channels/5cf5a3ac163e69f04c5b11b1/colorLogoPNG.png" group-title="Notícias",Sky News 2 EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf5a3ac163e69f04c5b11b1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc958e95-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ab85c55d-2986-4e99-86f1-703e0f49a895&userId=&serverSideAds=true
@@ -716,6 +727,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fb554d87a0c480007c
 
 #EXTINF:-1 tvg-id="5ca1e0ee50be2571e393ad33" tvg-logo="https://images.pluto.tv/channels/5ca1e0ee50be2571e393ad33/colorLogoPNG.png" group-title="Videogame",ESR 24/7 | Reino Unido
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca1e0ee50be2571e393ad33/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-name="ESTV" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41DL9MABXLL.png" group-title="Videogame",ESTV | EUA
+https://stream-us-east-1.getpublica.com/cl/e279a3cd-1df4-4814-8bf0-f102f79cf26f/1280x720_2300000_4.m3u8
 
 #EXTINF:-1 tvg-id="gameplay-call-of-duty" tvg-logo="http://images.pluto.tv/channels/5f5bd666c0a7600007af6c20/colorLogoPNG.png" group-title="Videogame",Gameplay: Call of Duty | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5bd666c0a7600007af6c20/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc99fb64-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=313a9dac-7479-4ca0-8e24-8b876f851fe5&userId=&serverSideAds=true
@@ -881,6 +895,15 @@ http://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/567312773319630848/Sho8pafO.png" group-title="Brasil: TV aberta",SBT | TV Serra Dourada (GO)
 https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SESCTV.br" tvg-name="SESC TV" group-title="Brasil: TV aberta" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCQlj4F0w8sO6hAPUKpnxfh5GOGxG9XEzi9obcZVtYWwuDRf3otJWvZ_YQF_xbnaovDaY&usqp=CAU",Sesc TV 360
+https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2c3e9324497d5ff/video/2df04da5-2f5d-4ef6-a017-73f36dbc3327_index360p.m3u8
+
+#EXTINF:-1 tvg-id="SESCTV.br" tvg-name="SESC TV" group-title="Brasil: TV aberta" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCQlj4F0w8sO6hAPUKpnxfh5GOGxG9XEzi9obcZVtYWwuDRf3otJWvZ_YQF_xbnaovDaY&usqp=CAU",Sesc TV 720
+https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2c3e9324497d5ff/video/2df04da5-2f5d-4ef6-a017-73f36dbc3327_index720p.m3u8
+
+#EXTINF:-1 tvg-id="SESCTV.br" tvg-name="SESC TV" group-title="Brasil: TV aberta" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCQlj4F0w8sO6hAPUKpnxfh5GOGxG9XEzi9obcZVtYWwuDRf3otJWvZ_YQF_xbnaovDaY&usqp=CAU",Sesc TV 1080
+https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2c3e9324497d5ff/video/2df04da5-2f5d-4ef6-a017-73f36dbc3327_index1080p.m3u8
 
 #EXTINF:-1 tvg-id="Terraviva.br" tvg-name="Terra Viva" tvg-logo="https://1.bp.blogspot.com/-1DYn7WAo9Xc/XyxDWmZ9aeI/AAAAAAABu4Y/yrSqKd72VG8fkB_l6Ti7hUMp-AZUuMMqQCLcBGAsYHQ/w300-c/Terraviva.png" tvg-shift="0" group-title="Brasil: TV aberta",Terra Viva
 https://evpp.mm.uol.com.br/band_live/terraviva/playlist.m3u8
@@ -3127,4 +3150,4 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ea190ae8
 #EXTINF:-1 tvg-id="5ad8d796e738977e2c31094a" tvg-logo="https://images.pluto.tv/channels/5ad8d796e738977e2c31094a/colorLogoPNG.png" group-title="Reino Unido: Pluto",World Poker Tour UK
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad8d796e738977e2c31094a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-################################## Pix da Helen Fernanda - editora da lista: meutedio@mail.com ###########################
+#### Pix da Helen Fernanda - editora da lista: meutedio@mail.com ###########################
