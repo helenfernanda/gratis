@@ -867,6 +867,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fb584b7613a3100078
 #EXTINF:-1 tvg-id="5d94a5451754e6a4298d1059" tvg-logo="https://images.pluto.tv/channels/5d94a5451754e6a4298d1059/colorLogoPNG.png" group-title="Kids em inglês",Sabrina Teenage Witch | Reino Unido
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d94a5451754e6a4298d1059/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
+#EXTINF:-1 tvg-id="the-bob-ross-channel" tvg-logo="http://images.pluto.tv/channels/5f36d726234ce10007784f2a/colorLogoPNG.png" group-title="Kids em inglês",The Bob Ross Channel | EUA
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f36d726234ce10007784f2a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc995f21-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a61cb53b-5178-4e69-bdec-6fdec4fa10ce&userId=&serverSideAds=true
+
 #EXTINF:-1 tvg-id="toon.au" tvg-name="Toon Goggles AU" tvg-logo="https://i.imgur.com/XusVyxA.jpg" group-title="Kids em inglês",Toon Goggles
 https://toongoggles-toongoggles-3-au.samsung.wurl.com/manifest/playlist.m3u8
 
@@ -1036,7 +1039,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fd7bca3e0a4ee0007a
 
 
 
-############## NOTÍCIAS 24 HORAS - BRASIL ##############
+############## NOTÍCIAS - BRASIL ##############
 
 #EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News" tvg-logo="https://imgur.com/WwSAtkh.png" group-title="Notícias",Band News | Brasil
 http://evpp.mm.uol.com.br:1935/geob_band/bandnewstv/playlist.m3u8
@@ -1056,7 +1059,8 @@ http://live.video.globo.com/h/1402196702324012345678915746223249876543210St7g4OJ
 #EXTINF:-1 tvg-id="Recordnews.br" tvg-name="Record News" tvg-logo="https://imgur.com/HaPL1rx.png" tvg-shift="0" group-title="Notícias",Record News | Brasil
 https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
 
-############## NOTÍCIAS 24 HORAS - EXTERIOR ##############
+
+############## NOTÍCIAS - EXTERIOR ##############
 
 #EXTINF:-1 tvg-name="ABC News | Austrália" tvg-id="abcnews.com.au" tvg-logo="https://i.imgur.com/rdkvOCh.png" group-title="Notícias",ABC News | Austrália
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
@@ -1175,6 +1179,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af4228394
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.desifree.tv/wp-content/uploads/DUBAI-SPORTS.jpg" tvg-name="Dubai Sports" group-title="Notícias",Dubai Sports | Emirados Árabes Unidos 
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/79?pprotocol=hls
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://media-exp1.licdn.com/dms/image/C4D12AQHdedL5JOiBAg/article-inline_image-shrink_1000_1488/0/1603957307349?e=1622073600&v=beta&t=X1OTeuwVTbsfRV_DvNimwcSJGsESrErYhkxn86utI9o" group-title="Notícias",Estrella News em espanhol
+https://estrellanews-plex.amagi.tv/amRdirect/us_privacy=1---&did=83cf59f7-dc7f-5753-8faa-ab958f6c33e3&dnt=0&X-Plex-Token=jePnUaVx_dJ5XWHmG6ob&channelId=60089d97f682a3002c34829b/hls/amagi_hls_data_plexAAAAA-estrellanews-plex/CDN/384x216_435600/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K1kJf1s.png" group-title="Notícias" tvg-name="Euronews Roku | EUA",Euronews Roku | EUA
 https://euronews-euronews-world-1.roku.wurl.com/manifest/playlist.m3u8
 
@@ -1204,6 +1211,9 @@ https://nbcnews3.akamaized.net/hls/live/723429/NBCNewsNowa418c506/clear/hdntl=ex
 
 #EXTINF:-1 tvg-name="NBC News NOW | EUA" tvg-id="nbcnow.us" tvg-logo="http://images.pluto.tv/channels/5df97894467dfa00091c873c/colorLogoPNG.png" group-title="Notícias",NBC News NOW | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df97894467dfa00091c873c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc978a64-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1d9b7eb4-936f-4e6f-aa71-cc722d53fff9&userId=&serverSideAds=true
+
+#EXTINF:-1 group-title="Notícias",News 12 NY | EUA
+https://e8b8ddf2155a4a0e90aa8a11325f1f7d.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_News12NewYork/134ba3d3-4916-4973-aa48-21d227ba0400/5.m3u8
 
 #EXTINF:-1 tvg-name="Negocios TV" tvg-logo="yt3.ggpht.com/ytc/AAUvwnhNaoefHZMl6bxNUYfF9O92g3cq1XLasuHw7VyL=s300-c-k-c0x00ffffff-no-rj",Negocios TV | Espanha
 https://play06.gooru.live/playnegocios/_definst_/5646-1603313320000/chunklist_w1698087186.m3u8
@@ -1288,7 +1298,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fb554d87a0c480007c
 #EXTINF:-1 tvg-id="5ca1e0ee50be2571e393ad33" tvg-logo="https://images.pluto.tv/channels/5ca1e0ee50be2571e393ad33/colorLogoPNG.png" group-title="Videogame",ESR 24/7 | Reino Unido
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca1e0ee50be2571e393ad33/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41DL9MABXLL.png" group-title="Videogame",ESTV | EUA
+#EXTINF:-1 tvg-id="" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41DL9MABXLL.png" group-title="Videogame",ESTV | EUA
 https://stream-us-east-1.getpublica.com/cl/e279a3cd-1df4-4814-8bf0-f102f79cf26f/1280x720_2300000_4.m3u8
 
 #EXTINF:-1 tvg-id="gameplay-call-of-duty" tvg-logo="http://images.pluto.tv/channels/5f5bd666c0a7600007af6c20/colorLogoPNG.png" group-title="Videogame",Gameplay: Call of Duty | EUA
@@ -1338,6 +1348,12 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad8d907e
 
 #EXTINF:-1 tvg-id="pluto-tv-gamer" tvg-logo="http://images.pluto.tv/channels/5ca7f16c37b88b2694731c79/colorLogoPNG.png" group-title="Videogame",Pluto TV Gamer
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca7f16c37b88b2694731c79/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc956782-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8f11f607-b195-41da-80ce-b246f72c0030&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="" group-title="Videogame" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple124/v4/8e/58/22/8e582237-7e19-724f-7ba1-55faa0ddd854/source/512x512bb.jpg",SKWAD
+https://stream-us-east-1.getpublica.com/cl/783e617e-e70b-4f21-b860-ac02fec5c4b6/1280x720_2620403_11.m3u8
+
+#EXTINF:-1 group-title="Videogame" tvg-logo="https://res-1.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco/vctrfdrzxeqvcafwskw5",Tankee | EUA
+https://72c5b87587c545558c3170ab55de2915.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_Tankee/ffcd3aa2-12a2-4a00-bc93-4ad8a3731642/0.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWeckfObfyFWhe5JuPFGqaZgCiFyBSZXjg4RqleTMoxnlpG_wSOg3gOaRJjYdxQHUbZa0&usqp=CAU" group-title="Videogame" tvg-name="The Miki Show",The Miki Show | EUA
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/728&pprotocol=hls
@@ -1964,6 +1980,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dc0c78281eddb0009a
 #EXTINF:-1 tvg-id="" group-title="EUA: Celebridades" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWeckfObfyFWhe5JuPFGqaZgCiFyBSZXjg4RqleTMoxnlpG_wSOg3gOaRJjYdxQHUbZa0&usqp=CAU" tvg-name="Hollywood Show Live",Hollywood Show Live | EUA
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/4280&pprotocol=hls
 
+#EXTINF:-1 group-title="EUA: Celebridades" tvg-logo="https://thestreamable.com/media/pages/news/peacock-to-launch-new-channel-on-platform-lit-entertainment-news/59fda77b38-1618516374/lit-logo-blue-768x432.jpg",LIT Entertainment News | EUA 
+https://studio1-lit-plex.amagi.tv/amRdirect/us_privacy=1---&did=83cf59f7-dc7f-5753-8faa-ab958f6c33e3&dnt=0&X-Plex-Token=jePnUaVx_dJ5XWHmG6ob&channelId=6025c38eb7f47e002cc831be/hls/amagi_hls_data_plexAAAAA-studio1-lit-plex/CDN/640x360_1205600/index.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="EUA: Celebridades" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWeckfObfyFWhe5JuPFGqaZgCiFyBSZXjg4RqleTMoxnlpG_wSOg3gOaRJjYdxQHUbZa0&usqp=CAU" tvg-name="Movie Loft TV",Movie Loft TV | EUA
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/2719&pprotocol=hls
 
@@ -2030,6 +2049,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84dc59026b9b00076
 
 #EXTINF:-1 tvg-id="telemundo-telenovelas-clasicas-ptv1" tvg-logo="http://images.pluto.tv/channels/5cf96cc422df39f1a338d165/colorLogoPNG.png" group-title="EUA: Pluto Novelas",Telemundo Telenovelas Clásicas | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc95b5a3-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e1f8d7f0-1bdb-4cba-bfee-8803af11e15c&userId=&serverSideAds=true
+
 
 ################################## eua pluto ###########################
 
@@ -2444,9 +2464,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d81607ab737153ea3c
 
 #EXTINF:-1 tvg-id="the-asylum" tvg-logo="http://images.pluto.tv/channels/591105034c1806b47438342c/colorLogoPNG.png" group-title="EUA: Pluto",The Asylum | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/591105034c1806b47438342c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc936bb0-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=613d39e5-536b-4e4d-b35f-fcd603b93cf4&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="the-bob-ross-channel" tvg-logo="http://images.pluto.tv/channels/5f36d726234ce10007784f2a/colorLogoPNG.png" group-title="EUA: Pluto",The Bob Ross Channel | EUA
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f36d726234ce10007784f2a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc995f21-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a61cb53b-5178-4e69-bdec-6fdec4fa10ce&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-id="the-carol-burnett-show" tvg-name="The Carol Burnett Show" tvg-logo="http://images.pluto.tv/channels/5ef396d1be50a3000722808b/colorLogoPNG.png" group-title="EUA: Pluto",The Carol Burnett Show | EUA 
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ef396d1be50a3000722808b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc98c2e5-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=4243f382-5de7-4d9e-b75c-86c561ba8e53&userId=&serverSideAds=true
