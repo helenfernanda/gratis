@@ -1,6 +1,6 @@
 #EXTM3U refresh="3600" url-tvg="http://htmhelen.webcindario.com/epg.zip" x-tvg-url="http://epg.liveiptv.net/epg.xml,https://cld.pt/dl/download/7a36f027-b90a-4be0-ba89-00acb7d82fa7/RHAEPG.xml,https://i.mjh.nz/PlutoTV/de.xml,https://i.mjh.nz/PlutoTV/fr.xml,https://i.mjh.nz/PlutoTV/us.xml,https://i.mjh.nz/PlutoTV/uk.xml,https://i.mjh.nz/PlutoTV/ca.xml,https://i.mjh.nz/PlutoTV/mx.xml,https://i.mjh.nz/PlutoTV/br.xml,https://i.mjh.nz/PlutoTV/es.xml" 
 
-### Contato e pix da Helen Fernanda - editora da lista: meutedio@mail.com ############
+### Contato da lista: meutedio@mail.com ############
 
 ############################### BRASIL EDUCATIVOS #####################################
 
@@ -84,7 +84,7 @@ https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
 https://demo.cdn.tv.br/media/n/BZi1nZuZy2G5nZq0mJy/a/BZi1nZuZy2G5nZq0mJy/720p/chunks.m3u8?ch=BZi1nZuZy2G5nZq0mJy&t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkZWZhdWx0IzE1NzYwODMyNTgiLCJpYXQiOjE2MTkwOTE5NTQsImV4cCI6MTYxOTEwOTk1NH0.rol9n3Xa-wIH_Wp7EfbY0p2ZESqgVIA3b0bXJ0InGns
 
 #EXTINF:-1 tvg-id="agromais" tvg-name="Agro Mais" tvg-logo="https://portaldoqueijo.com.br/site/wp-content/uploads/2020/06/101158384_143665053919698_2333568191340478464_o.png" group-title="Brasil: TV aberta 🇧🇷",Agro+ | Brasil
-https://evpp.mm.uol.com.br/geob_band/agromais/playlist.m3u8
+https://evpp.mm.uol.com.br/geob_band/agromais/chunklist_w1203097179.m3u8
 
 #EXTINF:-1 tvg-id="BandRede.br" tvg-name="Band" tvg-logo="https://imgur.com/HnL2uBA.png" tvg-shift="0" group-title="Brasil: TV aberta 🇧🇷",Band | Brasil
 http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
@@ -156,7 +156,7 @@ http://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
 https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Terraviva.br" tvg-name="Terra Viva" tvg-logo="https://1.bp.blogspot.com/-1DYn7WAo9Xc/XyxDWmZ9aeI/AAAAAAABu4Y/yrSqKd72VG8fkB_l6Ti7hUMp-AZUuMMqQCLcBGAsYHQ/w300-c/Terraviva.png" group-title="Brasil: TV aberta 🇧🇷",Terra Viva | Brasil
-http://evpp.mm.uol.com.br/band_live/terraviva/playlist.m3u8
+https://evpp.mm.uol.com.br/band_live/terraviva/chunklist_w1942099493.m3u8
 
 #EXTINF:-1 tvg-logo="https://pa-str.srvsite.com/arquivos/5155/cabecalho-5155-20191024185420.png" group-title="Brasil: TV aberta 🇧🇷",TV ADO | Brasil
 https://5c483b9d1019c.streamlock.net/tvado/tvado/chunklist_w1766917256.m3u8
@@ -245,12 +245,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60072798dcf43700075
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f36f2346ede750007332d11/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781ef22-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a4be72ee-4337-4176-a253-be6d837c977f&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-id="tastemade-ptv2" tvg-logo="https://imgur.com/JnHVIgo.png" group-title="Brasil: jovens 🇧🇷",Tastemade | Brasil 
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fd1419a3b4f4b000773ba85/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9784ae40-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0c4b7db2-88f3-4c00-8114-c9f5bcca8459&userId=&serverSideAds=true
+https://stitcher-ipv4.pluto.tv/stitch/hls/channel/5fd1419a3b4f4b000773ba85livestitch/2977158/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=0651cfd7-3dba-4a55-99ce-263e1c29297a&deviceVersion=73.0.3856.424&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&deviceType=web&deviceMake=Opera&sid=97aeed01-a86f-11eb-9273-0242ac110002&advertisingId=&deviceLat=-16.6391&deviceLon=-49.2622&deviceDNT=0&deviceModel=web&userId=&appName=web 
 
 #EXTINF:-1 tvg-id="Yeeaah.br" tvg-name="Yeeaah" tvg-logo="http://canalyeeah.com.br/wp-content/uploads/2021/01/YEEAAHTV-2021_SITE.png" group-title="Brasil: jovens 🇧🇷",Yeeaah | Brasil
-https://demo.cdn.tv.br/media/n/BZi1nZuZy2G0mtK4mJC/a/BZi1nZuZy2G0mtK4mJC/720p/chunks.m3u8?ch=BZi1nZuZy2G0mtK4mJC&t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkZWZhdWx0IzE1NzYwODMyNTgiLCJpYXQiOjE2MTg1ODczNTcsImV4cCI6MTYxODYwNTM1N30.5kFW9fo_645RcHm2xMdmuF5MZTKAcHFYrn1pKoVxwfU
-
-#EXTINF:-1 tvg-id="Yeeaah.br" tvg-name="Yeeaah" tvg-logo="http://canalyeeah.com.br/wp-content/uploads/2021/01/YEEAAHTV-2021_SITE.png" group-title="Brasil: jovens 🇧🇷",Yeeaah 2 | Brasil
 https://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
 
 
