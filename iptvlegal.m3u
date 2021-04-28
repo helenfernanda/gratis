@@ -1,6 +1,6 @@
 #EXTM3U refresh="3600" url-tvg="http://htmhelen.webcindario.com/epg.zip" x-tvg-url="http://epg.liveiptv.net/epg.xml,https://cld.pt/dl/download/7a36f027-b90a-4be0-ba89-00acb7d82fa7/RHAEPG.xml,https://i.mjh.nz/PlutoTV/de.xml,https://i.mjh.nz/PlutoTV/fr.xml,https://i.mjh.nz/PlutoTV/us.xml,https://i.mjh.nz/PlutoTV/uk.xml,https://i.mjh.nz/PlutoTV/ca.xml,https://i.mjh.nz/PlutoTV/mx.xml,https://i.mjh.nz/PlutoTV/br.xml,https://i.mjh.nz/PlutoTV/es.xml" 
 
-### Contato da lista: meutedio@mail.com ############
+### Contato da editora da lista: meutedio@mail.com ############
 
 ############################### BRASIL EDUCATIVOS #####################################
 
@@ -212,9 +212,6 @@ https://5e837408ea907.streamlock.net:1936/tvpantanalms/tvpantanalms/playlist.m3u
 #EXTINF:-1 tvg-name="TV8" tvg-id="Tv8.br" group-title="Brasil: TV aberta 🇧🇷" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnju9QKmmAOR2ZznQ5xOWzwSoBOc5QG5cTNGgzK78Q=s300-c-k-c0x00ffffff-no-rj",TV8 Brasil
 https://cdn.jmvstream.com/w/LVW-9773/ngrp:LVW9773_eRZLMN9Hsr_all/playlist.m3u8
 
-#EXTINF:-1 tvg-ID="Woohoo.br" tvg-name="Woohoo" tvg-logo="http://168.205.87.198/logocanais/woohoo.png" group-title="Brasil: TV aberta 🇧🇷",Woohoo
-http://168.205.87.198:8555/live/viniciusvieira/vieira123/141.m3u8
-
 ############## BRASIL: jovens 🇧🇷 ##############
 
 #EXTINF:-1 tvg-id="cheftv.br" tvg-name="Chef TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1c/LOGOCHEFTV.jpg" tvg-shift="0" group-title="Brasil: jovens 🇧🇷",Chef TV | Brasil
@@ -246,6 +243,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f36f2346ede7500073
 
 #EXTINF:-1 tvg-id="tastemade-ptv2" tvg-logo="https://imgur.com/JnHVIgo.png" group-title="Brasil: jovens 🇧🇷",Tastemade | Brasil 
 https://stitcher-ipv4.pluto.tv/stitch/hls/channel/5fd1419a3b4f4b000773ba85livestitch/2977158/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=0651cfd7-3dba-4a55-99ce-263e1c29297a&deviceVersion=73.0.3856.424&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&deviceType=web&deviceMake=Opera&sid=97aeed01-a86f-11eb-9273-0242ac110002&advertisingId=&deviceLat=-16.6391&deviceLon=-49.2622&deviceDNT=0&deviceModel=web&userId=&appName=web 
+
+#EXTINF:-1 tvg-ID="Woohoo.br" tvg-name="Woohoo" tvg-logo="http://168.205.87.198/logocanais/woohoo.png" group-title="Brasil: jovens 🇧🇷",Woohoo
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/141.m3u8
 
 #EXTINF:-1 tvg-id="Yeeaah.br" tvg-name="Yeeaah" tvg-logo="http://canalyeeah.com.br/wp-content/uploads/2021/01/YEEAAHTV-2021_SITE.png" group-title="Brasil: jovens 🇧🇷",Yeeaah | Brasil
 https://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
@@ -2596,7 +2596,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5eac6bf103a57700073
 #EXTINF:-1 tvg-id="announcement-2" tvg-logo="http://images.pluto.tv/channels/5eac6c5d2240d80007327f5a/colorLogoPNG.png" group-title="EUA: Pluto 🇺🇸",zzz Announcement | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5eac6c5d2240d80007327f5a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc984db3-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=5507cc51-5702-42f2-9122-d559cdfe624d&userId=&serverSideAds=true
 
-
 ############################## EUA: Filmrise ################
 
 #EXTINF:-1 tvg-name="Filmrise Family | EUA" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81VZaxj6a1L._SY355_.png" group-title="EUA: Filmrise 🇺🇸",Filmrise Family | EUA
@@ -2822,12 +2821,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ffc8c345822750007e
 
 #################################### ITÁLIA ####
 
-#EXTINF:-1 tvg-id="DMAX.it" group-title="Itália 🇮🇹" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV5Wc4PYm7QulYOof1QKpf3pWZLtqkrdOPwLb1XQ_ybDSqCGoarpDLWHJ4NRvWwvYgDLU&usqp=CAU" tvg-name="DMAX",Discovery Max | Itália
-https://sbshdlu5-lh.akamaihd.net/i/sbshdl_5@825063/index_804_av-p.m3u8?sd=10&rebase=on&id=AgCxy6JjF9rVjRDodWCEvPIzSl1c0ZYZ%2f8upN0W1DcH5TV1zfR9%2faRvmGCA05vhOKnf+pkLHKe3LTg%3d%3d
-
-#EXTINF:-1 tvg-id="realtime.it" group-title="Itália 🇮🇹" tvg-logo="https://static.filmon.com/theme/images/logo/filmon_facebook.png" tvg-name="Real Time",Discovery Real Time | Itália
-https://sbshdlu5-lh.akamaihd.net/i/sbshdl_4@810998/index_1100_av-p.m3u8?sd=10&rebase=on&id=AgCxy6JjYAZ7XFzodWDXOfKopUk1Pn3kFWvTmM0%2fgp4uuTl0cSaKkFqZJxx1wWUE%2fXw0RsEtpk1%2fHA%3d%3d
-
 #EXTINF:-1 tvg-logo="https://static.filmon.com/theme/images/logo/filmon_facebook.png" tvg-id="" group-title="Itália 🇮🇹" tvg-name="Teos TV",Teos TV | Itália
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3359&pprotocol=hls
 
@@ -2837,7 +2830,6 @@ https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3359&p
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d1697f10a0e000798ed8d/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 #EXTINF:-1 tvg-id="5efb8c19b2678b000780d032" tvg-name="Archivos Forenses MX" tvg-logo="https://images.pluto.tv/channels/5efb8c19b2678b000780d032/colorLogoPNG.png" group-title="México: Pluto 🇲🇽",Archivos Forenses MX
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5efb8c19b2678b000780d032/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-
 
 #EXTINF:-1 tvg-id="5e8f8e7598841d0007bf35b3" tvg-logo="https://images.pluto.tv/channels/5e8f8e7598841d0007bf35b3/colorLogoPNG.png" group-title="México: Pluto 🇲🇽",Comedy Central Stand Up MX
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8f8e7598841d0007bf35b3/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
