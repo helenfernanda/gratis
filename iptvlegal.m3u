@@ -526,6 +526,9 @@ https://aenetworks-crime360-1.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="black-cinema" tvg-logo="http://images.pluto.tv/channels/58af4c093a41ca9d4ecabe96/colorLogoPNG.png" group-title="Cinema em inglês 🎬",Black Cinema | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58af4c093a41ca9d4ecabe96/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc9344a4-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d9d026f3-2a1f-4b92-a0c2-fbc14e98bd09&userId=&serverSideAds=true
 
+#EXTINF:-1 group-title="Kids em inglês 🪀" tvg-logo="https://static.filmon.com/assets/channels/2966/extra_big_logo.png",Charlie Chaplin 🎩
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/2966&pprotocol=hls
+
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/ujmPyit.jpg" group-title="Cinema em inglês 🎬" tvg-name="",CineVault Westerns | EUA
 https://20995731713c495289784ab260b3c830.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_CinevaultWesterns/playlist.m3u8
 
@@ -594,6 +597,12 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f7796e470510900070
 #EXTINF:-1 tvg-id="5db81695a95186000941ee8b" tvg-logo="https://images.pluto.tv/channels/5db81695a95186000941ee8b/colorLogoPNG.png" group-title="Seriados em inglês 📺",(The) Beverly Hillbillies: A família Buscapé 🇬🇧
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db81695a95186000941ee8b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
+#EXTINF:-1 tvg-id="the-carol-burnett-show" tvg-name="The Carol Burnett Show" tvg-logo="https://gvimage.zype.com/53c0457a69702d4d66040000/5fb6d14e2a55760001e48777/custom_thumbnail/480.jpg" group-title="Seriados em inglês 📺",(The) Carol Burnett Show 🇺🇸
+https://thecarolburnettshow-zype.amagi.tv/playlist1080p.m3u8
+
+#EXTINF:-1 tvg-id="the-carol-burnett-show" tvg-name="The Carol Burnett Show" tvg-logo="http://images.pluto.tv/channels/5ef396d1be50a3000722808b/colorLogoPNG.png" group-title="Seriados em inglês 📺",(The) Carol Burnett Show do Pluto TV 🇺🇸
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ef396d1be50a3000722808b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc98c2e5-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=4243f382-5de7-4d9e-b75c-86c561ba8e53&userId=&serverSideAds=true
+
 #EXTINF:-1 tvg-id="dark-shadows" tvg-name="Dark Shadows" tvg-logo="http://images.pluto.tv/channels/5ef3958c66ac540007d6e6a7/colorLogoPNG.png" group-title="Seriados em inglês 📺",Dark Shadows | EUA 🇺🇸
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ef3958c66ac540007d6e6a7/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc98c2e4-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=423177d9-2b82-4aac-8d4f-e636371ad8ed&userId=&serverSideAds=true
 
@@ -609,11 +618,17 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ce4475cd43850831ca
 #EXTINF:-1 tvg-id="family-ties" tvg-logo="http://images.pluto.tv/channels/5f77939a630f530007dde654/colorLogoPNG.png" group-title="Seriados em inglês 📺",Family Ties: Caras & Caretas | EUA 🇺🇸
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f77939a630f530007dde654/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc9a4987-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=835e21ca-6ba1-49f4-9835-8efcc9eb5c74&userId=&serverSideAds=true
 
+#EXTINF:-1 group-title="Seriados em inglês 📺" tvg-logo="https://static.filmon.com/assets/channels/4628/extra_big_logo.png",Fury 🇺🇸
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/4628&pprotocol=hls
+
 #EXTINF:-1 tvg-id="happy-days-ptv1" tvg-logo="http://images.pluto.tv/channels/5f7794162a4559000781fc12/colorLogoPNG.png" group-title="Seriados em inglês 📺",Happy Days: Dias Felizes | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f7794162a4559000781fc12/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc9a7090-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=40acdb70-3dc3-4255-92a0-883abe09dd5f&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-id="leverage" tvg-logo="http://images.pluto.tv/channels/5d9ccebb60a26500097dc5a4/colorLogoPNG.png" group-title="Seriados em inglês 📺",Leverage: Acerto de Contas 🇺🇸
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d9ccebb60a26500097dc5a4/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc96ee22-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=2f635c2c-5786-4c44-8149-08abf66902eb&userId=&serverSideAds=true
+
+#EXTINF:-1 group-title="Seriados em inglês 📺" tvg-logo="https://static.filmon.com/assets/channels/3101/extra_big_logo.png",(The) Lucy Show 🇺🇸
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3101&pprotocol=hls
 
 #EXTINF:-1 tvg-id="5ea18e5df6dd1d0007cf7bad" tvg-logo="https://images.pluto.tv/channels/5ea18e5df6dd1d0007cf7bad/colorLogoPNG.png" group-title="Seriados em inglês 📺",McLeod's Daughters: As filhas de McLeod 🇦🇺
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ea18e5df6dd1d0007cf7bad/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
@@ -633,6 +648,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/545943f1c9f133a519b
 #EXTINF:-1 tvg-id="5e8dc008d4422e00072d2405" tvg-logo="https://images.pluto.tv/channels/5e8dc008d4422e00072d2405/colorLogoPNG.png" group-title="Seriados em inglês 📺",Mutant X
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e8dc008d4422e00072d2405/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
+#EXTINF:-1 group-title="Seriados em inglês 📺" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91fC0ZgPqiL._RI_.jpg",Petticoat Junction 🇺🇸
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/5564&pprotocol=hls
+
 #EXTINF:-1 tvg-id="shout-factory-tv" tvg-logo="http://images.pluto.tv/channels/55a6a3275616b6240c26f393/colorLogoPNG.png" group-title="Seriados em inglês 📺",Shout! Factory 🇨🇦
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/55a6a3275616b6240c26f393/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=e71ebf21-6a72-11eb-87d7-6fba7c7cde7d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0e2d5778-3fab-47b0-b533-e5c13f781e80&userId=&serverSideAds=true
 
@@ -641,14 +659,6 @@ https://shoutfactory-shoutfactory-zype.amagi.tv/playlistR1080p.m3u8
 
 #EXTINF:-1 tvg-id="shout-factory-tv" tvg-logo="http://images.pluto.tv/channels/55a6a3275616b6240c26f393/colorLogoPNG.png" group-title="Seriados em inglês 📺",Shout! Factory TV do Pluto TV 🇺🇸
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/55a6a3275616b6240c26f393/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&de
-
-#EXTINF:-1 tvg-id="the-carol-burnett-show" tvg-name="The Carol Burnett Show" tvg-logo="https://gvimage.zype.com/53c0457a69702d4d66040000/5fb6d14e2a55760001e48777/custom_thumbnail/480.jpg" group-title="Seriados em inglês 📺",The Carol Burnett Show 🇺🇸
-https://thecarolburnettshow-zype.amagi.tv/playlist1080p.m3u8
-
-#EXTINF:-1 tvg-id="the-carol-burnett-show" tvg-name="The Carol Burnett Show" tvg-logo="http://images.pluto.tv/channels/5ef396d1be50a3000722808b/colorLogoPNG.png" group-title="Seriados em inglês 📺",The Carol Burnett Show do Pluto TV 🇺🇸
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ef396d1be50a3000722808b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc98c2e5-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=4243f382-5de7-4d9e-b75c-86c561ba8e53&userId=&serverSideAds=true
-
-
 
 
 ################################## Compras ###########################
@@ -716,6 +726,9 @@ https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/1829&p
 
 #EXTINF:-1 tvg-logo="https://static.filmon.com/theme/images/logo/filmon_facebook.png" tvg-id="" group-title="Culinária em inglês 🍳" tvg-name="Gastrolab TV",Gastrolab TV | EUA
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3005&pprotocol=hls
+
+#EXTINF:-1 tvg-logo="https://static.filmon.com/theme/images/logo/filmon_facebook.png" tvg-id="" group-title="Culinária em inglês 🍳" tvg-name="Indian Recipes",Indian Recipes 🇮🇳
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/2921&pprotocol=hls
 
 #EXTINF:-1 tvg-id="gordon-ramsays-hells-kitchen" tvg-logo="https://akns-images.eonline.com/eol_images/Entire_Site/2014213/rs_1024x759-140313084133-1024.hells-kitchen-gordon-ramsay.ls.31314.jpg?fit=around%7C1024:759&output-quality=90&crop=1024:759;center,top" group-title="Culinária em inglês 🍳",Gordon Ramsay's Hell's Kitchen | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e99f4423e067bd6df6903/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc945612-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d2385b8b-8a8b-486d-8323-d342c2815163&userId=&serverSideAds=true
@@ -981,208 +994,277 @@ https://demo.cdn.tv.br/media/n/BZi1nZuZy2GXmdqZnti4/a/BZi1nZuZy2GXmdqZnti4/720p/
 
 ################# Kids em espanhol ###################
 
-#EXTINF:-1 tvg-id="babar" tvg-logo="https://imgur.com/NinuO5y.png" group-title="Kids em espanhol 🍭",Babar | Argentina
+#EXTINF:-1 tvg-id="babar" tvg-logo="https://imgur.com/NinuO5y.png" group-title="Kids em espanhol 🧸",Babar | Argentina
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e67e20c93312100076f3ffe/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1fc42-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=4dd50492-4fb9-436b-9efe-56335cf7502f&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="5e67e20c93312100076f3ffe" tvg-logo="https://images.pluto.tv/channels/5e67e20c93312100076f3ffe/colorLogoPNG.png" group-title="Kids em espanhol 🍭",Babar | México
+#EXTINF:-1 tvg-id="5e67e20c93312100076f3ffe" tvg-logo="https://images.pluto.tv/channels/5e67e20c93312100076f3ffe/colorLogoPNG.png" group-title="Kids em espanhol 🧸",Babar | México
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e67e20c93312100076f3ffe/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 
-#EXTINF:-1 tvg-id="babyfirst" tvg-logo="https://imgur.com/GnHvrdA.png" group-title="Kids em espanhol 🍭",Babyfirst | Argentina
+#EXTINF:-1 tvg-id="babyfirst" tvg-logo="https://imgur.com/GnHvrdA.png" group-title="Kids em espanhol 🧸",Babyfirst | Argentina
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebac49ce4dc8b00078b23bc/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff22356-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9245c0c5-80d7-43b0-a132-df93fca90821&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="5ebac49ce4dc8b00078b23bc" tvg-logo="https://images.pluto.tv/channels/5ebac49ce4dc8b00078b23bc/colorLogoPNG.png" group-title="Kids em espanhol 🍭",Babyfirst | México
+#EXTINF:-1 tvg-id="5ebac49ce4dc8b00078b23bc" tvg-logo="https://images.pluto.tv/channels/5ebac49ce4dc8b00078b23bc/colorLogoPNG.png" group-title="Kids em espanhol 🧸",Babyfirst | México
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebac49ce4dc8b00078b23bc/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 
-#EXTINF:-1 tvg-id="barney" tvg-logo="https://imgur.com/v4Az09T.png" group-title="Kids em espanhol 🍭",Barney | Argentina
+#EXTINF:-1 tvg-id="barney" tvg-logo="https://imgur.com/v4Az09T.png" group-title="Kids em espanhol 🧸",Barney | Argentina
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f29ada4bdaebd000708d49d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff29882-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=daaec956-b0c6-4701-a551-d3b7bab3a563&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="5f29ada4bdaebd000708d49d" tvg-logo="https://images.pluto.tv/channels/5f29ada4bdaebd000708d49d/colorLogoPNG.png" group-title="Kids em espanhol 🍭",Barney | México
+#EXTINF:-1 tvg-id="5f29ada4bdaebd000708d49d" tvg-logo="https://images.pluto.tv/channels/5f29ada4bdaebd000708d49d/colorLogoPNG.png" group-title="Kids em espanhol 🧸",Barney | México
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f29ada4bdaebd000708d49d/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 
-#EXTINF:-1 tvg-id="bob-esponja-es" tvg-logo="http://images.pluto.tv/channels/5f1aca0b4e448e00075e7c5e/colorLogoPNG.png" group-title="Kids em espanhol 🍭",Bob Esponja | Espanha
+#EXTINF:-1 tvg-id="bob-esponja-es" tvg-logo="http://images.pluto.tv/channels/5f1aca0b4e448e00075e7c5e/colorLogoPNG.png" group-title="Kids em espanhol 🧸",Bob Esponja | Espanha
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aca0b4e448e00075e7c5e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a9a6e980-8b68-11eb-b9cd-1bc319230674&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=5c93d975-7450-4d85-a5a4-692a67264fca&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="bob-esponja-es-plus" tvg-logo="http://images.pluto.tv/channels/5fd87d882574170007fac022/colorLogoPNG.png" group-title="Kids em espanhol 🍭",Bob Esponja+ | Espanha
+#EXTINF:-1 tvg-id="bob-esponja-es-plus" tvg-logo="http://images.pluto.tv/channels/5fd87d882574170007fac022/colorLogoPNG.png" group-title="Kids em espanhol 🧸",Bob Esponja+ | Espanha
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fd87d882574170007fac022/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a9a8be43-8b68-11eb-b9cd-1bc319230674&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=4c6c6eb7-cc06-4641-bdf6-286f95f80e1c&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="pluto-tv-degrassi" tvg-logo="https://imgur.com/r0uzqHL.png" group-title="Kids em espanhol 🍭",Degrassi | Argentina
+#EXTINF:-1 tvg-id="pluto-tv-degrassi" tvg-logo="https://imgur.com/r0uzqHL.png" group-title="Kids em espanhol 🧸",Degrassi | Argentina
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de58ef515635d00091f605d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1ae20-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=4c93798e-e952-447f-a365-6bf6f3f1ab9a&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="5de58ef515635d00091f605d" tvg-logo="https://images.pluto.tv/channels/5de58ef515635d00091f605d/colorLogoPNG.png" group-title="Kids em espanhol 🍭",Degrassi | México
+#EXTINF:-1 tvg-id="5de58ef515635d00091f605d" tvg-logo="https://images.pluto.tv/channels/5de58ef515635d00091f605d/colorLogoPNG.png" group-title="Kids em espanhol 🧸",Degrassi | México
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de58ef515635d00091f605d/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 
-#EXTINF:-1 tvg-id="el-reino-infantil" tvg-logo="https://imgur.com/euKVFXK.png" group-title="Kids em espanhol 🍭",El Reino Infantil | Argentina
+#EXTINF:-1 tvg-id="el-reino-infantil" tvg-logo="https://imgur.com/euKVFXK.png" group-title="Kids em espanhol 🧸",El Reino Infantil | Argentina
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d3d06fb60d8000781fce8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff334c0-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=51f247aa-de6a-4551-a331-ffa4c5dc6b64&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="5f4d3d06fb60d8000781fce8" tvg-name="El Reino Infantil MX" tvg-logo="https://images.pluto.tv/channels/5f4d3d06fb60d8000781fce8/colorLogoPNG.png" group-title="Kids em espanhol 🍭",El Reino Infantil | México
+#EXTINF:-1 tvg-id="5f4d3d06fb60d8000781fce8" tvg-name="El Reino Infantil MX" tvg-logo="https://images.pluto.tv/channels/5f4d3d06fb60d8000781fce8/colorLogoPNG.png" group-title="Kids em espanhol 🧸",El Reino Infantil | México
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d3d06fb60d8000781fce8/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 
-#EXTINF:-1 tvg-id="kenan-y-kel-ptv1" tvg-logo="https://imgur.com/45EJ73Z.png" group-title="Kids em espanhol 🍭",Kenan y Kel | Argentina
+#EXTINF:-1 tvg-id="kenan-y-kel-ptv1" tvg-logo="https://imgur.com/45EJ73Z.png" group-title="Kids em espanhol 🧸",Kenan y Kel | Argentina
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fcea93ffcf94500071c4b2f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff4bb60-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7bb7672d-32f3-4e6a-9ff0-3e2488d68da1&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="5fcea93ffcf94500071c4b2f" tvg-logo="https://images.pluto.tv/channels/5fcea93ffcf94500071c4b2f/colorLogoPNG.png" group-title="Kids em espanhol 🍭",Kenan y Kel | México
+#EXTINF:-1 tvg-id="5fcea93ffcf94500071c4b2f" tvg-logo="https://images.pluto.tv/channels/5fcea93ffcf94500071c4b2f/colorLogoPNG.png" group-title="Kids em espanhol 🧸",Kenan y Kel | México
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fcea93ffcf94500071c4b2f/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 
-#EXTINF:-1 tvg-id="las-pistas-de-blue" tvg-logo="https://imgur.com/cHI7Sbp.png" group-title="Kids em espanhol 🍭",Las Pistas de Blue | Argentina
+#EXTINF:-1 tvg-id="las-pistas-de-blue" tvg-logo="https://imgur.com/cHI7Sbp.png" group-title="Kids em espanhol 🧸",Las Pistas de Blue | Argentina
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f9996533c9de3000759ccb5/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff49450-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=2dab1e46-b757-41f4-af9a-7a988974b383&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="5f9996533c9de3000759ccb5" tvg-logo="https://images.pluto.tv/channels/5f9996533c9de3000759ccb5/colorLogoPNG.png" group-title="Kids em espanhol 🍭",Las Pistas de Blue | México
+#EXTINF:-1 tvg-id="5f9996533c9de3000759ccb5" tvg-logo="https://images.pluto.tv/channels/5f9996533c9de3000759ccb5/colorLogoPNG.png" group-title="Kids em espanhol 🧸",Las Pistas de Blue | México
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f9996533c9de3000759ccb5/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 
 
-#EXTINF:-1 tvg-id="naruto-1" tvg-logo="https://imgur.com/kslBD7I.png" group-title="Kids em espanhol 🍭",Naruto | Argentina
+#EXTINF:-1 tvg-id="naruto-1" tvg-logo="https://imgur.com/kslBD7I.png" group-title="Kids em espanhol 🧸",Naruto | Argentina
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ee92e72fb286e0007285fec/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff27170-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d1372261-d71b-427e-b9b7-e0afe4a6974b&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="5ee92e72fb286e0007285fec" tvg-logo="https://images.pluto.tv/channels/5ee92e72fb286e0007285fec/colorLogoPNG.png" group-title="Kids em espanhol 🍭",Naruto | México
+#EXTINF:-1 tvg-id="5ee92e72fb286e0007285fec" tvg-logo="https://images.pluto.tv/channels/5ee92e72fb286e0007285fec/colorLogoPNG.png" group-title="Kids em espanhol 🧸",Naruto | México
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ee92e72fb286e0007285fec/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 
-#EXTINF:-1 tvg-id="nick-clasico" tvg-logo="https://imgur.com/Sor9AWc.png" group-title="Kids em espanhol 🍭",Nick Clásico | Argentina
+#EXTINF:-1 tvg-id="nick-clasico" tvg-logo="https://imgur.com/Sor9AWc.png" group-title="Kids em espanhol 🧸",Nick Clásico | Argentina
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff18711-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e8d15965-7824-4eee-a6c8-345e488692b7&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="5ddd7c348520b40009c347e2" tvg-logo="https://images.pluto.tv/channels/5ddd7c348520b40009c347e2/colorLogoPNG.png" group-title="Kids em espanhol 🍭",Nick Clásico | México
+#EXTINF:-1 tvg-id="5ddd7c348520b40009c347e2" tvg-logo="https://images.pluto.tv/channels/5ddd7c348520b40009c347e2/colorLogoPNG.png" group-title="Kids em espanhol 🧸",Nick Clásico | México
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 
-#EXTINF:-1 tvg-id="nick-jr-club" tvg-logo="https://imgur.com/6Y7diNn.png" group-title="Kids em espanhol 🍭",Nick Jr. Club | Argentina
+#EXTINF:-1 tvg-id="nick-jr-club" tvg-logo="https://imgur.com/6Y7diNn.png" group-title="Kids em espanhol 🧸",Nick Jr. Club | Argentina
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7cb2cbb9010009b4fe32/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff18712-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6796fdc2-2bb5-4e80-a717-366aa2433636&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="5ddd7cb2cbb9010009b4fe32" tvg-logo="https://images.pluto.tv/channels/5ddd7cb2cbb9010009b4fe32/colorLogoPNG.png" group-title="Kids em espanhol 🍭",Nick Jr. Club | México 
+#EXTINF:-1 tvg-id="5ddd7cb2cbb9010009b4fe32" tvg-logo="https://images.pluto.tv/channels/5ddd7cb2cbb9010009b4fe32/colorLogoPNG.png" group-title="Kids em espanhol 🧸",Nick Jr. Club | México 
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7cb2cbb9010009b4fe32/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 
-#EXTINF:-1 tvg-id="nick-teen" tvg-logo="http://images.pluto.tv/channels/5fab09a8749b1a00077d35d2/colorLogoPNG.png" group-title="Kids em espanhol 🍭",NickTeen | Argentina
+#EXTINF:-1 tvg-id="nick-teen" tvg-logo="http://images.pluto.tv/channels/5fab09a8749b1a00077d35d2/colorLogoPNG.png" group-title="Kids em espanhol 🧸",NickTeen | Argentina
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fab09a8749b1a00077d35d2/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=c9e73ae3-bf04-4f52-a57d-c955d6cbef86&clientModelNumber=na&deviceDNT=false&deviceId=c9e73ae3-bf04-4f52-a57d-c955d6cbef86&deviceLat=-34.6011&deviceLon=-58.3847&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=89.0.4389.90&marketingRegion=VE&serverSideAds=true&sessionID=aec89e2d-8415-11eb-850e-0242ac110002&sid=aec89e2d-8415-11eb-850e-0242ac110002&userId=
 
-#EXTINF:-1 tvg-id="one-piece-ptv1" tvg-logo="http://images.pluto.tv/channels/5ff4b9ccf938f8000779eb99/colorLogoPNG.png" group-title="Kids em espanhol 🍭",One Piece | Argentina
+#EXTINF:-1 tvg-id="one-piece-ptv1" tvg-logo="http://images.pluto.tv/channels/5ff4b9ccf938f8000779eb99/colorLogoPNG.png" group-title="Kids em espanhol 🧸",One Piece | Argentina
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff4b9ccf938f8000779eb99/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=79573c14-77dd-11eb-a61c-2f38487b60c0&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c4c4d3a3-dc88-49b4-9fda-30049d73b3f2&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="pluto-tv-anime" tvg-logo="https://imgur.com/LwDEMdE.png" group-title="Kids em espanhol 🍭",Pluto TV Anime | Argentina 
+#EXTINF:-1 tvg-id="pluto-tv-anime" tvg-logo="https://imgur.com/LwDEMdE.png" group-title="Kids em espanhol 🧸",Pluto TV Anime | Argentina 
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff04e91-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bf9f2657-23e0-4f9a-aed5-1895900d08da&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="5dcde17bf6591d0009839e02" tvg-logo="https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/colorLogoPNG.png" group-title="Kids em espanhol 🍭",Pluto TV Anime | México
+#EXTINF:-1 tvg-id="5dcde17bf6591d0009839e02" tvg-logo="https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/colorLogoPNG.png" group-title="Kids em espanhol 🧸",Pluto TV Anime | México
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 
-#EXTINF:-1 tvg-id="pluto-tv-junior" tvg-logo="https://imgur.com/Sctyemw.png" group-title="Kids em espanhol 🍭",Pluto TV Junior | Argentina
+#EXTINF:-1 tvg-id="pluto-tv-junior" tvg-logo="https://imgur.com/Sctyemw.png" group-title="Kids em espanhol 🧸",Pluto TV Junior | Argentina
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde2ac4bc6c500094ab45b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff09cb2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8363a179-73ed-45ee-8927-75d6fecf5c50&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="5dcde2ac4bc6c500094ab45b" tvg-logo="https://images.pluto.tv/channels/5dcde2ac4bc6c500094ab45b/colorLogoPNG.png" group-title="Kids em espanhol 🍭",Pluto TV Junior | México
+#EXTINF:-1 tvg-id="5dcde2ac4bc6c500094ab45b" tvg-logo="https://images.pluto.tv/channels/5dcde2ac4bc6c500094ab45b/colorLogoPNG.png" group-title="Kids em espanhol 🧸",Pluto TV Junior | México
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde2ac4bc6c500094ab45b/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 
-#EXTINF:-1 tvg-id="pluto-tv-kids" tvg-logo="https://imgur.com/6aDMQmu.png" group-title="Kids em espanhol 🍭",Pluto TV Kids | Argentina
+#EXTINF:-1 tvg-id="pluto-tv-kids" tvg-logo="https://imgur.com/6aDMQmu.png" group-title="Kids em espanhol 🧸",Pluto TV Kids | Argentina
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6dae8ce788b0009eaf77b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff0ead1-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ef84427d-008b-4c14-b485-09f974e5056f&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="5dd6dae8ce788b0009eaf77b" tvg-logo="https://images.pluto.tv/channels/5dd6dae8ce788b0009eaf77b/colorLogoPNG.png" group-title="Kids em espanhol 🍭",Pluto TV Kids | México
+#EXTINF:-1 tvg-id="5dd6dae8ce788b0009eaf77b" tvg-logo="https://images.pluto.tv/channels/5dd6dae8ce788b0009eaf77b/colorLogoPNG.png" group-title="Kids em espanhol 🧸",Pluto TV Kids | México
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6dae8ce788b0009eaf77b/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 
-#EXTINF:-1 tvg-id="pluto-teen" tvg-logo="https://imgur.com/Nzl0U4a.png" group-title="Kids em espanhol 🍭",Pluto TV Teen | Argentina
+#EXTINF:-1 tvg-id="pluto-teen" tvg-logo="https://imgur.com/Nzl0U4a.png" group-title="Kids em espanhol 🧸",Pluto TV Teen | Argentina
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6de52b9914200091f047a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff111e1-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=fe342837-658e-4c01-af1b-63c86a3ccece&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="rugrats-crecidos" tvg-logo="https://imgur.com/V94Ofim.png" group-title="Kids em espanhol 🍭",Rugrats Crecidos | Argentina
+#EXTINF:-1 tvg-id="rugrats-crecidos" tvg-logo="https://imgur.com/V94Ofim.png" group-title="Kids em espanhol 🧸",Rugrats Crecidos | Argentina
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ea7215005d66d0007e8128a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff22355-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d4d35c3c-b9bc-4c57-92f3-6ec7da17e471&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="yu-gi-oh-pvt1" tvg-logo="https://imgur.com/ol6B34n.png" group-title="Kids em espanhol 🍭",Yu-Gi-Oh | Argentina
+#EXTINF:-1 tvg-id="yu-gi-oh-pvt1" tvg-logo="https://imgur.com/ol6B34n.png" group-title="Kids em espanhol 🧸",Yu-Gi-Oh | Argentina
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fceaab478f2af00080ff51f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c04e45b2-630a-11eb-8d9f-f313ae1a2a61&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=681f0ed2-2ad0-493f-9d9a-c9491e58c9ff&userId=&serverSideAds=true
 
 ################# Kids em inglês ###################
 
-#EXTINF:-1 tvg-name="ABC Kids" tvg-id="" tvg-logo="https://i.mjh.nz/.images/tv.abckids.png" group-title="Kids em inglês 🍭",ABC Kids | Austrália 🇦🇺
+#EXTINF:-1 tvg-name="ABC Kids" tvg-id="" tvg-logo="https://i.mjh.nz/.images/tv.abckids.png" group-title="Kids em inglês 🪀",ABC Kids | Austrália 🇦🇺
 https://c.mjh.nz/101002210222/
 
-#EXTINF:-1 tvg-id="after-school-cartoons" tvg-logo="http://images.pluto.tv/channels/56171fafada51f8004c4b40f/colorLogoPNG.png" group-title="Kids em inglês 🍭",After School Cartoons | EUA
+#EXTINF:-1 tvg-id="after-school-cartoons" tvg-logo="http://images.pluto.tv/channels/56171fafada51f8004c4b40f/colorLogoPNG.png" group-title="Kids em inglês 🪀",After School Cartoons | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56171fafada51f8004c4b40f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc925a43-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=4a13fc8e-17c6-4453-9800-086b4d7b4cad&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="anime-all-day" tvg-logo="http://images.pluto.tv/channels/5812b7d3249444e05d09cc49/colorLogoPNG.png" group-title="Kids em inglês 🍭",Anime All Day | EUA
+#EXTINF:-1 group-title="Kids em inglês 🪀" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnimT7-AjcWkEse6vS_zOBjz8g1vePiXCU4P2m1m=s900-c-k-c0x00ffffff-no-rj",(The) Angels from The Attic ComicPlix
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/4268&pprotocol=hls
+
+#EXTINF:-1 group-title="Kids em inglês 🪀" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnimT7-AjcWkEse6vS_zOBjz8g1vePiXCU4P2m1m=s900-c-k-c0x00ffffff-no-rj",(The) Angels from The Attic Create-Along
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/4265&pprotocol=hls
+
+#EXTINF:-1 group-title="Kids em inglês 🪀" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnimT7-AjcWkEse6vS_zOBjz8g1vePiXCU4P2m1m=s900-c-k-c0x00ffffff-no-rj",(The) Angels from The Attic Featurettes
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/4271&pprotocol=hls
+
+#EXTINF:-1 tvg-id="anime-all-day" tvg-logo="http://images.pluto.tv/channels/5812b7d3249444e05d09cc49/colorLogoPNG.png" group-title="Kids em inglês 🪀",Anime All Day | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc92f682-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=31627763-0aa5-4f5e-85ed-82845983eab8&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="5c363ac9e41be30cb6054c7c" tvg-logo="https://images.pluto.tv/channels/5c363ac9e41be30cb6054c7c/colorLogoPNG.png" group-title="Kids em inglês 🍭",Anime All Day | Reino Unido
+#EXTINF:-1 tvg-id="5c363ac9e41be30cb6054c7c" tvg-logo="https://images.pluto.tv/channels/5c363ac9e41be30cb6054c7c/colorLogoPNG.png" group-title="Kids em inglês 🪀",Anime All Day | Reino Unido
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c363ac9e41be30cb6054c7c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1 tvg-id="classic-toons-tv" tvg-logo="http://images.pluto.tv/channels/562ea53fa9060c5a7d463e74/colorLogoPNG.png" group-title="Kids em inglês 🍭",Classic Toons TV | EUA
+#EXTINF:-1 group-title="Kids em inglês 🪀" tvg-logo="https://s2.glbimg.com/L2mNghMLvJcs_alh2USgyOP3d54=/607x426/smart/e.glbimg.com/og/ed/f/original/2018/06/13/betty-boop-logo-i5471.jpg",Betty Boop TV ❤️
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/4622&pprotocol=hls
+
+#EXTINF:-1 group-title="Kids em inglês 🪀" tvg-logo="https://static.filmon.com/assets/channels/29/extra_big_logo.png",CBBC 🇬🇧
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/29&pprotocol=hls
+
+#EXTINF:-1 group-title="Kids em inglês 🪀" tvg-logo="https://nebula.wsimg.com/cfe6a4a93eb99cc6d0735b6e1584cf80?AccessKeyId=67B792D495F855C5A0E1&disposition=0&alloworigin=1",(The) Children's Reading Channel
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/4160&pprotocol=hls
+
+#EXTINF:-1 tvg-id="classic-toons-tv" tvg-logo="http://images.pluto.tv/channels/562ea53fa9060c5a7d463e74/colorLogoPNG.png" group-title="Kids em inglês 🪀",Classic Toons TV | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/562ea53fa9060c5a7d463e74/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc92a860-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=24ce1c04-9ce8-4041-a0f7-e58891dc8dfd&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/Z4hIjPn.jpg" group-title="Kids em inglês 🍭" tvg-name="CocoRo | EUA",CocoRo | EUA
+#EXTINF:-1 group-title="Kids em inglês 🪀" tvg-logo="https://karavansara.files.wordpress.com/2014/06/cc-pmb-0.jpg",Clutch Cargo
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/5540&pprotocol=hls
+
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/Z4hIjPn.jpg" group-title="Kids em inglês 🪀" tvg-name="CocoRo | EUA",CocoRo | EUA
 https://4ea7abcc97144832b81dc50c6e8d6330.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Cocoro/playlist.m3u8
 
-#EXTINF:-1 tvg-id="dora-tv" tvg-logo="http://images.pluto.tv/channels/5d14fb6c84dd37df3b4290c5/colorLogoPNG.png" group-title="Kids em inglês 🍭",Dora TV | EUA 
+#EXTINF:-1 tvg-id="dora-tv" tvg-logo="http://images.pluto.tv/channels/5d14fb6c84dd37df3b4290c5/colorLogoPNG.png" group-title="Kids em inglês 🪀",Dora TV | EUA 
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fb6c84dd37df3b4290c5/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc95dcb3-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=722128b4-7847-4b79-9178-8af34b0e0194&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="5d765786aad587cf4d0e2bf6" tvg-logo="https://images.pluto.tv/channels/5d765786aad587cf4d0e2bf6/colorLogoPNG.png" group-title="Kids em inglês 🍭",Inspector Gadget | Reino Unido 🇬🇧
+#EXTINF:-1 group-title="Kids em inglês 🪀" tvg-logo="https://365psd.com/images/previews/167/felix-the-cat-10338.jpg",Felix The Cat
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/5546&pprotocol=hls
+
+#EXTINF:-1 group-title="Kids em inglês 🪀" tvg-logo="https://static.filmon.com/assets/channels/7/extra_big_logo.png",Filmon Kids
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/7&pprotocol=hls
+
+#EXTINF:-1 group-title="Kids em inglês 🪀" tvg-logo="https://static.filmon.com/assets/channels/1861/extra_big_logo.png",Fun Little Kids
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/1861&pprotocol=hls
+
+#EXTINF:-1 group-title="Kids em inglês 🪀" tvg-logo="https://static.filmon.com/assets/channels/4613/extra_big_logo.png",Funny Company TV
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/4613&pprotocol=hls
+
+#EXTINF:-1 tvg-id="5d765786aad587cf4d0e2bf6" tvg-logo="https://images.pluto.tv/channels/5d765786aad587cf4d0e2bf6/colorLogoPNG.png" group-title="Kids em inglês 🪀",Inspector Gadget: Inspetor Bugiganga 🇬🇧
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d765786aad587cf4d0e2bf6/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/mMAO3P6.jpg" group-title="Kids em inglês 🍭" tvg-name="Kidoodle",Kidoodle | EUA
+#EXTINF:-1 group-title="Kids em inglês 🪀" tvg-logo="https://static.filmon.com/assets/channels/793/extra_big_logo.png",Kartoon Klassics
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/793&pprotocol=hls
+
+#EXTINF:-1 group-title="Kids em inglês 🪀" tvg-logo="https://static.filmon.com/assets/channels/3677/extra_big_logo.png",Kid's Rock TV
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3677&pprotocol=hls
+
+#EXTINF:-1 group-title="Kids em inglês 🪀" tvg-logo="https://static.filmon.com/assets/channels/3794/extra_big_logo.png",Kids Zone
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3794&pprotocol=hls
+
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/mMAO3P6.jpg" group-title="Kids em inglês 🪀" tvg-name="Kidoodle",Kidoodle | EUA
 http://kidoodletv-kdtv-3.roku.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-id="little-baby-bum" tvg-name="Little Baby Bum" tvg-logo="http://images.pluto.tv/channels/5eb301b7395671000780d100/colorLogoPNG.png" group-title="Kids em inglês 🍭",Little Baby Bum | EUA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.filmon.com/assets/channels/316/extra_big_logo.png" group-title="Kids em inglês 🪀",Kix!
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/316&pprotocol=hls
+
+#EXTINF:-1 tvg-id="little-baby-bum" tvg-name="Little Baby Bum" tvg-logo="http://images.pluto.tv/channels/5eb301b7395671000780d100/colorLogoPNG.png" group-title="Kids em inglês 🪀",Little Baby Bum | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5eb301b7395671000780d100/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc9874c5-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bf0a4baf-d00c-46d2-abf7-51be14289df6&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="5dbc264e0451770009ed742f" tvg-logo="https://images.pluto.tv/channels/5dbc264e0451770009ed742f/colorLogoPNG.png" group-title="Kids em inglês 🍭",Mario vs. Sonic | Reino Unido
+#EXTINF:-1 group-title="Kids em inglês 🪀" tvg-logo="http://vhx.imgix.net/woohoo/assets/ee95a6e7-1eef-4284-8795-ef24db4e5b45-415cdda5.png",Little Smart Planet
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/5726&pprotocol=hls
+
+#EXTINF:-1 tvg-id="5dbc264e0451770009ed742f" tvg-logo="https://images.pluto.tv/channels/5dbc264e0451770009ed742f/colorLogoPNG.png" group-title="Kids em inglês 🪀",Mario vs. Sonic | Reino Unido
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dbc264e0451770009ed742f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1 tvg-id="naruto" tvg-name="Naruto" tvg-logo="http://images.pluto.tv/channels/5da0c85bd2c9c10009370984/colorLogoPNG.png" group-title="Kids em inglês 🍭",Naruto | EUA
+#EXTINF:-1 tvg-id="naruto" tvg-name="Naruto" tvg-logo="http://images.pluto.tv/channels/5da0c85bd2c9c10009370984/colorLogoPNG.png" group-title="Kids em inglês 🪀",Naruto | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0c85bd2c9c10009370984/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc971530-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=fb25a686-bb60-4058-8b48-aeefd97f06b7&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="nick-pluto-tv" tvg-logo="http://images.pluto.tv/channels/5ca673e0d0bd6c2689c94ce3/colorLogoPNG.png" group-title="Kids em inglês 🍭",Nick | EUA
+#EXTINF:-1 tvg-id="nick-pluto-tv" tvg-logo="http://images.pluto.tv/channels/5ca673e0d0bd6c2689c94ce3/colorLogoPNG.png" group-title="Kids em inglês 🪀",Nick | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc954075-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=4b4e7172-dcd9-4238-be62-bfb6f015537c&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="nick-latino" tvg-logo="http://images.pluto.tv/channels/5d8d08395f39465da6fb3ec4/colorLogoPNG.png" group-title="Kids em inglês 🍭",Nick Latino | EUA 
+#EXTINF:-1 tvg-id="nick-latino" tvg-logo="http://images.pluto.tv/channels/5d8d08395f39465da6fb3ec4/colorLogoPNG.png" group-title="Kids em inglês 🪀",Nick Latino | EUA 
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc96a005-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=65741928-4513-416d-a583-9ec9c4a53e05&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="nick-jr.-pluto-tv" tvg-logo="http://images.pluto.tv/channels/5ca6748a37b88b269472dad9/colorLogoPNG.png" group-title="Kids em inglês 🍭",Nick Jr. | EUA
+#EXTINF:-1 tvg-id="nick-jr.-pluto-tv" tvg-logo="http://images.pluto.tv/channels/5ca6748a37b88b269472dad9/colorLogoPNG.png" group-title="Kids em inglês 🪀",Nick Jr. | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc956780-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=042aef8d-518d-4154-87f8-0b3549e9c3fc&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="nick-jr-latino" tvg-logo="http://images.pluto.tv/channels/5d8d0ec7b0f7015fbe0a3bf7/colorLogoPNG.png" group-title="Kids em inglês 🍭",Nick Jr. Latino | EUA
+#EXTINF:-1 tvg-id="nick-jr-latino" tvg-logo="http://images.pluto.tv/channels/5d8d0ec7b0f7015fbe0a3bf7/colorLogoPNG.png" group-title="Kids em inglês 🪀",Nick Jr. Latino | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d0ec7b0f7015fbe0a3bf7/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc96c710-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=970ab63e-ac07-4df3-8407-f5fafc2c7821&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="one-piece" tvg-name="One Piece" tvg-logo="http://images.pluto.tv/channels/5f7790b3ed0c88000720b241/colorLogoPNG.png" group-title="Kids em inglês 🍭",One Piece | EUA
+#EXTINF:-1 group-title="Kids em inglês 🪀" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/712IYUqRbzL.png",Om Non
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3824&pprotocol=hls
+
+#EXTINF:-1 tvg-id="one-piece" tvg-name="One Piece" tvg-logo="http://images.pluto.tv/channels/5f7790b3ed0c88000720b241/colorLogoPNG.png" group-title="Kids em inglês 🪀",One Piece | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f7790b3ed0c88000720b241/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc9a4984-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ca614dcb-2fed-4a76-9ebf-a4d2cd8f5fe0&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/1MGJg18.jpg" group-title="Kids em inglês 🍭" tvg-name="Pinkfong Baby Shark",Pinkfong Baby Shark | EUA
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/1MGJg18.jpg" group-title="Kids em inglês 🪀" tvg-name="Pinkfong Baby Shark",Pinkfong Baby Shark | EUA
 https://fc2f8d2d3cec45bb9187e8de15532838.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_BabySharkTV/playlist.m3u8
 
-#EXTINF:-1 tvg-id="5c5c2b9d8002db3c3e0b1c6d" tvg-logo="https://images.pluto.tv/channels/5c5c2b9d8002db3c3e0b1c6d/colorLogoPNG.png" group-title="Kids em inglês 🍭",Pluto TV Retro Toons | Reino Unido
+#EXTINF:-1 group-title="Kids em inglês 🪀" tvg-logo="https://static.filmon.com/assets/channels/320/extra_big_logo.png",Pop
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/320&pprotocol=hls
+
+#EXTINF:-1 group-title="Kids em inglês 🪀" tvg-logo="https://static.filmon.com/assets/channels/4658/extra_big_logo.png",Popeye
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/4658&pprotocol=hls
+
+#EXTINF:-1 tvg-id="5c5c2b9d8002db3c3e0b1c6d" tvg-logo="https://images.pluto.tv/channels/5c5c2b9d8002db3c3e0b1c6d/colorLogoPNG.png" group-title="Kids em inglês 🪀",Pluto TV Retro Toons | Reino Unido
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c5c2b9d8002db3c3e0b1c6d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1 tvg-id="pluto-tv-kids" tvg-logo="http://images.pluto.tv/channels/51c75f7bb6f26ba1cd00002f/colorLogoPNG.png" group-title="Kids em inglês 🍭",Pluto TV Kids | EUA
+#EXTINF:-1 tvg-id="pluto-tv-kids" tvg-logo="http://images.pluto.tv/channels/51c75f7bb6f26ba1cd00002f/colorLogoPNG.png" group-title="Kids em inglês 🪀",Pluto TV Kids | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc9148d0-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=92051eb5-8674-4c45-ad34-861ae3fc652e&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="5ad8d54be738977e2c310940" tvg-logo="https://images.pluto.tv/channels/5ad8d54be738977e2c310940/colorLogoPNG.png" group-title="Kids em inglês 🍭",Pluto TV Kids | Reino Unido
+#EXTINF:-1 tvg-id="5ad8d54be738977e2c310940" tvg-logo="https://images.pluto.tv/channels/5ad8d54be738977e2c310940/colorLogoPNG.png" group-title="Kids em inglês 🪀",Pluto TV Kids | Reino Unido
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad8d54be738977e2c310940/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1 tvg-id="pluto-tv-kids-animation" tvg-logo="http://images.pluto.tv/channels/5db0ad56edc89300090d2ebb/colorLogoPNG.png" group-title="Kids em inglês 🍭",Pluto TV Kids Animation | EUA 
+#EXTINF:-1 tvg-id="pluto-tv-kids-animation" tvg-logo="http://images.pluto.tv/channels/5db0ad56edc89300090d2ebb/colorLogoPNG.png" group-title="Kids em inglês 🪀",Pluto TV Kids Animation | EUA 
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc973c41-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=71c9993c-ec46-4bfb-8c21-2aca2e49eac1&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="pocketwatch" tvg-name="pocket.watch" tvg-logo="http://images.pluto.tv/channels/5dae0a40e8ee0d000975e99b/colorLogoPNG.png" group-title="Kids em inglês 🍭",pocket.watch | EUA 
+#EXTINF:-1 tvg-id="pocketwatch" tvg-name="pocket.watch" tvg-logo="http://images.pluto.tv/channels/5dae0a40e8ee0d000975e99b/colorLogoPNG.png" group-title="Kids em inglês 🪀",pocket.watch | EUA 
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dae0a40e8ee0d000975e99b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc971534-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b65fb460-bc9c-4543-9d6a-9cb2c70223bb&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-name="Ryan and Friends AU" tvg-logo="https://i.imgur.com/M8VTWFk.jpg" group-title="Kids em inglês 🍭",Ryan and Friends | Austrália 🇦🇺
+#EXTINF:-1 tvg-name="Ryan and Friends AU" tvg-logo="https://i.imgur.com/M8VTWFk.jpg" group-title="Kids em inglês 🪀",Ryan and Friends | Austrália 🇦🇺
 https://ryanandfriends-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ryan-and-friends" tvg-name="Ryan and Friends" tvg-logo="http://images.pluto.tv/channels/5fb584b7613a31000789de5a/colorLogoPNG.png" group-title="Kids em inglês 🍭",Ryan and Friends | EUA
+#EXTINF:-1 tvg-id="ryan-and-friends" tvg-name="Ryan and Friends" tvg-logo="http://images.pluto.tv/channels/5fb584b7613a31000789de5a/colorLogoPNG.png" group-title="Kids em inglês 🪀",Ryan and Friends | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fb584b7613a31000789de5a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc9a97a6-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d797c00a-8f45-4697-a5e3-007df5ef66fe&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="5d94a5451754e6a4298d1059" tvg-logo="https://images.pluto.tv/channels/5d94a5451754e6a4298d1059/colorLogoPNG.png" group-title="Kids em inglês 🍭",Sabrina Teenage Witch | Reino Unido
+#EXTINF:-1 tvg-id="5d94a5451754e6a4298d1059" tvg-logo="https://images.pluto.tv/channels/5d94a5451754e6a4298d1059/colorLogoPNG.png" group-title="Kids em inglês 🪀",Sabrina Teenage Witch | Reino Unido
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d94a5451754e6a4298d1059/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1 tvg-logo="https://gvimage.zype.com/53c0457a69702d4d66040000/60870ce6504c56000131647a/custom_thumbnail/480.jpg" group-title="Kids em inglês 🍭",TokuSHOUTsu | EUA
+#EXTINF:-1 group-title="Kids em inglês 🪀" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81pBet6QKTL._RI_.jpg",Super Geek Heroes
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/5507&pprotocol=hls
+
+#EXTINF:-1 group-title="Kids em inglês 🪀" tvg-logo="https://static.filmon.com/assets/channels/3263/extra_big_logo.png",Tayla's Toddler Toy Review
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3263&pprotocol=hls
+
+#EXTINF:-1 tvg-logo="https://gvimage.zype.com/53c0457a69702d4d66040000/60870ce6504c56000131647a/custom_thumbnail/480.jpg" group-title="Kids em inglês 🪀",TokuSHOUTsu | EUA
 https://tokushoutsu-zype.amagi.tv/playlistR1080p.m3u8
 
-#EXTINF:-1 tvg-id="tokushoutsu" tvg-logo="http://images.pluto.tv/channels/5c3f8f12a93c2d61b9990a4e/colorLogoPNG.png" group-title="Kids em inglês 🍭",TokuSHOUTsu do Pluto TV | EUA
+#EXTINF:-1 tvg-id="tokushoutsu" tvg-logo="http://images.pluto.tv/channels/5c3f8f12a93c2d61b9990a4e/colorLogoPNG.png" group-title="Kids em inglês 🪀",TokuSHOUTsu do Pluto TV | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c3f8f12a93c2d61b9990a4e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc951960-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=821f2083-7899-4967-8ad2-b26d25e2ca90&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="the-bob-ross-channel" tvg-logo="http://images.pluto.tv/channels/5f36d726234ce10007784f2a/colorLogoPNG.png" group-title="Kids em inglês 🍭",The Bob Ross Channel | EUA
+#EXTINF:-1 tvg-id="the-bob-ross-channel" tvg-logo="http://images.pluto.tv/channels/5f36d726234ce10007784f2a/colorLogoPNG.png" group-title="Kids em inglês 🪀",The Bob Ross Channel | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f36d726234ce10007784f2a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc995f21-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a61cb53b-5178-4e69-bdec-6fdec4fa10ce&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="toon.au" tvg-name="Toon Goggles AU" tvg-logo="https://i.imgur.com/XusVyxA.jpg" group-title="Kids em inglês 🍭",Toon Goggles
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.filmon.com/assets/channels/318/extra_big_logo.png" group-title="Kids em inglês 🪀",Tiny Pop
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/318&pprotocol=hls
+
+#EXTINF:-1 tvg-id="toon.au" tvg-name="Toon Goggles AU" tvg-logo="https://i.imgur.com/XusVyxA.jpg" group-title="Kids em inglês 🪀",Toon Goggles
 https://toongoggles-toongoggles-3-au.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-id="pluto-tv-tween-1" tvg-name="Tween" tvg-logo="http://images.pluto.tv/channels/5db0ae5af8797b00095c0794/colorLogoPNG.png" group-title="Kids em inglês 🍭",Tween | EUA
+#EXTINF:-1 tvg-id="pluto-tv-tween-1" tvg-name="Tween" tvg-logo="http://images.pluto.tv/channels/5db0ae5af8797b00095c0794/colorLogoPNG.png" group-title="Kids em inglês 🪀",Tween | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5db0ae5af8797b00095c0794/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc973c42-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=509d4b2a-ba18-479f-b79c-f0bd9360bfa2&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="totally-turtles" tvg-name="Totally Turtles" tvg-logo="http://images.pluto.tv/channels/5d0c16d686454ead733d08f8/colorLogoPNG.png" group-title="Kids em inglês 🍭",Totally Turtles | EUA
+#EXTINF:-1 tvg-id="totally-turtles" tvg-name="Totally Turtles" tvg-logo="http://images.pluto.tv/channels/5d0c16d686454ead733d08f8/colorLogoPNG.png" group-title="Kids em inglês 🪀",Totally Turtles | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d0c16d686454ead733d08f8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc95dcb2-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=967fe15a-1280-44c2-99ce-2f0457575895&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="yu-gi-oh-ptv1" tvg-logo="http://images.pluto.tv/channels/5f4ec10ed9636f00089b8c89/colorLogoPNG.png" group-title="Kids em inglês 🍭",Yu-Gi-Oh | EUA
+#EXTINF:-1 group-title="Kids em inglês 🪀" tvg-logo="https://static.filmon.com/assets/channels/3146/extra_big_logo.png",Wild About Animals
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3146&pprotocol=hls
+
+#EXTINF:-1 tvg-id="yu-gi-oh-ptv1" tvg-logo="http://images.pluto.tv/channels/5f4ec10ed9636f00089b8c89/colorLogoPNG.png" group-title="Kids em inglês 🪀",Yu-Gi-Oh | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4ec10ed9636f00089b8c89/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc99fb62-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=571412c4-703d-4057-a61e-9e021d488376&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="zoomoo.au" tvg-name="Zoo Moo AU" tvg-logo="https://i.imgur.com/1wYnA2i.jpg" group-title="Kids em inglês 🍭",Zoo Moo AU
+#EXTINF:-1 tvg-id="zoomoo.au" tvg-name="Zoo Moo AU" tvg-logo="https://i.imgur.com/1wYnA2i.jpg" group-title="Kids em inglês 🪀",Zoo Moo AU
 https://rockentertainment-zoomoo-1.samsung.wurl.com/manifest/playlist.m3u8
 
 ########### MÚSICA ###################
@@ -3093,8 +3175,11 @@ https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3227?p
 #EXTINF:-1 tvg-id="BBC2.uk" tvg-name="BBC Two" tvg-logo="https://veja.abril.com.br/wp-content/uploads/2016/11/bbc21.png" group-title="Reino Unido: Filmon 🇬🇧",BBC 2 | Reino Unido
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/25?pprotocol=hls
 
-#EXTINF:-1 tvg-id="BBC4.uk" tvg-name="BBC Four" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/BBC_Four.svg/1200px-BBC_Four.svg.png" group-title="Reino Unido: Filmon 🇬🇧",BBC 4 | Reino Unido
+#EXTINF:-1 tvg-id="BBC4.uk" tvg-name="BBC Four" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/BBC_Four.svg/1200px-BBC_Four.svg.png" group-title="Reino Unido: Filmon 🇬🇧",BBC 4 🇬🇧
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/103?pprotocol=hls
+
+#EXTINF:-1 tvg-id="BBC4.uk" tvg-name="BBC Four" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/BBC_Four.svg/1200px-BBC_Four.svg.png" group-title="Reino Unido: Filmon 🇬🇧",BBC 4 🇬🇧 2
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3191?pprotocol=hls
 
 #EXTINF:-1 tvg-id="CBSAction.uk" tvg-name="CBS Action" tvg-logo="https://presentationarchive.com/cbsaction2017/left-c.jpg" group-title="Reino Unido: Filmon 🇬🇧",CBS Action | Reino Unido
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/1952?pprotocol=hls
