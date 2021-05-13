@@ -6,6 +6,9 @@
 #EXTINF:-1 tvg-id="bet-pluto-tv-ptv1" tvg-logo="http://images.pluto.tv/channels/5ff768b6a4c8b80008498610/colorLogoPNG.png" group-title="Brasil: cinema 🎬",BET | Brasil 
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff768b6a4c8b80008498610/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b24c76a3-8dd8-11eb-83c3-1ff76e6e06e9&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=65d20d49-b2d8-4725-9f02-e688df67da0e&userId=&serverSideAds=true
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gl4Ga75.png" group-title="Brasil: cinema 🎬",Bora Filmes | Brasil 
+http://45.165.178.82:8000/play/a00y/index.m3u8
+
 #EXTINF:-1 tvg-id="pluto-tv-cine-classicos" tvg-logo="https://images.pluto.tv/channels/5fa1612a669ba0000702017b/featuredImage.jpg" group-title="Brasil: cinema 🎬",Cine Clássicos | Brasil
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fa1612a669ba0000702017b/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=0651cfd7-3dba-4a55-99ce-263e1c29297a&deviceVersion=73.0.3856.438&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&deviceType=web&deviceMake=Opera&sid=ef803352-acdb-11eb-8ea0-0242ac110002&advertisingId=&deviceLat=-16.6391&deviceLon=-49.2622&deviceDNT=0&deviceModel=web&userId=&appName=web
 
@@ -23,6 +26,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f120e94a5714d00074
 
 #EXTINF:-1 tvg-id="pluto-tv-cine-terror-1" tvg-logo="https://imgur.com/CaNAHVg.png" group-title="Brasil: cinema 🎬",Cine Terror | Brasil
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12111c9e6c2c00078ef3bb/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977ee1e0-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3ff7f4f3-233d-4e09-bbf7-e36a061d79f7&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/wRrUge7.png" group-title="Brasil: cinema 🎬",Entretendo | Brasil
+http://45.165.178.82:8000/play/a010/index.m3u8
 
 #EXTINF:-1 tvg-id="pluto-tv-filmes-acao" tvg-logo="https://imgur.com/8Vr6580.png" group-title="Brasil: cinema 🎬",Filmes Ação | Brasil
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977e93c0-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=860dbb8f-a84f-4853-b147-60207c674abf&userId=&serverSideAds=true
@@ -93,6 +99,8 @@ http://200.189.113.201/hls/tve.m3u8
 https://tv.unisc.br/hls/test.m3u8
 
 ############## BRASIL NOTÍCIAS ##############
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/3WSttIc.png" group-title="Brasil: notícias 📰",24h News | Brasil
+http://45.165.178.82:8000/play/a012/index.m3u8
 
 #EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News" tvg-logo="https://imgur.com/WwSAtkh.png" group-title="Brasil: notícias 📰",Band News | Brasil
 http://evpp.mm.uol.com.br:1935/geob_band/bandnewstv/playlist.m3u8
@@ -147,12 +155,14 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f36f2346ede7500073
 #EXTINF:-1 tvg-id="tastemade-ptv2" tvg-logo="https://imgur.com/JnHVIgo.png" group-title="Brasil: jovens 🇧🇷",Tastemade | Brasil
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fd1419a3b4f4b000773ba85livestitch/2977158/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=0651cfd7-3dba-4a55-99ce-263e1c29297a&deviceVersion=73.0.3856.438&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&deviceType=web&deviceMake=Opera&sid=ef803352-acdb-11eb-8ea0-0242ac110002&advertisingId=&deviceLat=-16.6391&deviceLon=-49.2622&deviceDNT=0&deviceModel=web&userId=
 
-#EXTINF:-1 tvg-ID="Woohoo.br" tvg-name="Woohoo" tvg-logo="http://168.205.87.198/logocanais/woohoo.png" group-title="Brasil: jovens 🇧🇷",Woohoo
+#EXTINF:-1 tvg-ID="Woohoo.br" tvg-name="Woohoo" tvg-logo="http://168.205.87.198/logocanais/woohoo.png" group-title="Brasil: jovens 🇧🇷",Woohoo | Brasil 
 http://168.205.87.198:8555/live/viniciusvieira/vieira123/141.m3u8
+
+#EXTINF:-1 group-title="Brasil: jovens 🇧🇷" tvg-logo="https://i.imgur.com/aAwNIcI.png",Yeah Life | Brasil
+http://45.165.178.82:8000/play/a00z/index.m3u8
 
 #EXTINF:-1 tvg-id="Yeeaah.br" tvg-name="Yeeaah" tvg-logo="http://canalyeeah.com.br/wp-content/uploads/2021/01/YEEAAHTV-2021_SITE.png" group-title="Brasil: jovens 🇧🇷",Yeeaah | Brasil
 https://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
-
 
 ####################### Brasil: kids 🇧🇷 #####################
 
@@ -170,6 +180,9 @@ https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="babyfirst-ptv1" tvg-logo="http://images.pluto.tv/channels/5f4fb4cf605ddf000748e16f/colorLogoPNG.png" group-title="Brasil: kids 🇧🇷",Babyfirst | Brasil 
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4fb4cf605ddf000748e16f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a575dc40-77db-11eb-bfcd-e755c619a901&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6708234f-7c33-4ea1-b3ea-e27dab0bf1f1&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/WklXZlV.png" tvg-shift="0" group-title="Brasil: kids 🇧🇷",Clubinho Fun | Brasil
+http://45.165.178.82:8000/play/a011/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Desenhos antigos 1" tvg-logo="https://i.pinimg.com/originals/f5/1d/08/f51d08be05919290355ac004cdd5c2d6.png" tvg-shift="0" group-title="Brasil: kids 🇧🇷",Desenhos antigos 1 | Brasil
 https://srv5.zcast.com.br/tvmanchete/tvmanchete/playlist.m3u8
@@ -282,7 +295,16 @@ http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1n
 #EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ HD" tvg-logo="https://imgur.com/5RQ1PxL.png" group-title="Brasil: TV aberta 🇧🇷",Globo RJ HD | Brasil
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Pixtv.br" tvg-name="Pix TV" tvg-logo="https://static.wixstatic.com/media/616957_d797b2a0f3e948518245a02dab1649d4~mv2.png/v1/fill/w_210,h_210,al_c,lg_1,q_85,usm_0.66_1.00_0.01/PIX-TV.webp" tvg-shift="0" group-title="Brasil: TV aberta 🇧🇷",Pix TV | Brasil
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zW9EbPE.png" group-title="Brasil: TV aberta 🇧🇷",Hello TV | Brasil
+http://45.165.178.82:8000/play/a00w/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5KbMwQm.png" group-title="Brasil: TV aberta 🇧🇷",Inspire | Brasil
+http://45.165.178.82:8000/play/a01a/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jl1IZn6.png" group-title="Brasil: TV aberta 🇧🇷",Mosaico | Brasil
+http://45.165.178.82:8000/play/a00v/index.m3u8
+
+#EXTINF:-1 tvg-id="Pixtv.br" tvg-name="Pix TV" tvg-logo="https://i.imgur.com/n4gOQMI.png" tvg-shift="0" group-title="Brasil: TV aberta 🇧🇷",Pix TV | Brasil
 https://demo.cdn.tv.br/media/n/BZjJAdCY/a/BZjJAdCY/720p/chunks.m3u8?ch=BZjJAdCY&t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkZWZhdWx0IzE1NzYwODMyNTgiLCJpYXQiOjE2MTk2NDU0NTgsImV4cCI6MTYxOTY2MzQ1OH0.9LEOe9xmjuOo8OEOVWvcVZ-1HjjMaCXZIj3eWhkgDxs
 
 #EXTINF:-1 tvg-id="Primertv.br" tvg-name="Primer TV" tvg-logo="https://demo.cdn.tv.br/logo/1559412042.3773847.png" tvg-shift="0" group-title="Brasil: TV aberta 🇧🇷",Primer TV | Brasil
@@ -303,16 +325,16 @@ http://187.33.200.235:9000/hls/redemetropole.m3u8
 #EXTINF:-1 tvg-id="Redetv.br" tvg-name="Rede TV" tvg-logo="https://i.imgur.com/hd76Jt4.png" tvg-shift="0" group-title="Brasil: TV aberta 🇧🇷",Rede TV (RJ)
 https://hls.brasilstream.com.br/live/redetves/redetves/mono.m3u8?token=6410329353875642000
 
-#EXTINF:-1 tvg-id="Redetv.br" tvg-name="Rede TV" tvg-logo="https://listaiptv.gratis/logos/imagens/redetvtocantins.png" group-title="Brasil: TV aberta 🇧🇷", Rede TV | Tocantins
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="Rede TV" tvg-logo="https://listaiptv.gratis/logos/imagens/redetvtocantins.png" group-title="Brasil: TV aberta 🇧🇷",Rede TV | Tocantins
 https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Redetv.br" tvg-name="Rede TV" tvg-logo="http://engelhosting.com.br/images/tvarapuanhd.png" group-title="Brasil: TV aberta 🇧🇷", Rede TV | TV Arapuan (PB)
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="Rede TV" tvg-logo="http://engelhosting.com.br/images/tvarapuanhd.png" group-title="Brasil: TV aberta 🇧🇷",Rede TV | TV Arapuan (PB)
 https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Redetv.br" tvg-name="Rede TV" tvg-logo="https://listaiptv.gratis/logos/imagens/pampa.png" group-title="Brasil: TV aberta 🇧🇷", Rede TV | TV Pampa (RS)
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="Rede TV" tvg-logo="https://listaiptv.gratis/logos/imagens/pampa.png" group-title="Brasil: TV aberta 🇧🇷",Rede TV | TV Pampa (RS)
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="TV Cidade Verde PI" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/29/Logotipo_da_Rede_Cidade_Verde.png" tvg-shift="0" group-title="Brasil: TV aberta 🇧🇷",SBT | TV Cidade Verde (PI)
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="TV Cidade Verde PI" tvg-logo="https://i.imgur.com/7knMSz7.png" tvg-shift="0" group-title="Brasil: TV aberta 🇧🇷",SBT | TV Cidade Verde (PI)
 https://stmv1.transmissaodigital.com/cidadeverde/cidadeverde/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT Maranhão" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b4/Logotipo_da_TV_Difusora.png" group-title="Brasil: TV aberta 🇧🇷",SBT | TV Difusora (MA)
@@ -369,7 +391,7 @@ http://wz3.dnip.com.br/tvbrasil/tvbrasil.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="TV Gazeta | TV Alternativa (MA)" tvg-logo="https://imgur.com/lAXbfuU.png" tvg-shift="0" group-title="Brasil: TV aberta 🇧🇷",TV Gazeta | Alternativa (MA)
 http://stmv8.conectastm.com/wagner1168/wagner1168/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVJustica.br" tvg-name="TV Justiça" tvg-logo="https://lh3.googleusercontent.com/proxy/13BwbVkbXmWs7GXQG-nkpI12d-hTnBYhf3AiEeGS0vUhS_LhB5fJf5YqcEKqF2DbNlhsO2r6qdps4x-W8XLeVT5li05lqOXWJRg" tvg-shift="0" group-title="Brasil: TV aberta 🇧🇷",TV Justiça | Brasil
+#EXTINF:-1 tvg-id="TVJustica.br" tvg-name="TV Justiça" tvg-logo="https://i.imgur.com/3EHdrGo.png" tvg-shift="0" group-title="Brasil: TV aberta 🇧🇷",TV Justiça | Brasil
 https://demo.cdn.tv.br/media/n/BZfJAdi2/a/BZfJAdi2/720p/chunks.m3u8?ch=BZfJAdi2&t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkZWZhdWx0IzE1NzYwODMyNTgiLCJpYXQiOjE2MTg1ODgwODQsImV4cCI6MTYxODYwNjA4NH0.4JRKZyac7oKSgTSJUTrq5yymejnmrPDrA53csr6S_bs
 
 #EXTINF:-1 tvg-id="Tvmetropole.br" group-title="Brasil: TV aberta 🇧🇷" tvg-logo="https://imgur.com/EhJNGIy.png",TV Metrópole | Caucaia (CE)
@@ -381,8 +403,12 @@ https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvpantanal.png" group-title="Brasil: TV aberta 🇧🇷", TV Pantanal (MS)
 https://5e837408ea907.streamlock.net:1936/tvpantanalms/tvpantanalms/playlist.m3u8
 
-#EXTINF:-1 tvg-name="TV8" tvg-id="Tv8.br" group-title="Brasil: TV aberta 🇧🇷" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnju9QKmmAOR2ZznQ5xOWzwSoBOc5QG5cTNGgzK78Q=s300-c-k-c0x00ffffff-no-rj",TV8 Brasil
+#EXTINF:-1 tvg-name="TV8" tvg-id="Tv8.br" group-title="Brasil: TV aberta 🇧🇷" tvg-logo="https://i.imgur.com/5taFAXs.jpg",TV8 Brasil
 https://cdn.jmvstream.com/w/LVW-9773/ngrp:LVW9773_eRZLMN9Hsr_all/playlist.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="Brasil: TV aberta 🇧🇷" tvg-logo="https://i.imgur.com/IIztLyO.png",Up Channel | Brasil
+http://45.165.178.82:8000/play/a00x/index.m3u8
+
 
 ########################################### celebridades em inglês ############################
 
