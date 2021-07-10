@@ -1,4 +1,4 @@
-#EXTM3U refresh="3600" url-tvg="http://epg.liveiptv.net/epg.xml,https://cld.pt/dl/download/7a36f027-b90a-4be0-ba89-00acb7d82fa7/RHAEPG.xml,https://i.mjh.nz/PlutoTV/de.xml,https://i.mjh.nz/PlutoTV/fr.xml,https://i.mjh.nz/PlutoTV/us.xml,https://i.mjh.nz/PlutoTV/uk.xml,https://i.mjh.nz/PlutoTV/ca.xml,https://i.mjh.nz/PlutoTV/mx.xml,https://i.mjh.nz/PlutoTV/br.xml,https://i.mjh.nz/PlutoTV/es.xml" x-tvg-url="http://epg.liveiptv.net/epg.xml,https://cld.pt/dl/download/7a36f027-b90a-4be0-ba89-00acb7d82fa7/RHAEPG.xml,https://i.mjh.nz/PlutoTV/de.xml,https://i.mjh.nz/PlutoTV/fr.xml,https://i.mjh.nz/PlutoTV/us.xml,https://i.mjh.nz/PlutoTV/uk.xml,https://i.mjh.nz/PlutoTV/ca.xml,https://i.mjh.nz/PlutoTV/mx.xml,https://i.mjh.nz/PlutoTV/br.xml,https://i.mjh.nz/PlutoTV/es.xml" 
+#EXTM3U refresh="3600" url-tvg="http://epg.liveiptv.net/epg.xml,https://cld.pt/dl/download/7a36f027-b90a-4be0-ba89-00acb7d82fa7/RHAEPG.xml,https://i.mjh.nz/PlutoTV/de.xml,https://i.mjh.nz/PlutoTV/fr.xml,https://i.mjh.nz/PlutoTV/us.xml,https://i.mjh.nz/PlutoTV/uk.xml,https://i.mjh.nz/PlutoTV/ca.xml,https://i.mjh.nz/PlutoTV/mx.xml,https://i.mjh.nz/PlutoTV/br.xml,https://i.mjh.nz/PlutoTV/es.xml" x-tvg-url="https://i.mjh.nz/Plex/all.xml.gz" "http://epg.liveiptv.net/epg.xml" "https://cld.pt/dl/download/7a36f027-b90a-4be0-ba89-00acb7d82fa7/RHAEPG.xml" "https://i.mjh.nz/PlutoTV/de.xml" "https://i.mjh.nz/PlutoTV/fr.xml" "https://i.mjh.nz/PlutoTV/us.xml" "https://i.mjh.nz/PlutoTV/uk.xml" "https://i.mjh.nz/PlutoTV/ca.xml" "https://i.mjh.nz/PlutoTV/mx.xml" "https://i.mjh.nz/PlutoTV/br.xml" "https://i.mjh.nz/PlutoTV/es.xml"
 
 ### Contato e Pix da editora da lista: meutedio@mail.com ############
 
@@ -567,6 +567,9 @@ https://20995731713c495289784ab260b3c830.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="classic-movies-channel" tvg-logo="http://images.pluto.tv/channels/561c5b0dada51f8004c4d855/colorLogoPNG.png" group-title="Cinema em inglês 🎬",Classic Movies Channel | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc928150-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e0e7c2c9-2c91-4084-9c20-f7a55e7fca1f&userId=&serverSideAds=true
 
+#EXTINF:-1 group-title="Cinema em inglês 🎬" tvg-logo="https://static.filmon.com/assets/channels/4655/extra_big_logo.png",Faith Cinema
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/4655&pprotocol=hls
+
 #EXTINF:-1 tvg-name="Filmrise Family | EUA" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81VZaxj6a1L._SY355_.png" group-title="Cinema em inglês 🎬",Filmrise Family | EUA
 http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefamily/CDN/playlist.m3u8 
 
@@ -634,6 +637,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f7796e470510900070
 
 #EXTINF:-1 tvg-id="5db81695a95186000941ee8b" tvg-logo="https://images.pluto.tv/channels/5db81695a95186000941ee8b/colorLogoPNG.png" group-title="Seriados em inglês 📺",(The) Beverly Hillbillies: A família Buscapé 🇬🇧
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db81695a95186000941ee8b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 group-title="Seriados em inglês 📺" tvg-logo="https://static.filmon.com/assets/channels/2957/extra_big_logo.png",Bonanza (1959 - 1973) 🇺🇸
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/2957&pprotocol=hls
 
 #EXTINF:-1 tvg-id="the-carol-burnett-show" tvg-name="The Carol Burnett Show" tvg-logo="https://gvimage.zype.com/53c0457a69702d4d66040000/5fb6d14e2a55760001e48777/custom_thumbnail/480.jpg" group-title="Seriados em inglês 📺",(The) Carol Burnett Show 🇺🇸
 https://thecarolburnettshow-zype.amagi.tv/playlist1080p.m3u8
@@ -1249,6 +1255,9 @@ https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/793&pp
 
 #EXTINF:-1 group-title="Kids em inglês 🪀" tvg-logo="https://static.filmon.com/assets/channels/3677/extra_big_logo.png",Kid's Rock TV
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3677&pprotocol=hls
+
+#EXTINF:-1 group-title="Kids em inglês 🪀" tvg-id="5e20b730f2f8d5003d739db7-60d4eddfb2fdec002c141139" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/kidspangtv_logo_dark.png",Kids Pang
+https://494e639cacb24ad484819d7154a3f100.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_KidsPangTV/playlist.m3u8?ads.wurl_channel=841&ads.wurl_name=KidsPangTV&ads.coppa=1&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=Tog8X6wK6iweuzGFsz6p&ads.plex_id=60d4eddfb2fdec002c141139&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
 
 #EXTINF:-1 group-title="Kids em inglês 🪀" tvg-logo="https://static.filmon.com/assets/channels/3794/extra_big_logo.png",Kids Zone
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3794&pprotocol=hls
