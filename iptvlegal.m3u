@@ -1,6 +1,6 @@
-#EXTM3U refresh="3600" url-tvg="http://htmhelen.webcindario.com/epg.zip" x-tvg-url="http://epg.liveiptv.net/epg.xml,https://cld.pt/dl/download/7a36f027-b90a-4be0-ba89-00acb7d82fa7/RHAEPG.xml,https://i.mjh.nz/PlutoTV/de.xml,https://i.mjh.nz/PlutoTV/fr.xml,https://i.mjh.nz/PlutoTV/us.xml,https://i.mjh.nz/PlutoTV/uk.xml,https://i.mjh.nz/PlutoTV/ca.xml,https://i.mjh.nz/PlutoTV/mx.xml,https://i.mjh.nz/PlutoTV/br.xml,https://i.mjh.nz/PlutoTV/es.xml" 
+#EXTM3U refresh="3600" url-tvg="http://epg.liveiptv.net/epg.xml,https://cld.pt/dl/download/7a36f027-b90a-4be0-ba89-00acb7d82fa7/RHAEPG.xml,https://i.mjh.nz/PlutoTV/de.xml,https://i.mjh.nz/PlutoTV/fr.xml,https://i.mjh.nz/PlutoTV/us.xml,https://i.mjh.nz/PlutoTV/uk.xml,https://i.mjh.nz/PlutoTV/ca.xml,https://i.mjh.nz/PlutoTV/mx.xml,https://i.mjh.nz/PlutoTV/br.xml,https://i.mjh.nz/PlutoTV/es.xml" x-tvg-url="http://epg.liveiptv.net/epg.xml,https://cld.pt/dl/download/7a36f027-b90a-4be0-ba89-00acb7d82fa7/RHAEPG.xml,https://i.mjh.nz/PlutoTV/de.xml,https://i.mjh.nz/PlutoTV/fr.xml,https://i.mjh.nz/PlutoTV/us.xml,https://i.mjh.nz/PlutoTV/uk.xml,https://i.mjh.nz/PlutoTV/ca.xml,https://i.mjh.nz/PlutoTV/mx.xml,https://i.mjh.nz/PlutoTV/br.xml,https://i.mjh.nz/PlutoTV/es.xml" 
 
-### Contato da editora da lista: meutedio@mail.com ############
+### Contato e Pix da editora da lista: meutedio@mail.com ############
 
 ####### Brasil: cinema 🎬 #############################
 #EXTINF:-1 tvg-id="bet-pluto-tv-ptv1" tvg-logo="http://images.pluto.tv/channels/5ff768b6a4c8b80008498610/colorLogoPNG.png" group-title="Brasil: cinema 🎬",BET | Brasil 
@@ -9,7 +9,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff768b6a4c8b800084
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gl4Ga75.png" group-title="Brasil: cinema 🎬",Bora Filmes | Brasil 
 http://45.165.178.82:8000/play/a00y/index.m3u8
 
-#EXTINF:-1 tvg-id="pluto-tv-cine-classicos" tvg-logo="https://images.pluto.tv/channels/5fa1612a669ba0000702017b/featuredImage.jpg" group-title="👷🏽‍♀️ Manutenção",Cine Clássicos | Brasil
+#EXTINF:-1 tvg-id="pluto-tv-cine-classicos" tvg-logo="https://images.pluto.tv/channels/5fa1612a669ba0000702017b/featuredImage.jpg" group-title="ZZZ Manutenção",Cine Clássicos | Brasil
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fa1612a669ba0000702017b/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=0651cfd7-3dba-4a55-99ce-263e1c29297a&deviceVersion=73.0.3856.438&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&deviceType=web&deviceMake=Opera&sid=ef803352-acdb-11eb-8ea0-0242ac110002&advertisingId=&deviceLat=-16.6391&deviceLon=-49.2622&deviceDNT=0&deviceModel=web&userId=&appName=web
 
 #EXTINF:-1 tvg-id="pluto-tv-cine-comedia-1" tvg-logo="https://imgur.com/fUCGYqp.png" group-title="Brasil: cinema 🎬",Cine Comédia | Brasil
@@ -39,18 +39,18 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5a545d0dbf7f0007c
 #EXTINF:-1 tvg-id="pluto-tv-filmes-suspense" tvg-logo="https://imgur.com/K9gHNmZ.png" group-title="Brasil: cinema 🎬",Filmes Suspense | Brasil 
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f171d3442a0500007362f22/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781c810-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=34b16d8e-8dce-4632-ba87-dabc2e07988f&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="Megacine.br" tvg-name="Megacine" tvg-logo="" tvg-shift="0" group-title="👷🏽‍♀️ Manutenção",Megacine | Brasil
+#EXTINF:-1 tvg-id="Megacine.br" tvg-name="Megacine" tvg-logo="" tvg-shift="0" group-title="ZZZ Manutenção",Megacine | Brasil
 https://stmv1.srvif.com/reconsatcine/reconsatcine/playlist.m3u8
 
 ############################### BRASIL EDUCATIVOS #####################################
 
-#EXTINF:-1 tvg-id="Futura.br" tvg-name="Canal Futura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Canal_Futura.png" group-title="👷🏽‍♀️ Manutenção",Canal Futura SD | Brasil
+#EXTINF:-1 tvg-id="Futura.br" tvg-name="Canal Futura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Canal_Futura.png" group-title="ZZZ Manutenção",Canal Futura SD | Brasil
 http://n.srv1.xyz:8880/rogerrocha/estherlorena/32922
 
-#EXTINF:-1 tvg-id="Futura.br" tvg-name="Canal Futura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Canal_Futura.png" group-title="👷🏽‍♀️ Manutenção",Canal Futura HD | Brasil
+#EXTINF:-1 tvg-id="Futura.br" tvg-name="Canal Futura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Canal_Futura.png" group-title="ZZZ Manutenção",Canal Futura HD | Brasil
 http://n.srv1.xyz:8880/rogerrocha/estherlorena/33771
 
-#EXTINF:-1 tvg-id="Futura.br" tvg-name="Canal Futura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Canal_Futura.png" group-title="👷🏽‍♀️ Manutenção",Canal Futura FHD | Brasil
+#EXTINF:-1 tvg-id="Futura.br" tvg-name="Canal Futura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Canal_Futura.png" group-title="ZZZ Manutenção",Canal Futura FHD | Brasil
 http://n.srv1.xyz:8880/rogerrocha/estherlorena/33641
 
 #EXTINF:-1 tvg-id="canalsaude.br" tvg-name="Canal Saúde" tvg-logo="https://www.gov.br/pt-br/apps/canal-saude/view/++widget++form.widgets.imagem/@@download/Canal+Sa%C3%BAde.jpg" tvg-shift="0" group-title="Brasil: educativos 🇧🇷",Canal Saúde | Brasil
@@ -62,13 +62,13 @@ http://str.portalcultura.com.br/funtelpa/tv_funtelpa/live.m3u8
 #EXTINF:-1 tvg-id="Redeminas.br" tvg-name="Rede Minas" group-title="Brasil: educativos 🇧🇷" tvg-logo="https://pbs.twimg.com/profile_images/1151111400615550976/MQW6Uj8p.png",Rede Minas SD | Brasil
 https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_.m3u8
 
-#EXTINF:-1 tvg-id="SESCTV.br" tvg-name="SESC TV" group-title="👷🏽‍♀️ Manutenção" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCQlj4F0w8sO6hAPUKpnxfh5GOGxG9XEzi9obcZVtYWwuDRf3otJWvZ_YQF_xbnaovDaY&usqp=CAU",Sesc TV 360 | Brasil
+#EXTINF:-1 tvg-id="SESCTV.br" tvg-name="SESC TV" group-title="ZZZ Manutenção" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCQlj4F0w8sO6hAPUKpnxfh5GOGxG9XEzi9obcZVtYWwuDRf3otJWvZ_YQF_xbnaovDaY&usqp=CAU",Sesc TV 360 | Brasil
 https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2c3e9324497d5ff/video/2df04da5-2f5d-4ef6-a017-73f36dbc3327_index360p.m3u8
 
-#EXTINF:-1 tvg-id="SESCTV.br" tvg-name="SESC TV" group-title="👷🏽‍♀️ Manutenção" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCQlj4F0w8sO6hAPUKpnxfh5GOGxG9XEzi9obcZVtYWwuDRf3otJWvZ_YQF_xbnaovDaY&usqp=CAU",Sesc TV 720 | Brasil
+#EXTINF:-1 tvg-id="SESCTV.br" tvg-name="SESC TV" group-title="ZZZ Manutenção" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCQlj4F0w8sO6hAPUKpnxfh5GOGxG9XEzi9obcZVtYWwuDRf3otJWvZ_YQF_xbnaovDaY&usqp=CAU",Sesc TV 720 | Brasil
 https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2c3e9324497d5ff/video/2df04da5-2f5d-4ef6-a017-73f36dbc3327_index720p.m3u8
 
-#EXTINF:-1 tvg-id="SESCTV.br" tvg-name="SESC TV" group-title="👷🏽‍♀️ Manutenção" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCQlj4F0w8sO6hAPUKpnxfh5GOGxG9XEzi9obcZVtYWwuDRf3otJWvZ_YQF_xbnaovDaY&usqp=CAU",Sesc TV 1080 | Brasil
+#EXTINF:-1 tvg-id="SESCTV.br" tvg-name="SESC TV" group-title="ZZZ Manutenção" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCQlj4F0w8sO6hAPUKpnxfh5GOGxG9XEzi9obcZVtYWwuDRf3otJWvZ_YQF_xbnaovDaY&usqp=CAU",Sesc TV 1080 | Brasil
 https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2c3e9324497d5ff/video/2df04da5-2f5d-4ef6-a017-73f36dbc3327_index1080p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TV Brasil | TVE" tvg-logo="https://pbs.twimg.com/profile_images/927523078690787328/cY2qU7jK_400x400.jpg" group-title="Brasil: educativos 🇧🇷",TV Brasil | TVE (RS)
@@ -77,10 +77,10 @@ http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV UFG | TV Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Avatar_-_Quadrado_02.png" group-title="Brasil: educativos 🇧🇷",TV Brasil - TV UFG (GO)
 http://wowza.softhost.com.br:1935/ufg/smil:tvufgweb/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Tvescola.br" tvg-name="TV Escola" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjMchEFtSE24KRWXsviP6GZD2KLdE_PHlvNvK_c0Q=s900-c-k-c0x00ffffff-no-rj" group-title="👷🏽‍♀️ Manutenção",TV Escola | Brasil
+#EXTINF:-1 tvg-id="Tvescola.br" tvg-name="TV Escola" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjMchEFtSE24KRWXsviP6GZD2KLdE_PHlvNvK_c0Q=s900-c-k-c0x00ffffff-no-rj" group-title="ZZZ Manutenção",TV Escola | Brasil
 https://demo.cdn.tv.br/media/n/BZfJAdy/a/playlist.m3u8?ch=BZfJAdy&t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkZWZhdWx0IzE1NzYwODMyNTgiLCJpYXQiOjE2MTg1ODQ0NjYsImV4cCI6MTYxODYwMjQ2Nn0.htZXOHG-WZf09QBftyvje04ofUSQJrBdiwRZOxg7cIA
 
-#EXTINF:-1 tvg-id="catve.br" tvg-name="TV Cultura" tvg-logo="https://imgur.com/yg60ANb.png" group-title="👷🏽‍♀️ Manutenção",TV Cultura | Catve (PR)
+#EXTINF:-1 tvg-id="catve.br" tvg-name="TV Cultura" tvg-logo="https://imgur.com/yg60ANb.png" group-title="ZZZ Manutenção",TV Cultura | Catve (PR)
 https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1960464540.m3u8
 
 #EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="TV Cultura" tvg-logo="https://listaiptv.gratis/logos/imagens/1180px-cultura_logo_2013.svg_.png" group-title="Brasil: educativos 🇧🇷", TV Cultura | TV Futuro (RJ) | Brasil
@@ -111,7 +111,7 @@ https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
 #EXTINF:-1 tvg-id="Cbn.br" tvg-name="CBN SP" tvg-shift="0" tvg-logo="https://m.cbn.globoradio.globo.com/estaticos/img/CBN_1024x1024.png" group-title="Brasil: notícias 📰",CBN SP | Brasil
 https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
 
-#EXTINF:-1 tvg-id="CNNBrasil" tvg-name="CNN Brasil" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhT5DNHv9OvqG72ykMMJ4jMNfl4E4_dx43_pIyOJg=s900-c-k-c0x00ffffff-no-rj" tvg-shift="0" group-title="👷🏽‍♀️ Manutenção",CNN Brasil
+#EXTINF:-1 tvg-id="CNNBrasil" tvg-name="CNN Brasil" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhT5DNHv9OvqG72ykMMJ4jMNfl4E4_dx43_pIyOJg=s900-c-k-c0x00ffffff-no-rj" tvg-shift="0" group-title="ZZZ Manutenção",CNN Brasil
 https://demo.cdn.tv.br/media/n/BZi1nZuZy2G3otaWmdC/a/BZi1nZuZy2G3otaWmdC/720p/chunks.m3u8?ch=BZi1nZuZy2G3otaWmdC&t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkZWZhdWx0IzE1NzYwODMyNTgiLCJpYXQiOjE2MTk2NDU5MzksImV4cCI6MTYxOTY2MzkzOX0.sP1fS1Du0or6-J-hjJKuz6z5TcKdFCw16q_bdD9kwJY
 
 #EXTINF:-1 tvg-id="Globonews.br" tvg-name="Globo News" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2018/07/globonews.png" tvg-shift="0" group-title="Brasil: notícias 📰",Globo News | Brasil
@@ -122,7 +122,7 @@ https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
 
 ############## BRASIL: jovens 🇧🇷 ##############
 
-#EXTINF:-1 tvg-id="cheftv.br" tvg-name="Chef TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1c/LOGOCHEFTV.jpg" tvg-shift="0" group-title="👷🏽‍♀️ Manutenção",Chef TV | Brasil
+#EXTINF:-1 tvg-id="cheftv.br" tvg-name="Chef TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1c/LOGOCHEFTV.jpg" tvg-shift="0" group-title="ZZZ Manutenção",Chef TV | Brasil
 https://demo.cdn.tv.br/media/n/BZjJAde1nZe2odCWmZu/a/BZjJAde1nZe2odCWmZu/720p/chunks.m3u8?ch=BZjJAde1nZe2odCWmZu&t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkZWZhdWx0IzE1NzYwODMyNTgiLCJpYXQiOjE2MTk2NDY4ODcsImV4cCI6MTYxOTY2NDg4N30.j-LUuy-AU70rkL0IFr4Gjt-0aDoG4737pf964t2o4n0 
 
 #EXTINF:-1 tvg-id="Loading.br" tvg-name="Loading TV" tvg-logo="https://imgur.com/DAyMXAx.png" tvg-shift="0" group-title="Brasil: jovens 🇧🇷",Loading TV | Brasil
@@ -134,13 +134,13 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1212fb81e85c00077
 #EXTINF:-1 tvg-id="mtv-are-you-the-one-ptv1" tvg-logo="https://imgur.com/u6zAeKw.png" group-title="Brasil: jovens 🇧🇷",MTV: Are you the One? | Brasil 
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6108d8cc331900075e98e4/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=97821633-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d1b9e931-6816-41d0-878e-e83836fbe919&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="Multishow.br" tvg-name="Multishow" tvg-logo="https://logodownload.org/wp-content/uploads/2017/03/multishow-logo-8.png" tvg-shift="0" group-title="👷🏽‍♀️ Manutenção",Multishow | Brasil
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="Multishow" tvg-logo="https://logodownload.org/wp-content/uploads/2017/03/multishow-logo-8.png" tvg-shift="0" group-title="ZZZ Manutenção",Multishow | Brasil
 http://live.video.globo.com/h/1402196702233012345678915746222339876543210pJEKZjeaTYyxXDM3Kaz8QQ/k/app/a/A/u/anyone/d/s/hls-msw24ha/hls-msw24ha_1417/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Multishow.br" tvg-name="Multishow HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/03/multishow-logo-8.png" tvg-shift="0" group-title="👷🏽‍♀️ Manutenção",Multishow HD | Brasil
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="Multishow HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/03/multishow-logo-8.png" tvg-shift="0" group-title="ZZZ Manutenção",Multishow HD | Brasil
 http://live.video.globo.com/h/1402196702233012345678915746222339876543210pJEKZjeaTYyxXDM3Kaz8QQ/k/app/a/A/u/anyone/d/s/hls-msw24ha/hls-msw24ha_4783/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Multishow.br" tvg-name="Multishow HD 2" tvg-logo="https://logodownload.org/wp-content/uploads/2017/03/multishow-logo-8.png" tvg-shift="0" group-title="👷🏽‍♀️ Manutenção",Multishow HD 2 | Brasil
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="Multishow HD 2" tvg-logo="https://logodownload.org/wp-content/uploads/2017/03/multishow-logo-8.png" tvg-shift="0" group-title="ZZZ Manutenção",Multishow HD 2 | Brasil
 https://live.video.globo.com/h/1402196702233012345678915746222339876543210pJEKZjeaTYyxXDM3Kaz8QQ/k/app/a/A/u/anyone/d/s/hls-msw24ha/hls-msw24ha_2126/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="New Face Reality" tvg-logo="https://tvthepapo.com.br/uploads/galery/2021/04/4337a0f5498504c6514ba268c4f26f606a8c0f07e83b3.png" tvg-shift="0" group-title="Brasil: jovens 🇧🇷",New Face Reality | Brasil
@@ -152,7 +152,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60072798dcf43700075
 #EXTINF:-1 tvg-id="porta-dos-fundos" tvg-logo="https://imgur.com/Xb0RMoR.png" group-title="Brasil: jovens 🇧🇷",Porta dos Fundos | Brasil 
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f36f2346ede750007332d11/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781ef22-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a4be72ee-4337-4176-a253-be6d837c977f&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="tastemade-ptv2" tvg-logo="https://imgur.com/JnHVIgo.png" group-title="👷🏽‍♀️ Manutenção",Tastemade | Brasil
+#EXTINF:-1 tvg-id="tastemade-ptv2" tvg-logo="https://imgur.com/JnHVIgo.png" group-title="ZZZ Manutenção",Tastemade | Brasil
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fd1419a3b4f4b000773ba85livestitch/2977158/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=0651cfd7-3dba-4a55-99ce-263e1c29297a&deviceVersion=73.0.3856.438&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&deviceType=web&deviceMake=Opera&sid=ef803352-acdb-11eb-8ea0-0242ac110002&advertisingId=&deviceLat=-16.6391&deviceLon=-49.2622&deviceDNT=0&deviceModel=web&userId=
 
 #EXTINF:-1 tvg-ID="Woohoo.br" tvg-name="Woohoo" tvg-logo="http://168.205.87.198/logocanais/woohoo.png" group-title="Brasil: jovens 🇧🇷",Woohoo | Brasil 
@@ -187,7 +187,7 @@ http://45.165.178.82:8000/play/a011/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Desenhos antigos 1" tvg-logo="https://i.pinimg.com/originals/f5/1d/08/f51d08be05919290355ac004cdd5c2d6.png" tvg-shift="0" group-title="Brasil: kids 🇧🇷",Desenhos antigos 1 | Brasil
 https://srv5.zcast.com.br/tvmanchete/tvmanchete/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Desenhos antigos 2" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhx6Sn1FvNRTiny_BxWXjOlNoV9SOFZd1iL-r6sSw=s900-c-k-c0x00ffffff-no-rj" tvg-shift="0" group-title="👷🏽‍♀️ Manutenção",Desenhos antigos 2 | Brasil
+#EXTINF:-1 tvg-id="" tvg-name="Desenhos antigos 2" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhx6Sn1FvNRTiny_BxWXjOlNoV9SOFZd1iL-r6sSw=s900-c-k-c0x00ffffff-no-rj" tvg-shift="0" group-title="ZZZ Manutenção",Desenhos antigos 2 | Brasil
 https://stmv1.srvstm.com/muriloevangelistade9411/muriloevangelistade9411/playlist.m3u8
 
 #EXTINF:-1 tvg-id="pluto-tv-junior-1" tvg-logo="https://imgur.com/4a5RFCU.png" group-title="Brasil: kids 🇧🇷",Junior | Brasil 
@@ -222,7 +222,7 @@ http://168.205.87.198:8555/live/viniciusvieira/vieira123/84.m3u8
 
 ######################### Brasil: Pluto 🇧🇷 ###############
 
-#EXTINF:-1 tvg-id="pluto-tv-comedia" tvg-logo="https://images.pluto.tv/channels/6001f3018502100007f528ac/featuredImage.jpg" group-title="👷🏽‍♀️ Manutenção",Comédia | Brasil 
+#EXTINF:-1 tvg-id="pluto-tv-comedia" tvg-logo="https://images.pluto.tv/channels/6001f3018502100007f528ac/featuredImage.jpg" group-title="ZZZ Manutenção",Comédia | Brasil 
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6001f3018502100007f528ac/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=0651cfd7-3dba-4a55-99ce-263e1c29297a&deviceVersion=73.0.3856.438&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&deviceType=web&deviceMake=Opera&sid=ef803352-acdb-11eb-8ea0-0242ac110002&advertisingId=&deviceLat=-16.6391&deviceLon=-49.2622&deviceDNT=0&deviceModel=web&userId=&appName=web
 
 #EXTINF:-1 tvg-id="failarmy-ptv1" tvg-logo="https://imgur.com/zkifc9i.png" group-title="Brasil: Pluto 🇧🇷",FailArmy | Brasil 
@@ -234,7 +234,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f516730b78b7600079
 #EXTINF:-1 tvg-id="pluto-tv-investigacao-ptv1" tvg-logo="https://imgur.com/JfLHsbj.png" group-title="Brasil: Pluto 🇧🇷",Investigação | Brasil 
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32cf37c9ff2b00082adbc8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781ef20-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c6910880-42dc-4cb1-99bb-7227886a27ba&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="pluto-tv-misterios-ptv1" tvg-logo="https://images.pluto.tv/channels/5fac52f142044f00078e2a51/featuredImage.jpg" group-title="👷🏽‍♀️ Manutenção",Mistérios | Brasil
+#EXTINF:-1 tvg-id="pluto-tv-misterios-ptv1" tvg-logo="https://images.pluto.tv/channels/5fac52f142044f00078e2a51/featuredImage.jpg" group-title="ZZZ Manutenção",Mistérios | Brasil
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fac52f142044f00078e2a51/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=0651cfd7-3dba-4a55-99ce-263e1c29297a&deviceVersion=73.0.3856.438&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&deviceType=web&deviceMake=Opera&sid=ef803352-acdb-11eb-8ea0-0242ac110002&advertisingId=&deviceLat=-16.6391&deviceLon=-49.2622&deviceDNT=0&deviceModel=web&userId=&appName=web
 
 #EXTINF:-1 tvg-id="pluto-tv-natureza" tvg-logo="https://imgur.com/oAarMpL.png" group-title="Brasil: Pluto 🇧🇷",Natureza | Brasil 
@@ -246,10 +246,10 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f9b096236af340008d
 #EXTINF:-1 tvg-id="nosey-escandalos-ptv2" tvg-logo="https://images.pluto.tv/channels/5f9b05a99547eb0007676b02/featuredImage.jpg?w=300" group-title="Brasil: Pluto 🇧🇷" tvg-name="Nosey Escândalos",Nosey Escândalos | Brasil 
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f9b05a99547eb0007676b02/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=0651cfd7-3dba-4a55-99ce-263e1c29297a&clientModelNumber=na&deviceDNT=false&deviceId=0651cfd7-3dba-4a55-99ce-263e1c29297a&deviceLat=-16.6391&deviceLon=-49.2622&deviceMake=Opera&deviceModel=web&deviceType=web&deviceVersion=73.0.3856.421&marketingRegion=BR&serverSideAds=true&sessionID=f913e75f-9703-11eb-8cd8-0242ac110002&sid=f913e75f-9703-11eb-8cd8-0242ac110002&userId= 
 
-#EXTINF:-1 tvg-id="os-tres-patetas" tvg-logo="https://imgur.com/mZlKac0.png" group-title="👷🏽‍♀️ Manutenção",Os Três Patetas | Brasil 
+#EXTINF:-1 tvg-id="os-tres-patetas" tvg-logo="https://imgur.com/mZlKac0.png" group-title="ZZZ Manutenção",Os Três Patetas | Brasil 
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1eed3c29b39600073e2ec0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781c812-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1cd1cf22-327f-4dee-80be-2eb8d58b2da9&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="people-are-awesome-ptv1" tvg-logo="https://imgur.com/y0Kdqtm.png" group-title="👷🏽‍♀️ Manutenção",People are Awesome | Brasil
+#EXTINF:-1 tvg-id="people-are-awesome-ptv1" tvg-logo="https://imgur.com/y0Kdqtm.png" group-title="ZZZ Manutenção",People are Awesome | Brasil
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f515d080e738d000739e19c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=97821630-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d3401ffe-5054-4e86-94f4-9056a358ddad&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-id="pluto-tv-retro-2" tvg-logo="https://imgur.com/Bxf8Gwu.png" group-title="Brasil: Pluto 🇧🇷",Retrô | Brasil
@@ -265,10 +265,10 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f515ebac01c0f00080
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32d4d9ec194100070c7449/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781ef21-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=29b136d2-3f75-488b-9ace-35ab0ac5684e&userId=&serverSideAds=true
 
 ############################### BRASIL TV ABERTA #####################################
-#EXTINF:-1 tvg-logo="https://adessotv.com.br/images/layout/logo.png" group-title="👷🏽‍♀️ Manutenção",Adesso TV | Brasil
+#EXTINF:-1 tvg-logo="https://adessotv.com.br/images/layout/logo.png" group-title="ZZZ Manutenção",Adesso TV | Brasil
 https://demo.cdn.tv.br/media/n/BZi1nZuZy2G5nZq0mJy/a/BZi1nZuZy2G5nZq0mJy/720p/chunks.m3u8?ch=BZi1nZuZy2G5nZq0mJy&t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkZWZhdWx0IzE1NzYwODMyNTgiLCJpYXQiOjE2MTkwOTE5NTQsImV4cCI6MTYxOTEwOTk1NH0.rol9n3Xa-wIH_Wp7EfbY0p2ZESqgVIA3b0bXJ0InGns
 
-#EXTINF:-1 tvg-id="agromais" tvg-name="Agro Mais" tvg-logo="https://portaldoqueijo.com.br/site/wp-content/uploads/2020/06/101158384_143665053919698_2333568191340478464_o.png" group-title="👷🏽‍♀️ Manutenção",Agro+ | Brasil
+#EXTINF:-1 tvg-id="agromais" tvg-name="Agro Mais" tvg-logo="https://portaldoqueijo.com.br/site/wp-content/uploads/2020/06/101158384_143665053919698_2333568191340478464_o.png" group-title="ZZZ Manutenção",Agro+ | Brasil
 https://evpp.mm.uol.com.br/geob_band/agromais/chunklist_w1203097179.m3u8
 
 #EXTINF:-1 tvg-id="BandRede.br" tvg-name="Band" tvg-logo="https://imgur.com/HnL2uBA.png" tvg-shift="0" group-title="Brasil: TV aberta 🇧🇷",Band | Brasil
@@ -304,7 +304,7 @@ http://45.165.178.82:8000/play/a01a/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jl1IZn6.png" group-title="Brasil: TV aberta 🇧🇷",Mosaico | Brasil
 http://45.165.178.82:8000/play/a00v/index.m3u8
 
-#EXTINF:-1 tvg-id="Pixtv.br" tvg-name="Pix TV" tvg-logo="https://i.imgur.com/n4gOQMI.png" tvg-shift="0" group-title="👷🏽‍♀️ Manutenção",Pix TV | Brasil
+#EXTINF:-1 tvg-id="Pixtv.br" tvg-name="Pix TV" tvg-logo="https://i.imgur.com/n4gOQMI.png" tvg-shift="0" group-title="ZZZ Manutenção",Pix TV | Brasil
 https://demo.cdn.tv.br/media/n/BZjJAdCY/a/BZjJAdCY/720p/chunks.m3u8?ch=BZjJAdCY&t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkZWZhdWx0IzE1NzYwODMyNTgiLCJpYXQiOjE2MTk2NDU0NTgsImV4cCI6MTYxOTY2MzQ1OH0.9LEOe9xmjuOo8OEOVWvcVZ-1HjjMaCXZIj3eWhkgDxs
 
 #EXTINF:-1 tvg-id="Primertv.br" tvg-name="Primer TV" tvg-logo="https://demo.cdn.tv.br/logo/1559412042.3773847.png" tvg-shift="0" group-title="Brasil: TV aberta 🇧🇷",Primer TV | Brasil
@@ -313,10 +313,10 @@ http://200.194.238.229:8383/live/primer/playlist.m3u8
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-name="Record" tvg-logo="https://i.pinimg.com/originals/93/d3/65/93d365753811901f3fd8fea11c78d79c.jpg" tvg-shift="0" group-title="Brasil: TV aberta 🇧🇷",Record | Brasil
 https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
 
-#EXTINF:-1 tvg-id="Redebrasil.br" tvg-name="Rede Brasil" tvg-logo="https://imgur.com/ZgnRZ47.png" group-title="👷🏽‍♀️ Manutenção",Rede Brasil
+#EXTINF:-1 tvg-id="Redebrasil.br" tvg-name="Rede Brasil" tvg-logo="https://imgur.com/ZgnRZ47.png" group-title="ZZZ Manutenção",Rede Brasil
 https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Redebrasil.br" tvg-name="TV Brasil Oeste" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngiy6kmZ2e2moV1EZeW3KgPDcjD6yHdQsEB8pvddQ=s900-c-k-c0x00ffffff-no-rj" group-title="👷🏽‍♀️ Manutenção", Rede Brasil | TV Brasil Oeste (MT)
+#EXTINF:-1 tvg-id="Redebrasil.br" tvg-name="TV Brasil Oeste" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngiy6kmZ2e2moV1EZeW3KgPDcjD6yHdQsEB8pvddQ=s900-c-k-c0x00ffffff-no-rj" group-title="ZZZ Manutenção", Rede Brasil | TV Brasil Oeste (MT)
 https://5ad482a77183d.streamlock.net/operacaotbomt.com.br/operacaotbomt.com.br/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Redemetropole.br" tvg-name="Rede Metrópole" group-title="Brasil: TV aberta 🇧🇷" tvg-logo="https://play-lh.googleusercontent.com/yAp592JJ2UwfANsFzndnqQDnwbx9EcVo1lbikgbxz3mgR0V7Fp6Jtif0EFFl0CrDNbM",Rede Metrópole | Brasil
@@ -391,7 +391,7 @@ http://wz3.dnip.com.br/tvbrasil/tvbrasil.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="TV Gazeta | TV Alternativa (MA)" tvg-logo="https://imgur.com/lAXbfuU.png" tvg-shift="0" group-title="Brasil: TV aberta 🇧🇷",TV Gazeta | Alternativa (MA)
 http://stmv8.conectastm.com/wagner1168/wagner1168/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVJustica.br" tvg-name="TV Justiça" tvg-logo="https://i.imgur.com/3EHdrGo.png" tvg-shift="0" group-title="👷🏽‍♀️ Manutenção",TV Justiça | Brasil
+#EXTINF:-1 tvg-id="TVJustica.br" tvg-name="TV Justiça" tvg-logo="https://i.imgur.com/3EHdrGo.png" tvg-shift="0" group-title="ZZZ Manutenção",TV Justiça | Brasil
 https://demo.cdn.tv.br/media/n/BZfJAdi2/a/BZfJAdi2/720p/chunks.m3u8?ch=BZfJAdi2&t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkZWZhdWx0IzE1NzYwODMyNTgiLCJpYXQiOjE2MTg1ODgwODQsImV4cCI6MTYxODYwNjA4NH0.4JRKZyac7oKSgTSJUTrq5yymejnmrPDrA53csr6S_bs
 
 #EXTINF:-1 tvg-id="Tvmetropole.br" group-title="Brasil: TV aberta 🇧🇷" tvg-logo="https://imgur.com/EhJNGIy.png",TV Metrópole | Caucaia (CE)
@@ -403,7 +403,7 @@ https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvpantanal.png" group-title="Brasil: TV aberta 🇧🇷", TV Pantanal (MS)
 https://5e837408ea907.streamlock.net:1936/tvpantanalms/tvpantanalms/playlist.m3u8
 
-#EXTINF:-1 tvg-name="TV8" tvg-id="Tv8.br" group-title="👷🏽‍♀️ Manutenção" tvg-logo="https://i.imgur.com/5taFAXs.jpg",TV8 Brasil
+#EXTINF:-1 tvg-name="TV8" tvg-id="Tv8.br" group-title="ZZZ Manutenção" tvg-logo="https://i.imgur.com/5taFAXs.jpg",TV8 Brasil
 https://cdn.jmvstream.com/w/LVW-9773/ngrp:LVW9773_eRZLMN9Hsr_all/playlist.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="Brasil: TV aberta 🇧🇷" tvg-logo="https://i.imgur.com/IIztLyO.png",Up Channel | Brasil
@@ -415,7 +415,7 @@ http://45.165.178.82:8000/play/a00x/index.m3u8
 #EXTINF:-1 tvg-id="pluto-tv-celebrity" tvg-logo="http://images.pluto.tv/channels/5d8bf1472907815f66a866dd/colorLogoPNG.png" group-title="Celebridades em inglês 👯‍♀️",Pluto TV Celebrity | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8bf1472907815f66a866dd/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc96a004-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=01f016fb-419c-4971-a081-2369eb331bb6&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="complex-networks" tvg-logo="http://images.pluto.tv/channels/5bb1b439ea5c9e53afd21325/colorLogoPNG.png" group-title="👷🏽‍♀️ Manutenção",Complex Networks | EUA
+#EXTINF:-1 tvg-id="complex-networks" tvg-logo="http://images.pluto.tv/channels/5bb1b439ea5c9e53afd21325/colorLogoPNG.png" group-title="ZZZ Manutenção",Complex Networks | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bb1b439ea5c9e53afd21325/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc94cb40-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=96c2e987-9cd7-4c3b-8374-7ea57657d592&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-id="et-live" tvg-logo="http://images.pluto.tv/channels/5dc0c78281eddb0009a02d5e/colorLogoPNG.png" group-title="Celebridades em inglês 👯‍♀️",ET Live | EUA
@@ -424,7 +424,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dc0c78281eddb0009a
 #EXTINF:-1 tvg-id="" group-title="Celebridades em inglês 👯‍♀️" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWeckfObfyFWhe5JuPFGqaZgCiFyBSZXjg4RqleTMoxnlpG_wSOg3gOaRJjYdxQHUbZa0&usqp=CAU" tvg-name="Hollywood Show Live",Hollywood Show Live | EUA
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/4280&pprotocol=hls
 
-#EXTINF:-1 group-title="👷🏽‍♀️ Manutenção" tvg-logo="https://thestreamable.com/media/pages/news/peacock-to-launch-new-channel-on-platform-lit-entertainment-news/59fda77b38-1618516374/lit-logo-blue-768x432.jpg",LIT Entertainment News | EUA 
+#EXTINF:-1 group-title="ZZZ Manutenção" tvg-logo="https://thestreamable.com/media/pages/news/peacock-to-launch-new-channel-on-platform-lit-entertainment-news/59fda77b38-1618516374/lit-logo-blue-768x432.jpg",LIT Entertainment News | EUA 
 https://studio1-lit-plex.amagi.tv/amRdirect/us_privacy=1---&did=83cf59f7-dc7f-5753-8faa-ab958f6c33e3&dnt=0&X-Plex-Token=jePnUaVx_dJ5XWHmG6ob&channelId=6025c38eb7f47e002cc831be/hls/amagi_hls_data_plexAAAAA-studio1-lit-plex/CDN/640x360_1205600/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Celebridades em inglês 👯‍♀️" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWeckfObfyFWhe5JuPFGqaZgCiFyBSZXjg4RqleTMoxnlpG_wSOg3gOaRJjYdxQHUbZa0&usqp=CAU" tvg-name="Movie Loft TV",Movie Loft TV | EUA
@@ -594,7 +594,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5efb60a9e426140007c
 #EXTINF:-1 tvg-id="paramount-movie-channel" tvg-logo="http://images.pluto.tv/channels/5cb0cae7a461406ffe3f5213/colorLogoPNG.png" group-title="Cinema em inglês 🎬",Paramount Movie Channel | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc956784-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6097c046-5b82-478e-985a-3bd18781c95f&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="pluto007" tvg-name="Pluto TV 007 | EUA" tvg-logo="https://deadline.com/wp-content/uploads/2019/08/pluto-007x.png" group-title="👷🏽‍♀️ Manutenção",Pluto TV 007 🇺🇸
+#EXTINF:-1 tvg-id="pluto007" tvg-name="Pluto TV 007 | EUA" tvg-logo="https://deadline.com/wp-content/uploads/2019/08/pluto-007x.png" group-title="ZZZ Manutenção",Pluto TV 007 🇺🇸
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d4db961034718b2f52f9e52/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=5812b871-e58d-423b-b70e-ff4ee2b07758&clientModelNumber=na&deviceDNT=false&deviceId=5812b871-e58d-423b-b70e-ff4ee2b07758&deviceLat=37.7510&deviceLon=-97.8220&deviceMake=Opera&deviceModel=web&deviceType=web&deviceVersion=73.0.3856.421&marketingRegion=US&serverSideAds=true&sessionID=e63afb75-94a8-11eb-a134-0242ac110002&sid=e63afb75-94a8-11eb-a134-0242ac110002&userId=
 
 #EXTINF:-1 tvg-id="pluto-tv-cine-terror" tvg-logo="http://images.pluto.tv/channels/5d8d180092e97a5e107638d3/colorLogoPNG.png" group-title="Cinema em inglês 🎬",Pluto TV Cine Terror 🇺🇸
@@ -638,7 +638,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ef3958c66ac540007d
 #EXTINF:-1 tvg-id="degrassi" tvg-logo="http://images.pluto.tv/channels/5c6eeb85c05dfc257e5a50c4/colorLogoPNG.png" group-title="Seriados em inglês 📺",Degrassi | EUA 🇬🇧
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c6eeb85c05dfc257e5a50c4/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc954070-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=508547d1-44cf-4ad7-976e-9da7f1e37272&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="5d765984438d93d01eaf107f" tvg-logo="https://images.pluto.tv/channels/5d765984438d93d01eaf107f/colorLogoPNG.png" group-title="👷🏽‍♀️ Manutenção",Degrassi Next Gen 🇬🇧
+#EXTINF:-1 tvg-id="5d765984438d93d01eaf107f" tvg-logo="https://images.pluto.tv/channels/5d765984438d93d01eaf107f/colorLogoPNG.png" group-title="ZZZ Manutenção",Degrassi Next Gen 🇬🇧
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d765984438d93d01eaf107f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-id="doctor-who-classic" tvg-logo="http://images.pluto.tv/channels/5ce4475cd43850831ca91ce7/colorLogoPNG.png" group-title="Seriados em inglês 📺",Doctor Who Classic | EUA 🇺🇸
@@ -653,7 +653,7 @@ https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/4628&p
 #EXTINF:-1 tvg-id="happy-days-ptv1" tvg-logo="http://images.pluto.tv/channels/5f7794162a4559000781fc12/colorLogoPNG.png" group-title="Seriados em inglês 📺",Happy Days: Dias Felizes | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f7794162a4559000781fc12/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc9a7090-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=40acdb70-3dc3-4255-92a0-883abe09dd5f&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="leverage" tvg-logo="http://images.pluto.tv/channels/5d9ccebb60a26500097dc5a4/colorLogoPNG.png" group-title="👷🏽‍♀️ Manutenção",Leverage: Acerto de Contas 🇺🇸
+#EXTINF:-1 tvg-id="leverage" tvg-logo="http://images.pluto.tv/channels/5d9ccebb60a26500097dc5a4/colorLogoPNG.png" group-title="ZZZ Manutenção",Leverage: Acerto de Contas 🇺🇸
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d9ccebb60a26500097dc5a4/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc96ee22-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=2f635c2c-5786-4c44-8149-08abf66902eb&userId=&serverSideAds=true
 
 #EXTINF:-1 group-title="Seriados em inglês 📺" tvg-logo="https://static.filmon.com/assets/channels/3101/extra_big_logo.png",(The) Lucy Show 🇺🇸
@@ -691,6 +691,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/55a6a3275616b6240c2
 
 
 ################################## Compras ###########################
+
+#EXTINF:-1 tvg-name="Expo Channel" tvg-id="expochannel.au" tvg-logo="https://i.imgur.com/RpCWw2I.png" group-title="Compras 🛍️",Expo Channel | Austrália
+https://tvsn-i.akamaihd.net/hls/live/261837/expo/expo.m3u8
 
 #EXTINF:-1 tvg-id="hsn" tvg-logo="http://images.pluto.tv/channels/5f8a02476b72230007e62b7d/colorLogoPNG.png" group-title="Compras 🛍️" tvg-name="HSN",HSN | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8a02476b72230007e62b7d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc9a7097-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b403616c-2d16-4803-824f-3a8c6ca7befd&userId=&serverSideAds=true
@@ -871,6 +874,9 @@ https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3785&p
 
 #EXTINF:-1 tvg-id="" group-title="Esportes em inglês 🥊" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWeckfObfyFWhe5JuPFGqaZgCiFyBSZXjg4RqleTMoxnlpG_wSOg3gOaRJjYdxQHUbZa0&usqp=CAU" tvg-name="Distant Roads",Distant Roads
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/787&pprotocol=hls
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.desifree.tv/wp-content/uploads/DUBAI-SPORTS.jpg" tvg-name="Dubai Sports" group-title="Esportes em inglês 🥊",Dubai Sports | Emirados Árabes Unidos 
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/79?pprotocol=hls
 
 #EXTINF:-1 tvg-name="ESTV" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41DL9MABXLL.png" group-title="Esportes em inglês 🥊",ESTV | EUA
 https://stream-us-east-1.getpublica.com/cl/e279a3cd-1df4-4814-8bf0-f102f79cf26f/1280x720_2300000_4.m3u8
@@ -1125,7 +1131,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fceaab478f2af00080
 
 ################# Kids em inglês ###################
 
-#EXTINF:-1 tvg-name="ABC Kids" tvg-id="" tvg-logo="https://i.mjh.nz/.images/tv.abckids.png" group-title="Kids em inglês 🪀",ABC Kids | Austrália 🇦🇺
+#EXTINF:-1 tvg-name="ABC Kids" tvg-id="" tvg-logo="https://i.mjh.nz/.images/tv.abckids.png" group-title="ZZZ Manutenção",ABC Kids | Austrália 🇦🇺
 https://c.mjh.nz/101002210222/
 
 #EXTINF:-1 tvg-id="after-school-cartoons" tvg-logo="http://images.pluto.tv/channels/56171fafada51f8004c4b40f/colorLogoPNG.png" group-title="Kids em inglês 🪀",After School Cartoons | EUA
@@ -1212,13 +1218,13 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0c85bd2c9c100093
 #EXTINF:-1 tvg-id="nick-pluto-tv" tvg-logo="http://images.pluto.tv/channels/5ca673e0d0bd6c2689c94ce3/colorLogoPNG.png" group-title="Kids em inglês 🪀",Nick | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc954075-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=4b4e7172-dcd9-4238-be62-bfb6f015537c&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="nick-latino" tvg-logo="http://images.pluto.tv/channels/5d8d08395f39465da6fb3ec4/colorLogoPNG.png" group-title="Kids em inglês 🪀",Nick Latino | EUA 
+#EXTINF:-1 tvg-id="nick-latino" tvg-logo="http://images.pluto.tv/channels/5d8d08395f39465da6fb3ec4/colorLogoPNG.png" group-title="Kids em espanhol 🧸",Nick Latino | EUA 
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc96a005-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=65741928-4513-416d-a583-9ec9c4a53e05&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-id="nick-jr.-pluto-tv" tvg-logo="http://images.pluto.tv/channels/5ca6748a37b88b269472dad9/colorLogoPNG.png" group-title="Kids em inglês 🪀",Nick Jr. | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc956780-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=042aef8d-518d-4154-87f8-0b3549e9c3fc&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="nick-jr-latino" tvg-logo="http://images.pluto.tv/channels/5d8d0ec7b0f7015fbe0a3bf7/colorLogoPNG.png" group-title="Kids em inglês 🪀",Nick Jr. Latino | EUA
+#EXTINF:-1 tvg-id="nick-jr-latino" tvg-logo="http://images.pluto.tv/channels/5d8d0ec7b0f7015fbe0a3bf7/colorLogoPNG.png" group-title="Kids em espanhol 🧸",Nick Jr. Latino | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d0ec7b0f7015fbe0a3bf7/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc96c710-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=970ab63e-ac07-4df3-8407-f5fafc2c7821&userId=&serverSideAds=true
 
 #EXTINF:-1 group-title="Kids em inglês 🪀" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/712IYUqRbzL.png",Om Non
@@ -1266,7 +1272,7 @@ https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/5507&p
 #EXTINF:-1 group-title="Kids em inglês 🪀" tvg-logo="https://static.filmon.com/assets/channels/3263/extra_big_logo.png",Tayla's Toddler Toy Review
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3263&pprotocol=hls
 
-#EXTINF:-1 tvg-logo="https://gvimage.zype.com/53c0457a69702d4d66040000/60870ce6504c56000131647a/custom_thumbnail/480.jpg" group-title="Kids em inglês 🪀",TokuSHOUTsu | EUA
+#EXTINF:-1 tvg-logo="https://gvimage.zype.com/53c0457a69702d4d66040000/60870ce6504c56000131647a/custom_thumbnail/480.jpg" group-title="ZZZ Manutenção",TokuSHOUTsu | EUA
 https://tokushoutsu-zype.amagi.tv/playlistR1080p.m3u8
 
 #EXTINF:-1 tvg-id="tokushoutsu" tvg-logo="http://images.pluto.tv/channels/5c3f8f12a93c2d61b9990a4e/colorLogoPNG.png" group-title="Kids em inglês 🪀",TokuSHOUTsu do Pluto TV | EUA
@@ -1301,28 +1307,28 @@ https://rockentertainment-zoomoo-1.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="1hdru" group-title="Música 🎶" tvg-name="1HD" tvg-logo="https://lh3.googleusercontent.com/iHSgMsaVX7oFDLU73HzrQGBw6sOPlUxvdOOvjAZpMuYM63AqnK_0ZUP9E8t_l1pD1A=w220-rw",1HD Music | Estônia
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/mono.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Música 🎶" tvg-logo="https://a.jsrdn.com/hls/22895/80s-party/logo_20210428_185523_68.png",80s Party
+#EXTINF:-1 tvg-id="" group-title="ZZZ Manutenção" tvg-logo="https://a.jsrdn.com/hls/22895/80s-party/logo_20210428_185523_68.png",80s Party
 https://7c1bdc148c1f4998b84f4a4f92eebc63.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/80s_party_distrotv/b3401d0d-30f5-4969-8a73-6f8d57b7dc3b/2.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Música 🎶" tvg-logo="https://a.jsrdn.com/hls/22895/only-90s-kids-will-understand/logo_20210428_185951_68.png",(Only) 90s Kids Will Understand
+#EXTINF:-1 tvg-id="" group-title="ZZZ Manutenção" tvg-logo="https://a.jsrdn.com/hls/22895/only-90s-kids-will-understand/logo_20210428_185951_68.png",(Only) 90s Kids Will Understand
 https://21835c8ec5b74cf892ad0d6e12344ae9.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/90s_kids_distrotv/1f887c0f-848e-41c4-bfa6-9447b29cc7d9/3.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Música 🎶" tvg-logo="https://a.jsrdn.com/hls/22895/beast-mode/logo_20200909_015707_68.png",Beast Mood 
+#EXTINF:-1 tvg-id="" group-title="ZZZ Manutenção" tvg-logo="https://a.jsrdn.com/hls/22895/beast-mode/logo_20200909_015707_68.png",Beast Mood 
 https://b56db7b027914c8cbf7aa8906f329001.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/beast_mode_distrotv/93d2ba24-e1c8-4a5d-bd87-4c1093573f28/3.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Música 🎶" tvg-logo="https://a.jsrdn.com/hls/22895/bedroom-beats/logo_20200909_015606_68.png",Bedroom Beats
+#EXTINF:-1 tvg-id="" group-title="ZZZ Manutenção" tvg-logo="https://a.jsrdn.com/hls/22895/bedroom-beats/logo_20200909_015606_68.png",Bedroom Beats
 https://9a43c5fcc8e84ec69473a8c30f44524e.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/bedroom_beats_distrotv/2e14c94e-36b9-4f7a-b3fe-fec080487ad5/0.m3u8
 
 #EXTINF:-1 tvg-id="BoxHits.uk" tvg-name="Box Hits" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Box_hits.svg/1280px-Box_hits.svg.png" group-title="Música 🎶",Box Hits | Reino Unido
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/5947?pprotocol=hls
 
-#EXTINF:-1 group-title="Música 🎶" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22693/britasia-live/logo_20191213_005706.png",BritAsia Live | Reino Unido
+#EXTINF:-1 group-title="ZZZ Manutenção" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22693/britasia-live/logo_20191213_005706.png",BritAsia Live | Reino Unido
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/federator/2e4ffc03-b7b8-43ff-9f5a-deb4a8dec800/1.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Música 🎶" tvg-name="BritRox" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWeckfObfyFWhe5JuPFGqaZgCiFyBSZXjg4RqleTMoxnlpG_wSOg3gOaRJjYdxQHUbZa0&usqp=CAU",BritRox
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3698&pprotocol=hls
 
-#EXTINF:-1 group-title="Música 🎶" tvg-logo="https://a.jsrdn.com/hls/22895/can-you-dig-it/logo_20200909_011051_68.png",Can you dig it?
+#EXTINF:-1 group-title="ZZZ Manutenção" tvg-logo="https://a.jsrdn.com/hls/22895/can-you-dig-it/logo_20200909_011051_68.png",Can you dig it?
 https://e3562d9b4aeb44bebe907ac25c2917ee.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/that_70s_channel_distrotv/faed8ed3-6a04-48f8-981b-5ea6837bcfac/0.m3u8
 
 #EXTINF:-1 tvg-id="Castoutofparadise" group-title="Música 🎶" tvg-name="Castoutofparadise" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWeckfObfyFWhe5JuPFGqaZgCiFyBSZXjg4RqleTMoxnlpG_wSOg3gOaRJjYdxQHUbZa0&usqp=CAU",Castoutofparadise | EUA
@@ -1343,7 +1349,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/600ad1a37
 #EXTINF:-1 tvg-id="cmt-equal-play" tvg-name="CMT Equal Play" tvg-logo="http://images.pluto.tv/channels/5f68f53eb1e5800007390bf8/colorLogoPNG.png" group-title="Música 🎶",CMT Equal Play | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f68f53eb1e5800007390bf8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c896951-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=42bcfa63-aec5-4760-b993-bf2501603b69&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="" group-title="Música 🎶" tvg-logo="https://a.jsrdn.com/hls/22895/texas-sized-hits/logo_20210428_191942_68.png",Country Loop
+#EXTINF:-1 tvg-id="" group-title="ZZZ Manutenção" tvg-logo="https://a.jsrdn.com/hls/22895/texas-sized-hits/logo_20210428_191942_68.png",Country Loop
 https://4f2d3c1215b1408c9e6c9fd811b83832.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/texas_sized_hits_distrotv/e967bc94-0abf-43c1-9e9c-d39b3b6301b6/1.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Música 🎶" tvg-name="Country Star" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWeckfObfyFWhe5JuPFGqaZgCiFyBSZXjg4RqleTMoxnlpG_wSOg3gOaRJjYdxQHUbZa0&usqp=CAU",Country Star
@@ -1355,19 +1361,19 @@ https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3056&p
 #EXTINF:-1 tvg-id="" group-title="Música 🎶" tvg-name="EDM TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWeckfObfyFWhe5JuPFGqaZgCiFyBSZXjg4RqleTMoxnlpG_wSOg3gOaRJjYdxQHUbZa0&usqp=CAU",EDM TV
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3863&pprotocol=hls
 
-#EXTINF:-1 tvg-id="" group-title="Música 🎶" tvg-logo="https://a.jsrdn.com/hls/22895/electro-anthems/logo_20200909_015512_68.png",Electro Anthems
+#EXTINF:-1 tvg-id="" group-title="ZZZ Manutenção" tvg-logo="https://a.jsrdn.com/hls/22895/electro-anthems/logo_20200909_015512_68.png",Electro Anthems
 https://8172757f4514438fa4feebfa046aacc9.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/electro_anthems_distrotv/ec2c5c4e-2236-451e-a22a-301f9d29f50f/0.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Música 🎶" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWeckfObfyFWhe5JuPFGqaZgCiFyBSZXjg4RqleTMoxnlpG_wSOg3gOaRJjYdxQHUbZa0&usqp=CAU" tvg-name="Filmon Jazz and Blues",Filmon Jazz and Blues
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/530&pprotocol=hls
 
-#EXTINF:-1 tvg-id="" group-title="Música 🎶" tvg-logo="https://a.jsrdn.com/hls/22895/friday-feels/logo_20200909_015331_68.png",Friday Feels 
+#EXTINF:-1 tvg-id="" group-title="ZZZ Manutenção" tvg-logo="https://a.jsrdn.com/hls/22895/friday-feels/logo_20200909_015331_68.png",Friday Feels 
 https://3b77fd553d9c4044a8105c80a847ac5b.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/friday_feels_distrotv/0f2812bd-5344-4086-9a78-0970523a702a/0.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Música 🎶" tvg-logo="https://a.jsrdn.com/hls/22895/hip-hop-bangers/logo_20210428_191054_68.png",Hip-Hop Bangers
+#EXTINF:-1 tvg-id="" group-title="ZZZ Manutenção" tvg-logo="https://a.jsrdn.com/hls/22895/hip-hop-bangers/logo_20210428_191054_68.png",Hip-Hop Bangers
 https://8e472822fa394a759b7948ff1cf272bb.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/hip_hop_bangers_distrotv/f86b1de3-7ec4-4b7e-83dc-d85c30b8b03e/2.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Música 🎶" tvg-logo="https://a.jsrdn.com/hls/22895/hot-r/logo_20200909_015050_68.png",Hot R&B 
+#EXTINF:-1 tvg-id="" group-title="ZZZ Manutenção" tvg-logo="https://a.jsrdn.com/hls/22895/hot-r/logo_20200909_015050_68.png",Hot R&B 
 https://35df8214e04d41628cb6bfee857da769.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/hot_rnb_distrotv/b6d682b1-9db4-4a77-afca-40389168a606/3.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Música 🎶" tvg-name="Hot Rock" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWeckfObfyFWhe5JuPFGqaZgCiFyBSZXjg4RqleTMoxnlpG_wSOg3gOaRJjYdxQHUbZa0&usqp=CAU",Hot Rock
@@ -1385,10 +1391,10 @@ https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/2999&p
 #EXTINF:-1 tvg-name="Juice TV" tvg-id="juice.au" tvg-logo="https://i.mjh.nz/.images/tv.juice.png" group-title="Música 🎶",Juice TV | Austrália 🇦🇺
 https://i.mjh.nz/nz/tv.juice.m3u8
 
-#EXTINF:-1 group-title="Música 🎶" tvg-logo="https://a.jsrdn.com/hls/22895/latin-x-pop/logo_20200909_014745_68.png",Latin x Pop 
+#EXTINF:-1 group-title="ZZZ Manutenção" tvg-logo="https://a.jsrdn.com/hls/22895/latin-x-pop/logo_20200909_014745_68.png",Latin x Pop 
 https://fe1a75d9ccb041ec85e732043edc7147.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/latin_x_pop_distrotv/c369b7cb-334c-43b9-8a3d-ef8763487d37/3.m3u8
 
-#EXTINF:-1 group-title="Música 🎶" tvg-logo="https://a.jsrdn.com/hls/22895/like-yesterday/logo_20200909_014621_68.png",Like Yesterday
+#EXTINF:-1 group-title="ZZZ Manutenção" tvg-logo="https://a.jsrdn.com/hls/22895/like-yesterday/logo_20200909_014621_68.png",Like Yesterday
 https://bc3fa319cf6642c59e1128318f1a9cd9.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/like_yesterday_distrotv/c0799131-5b23-4bf7-94a5-d66b676bb458/3.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Música 🎶" tvg-name="Live in Concert | Alemanha" tvg-logo="https://images.pluto.tv/channels/603d01a55123740007f8375a/colorLogoPNG.png",Live in Concert | Alemanha
@@ -1397,7 +1403,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/603d01a55
 #EXTINF:-1 tvg-name="Live Music Replay | EUA" tvg-id="live-music-replay" tvg-logo="http://images.pluto.tv/channels/5873fc21cad696fb37aa9054/colorLogoPNG.png" group-title="Música 🎶",Live Music Replay | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5873fc21cad696fb37aa9054/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c759330-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=98079c5b-45f4-4521-b056-6fd814776109&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/62CjWTa.jpg" group-title="Música 🎶" tvg-name="Loop 80s | EUA",Loop 80s | EUA
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/62CjWTa.jpg" group-title="ZZZ Manutenção" tvg-name="Loop 80s | EUA",Loop 80s | EUA
 https://55e014b3437040d08777729c863a2097.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Loop80s/playlist.m3u8
 
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/62CjWTa.jpg" group-title="Música 🎶" tvg-name="Loop 90s | EUA",Loop 90s | EUA
@@ -1433,7 +1439,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fd1a252d35decbc
 #EXTINF:-1 tvg-name="MTV Yo! EUA" tvg-id="yo-mtv" tvg-logo="http://images.pluto.tv/channels/5d14fc31252d35decbc4080b/colorLogoPNG.png" group-title="Música 🎶",MTV Yo! EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fc31252d35decbc4080b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7e45c2-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dfeb1d80-be28-4be3-b669-23fa79a8aec7&userId=&serverSideAds=true
 
-#EXTINF:-1 group-title="Música 🎶" tvg-logo="https://a.jsrdn.com/hls/22895/neural-focused/logo_20200909_202826_68.png",Neural Focused
+#EXTINF:-1 group-title="ZZZ Manutenção" tvg-logo="https://a.jsrdn.com/hls/22895/neural-focused/logo_20200909_202826_68.png",Neural Focused
 https://bc555b434b5f44709a31ae6b102bf6a6.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/neural_focused_distrotv/ae5ffa7f-242c-451c-8429-390988cd5bc8/0.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWeckfObfyFWhe5JuPFGqaZgCiFyBSZXjg4RqleTMoxnlpG_wSOg3gOaRJjYdxQHUbZa0&usqp=CAU" group-title="Música 🎶" tvg-name="New Star TV",New Star TV
@@ -1442,13 +1448,13 @@ https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3065&p
 #EXTINF:-1 tvg-id="classica.eua" tvg-name="Pluto Clássica EUA" tvg-logo="http://images.pluto.tv/channels/5f779951372da90007fd45e8/colorLogoPNG.png" group-title="Música 🎶",Pluto Clássica EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f779951372da90007fd45e8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c8a2ca3-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d0c6b789-884d-4edf-bde4-b9619b8ad48c&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="questclassical.au" tvg-name="Quest TV Classical Austrália 🇦🇺" tvg-logo="https://i.imgur.com/B69BHnx.jpg" group-title="Música 🎶",Quest TV Classical Austrália 🇦🇺
+#EXTINF:-1 tvg-id="questclassical.au" tvg-name="Quest TV Classical Austrália 🇦🇺" tvg-logo="https://i.imgur.com/B69BHnx.jpg" group-title="ZZZ Manutenção",Quest TV Classical Austrália 🇦🇺
 https://qwestclassic-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="questjazz.au" tvg-name="Quest TV Jazz and Beyond Austrália 🇦🇺" tvg-logo="https://i.imgur.com/bhSrOea.jpg" group-title="Música 🎶",Quest TV Jazz and Beyond Austrália 🇦🇺
+#EXTINF:-1 tvg-id="questjazz.au" tvg-name="Quest TV Jazz and Beyond Austrália 🇦🇺" tvg-logo="https://i.imgur.com/bhSrOea.jpg" group-title="ZZZ Manutenção",Quest TV Jazz and Beyond Austrália 🇦🇺
 https://qwestjazz-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="questmix.au" tvg-name="Quest TV Mix Austrália 🇦🇺" tvg-logo="https://i.imgur.com/B69BHnx.jpg" group-title="Música 🎶",Quest TV Mix Austrália 🇦🇺
+#EXTINF:-1 tvg-id="questmix.au" tvg-name="Quest TV Mix Austrália 🇦🇺" tvg-logo="https://i.imgur.com/B69BHnx.jpg" group-title="ZZZ Manutenção",Quest TV Mix Austrália 🇦🇺
 https://qwestmix-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWeckfObfyFWhe5JuPFGqaZgCiFyBSZXjg4RqleTMoxnlpG_wSOg3gOaRJjYdxQHUbZa0&usqp=CAU" group-title="Música 🎶" tvg-name="Road2Fame",Road2Fame
@@ -1460,19 +1466,19 @@ https://tls.cdnz.cl/rewindtv/rewindtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Música 🎶" tvg-name="Talent Watch" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWeckfObfyFWhe5JuPFGqaZgCiFyBSZXjg4RqleTMoxnlpG_wSOg3gOaRJjYdxQHUbZa0&usqp=CAU",Talent Watch
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/4706&pprotocol=hls
 
-#EXTINF:-1 group-title="Música 🎶" tvg-logo="https://a.jsrdn.com/hls/22895/thats-hot/logo_20200909_010555_68.png",That's Hot
+#EXTINF:-1 group-title="ZZZ Manutenção" tvg-logo="https://a.jsrdn.com/hls/22895/thats-hot/logo_20200909_010555_68.png",That's Hot
 https://a9c952d731a2427d8e01903d3778c601.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/thats_hot_distrotv/fa242248-5fdd-48b5-81f0-18ee764aa436/3.m3u8
 
 #EXTINF:-1 tvg-id="Tipstr.TV" group-title="Música 🎶" tvg-name="Tipstr.TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWeckfObfyFWhe5JuPFGqaZgCiFyBSZXjg4RqleTMoxnlpG_wSOg3gOaRJjYdxQHUbZa0&usqp=CAU",Tipstr.TV
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3539&pprotocol=hls
 
-#EXTINF:-1 group-title="Música 🎶" tvg-logo="https://a.jsrdn.com/hls/22895/trending/logo_20200909_010442_68.png",Trending
+#EXTINF:-1 group-title="ZZZ Manutenção" tvg-logo="https://a.jsrdn.com/hls/22895/trending/logo_20200909_010442_68.png",Trending
 https://4fc8c9ea374c44e99993653a37b0a3c6.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/trending_distrotv/f46bc222-4059-4a5b-b6be-9ea0897d57d6/3.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWeckfObfyFWhe5JuPFGqaZgCiFyBSZXjg4RqleTMoxnlpG_wSOg3gOaRJjYdxQHUbZa0&usqp=CAU" tvg-id="tribetv" group-title="Música 🎶" tvg-name="Tribe TV",Tribe TV
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/2987&pprotocol=hls
 
-#EXTINF:-1 group-title="Música 🎶" tvg-logo="https://a.jsrdn.com/hls/22895/unwind/logo_20200909_010332_68.png",Unwind
+#EXTINF:-1 group-title="ZZZ Manutenção" tvg-logo="https://a.jsrdn.com/hls/22895/unwind/logo_20200909_010332_68.png",Unwind
 https://e5ec48fe8d5247f6891057812a8bb239.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/unwind_distrotv/c1f5e7ff-0154-4e9d-ad95-b5cf62ff87fc/3.m3u8
 
 #EXTINF:-1 tvg-id="vevo-reggaeton-and-trap" tvg-name="Vevo Reggaetón & Trap" tvg-logo="http://images.pluto.tv/channels/5f32f397795b750007706448/colorLogoPNG.png" group-title="Música 🎶",Vevo Reggaetón & Trap
@@ -1499,7 +1505,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fd7bb1f86d94a00079
 #EXTINF:-1 tvg-id="vevo-2k" tvg-name="Vevo 2K" tvg-logo="http://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/colorLogoPNG.png" group-title="Música 🎶",Vevo 2K
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c8b6520-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=085b69d0-8c20-45f3-b57d-7845972596d9&userId=&serverSideAds=true
 
-#EXTINF:-1 group-title="Música 🎶" tvg-logo="https://a.jsrdn.com/hls/22895/yacht-rock/logo_20200909_010153_68.png",Yacht Rock
+#EXTINF:-1 group-title="ZZZ Manutenção" tvg-logo="https://a.jsrdn.com/hls/22895/yacht-rock/logo_20200909_010153_68.png",Yacht Rock
 https://a664d95a53d042edb10d6b28889bd25c.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/yacht_rock_distrotv/64ae5174-05ec-401d-bf99-96a837038d68/3.m3u8
 
 
@@ -1529,7 +1535,7 @@ https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.
 #EXTINF:-1 tvg-id="BBCNews.nws" tvg-name="BBC News | UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/BBC_News_2019.svg/1200px-BBC_News_2019.svg.png" group-title="Notícias 📰",BBC News | UK
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/27?pprotocol=hls
 
-#EXTINF:-1 tvg-id="Bbcworldnews.br" tvg-name="BBC World News" tvg-logo="https://pbs.twimg.com/profile_images/1150717770478379008/8-XiwK-s.png" group-title="Notícias 📰",BBC World News
+#EXTINF:-1 tvg-id="Bbcworldnews.br" tvg-name="BBC World News" tvg-logo="https://pbs.twimg.com/profile_images/1150717770478379008/8-XiwK-s.png" group-title="ZZZ Manutenção",BBC World News
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3268?pprotocol=hls
 
 #EXTINF:-1 tvg-id="BFMTV.fr" tvg-name="BFM TV" group-title="Notícias 📰",BFM | França
@@ -1538,7 +1544,7 @@ https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/2765?p
 #EXTINF:-1 tvg-id="black-news-channel" tvg-name="Black News Channel" tvg-logo="http://images.pluto.tv/channels/5f1efad04320070007dbb60b/colorLogoPNG.png" group-title="Notícias 📰",Black News Channel
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1efad04320070007dbb60b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc991103-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7c9203aa-61d9-4778-a4bf-aad65ce33300&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="blaze-live" tvg-logo="http://images.pluto.tv/channels/5e46fba0c43b0d00096e5ac1/colorLogoPNG.png" group-title="Notícias 📰",Blaze Live | EUA
+#EXTINF:-1 tvg-id="blaze-live" tvg-logo="http://images.pluto.tv/channels/5e46fba0c43b0d00096e5ac1/colorLogoPNG.png" group-title="🤮 Extrema direita | EUA ☢️☣️",Blaze Live | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e46fba0c43b0d00096e5ac1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc97b174-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ca4625eb-eb03-4942-93ae-896b86399f6c&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-name="Bloomberg Austrália 🇦🇺" tvg-id="bloomberg.com.au" tvg-logo="https://i.imgur.com/KKFqbHw.png" group-title="Notícias 📰",Bloomberg Austrália 🇦🇺
@@ -1559,7 +1565,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56283c8769ba54637de
 #EXTINF:-1 tvg-id="cnet.eua" tvg-name="c|net EUA" tvg-logo="http://images.pluto.tv/channels/56283c8769ba54637dea0464/colorLogoPNG.png" group-title="Notícias 📰",c|net EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56283c8769ba54637dea0464/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc928153-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=956807c1-c826-4518-b9c8-6df19cdc2575&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="cbsnews" tvg-name="CBS News" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51UjITm0Z-L.png" group-title="Notícias 📰",CBS News
+#EXTINF:-1 tvg-id="cbsnews" tvg-name="CBS News" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51UjITm0Z-L.png" group-title="ZZZ Manutenção 📰",CBS News
 https://dai.google.com/linear/hls/pa/event/Sid4xiTQTkCT1SLu6rjUSQ/stream/fa8633e0-4fff-4983-94b1-0041dc0987ed:SCL/variant/2aaf56a9716cc9a9f28658004cb0db29/bandwidth/3394688.m3u8
 
 #EXTINF:-1 tvg-id="cbsn-2" tvg-name="CBSN 2" tvg-logo="http://images.pluto.tv/channels/5a6b92f6e22a617379789618/colorLogoPNG.png" group-title="Notícias 📰",CBSN 2
@@ -1613,14 +1619,11 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812afe1d0f0b8d55dd
 #EXTINF:-1 tvg-id="5ca1e02c08ee5378be82db47" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhepz6SehmqduyGlGWCqxZkf1EnMjN_cZBQICoPyA=s300-c-k-c0x00ffffff-no-rj" group-title="Notícias 📰",Cheddar | Reino Unido
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca1e02c08ee5378be82db47/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1 tvg-id="CNews.fr" tvg-name="CNews" tvg-logo="https://store-images.s-microsoft.com/image/apps.7388.9007199267045837.f807ad62-df25-4d34-9ede-84b322df2473.00134a57-d0ba-4f9e-bdaf-fb48af630fe7" group-title="Notícias 📰",CNews | França
+#EXTINF:-1 tvg-id="CNews.fr" tvg-name="CNews" tvg-logo="https://store-images.s-microsoft.com/image/apps.7388.9007199267045837.f807ad62-df25-4d34-9ede-84b322df2473.00134a57-d0ba-4f9e-bdaf-fb48af630fe7" group-title="ZZZ Manutenção",CNews | França
 https://stream-02.nyc.dailymotion.com/sec(1nXeBFcLxi2SiPaUv6X4gQt_1J_P76PGJwipNuNqcGM)/dm/3/x3b68jn/d/live-3.m3u8
 
 #EXTINF:-1 tvg-id="cnn" tvg-name="CNN EUA" tvg-logo="http://images.pluto.tv/channels/5421f71da6af422839419cb3/colorLogoPNG.png" group-title="Notícias 📰",CNN EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af422839419cb3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc91e510-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=03988411-6463-422e-81c6-ec0873b4bd7a&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.desifree.tv/wp-content/uploads/DUBAI-SPORTS.jpg" tvg-name="Dubai Sports" group-title="Notícias 📰",Dubai Sports | Emirados Árabes Unidos 
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/79?pprotocol=hls
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://media-exp1.licdn.com/dms/image/C4D12AQHdedL5JOiBAg/article-inline_image-shrink_1000_1488/0/1603957307349?e=1622073600&v=beta&t=X1OTeuwVTbsfRV_DvNimwcSJGsESrErYhkxn86utI9o" group-title="Notícias 📰",Estrella News em espanhol
 https://estrellanews-plex.amagi.tv/amRdirect/us_privacy=1---&did=83cf59f7-dc7f-5753-8faa-ab958f6c33e3&dnt=0&X-Plex-Token=jePnUaVx_dJ5XWHmG6ob&channelId=60089d97f682a3002c34829b/hls/amagi_hls_data_plexAAAAA-estrellanews-plex/CDN/384x216_435600/index.m3u8
@@ -1631,7 +1634,7 @@ https://euronews-euronews-world-1.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="euronews.au" tvg-name="Euronews" tvg-logo="https://i.imgur.com/szYOy8S.jpg" group-title="Notícias 📰",Euronews | Austrália 🇦🇺
 https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-id="EuronewsES.nws" tvg-name="Euronews" tvg-logo="https://i.imgur.com/szYOy8S.jpg" group-title="Notícias 📰",Euronews | Espanhol
+#EXTINF:-1 tvg-id="EuronewsES.nws" tvg-name="Euronews" tvg-logo="https://i.imgur.com/szYOy8S.jpg" group-title="ZZZ Manutenção",Euronews | Espanhol
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews_spa/994ab0d0-449b-4551-a6f0-0fff43e78753/4.m3u8 
 
 #EXTINF:-1 tvg-id="ForoTV.mx" tvg-name="Foro TV" tvg-logo="https://pbs.twimg.com/profile_images/1057408851253714946/GSxqNEQv_400x400.jpg" group-title="Notícias 📰",Foro TV (Televisa News) | México
@@ -1646,17 +1649,22 @@ https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
 #EXTINF:-1 tvg-id="FRANCE24.en" tvg-name="France 24 | Inglês" tvg-logo="https://imgur.com/Tj0KCYI.png" tvg-shift="0" group-title="Notícias 📰",France 24 | Inglês
 http://static.france24.com/live/F24_EN_LO_HLS/live_ios.m3u8
 
-#EXTINF:-1 tvg-id="MSNBC.us" tvg-name="MSNBC News | EUA" tvg-logo="https://img.nbc.com/sites/nbcunbc/files/images/2021/3/26/MSNBC-Logo-FullColor-350x300.png" tvg-shift="0" group-title="Notícias 📰",MSNBC News | EUA
+#EXTINF:-1 tvg-id="MSNBC.us" tvg-name="MSNBC News | EUA" tvg-logo="https://img.nbc.com/sites/nbcunbc/files/images/2021/3/26/MSNBC-Logo-FullColor-350x300.png" tvg-shift="0" group-title="ZZZ Manutenção",MSNBC News | EUA
 https://1420543146.rsc.cdn77.org/s9yTj8J-nNBrS5jhPzgL0g==,1617324454/LS-ATL-54548-10/index.m3u8"
 
-#EXTINF:-1 tvg-id="nbc.us" tvg-name="NBC News | EUA" tvg-logo="http://images.pluto.tv/channels/5df97894467dfa00091c873c/colorLogoPNG.png" tvg-shift="0" group-title="Notícias 📰",NBC News | EUA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/P0T698a" tvg-shift="0" group-title="Notícias 📰",Nasa TV | EUA
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+
+#EXTINF:-1 tvg-id="nbc.us" tvg-name="NBC News | EUA" tvg-logo="http://images.pluto.tv/channels/5df97894467dfa00091c873c/colorLogoPNG.png" tvg-shift="0" group-title="ZZZ Manutenção",NBC News | EUA
 https://nbcnews3.akamaized.net/hls/live/723429/NBCNewsNowa418c506/clear/hdntl=exp=1617395273~acl=%2f*~data=hdntl~hmac=a70d90c3e10896f0d5609c0e32b7f9074c86a74f722d5f10d2c6ea54b9503270/VIDEO_1_4596000.m3u8?hdnts=st=1617308872~exp=1617308992~acl=/hls/live/723429/NBCNewsNowa418c506/clear/*~hmac=5592e3af4881efa195ecbeeeec8027754b095f6eec9dc597fd63fe77bc2a7321
 #EXTINF:-1 tvg-name="NBC News NOW | EUA" tvg-id="nbcnow.us" tvg-logo="http://images.pluto.tv/channels/5df97894467dfa00091c873c/colorLogoPNG.png" group-title="Notícias 📰",NBC News NOW | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df97894467dfa00091c873c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc978a64-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1d9b7eb4-936f-4e6f-aa71-cc722d53fff9&userId=&serverSideAds=true
 #EXTINF:-1 tvg-name="Negocios TV" group-title="Notícias 📰" tvg-logo="yt3.ggpht.com/ytc/AAUvwnhNaoefHZMl6bxNUYfF9O92g3cq1XLasuHw7VyL=s300-c-k-c0x00ffffff-no-rj",Negocios TV | Espanha
 https://play06.gooru.live/playnegocios/_definst_/5646-1603313320000/chunklist_w1698087186.m3u8
-#EXTINF:-1 group-title="Notícias 📰",News 12 NY | EUA
+
+#EXTINF:-1 group-title="ZZZ Manutenção",News 12 NY | EUA
 https://e8b8ddf2155a4a0e90aa8a11325f1f7d.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_News12NewYork/134ba3d3-4916-4973-aa48-21d227ba0400/5.m3u8
+
 #EXTINF:-1 tvg-id="newsmax-tv" tvg-name="NewsmaxTV Canadá" tvg-logo="http://images.pluto.tv/channels/55b179af994403942f3061d6/colorLogoPNG.png" group-title="Notícias 📰",NewsmaxTV Canadá
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/55b179af994403942f3061d6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=e71ee630-6a72-11eb-87d7-6fba7c7cde7d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f89afce4-7736-4da2-a4b3-8b8fb7e10f0e&userId=&serverSideAds=true
 
@@ -1669,13 +1677,16 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5268abcd0ce20a84720
 #EXTINF:-1 group-title="Notícias 📰" tvg-id="RaiNews24" tvg-name="Rai News 24" tvg-logo="https://m3upt.com/logos/Rai-News-24.png",Rai News 24 | Itália
 https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_1800/chunklist.m3u8
 
-#EXTINF:-1 group-title="Notícias 📰" tvg-id="Reuters" tvg-name="Reuters" tvg-logo="https://media-exp1.licdn.com/dms/image/C510BAQEcIZOHYb20pQ/company-logo_200_200/0/1519862856588?e=2159024400&v=beta&t=MKQWRo4otgPSzFgKzeW5yteogNb55kSLi6trFbbZWdU",Reuters | Reino Unido
+#EXTINF:-1 group-title="Notícias 📰" tvg-id="Reuters" tvg-name="Reuters" tvg-logo="https://media-exp1.licdn.com/dms/image/C510BAQEcIZOHYb20pQ/company-logo_200_200/0/1519862856588?e=2159024400&v=beta&t=MKQWRo4otgPSzFgKzeW5yteogNb55kSLi6trFbbZWdU",Reuters Now
+https://ajo.prod.reuters.tv/rest/v2/playlist/assets/58197,464695,464688,464478,57445,58156,464697,127706,464687,58089,464661,58117,464511,127694,464474,58090,464715,127785,464752,127680,464740,58118,464712,127800,464733,127800,464701,58061,464541,127710,464507,58048,464622,127681,464625,58147,464452,58061,464617,127711,464449,58018,464479,58058,464539,127679,464466,318501/master.m3u8
+
+#EXTINF:-1 group-title="ZZZ Manutenção" tvg-id="Reuters" tvg-name="Reuters" tvg-logo="https://media-exp1.licdn.com/dms/image/C510BAQEcIZOHYb20pQ/company-logo_200_200/0/1519862856588?e=2159024400&v=beta&t=MKQWRo4otgPSzFgKzeW5yteogNb55kSLi6trFbbZWdU",Reuters | Reino Unido
 https://32ce4aad1eed49b1ba2999fb68d119c8.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_ReutersNow/73e1a76b-9403-47ae-bc6e-c039ef3140f0/7.m3u8
 
 #EXTINF:-1 group-title="Notícias 📰" tvg-id="RTENews.ie" tvg-name="RTÉ News" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnj24qNPR0Bq7t71eIrDUQqqY6a8cTsVKtJxALYrPQ=s900-c-k-c0x00ffffff-no-rj",RTÉ News | Irlanda
 https://live.rte.ie/live/a/channel3/news.isml/news-audio_128k=128000.m3u8?dvr_window_length=30
 
-#EXTINF:-1 tvg-id="RussiaToday.uk" tvg-name="Russia Today" tvg-shift="0" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1024px-Russia-today-logo.svg.png" group-title="Notícias 📰",Russia Today SD em Inglês
+#EXTINF:-1 tvg-id="RussiaToday.uk" tvg-name="Russia Today" tvg-shift="0" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1024px-Russia-today-logo.svg.png" group-title="ZZZ Manutenção",Russia Today SD em Inglês
 https://nowontv.info/filmon-hd.php?url=https://www.filmon.com/api-v2/channel/93?pprotocol=hls
 
 #EXTINF:-1 tvg-id="RussiaToday.uk" tvg-name="Russia Today" tvg-shift="0" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1024px-Russia-today-logo.svg.png" group-title="Notícias 📰",Russia Today HD em Inglês
@@ -1753,7 +1764,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fb554d87a0c480007c
 #EXTINF:-1 tvg-id="5ca1e0ee50be2571e393ad33" tvg-logo="https://images.pluto.tv/channels/5ca1e0ee50be2571e393ad33/colorLogoPNG.png" group-title="Videogame 🎮",ESR 24/7 | Reino Unido
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca1e0ee50be2571e393ad33/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41DL9MABXLL.png" group-title="Videogame 🎮",ESTV | EUA
+#EXTINF:-1 tvg-id="" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41DL9MABXLL.png" group-title="ZZZ Manutenção",ESTV | EUA
 https://stream-us-east-1.getpublica.com/cl/e279a3cd-1df4-4814-8bf0-f102f79cf26f/1280x720_2300000_4.m3u8
 
 #EXTINF:-1 tvg-id="gameplay-call-of-duty" tvg-logo="http://images.pluto.tv/channels/5f5bd666c0a7600007af6c20/colorLogoPNG.png" group-title="Videogame 🎮",Gameplay: Call of Duty | EUA
@@ -1801,10 +1812,10 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad8d907e
 #EXTINF:-1 tvg-id="pluto-tv-gamer" tvg-logo="http://images.pluto.tv/channels/5ca7f16c37b88b2694731c79/colorLogoPNG.png" group-title="Videogame 🎮",Pluto TV Gamer
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca7f16c37b88b2694731c79/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc956782-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8f11f607-b195-41da-80ce-b246f72c0030&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="" group-title="Videogame 🎮" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple124/v4/8e/58/22/8e582237-7e19-724f-7ba1-55faa0ddd854/source/512x512bb.jpg",SKWAD
+#EXTINF:-1 tvg-id="" group-title="ZZZ Manutenção" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple124/v4/8e/58/22/8e582237-7e19-724f-7ba1-55faa0ddd854/source/512x512bb.jpg",SKWAD
 https://stream-us-east-1.getpublica.com/cl/783e617e-e70b-4f21-b860-ac02fec5c4b6/1280x720_2620403_11.m3u8
 
-#EXTINF:-1 group-title="Videogame 🎮" tvg-logo="https://res-1.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco/vctrfdrzxeqvcafwskw5",Tankee | EUA
+#EXTINF:-1 group-title="ZZZ Manutenção" tvg-logo="https://res-1.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco/vctrfdrzxeqvcafwskw5",Tankee | EUA
 https://72c5b87587c545558c3170ab55de2915.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_Tankee/ffcd3aa2-12a2-4a00-bc93-4ad8a3731642/0.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWeckfObfyFWhe5JuPFGqaZgCiFyBSZXjg4RqleTMoxnlpG_wSOg3gOaRJjYdxQHUbZa0&usqp=CAU" group-title="Videogame 🎮" tvg-name="The Miki Show",The Miki Show | EUA
@@ -1847,10 +1858,13 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dc190f7b
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad9b8551b95267e225e59c1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="5ad9b7ffe738977e2c312133" group-title="Alemanha: Pluto 🇩🇪" tvg-name="FailArmy" tvg-logo="https://images.pluto.tv/channels/5ad9b7ffe738977e2c312133/colorLogoPNG.png",FailArmy
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad9b7ffe738977e2c312133/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-id="5dc3fb596262db000923f7e3" group-title="Alemanha: Pluto 🇩🇪" tvg-name="Family" tvg-logo="https://images.pluto.tv/channels/5dc3fb596262db000923f7e3/colorLogoPNG.png",Family
+
+#EXTINF:-1 tvg-id="5dc3fb596262db000923f7e3" group-title="ZZZ Manutenção" tvg-name="Family" tvg-logo="https://images.pluto.tv/channels/5dc3fb596262db000923f7e3/colorLogoPNG.png",Family
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dc3fb596262db000923f7e3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
 #EXTINF:-1 tvg-id="5f3bd0e63f793300071574cd" group-title="Alemanha: Pluto 🇩🇪" tvg-name="Focus TV" tvg-logo="https://images.pluto.tv/channels/5f3bd0e63f793300071574cd/colorLogoPNG.png",Focus TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f3bd0e63f793300071574cd/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
 #EXTINF:-1 tvg-id="5dc280c9aa218c0009724b4b" group-title="Alemanha: Pluto 🇩🇪" tvg-name="Food" tvg-logo="https://images.pluto.tv/channels/5dc280c9aa218c0009724b4b/colorLogoPNG.png",Food
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dc280c9aa218c0009724b4b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="5d767b1c126c65d0a307355f" group-title="Alemanha: Pluto 🇩🇪" tvg-name="History" tvg-logo="https://images.pluto.tv/channels/5d767b1c126c65d0a307355f/colorLogoPNG.png",History
@@ -1934,7 +1948,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dc2a961b
 #EXTINF:-1 tvg-id="5ad9b7aae738977e2c312132" group-title="Alemanha: Pluto 🇩🇪" tvg-name="World Poker Tour" tvg-logo="https://images.pluto.tv/channels/5ad9b7aae738977e2c312132/colorLogoPNG.png",World Poker Tour
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad9b7aae738977e2c312132/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1 tvg-id="5db6a697d5f34a000934cd13" group-title="Alemanha: Pluto 🇩🇪" tvg-name="MTV Catfish" tvg-logo="https://images.pluto.tv/channels/5db6a697d5f34a000934cd13/colorLogoPNG.png",MTV Catfish
+#EXTINF:-1 tvg-id="5db6a697d5f34a000934cd13" group-title="ZZZ Manutenção" tvg-name="MTV Catfish" tvg-logo="https://images.pluto.tv/channels/5db6a697d5f34a000934cd13/colorLogoPNG.png",MTV Catfish
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e7b855972c36600076b7dd/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="5ea815a515d149000748ee9b" group-title="Alemanha: Pluto 🇩🇪" tvg-name="MTV Cribs" tvg-logo="https://images.pluto.tv/channels/5ea815a515d149000748ee9b/colorLogoPNG.png",MTV Cribs
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ea815a515d149000748ee9b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
@@ -1972,14 +1986,19 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e43c344b
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dbc2d1ce10f0b0009e6cf9e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="5ad9b648e738977e2c312131" group-title="Alemanha: Pluto 🇩🇪" tvg-name="Kids" tvg-logo="https://images.pluto.tv/channels/5ad9b648e738977e2c312131/colorLogoPNG.png",Kids
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad9b648e738977e2c312131/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-id="" group-title="Alemanha: Pluto 🇩🇪" tvg-name="Kids" Choice Awards 2021" tvg-logo="https://images.pluto.tv/channels/5be1c20b53ed2c6334ebc4f2/colorLogoPNG.png",Kids" Choice Awards 2021
+
+#EXTINF:-1 tvg-id="" group-title="ZZZ Manutenção" tvg-name="Kid's Choice Awards 2021" tvg-logo="https://images.pluto.tv/channels/5be1c20b53ed2c6334ebc4f2/colorLogoPNG.png",Kid's Choice Awards 2021
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5be1c20b53ed2c6334ebc4f2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-id="5cd1495bd9e0ec55c4ecbf52" group-title="Alemanha: Pluto 🇩🇪" tvg-name="Kids Jr." tvg-logo="https://images.pluto.tv/channels/5cd1495bd9e0ec55c4ecbf52/colorLogoPNG.png",Kids Jr.
+
+#EXTINF:-1 tvg-id="5cd1495bd9e0ec55c4ecbf52" group-title="ZZZ Manutenção" tvg-name="Kids Jr." tvg-logo="https://images.pluto.tv/channels/5cd1495bd9e0ec55c4ecbf52/colorLogoPNG.png",Kids Jr.
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cd1495bd9e0ec55c4ecbf52/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
 #EXTINF:-1 tvg-id="5dc02ece31f6050009de4b39" group-title="Alemanha: Pluto 🇩🇪" tvg-name="Mario vs Sonic" tvg-logo="https://images.pluto.tv/channels/5dc02ece31f6050009de4b39/colorLogoPNG.png",Mario vs Sonic
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dc02ece31f6050009de4b39/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
 #EXTINF:-1 tvg-id="5e1c669094e0e80009b22ab8" group-title="Alemanha: Pluto 🇩🇪" tvg-name="Retro Toons" tvg-logo="https://images.pluto.tv/channels/5e1c669094e0e80009b22ab8/colorLogoPNG.png",Retro Toons
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e1c669094e0e80009b22ab8/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
 #EXTINF:-1 tvg-id="5f4796368174910007756454" group-title="Alemanha: Pluto 🇩🇪" tvg-name="nick Emma einfach magisch!" tvg-logo="https://images.pluto.tv/channels/5f4796368174910007756454/colorLogoPNG.png",nick Emma einfach magisch!
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4796368174910007756454/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="5ede45451dce190007ef9ff2" group-title="Alemanha: Pluto 🇩🇪" tvg-name="nick Jr. Pluto TV" tvg-logo="https://images.pluto.tv/channels/5ede45451dce190007ef9ff2/colorLogoPNG.png",nick Jr. Pluto TV
@@ -2060,7 +2079,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5efb8ce2e426140007c
 #EXTINF:-1 tvg-id="pluto-tv-sci-fi-ptv1" tvg-logo="https://imgur.com/959gesF.png" group-title="Argentina: Pluto 🇦🇷",Pluto TV Sci-Fi
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f2817d3d7573a00080f9175/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff29881-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=69952490-17b7-4b2b-92ec-4525b187cbe6&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="los-tres-chiflados" tvg-logo="https://imgur.com/HFrfWhf.png" group-title="Argentina: Pluto 🇦🇷",Los Tres Chiflados
+#EXTINF:-1 tvg-id="los-tres-chiflados" tvg-logo="https://imgur.com/HFrfWhf.png" group-title="ZZZ Manutenção",Los Tres Chiflados
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f85f1dc1418bd0007e11eb9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff35bd0-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=025be615-509e-4721-8804-92898ace6781&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-id="mtv-pluto-tv-ptv1" tvg-logo="http://images.pluto.tv/channels/5fab088b3279760007d4e4fd/colorLogoPNG.png" group-title="Argentina: Pluto 🇦🇷",MTV Pluto TV
@@ -2166,13 +2185,14 @@ https://c.mjh.nz/101002310231/
 https://c.mjh.nz/3201026102E1/
 #EXTINF:-1 tvg-name="ABC Sydney AU" tvg-id="" tvg-logo="https://i.imgur.com/rLCHYCs.png" group-title="Austrália 🇦🇺",ABC Sydney AU
 https://c.mjh.nz/101002210221/
-#EXTINF:-1 tvg-name="ABC Comedy AU" tvg-id="" tvg-logo="https://i.mjh.nz/.images/tv.abc2.png" group-title="Austrália 🇦🇺",ABC Comedy AU
+
+#EXTINF:-1 tvg-name="ABC Comedy AU" tvg-id="" tvg-logo="https://i.mjh.nz/.images/tv.abc2.png" group-title="ZZZ Manutenção",ABC Comedy AU
 https://c.mjh.nz/abc2/
 
 #EXTINF:-1 tvg-name="ABC Me AU" tvg-id="" tvg-logo="https://i.mjh.nz/.images/tv.101002210224.png" group-title="Austrália 🇦🇺",ABC Me AU
 https://c.mjh.nz/101002210224/
 
-#EXTINF:-1 tvg-name="ACCTV" tvg-id="" tvg-logo="https://i.mjh.nz/.images/tv.acctv.png" group-title="Austrália 🇦🇺",ACCTV AU
+#EXTINF:-1 tvg-name="ACCTV" tvg-id="" tvg-logo="https://i.mjh.nz/.images/tv.acctv.png" group-title="ZZZ Manutenção",ACCTV AU
 https://i.mjh.nz/au/Sydney/tv.acctv.m3u8
 
 #EXTINF:-1 tvg-name="Action Hollywood Movies AU" tvg-id="" tvg-logo="https://i.imgur.com/wnlzC0w.jpg" group-title="Austrália 🇦🇺",Action Hollywood Movies AU
@@ -2180,15 +2200,15 @@ https://lightning-actionhollywood-samsungaustralia.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Bounty Plus AU" tvg-id="bountyplus.au" tvg-logo="https://i.imgur.com/Q8mmLAB.png" group-title="Austrália 🇦🇺",Bounty Plus AU
 https://bountyfilms-bounty-1-au.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-name="C31 Melbourne AU" tvg-id="" tvg-logo="https://i.imgur.com/Tl79upK.jpg" group-title="Austrália 🇦🇺",C31 Melbourne AU
+
+#EXTINF:-1 tvg-name="C31 Melbourne AU" tvg-id="" tvg-logo="https://i.imgur.com/Tl79upK.jpg" group-title="ZZZ Manutenção",C31 Melbourne AU
 https://dcunilive47-lh.akamaihd.net/i/dclive_1@739220/master.m3u8
+
 #EXTINF:-1 tvg-name="Dry Bar Comedy AU" tvg-id="" tvg-logo="https://i.imgur.com/XDqmN1R.png" group-title="Austrália 🇦🇺",Dry Bar Comedy AU
 https://drybar-drybarcomedy-1-au.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DUST AU" tvg-logo="https://i.imgur.com/pXXUmuW.jpg" group-title="Austrália 🇦🇺",DUST AU
 https://dust-samsung-uk-au.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Expo Channel" tvg-id="expochannel.au" tvg-logo="https://i.imgur.com/RpCWw2I.png" group-title="Austrália 🇦🇺",Expo Channel AU
-https://tvsn-i.akamaihd.net/hls/live/261837/expo/expo.m3u8
 #EXTINF:-1 tvg-name="Filmstream  AU" tvg-id="filmstream.au" tvg-logo="https://i.imgur.com/cFbzgED.jpg" group-title="Austrália 🇦🇺",Filmstream AU
 https://spi-filmstream-1-au.samsung.wurl.com/manifest/playlist.m3u8
 
@@ -2576,7 +2596,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/580e87ff497c73ba2f3
 #EXTINF:-1 tvg-id="game-show-central" tvg-logo="http://images.pluto.tv/channels/5e54187aae660e00093561d6/colorLogoPNG.png" group-title="EUA: Pluto 🇺🇸",Game Show Central | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e54187aae660e00093561d6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc97b176-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e7a61a72-2810-4284-9591-2fdf499ae2a3&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="hillsong-channel" tvg-logo="http://images.pluto.tv/channels/5d486b87428fe37d8cadba44/colorLogoPNG.png" group-title="EUA: Pluto 🇺🇸",Hillsong Channel | EUA
+#EXTINF:-1 tvg-id="hillsong-channel" tvg-logo="http://images.pluto.tv/channels/5d486b87428fe37d8cadba44/colorLogoPNG.png" group-title="ZZZ Manutenção",Hillsong Channel | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d486b87428fe37d8cadba44/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7f3021-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=21744e45-9ad4-4bd4-a0af-1581ea5b1813&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-id="inside-vizio" tvg-logo="http://images.pluto.tv/channels/5c5e03cefe80153c33969f30/colorLogoPNG.png" group-title="EUA: Pluto 🇺🇸",Inside Vizio | EUA
@@ -2884,7 +2904,7 @@ https://midnightpulp-samsung.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/Z5t6cCe.jpg" group-title="EUA: Roku 🇺🇸" tvg-name="",New K-ID | EUA
 https://b9860b21629b415987978bdbbfbc3095.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_NewKID/playlist.m3u8
 
-#EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/ws54NVT.png" group-title="EUA: Roku 🇺🇸" tvg-name="",Reel Truth Crime | EUA
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/ws54NVT.png" group-title="ZZZ Manutenção" tvg-name="",Reel Truth Crime | EUA
 https://endemol-reeltruthcrime-1.roku.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K1kJf1s.png" group-title="EUA: Roku 🇺🇸" tvg-name="Retro Crush | EUA",Retro Crush | EUA
@@ -3062,8 +3082,8 @@ https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3359&p
 #EXTINF:-1 tvg-id="5efb8c19b2678b000780d032" tvg-name="Archivos Forenses MX" tvg-logo="https://images.pluto.tv/channels/5efb8c19b2678b000780d032/colorLogoPNG.png" group-title="México: Pluto 🇲🇽",Archivos Forenses MX
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5efb8c19b2678b000780d032/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 
-#EXTINF:-1 tvg-id="5e8f8e7598841d0007bf35b3" tvg-logo="https://images.pluto.tv/channels/5e8f8e7598841d0007bf35b3/colorLogoPNG.png" group-title="México: Pluto 🇲🇽",Comedy Central Stand Up MX
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8f8e7598841d0007bf35b3/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1 tvg-id="5e8f8e7598841d0007bf35b3" tvg-logo="https://images.pluto.tv/channels/5e8f8e7598841d0007bf35b3/colorLogoPNG.png" group-title="ZZZ Manutenção",Comedy Central Stand Up MX
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8f8e7598841d0007bf35b3/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002
 
 #EXTINF:-1 tvg-id="5f9992c685a2a80007fa414a" tvg-logo="https://images.pluto.tv/channels/5f9992c685a2a80007fa414a/colorLogoPNG.png" group-title="México: Pluto 🇲🇽",Dog el cazarrecompensas MX
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f9992c685a2a80007fa414a/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
@@ -3084,7 +3104,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d3696d938c90007
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df41355939756000921d15b/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 #EXTINF:-1 tvg-id="5e67d41b93312100076f3fca" tvg-logo="https://images.pluto.tv/channels/5e67d41b93312100076f3fca/colorLogoPNG.png" group-title="México: Pluto 🇲🇽",Los archivos del FBI MX
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e67d41b93312100076f3fca/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-#EXTINF:-1 tvg-id="5f85f1dc1418bd0007e11eb9" tvg-logo="https://images.pluto.tv/channels/5f85f1dc1418bd0007e11eb9/colorLogoPNG.png" group-title="México: Pluto 🇲🇽",Los Tres Chiflados MX
+#EXTINF:-1 tvg-id="5f85f1dc1418bd0007e11eb9" tvg-logo="https://images.pluto.tv/channels/5f85f1dc1418bd0007e11eb9/colorLogoPNG.png" group-title="ZZZ Manutenção",Los Tres Chiflados MX
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f85f1dc1418bd0007e11eb9/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 
 
@@ -3106,8 +3126,9 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e98a911c881310007
 
 #EXTINF:-1 tvg-id="5f2acdab16f5b3000721ae2c" tvg-logo="https://images.pluto.tv/channels/5f2acdab16f5b3000721ae2c/colorLogoPNG.png" group-title="México: Pluto 🇲🇽",Oh My Pet MX
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f2acdab16f5b3000721ae2c/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-#EXTINF:-1 tvg-id="5f4fed840a2764000720d966" tvg-logo="https://images.pluto.tv/channels/5f4fed840a2764000720d966/colorLogoPNG.png" group-title="México: Pluto 🇲🇽",Paisajes por Stingray
+#EXTINF:-1 tvg-id="5f4fed840a2764000720d966" tvg-logo="https://images.pluto.tv/channels/5f4fed840a2764000720d966/colorLogoPNG.png" group-title="México: Pluto 🇲🇽",Paisajes por Stingray | MX 
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4fed840a2764000720d966/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+
 #EXTINF:-1 tvg-id="5ebac65911406400078b8993" tvg-logo="https://images.pluto.tv/channels/5ebac65911406400078b8993/colorLogoPNG.png" group-title="México: Pluto 🇲🇽",People are Awesome MX
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebac65911406400078b8993/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 #EXTINF:-1 tvg-id="5dd6d935d000120009bc1132" tvg-logo="https://images.pluto.tv/channels/5dd6d935d000120009bc1132/colorLogoPNG.png" group-title="México: Pluto 🇲🇽",Pluto TV Competencias MX
@@ -3195,7 +3216,7 @@ https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/14?ppr
 #EXTINF:-1 tvg-id="BBC1NorthernIreland.uk" tvg-name="BBC 1 Northern Ireland" tvg-logo="https://pbs.twimg.com/profile_images/1346856559738056705/8yLLv96E_400x400.jpg" group-title="Reino Unido: Filmon 🇬🇧",BBC 1 Northern Ireland (UK)
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/361?pprotocol=hls
 
-#EXTINF:-1 tvg-id="BBC1Scotland.uk" tvg-name="BBC 1 Scotland" tvg-logo="https://pbs.twimg.com/profile_images/1346856559738056705/8yLLv96E_400x400.jpg" group-title="Reino Unido: Filmon 🇬🇧",BBC 1 Scotland (UK)
+#EXTINF:-1 tvg-id="BBC1Scotland.uk" tvg-name="BBC 1 Scotland" tvg-logo="https://pbs.twimg.com/profile_images/1346856559738056705/8yLLv96E_400x400.jpg" group-title="ZZZ Manutenção",BBC 1 Scotland (UK)
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3166?pprotocol=hls
 
 #EXTINF:-1 tvg-id="BBC1Wales.uk" tvg-name="BBC 1 Wales" tvg-logo="https://pbs.twimg.com/profile_images/1346856559738056705/8yLLv96E_400x400.jpg" group-title="Reino Unido: Filmon 🇬🇧",BBC 1 Wales (UK)
@@ -3313,8 +3334,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c3639dd0
 #EXTINF:-1 tvg-id="5f042bf0241c6f0007721021" tvg-logo="https://images.pluto.tv/channels/5f042bf0241c6f0007721021/colorLogoPNG.png" group-title="Reino Unido: Pluto 🇬🇧",Insight TV UK
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f042bf0241c6f0007721021/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1 tvg-id="5f0dc146297f96000768d6ab" tvg-logo="https://images.pluto.tv/channels/5f0dc146297f96000768d6ab/colorLogoPNG.png" group-title="Reino Unido: Pluto 🇬🇧",Johnny Carson TV UK
+#EXTINF:-1 tvg-id="5f0dc146297f96000768d6ab" tvg-logo="https://images.pluto.tv/channels/5f0dc146297f96000768d6ab/colorLogoPNG.png" group-title="KKK Manutenção",Johnny Carson TV UK
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f0dc146297f96000768d6ab/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
 #EXTINF:-1 tvg-id="600acdc434a37000070004cf" tvg-logo="https://images.pluto.tv/channels/600acdc434a37000070004cf/colorLogoPNG.png" group-title="Reino Unido: Pluto 🇬🇧",Judge Nosey UK
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/600acdc434a37000070004cf/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="5e14486590ba3e0009d912ff" tvg-logo="https://images.pluto.tv/channels/5e14486590ba3e0009d912ff/colorLogoPNG.png" group-title="Reino Unido: Pluto 🇬🇧",Made In Britain UK
@@ -3364,8 +3386,10 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db042522
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8dc0740e843c7812dcb8db/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="5ddf91149880d60009d35d27" tvg-logo="https://images.pluto.tv/channels/5ddf91149880d60009d35d27/colorLogoPNG.png" group-title="Reino Unido: Pluto 🇬🇧",Pluto TV Drama UK
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ddf91149880d60009d35d27/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-id="5ad8d0cbfd87eb3a2717afc4" tvg-logo="https://images.pluto.tv/channels/5ad8d0cbfd87eb3a2717afc4/colorLogoPNG.png" group-title="Reino Unido: Pluto 🇬🇧",Pluto TV Explore UK
+
+#EXTINF:-1 tvg-id="5ad8d0cbfd87eb3a2717afc4" tvg-logo="https://images.pluto.tv/channels/5ad8d0cbfd87eb3a2717afc4/colorLogoPNG.png" group-title="ZZZ Manutenção",Pluto TV Explore UK
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad8d0cbfd87eb3a2717afc4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
 #EXTINF:-1 tvg-id="5dc3fc6b9133f500099c7d98" tvg-logo="https://images.pluto.tv/channels/5dc3fc6b9133f500099c7d98/colorLogoPNG.png" group-title="Reino Unido: Pluto 🇬🇧",Pluto TV Family UK
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dc3fc6b9133f500099c7d98/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="5ad8d659fd87eb3a2717afc9" tvg-logo="https://images.pluto.tv/channels/5ad8d659fd87eb3a2717afc9/colorLogoPNG.png" group-title="Reino Unido: Pluto 🇬🇧",Pluto TV Fight UK
@@ -3415,8 +3439,10 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dbc2f987
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d7677fa2ec536ce1d587eeb/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="5d135e29a52c94dfe543c5d3" tvg-logo="https://images.pluto.tv/channels/5d135e29a52c94dfe543c5d3/colorLogoPNG.png" group-title="Reino Unido: Pluto 🇬🇧",Pluto TV Stand Up UK
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d135e29a52c94dfe543c5d3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-id="5d134942252d35decbc3ed7f" tvg-logo="https://images.pluto.tv/channels/5d134942252d35decbc3ed7f/colorLogoPNG.png" group-title="Reino Unido: Pluto 🇬🇧",Pluto TV Surf UK
+
+#EXTINF:-1 tvg-id="5d134942252d35decbc3ed7f" tvg-logo="https://images.pluto.tv/channels/5d134942252d35decbc3ed7f/colorLogoPNG.png" group-title="ZZZ Manutenção",Pluto TV Surf UK
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d134942252d35decbc3ed7f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
 #EXTINF:-1 tvg-id="5dbfedccc563080009b60f4a" tvg-logo="https://images.pluto.tv/channels/5dbfedccc563080009b60f4a/colorLogoPNG.png" group-title="Reino Unido: Pluto 🇬🇧",Pluto TV Thrillers UK
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dbfedccc563080009b60f4a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="5dc2c444bac1f70009ca756e" tvg-logo="https://images.pluto.tv/channels/5dc2c444bac1f70009ca756e/colorLogoPNG.png" group-title="Reino Unido: Pluto 🇬🇧",Pluto TV Travel UK
@@ -3434,7 +3460,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad8d4e7e
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e8dc0af6784d10007d8ad42/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="5e9ed47c26ebb000074af566" tvg-logo="https://images.pluto.tv/channels/5e9ed47c26ebb000074af566/colorLogoPNG.png" group-title="Reino Unido: Pluto 🇬🇧",Sensing Murder UK
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e9ed47c26ebb000074af566/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-id="5e735c6834d7d10007059790" tvg-logo="https://images.pluto.tv/channels/5e735c6834d7d10007059790/colorLogoPNG.png" group-title="Reino Unido: Pluto 🇬🇧",Slow TV UK
+
+#EXTINF:-1 tvg-id="5e735c6834d7d10007059790" tvg-logo="https://images.pluto.tv/channels/5e735c6834d7d10007059790/colorLogoPNG.png" group-title="ZZZ Manutenção",Slow TV UK
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e735c6834d7d10007059790/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-id="5c45f0427b2c0c065e91aab5" tvg-logo="https://images.pluto.tv/channels/5c45f0427b2c0c065e91aab5/colorLogoPNG.png" group-title="Reino Unido: Pluto 🇬🇧",The Asylum Channel UK
