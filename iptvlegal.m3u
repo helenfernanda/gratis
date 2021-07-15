@@ -1,4 +1,4 @@
-#EXTM3U refresh="3600" url-tvg="http://epg.liveiptv.net/epg.xml,https://cld.pt/dl/download/7a36f027-b90a-4be0-ba89-00acb7d82fa7/RHAEPG.xml,https://i.mjh.nz/PlutoTV/de.xml,https://i.mjh.nz/PlutoTV/fr.xml,https://i.mjh.nz/PlutoTV/us.xml,https://i.mjh.nz/PlutoTV/uk.xml,https://i.mjh.nz/PlutoTV/ca.xml,https://i.mjh.nz/PlutoTV/mx.xml,https://i.mjh.nz/PlutoTV/br.xml,https://i.mjh.nz/PlutoTV/es.xml" x-tvg-url="https://i.mjh.nz/Plex/all.xml.gz" x-tvg-url="http://epg.liveiptv.net/epg.xml" x-tvg-url="https://cld.pt/dl/download/7a36f027-b90a-4be0-ba89-00acb7d82fa7/RHAEPG.xml" x-tvg-url="https://i.mjh.nz/PlutoTV/de.xml" x-tvg-url="https://i.mjh.nz/PlutoTV/fr.xml" x-tvg-url="https://i.mjh.nz/PlutoTV/us.xml" x-tvg-url="https://i.mjh.nz/PlutoTV/uk.xml" x-tvg-url="https://i.mjh.nz/PlutoTV/ca.xml" x-tvg-url="https://i.mjh.nz/PlutoTV/mx.xml" x-tvg-url="https://i.mjh.nz/PlutoTV/br.xml"
+#EXTM3U refresh="3600" url-tvg="http://epg.liveiptv.net/epg.xml";"https://cld.pt/dl/download/7a36f027-b90a-4be0-ba89-00acb7d82fa7/RHAEPG.xml";"https://i.mjh.nz/PlutoTV/de.xml";"https://i.mjh.nz/PlutoTV/fr.xml";"https://i.mjh.nz/PlutoTV/us.xml";"https://i.mjh.nz/PlutoTV/uk.xml";"https://i.mjh.nz/PlutoTV/ca.xml";"https://i.mjh.nz/PlutoTV/mx.xml";"https://i.mjh.nz/PlutoTV/br.xml";"https://i.mjh.nz/PlutoTV/es.xml" x-tvg-url="https://i.mjh.nz/Plex/all.xml.gz" x-tvg-url="http://epg.liveiptv.net/epg.xml" x-tvg-url="https://cld.pt/dl/download/7a36f027-b90a-4be0-ba89-00acb7d82fa7/RHAEPG.xml" x-tvg-url="https://i.mjh.nz/PlutoTV/de.xml" x-tvg-url="https://i.mjh.nz/PlutoTV/fr.xml" x-tvg-url="https://i.mjh.nz/PlutoTV/us.xml" x-tvg-url="https://i.mjh.nz/PlutoTV/uk.xml" x-tvg-url="https://i.mjh.nz/PlutoTV/ca.xml" x-tvg-url="https://i.mjh.nz/PlutoTV/mx.xml" x-tvg-url="https://i.mjh.nz/PlutoTV/br.xml"
 
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/es.xml";"https://i.mjh.nz/PlutoTV/br.xml"
 
@@ -730,6 +730,9 @@ https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/4628&p
 #EXTINF:-1 tvg-id="happy-days-ptv1" tvg-logo="http://images.pluto.tv/channels/5f7794162a4559000781fc12/colorLogoPNG.png" group-title="Seriados em inglês 📺",Happy Days: Dias Felizes | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f7794162a4559000781fc12/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc9a7090-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=40acdb70-3dc3-4255-92a0-883abe09dd5f&userId=&serverSideAds=true
 
+#EXTINF:-1 tvg-name="Insight TV AU" tvg-id="insight.au" tvg-logo="https://i.imgur.com/gKNP2Gd.png" group-title="Seriados em inglês 📺",Insight TV AU
+https://insighttv-samsungau.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="leverage" tvg-logo="http://images.pluto.tv/channels/5d9ccebb60a26500097dc5a4/colorLogoPNG.png" group-title="ZZZ Manutenção",Leverage: Acerto de Contas 🇺🇸
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d9ccebb60a26500097dc5a4/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc96ee22-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=2f635c2c-5786-4c44-8149-08abf66902eb&userId=&serverSideAds=true
 
@@ -768,6 +771,9 @@ https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/5564&p
 
 #EXTINF:-1 group-title="Seriados em inglês 📺" tvg-logo="https://static.filmon.com/assets/channels/4649/extra_big_logo.png",(The) Red Skelton (1951 - 1971) 🇺🇸
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/4649&pprotocol=hls
+
+#EXTINF:-1 tvg-id="rifftrax" tvg-logo="http://images.pluto.tv/channels/58d947b9e420d8656ee101ab/colorLogoPNG.png" group-title="Seriados em inglês 📺",RiffTrax | EUA
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58d947b9e420d8656ee101ab/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc9344a5-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=cc4a8758-1641-4650-9d0b-e8b4b22a7afe&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-id="shout-factory-tv" tvg-logo="http://images.pluto.tv/channels/55a6a3275616b6240c26f393/colorLogoPNG.png" group-title="Seriados em inglês 📺",Shout! Factory 🇨🇦
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/55a6a3275616b6240c26f393/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=e71ebf21-6a72-11eb-87d7-6fba7c7cde7d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0e2d5778-3fab-47b0-b533-e5c13f781e80&userId=&serverSideAds=true
@@ -2335,23 +2341,23 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebaccf1734aaf00071
 
 #################### Austrália 🇦🇺 ###################
 
-#EXTINF:-1 tvg-name="ABC Adelaide AU" tvg-id="" tvg-logo="https://i.imgur.com/rLCHYCs.png" group-title="Austrália 🇦🇺",ABC Adelaide AU
+#EXTINF:-1 tvg-name="ABC Adelaide AU" tvg-id="" tvg-logo="https://i.imgur.com/rLCHYCs.png" group-title="Variedades em inglês",ABC Adelaide | Austrália
 https://c.mjh.nz/101002510251/
-#EXTINF:-1 tvg-name="ABC Darwin AU" tvg-id="" tvg-logo="https://i.imgur.com/rLCHYCs.png" group-title="Austrália 🇦🇺",ABC Darwin AU
+#EXTINF:-1 tvg-name="ABC Darwin AU" tvg-id="" tvg-logo="https://i.imgur.com/rLCHYCs.png" group-title="Variedades em inglês",ABC Darwin | Austrália
 https://c.mjh.nz/101002810281/
-#EXTINF:-1 tvg-name="ABC Hobart AU" tvg-id="" tvg-logo="https://i.imgur.com/rLCHYCs.png" group-title="Austrália 🇦🇺",ABC Hobart AU
+#EXTINF:-1 tvg-name="ABC Hobart AU" tvg-id="" tvg-logo="https://i.imgur.com/rLCHYCs.png" group-title="Variedades em inglês",ABC Hobart | Austrália
 https://c.mjh.nz/101002710271/
-#EXTINF:-1 tvg-name="ABC Melbourne AU" tvg-id="" tvg-logo="https://i.imgur.com/rLCHYCs.png" group-title="Austrália 🇦🇺",ABC Melbourne AU
+#EXTINF:-1 tvg-name="ABC Melbourne AU" tvg-id="" tvg-logo="https://i.imgur.com/rLCHYCs.png" group-title="Variedades em inglês",ABC Melbourne | Austrália
 https://c.mjh.nz/101002310231/
-#EXTINF:-1 tvg-name="ABC Perth AU" tvg-id="" tvg-logo="https://i.imgur.com/rLCHYCs.png" group-title="Austrália 🇦🇺",ABC Perth AU
+#EXTINF:-1 tvg-name="ABC Perth AU" tvg-id="" tvg-logo="https://i.imgur.com/rLCHYCs.png" group-title="Variedades em inglês",ABC Perth | Austrália
 https://c.mjh.nz/3201026102E1/
-#EXTINF:-1 tvg-name="ABC Sydney AU" tvg-id="" tvg-logo="https://i.imgur.com/rLCHYCs.png" group-title="Austrália 🇦🇺",ABC Sydney AU
+#EXTINF:-1 tvg-name="ABC Sydney AU" tvg-id="" tvg-logo="https://i.imgur.com/rLCHYCs.png" group-title="Variedades em inglês",ABC Sydney | Austrália
 https://c.mjh.nz/101002210221/
 
-#EXTINF:-1 tvg-name="ABC Comedy AU" tvg-id="" tvg-logo="https://i.mjh.nz/.images/tv.abc2.png" group-title="ZZZ Manutenção",ABC Comedy AU
+#EXTINF:-1 tvg-name="ABC Comedy AU" tvg-id="" tvg-logo="https://i.mjh.nz/.images/tv.abc2.png" group-title="ZZZ Manutenção",ABC Comedy | Austrália
 https://c.mjh.nz/abc2/
 
-#EXTINF:-1 tvg-name="ABC Me AU" tvg-id="" tvg-logo="https://i.mjh.nz/.images/tv.101002210224.png" group-title="Austrália 🇦🇺",ABC Me AU
+#EXTINF:-1 tvg-name="ABC Me AU" tvg-id="" tvg-logo="https://i.mjh.nz/.images/tv.101002210224.png" group-title="Austrália 🇦🇺",ABC Me | Austrália
 https://c.mjh.nz/101002210224/
 
 #EXTINF:-1 tvg-name="ACCTV" tvg-id="" tvg-logo="https://i.mjh.nz/.images/tv.acctv.png" group-title="ZZZ Manutenção",ACCTV AU
@@ -2360,7 +2366,7 @@ https://i.mjh.nz/au/Sydney/tv.acctv.m3u8
 #EXTINF:-1 tvg-name="Action Hollywood Movies AU" tvg-id="" tvg-logo="https://i.imgur.com/wnlzC0w.jpg" group-title="Austrália 🇦🇺",Action Hollywood Movies AU
 https://lightning-actionhollywood-samsungaustralia.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Bounty Plus AU" tvg-id="bountyplus.au" tvg-logo="https://i.imgur.com/Q8mmLAB.png" group-title="Austrália 🇦🇺",Bounty Plus AU
+#EXTINF:-1 tvg-name="Bounty Plus AU" tvg-id="bountyplus.au" tvg-logo="https://pbs.twimg.com/profile_images/1216707439128727552/Dot2ZRzJ_400x400.jpg" group-title="Cinema em inglês",Bounty Plus | Austrália
 https://bountyfilms-bounty-1-au.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-name="C31 Melbourne AU" tvg-id="" tvg-logo="https://i.imgur.com/Tl79upK.jpg" group-title="ZZZ Manutenção",C31 Melbourne AU
@@ -2368,17 +2374,15 @@ https://dcunilive47-lh.akamaihd.net/i/dclive_1@739220/master.m3u8
 
 #EXTINF:-1 tvg-name="Dry Bar Comedy AU" tvg-id="" tvg-logo="https://i.imgur.com/XDqmN1R.png" group-title="Austrália 🇦🇺",Dry Bar Comedy AU
 https://drybar-drybarcomedy-1-au.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DUST AU" tvg-logo="https://i.imgur.com/pXXUmuW.jpg" group-title="Austrália 🇦🇺",DUST AU
+
+#EXTINF:-1 tvg-id="" tvg-name="DUST AU" tvg-logo="https://i.imgur.com/pXXUmuW.jpg" group-title="Cinema em inglês",DUST | Austrália
 https://dust-samsung-uk-au.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Filmstream  AU" tvg-id="filmstream.au" tvg-logo="https://i.imgur.com/cFbzgED.jpg" group-title="Austrália 🇦🇺",Filmstream AU
+#EXTINF:-1 tvg-name="Filmstream  AU" tvg-id="filmstream.au" tvg-logo="https://i.imgur.com/cFbzgED.jpg" group-title="Cinema em inglês",Filmstream | Austrália
 https://spi-filmstream-1-au.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Fuel TV AU" tvg-id="fueltv.au" tvg-logo="https://i.imgur.com/XboGSjX.png" group-title="Austrália 🇦🇺",Fuel TV AU
+#EXTINF:-1 tvg-name="Fuel TV AU" tvg-id="fueltv.au" tvg-logo="https://i.imgur.com/XboGSjX.png" group-title="Esportes em inglês",Fuel TV | Austrália
 https://fueltv-fueltv-1-au.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Insight TV AU" tvg-id="insight.au" tvg-logo="https://i.imgur.com/gKNP2Gd.png" group-title="Austrália 🇦🇺",Insight TV AU
-https://insighttv-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Introuble TV AU" tvg-id="introuble.au" tvg-logo="https://i.imgur.com/iVw55kC.png" group-title="Austrália 🇦🇺",Introuble TV AU
 https://introuble-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Inwild TV AU" tvg-id="inwild.au" tvg-logo="https://i.imgur.com/VSiG39E.png" group-title="Austrália 🇦🇺",Inwild TV AU
@@ -2386,7 +2390,7 @@ https://inwild-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Inwonder TV AU" tvg-id="inwonder.au" tvg-logo="https://i.imgur.com/d3LshRd.png" group-title="Austrália 🇦🇺",Inwonder TV AU
 https://inwonder-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="MIS Televizija" tvg-id="mis.au" tvg-logo="https://i.imgur.com/XaXRbxj.png" group-title="Austrália 🇦🇺",MIS Televizija | Idioma sérvio
+#EXTINF:-1 tvg-name="MIS Televizija" tvg-id="mis.au" tvg-logo="https://i.imgur.com/XaXRbxj.png" group-title="Variedades em outros idiomas",MIS Televizija | Idioma sérvio
 https://5afd52b55ff79.streamlock.net/MISTV/_definst_/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Outdoor Channel AU" tvg-id="outdoor.au" tvg-logo="https://i.imgur.com/mcUDAhZ.png" group-title="Austrália 🇦🇺",Outdoor Channel AU
@@ -2906,9 +2910,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5efb61e2a876670007a
 
 #EXTINF:-1 tvg-id="rescue-911" tvg-logo="http://images.pluto.tv/channels/5f21e831e9fe730007706acb/colorLogoPNG.png" group-title="EUA: Pluto 🇺🇸",Rescue 911 | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f21e831e9fe730007706acb/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc993810-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=5920fffa-acd3-494f-bba7-c0b6533bd3a6&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="rifftrax" tvg-logo="http://images.pluto.tv/channels/58d947b9e420d8656ee101ab/colorLogoPNG.png" group-title="Seriados em inglês",RiffTrax | EUA
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58d947b9e420d8656ee101ab/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc9344a5-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=cc4a8758-1641-4650-9d0b-e8b4b22a7afe&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-id="shout-factory-tv" tvg-logo="http://images.pluto.tv/channels/55a6a3275616b6240c26f393/colorLogoPNG.png" group-title="EUA: Pluto 🇺🇸",Shout! Factory TV | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/55a6a3275616b6240c26f393/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc923331-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=80ddba7f-c233-4d0c-8466-1ab1e96a5252&userId=&serverSideAds=true
