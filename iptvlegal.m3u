@@ -921,7 +921,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d1697f10a0e00079
 #EXTINF:-1 tvg-id="5f4d1697f10a0e000798ed8d" tvg-name="All Elite Wrestling MX" tvg-logo="https://images.pluto.tv/channels/5f4d1697f10a0e000798ed8d/colorLogoPNG.png" group-title="Esportes em espanhol",All Elite Wrestling | México 🇲🇽
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d1697f10a0e000798ed8d/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 
-#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-5eea71d45252710041e0ccb9" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/edgesport.png" group-title="Esportes em espanhol",EDGEsport
+#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-5eea71d45252710041e0ccb9" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/edgesport.png" group-title="Esportes em inglês",EDGEsport
 https://edgesports-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-edgesports-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=Tog8X6wK6iweuzGFsz6p&channelId=5eea71d45252710041e0ccb9
 
 #EXTINF:-1 tvg-id="futbol-para-fans" tvg-logo="https://imgur.com/Ct12Jh5.png" group-title="Esportes em espanhol",Fútbol Para Fans | Argentina 
@@ -999,7 +999,7 @@ https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/787&pp
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.desifree.tv/wp-content/uploads/DUBAI-SPORTS.jpg" tvg-name="Dubai Sports" group-title="Esportes em inglês",Dubai Sports | Emirados Árabes Unidos 
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/79?pprotocol=hls
 
-#EXTINF:-1 tvg-name="ESTV" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41DL9MABXLL.png" group-title="Esportes em inglês",ESTV | EUA
+#EXTINF:-1 tvg-name="ESTV" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41DL9MABXLL.png" group-title="ZZZ Manutenção",ESTV | EUA
 https://stream-us-east-1.getpublica.com/cl/e279a3cd-1df4-4814-8bf0-f102f79cf26f/1280x720_2300000_4.m3u8
 
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60aeb5cd87f9b1002ce12321" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/Extreme_logo_dark.png" group-title="Esportes em inglês",Extreme Plus
@@ -1154,7 +1154,7 @@ https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w2128065062.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-604bf68f499957002d574f47" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/FUELTV_logo_dark.png" group-title="Esportes em inglês",Fuel TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=571&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=Tog8X6wK6iweuzGFsz6p&content_series=604bf68f499957002d574f47&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=Tog8X6wK6iweuzGFsz6p&custom_7=604bf68f499957002d574f47
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN8JATjECvwTxZVkdyWM0nCslG_XTHeA-wjK6eyf9zgb1TElKqu2Gd3NzD5GyeCmytp-s&usqp=CAU" tvg-id="FuelTV.pt" group-title="Esportes em português" tvg-name="Fuel TV",Fuel TV | Portugal
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN8JATjECvwTxZVkdyWM0nCslG_XTHeA-wjK6eyf9zgb1TElKqu2Gd3NzD5GyeCmytp-s&usqp=CAU" tvg-id="FuelTV.pt" group-title="ZZZ Manutenção" tvg-name="Fuel TV",Fuel TV | Portugal
 https://demo.cdn.tv.br/media/n/BZi1nZuZy2GXmdqZnti4/a/BZi1nZuZy2GXmdqZnti4/720p/chunks.m3u8?ch=BZi1nZuZy2GXmdqZnti4&t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkZWZhdWx0IzE1NzYwODMyNTgiLCJpYXQiOjE2MTkwOTIxNjgsImV4cCI6MTYxOTExMDE2OH0.9lNFAyLEVNmWyI816_9xQZdGuxvPZCj5cR7sqBjyOf0
 
 ################# Kids em espanhol ###################
@@ -2641,7 +2641,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d48678d34ceb37d3c4
 ################################## eua pluto ###########################
 
 
-#EXTINF:-1 tvg-id="adventure-tv" tvg-logo="http://images.pluto.tv/channels/5938876b78d8d9c074c3c657/colorLogoPNG.png" group-title="EUA: Pluto 🇺🇸",Adventure TV | EUA
+#EXTINF:-1 tvg-id="adventure-tv" tvg-logo="http://images.pluto.tv/channels/5938876b78d8d9c074c3c657/colorLogoPNG.png" group-title="ZZZ Manutenção",Adventure TV | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5938876b78d8d9c074c3c657/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc936bb1-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=758d6752-7a6b-4e96-a4eb-a384bb1a7b0a&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-id="afv-tv" tvg-logo="http://images.pluto.tv/channels/5e82b55ad0213e00079c509f/colorLogoPNG.png" group-title="EUA: Pluto 🇺🇸",AFV TV | EUA
@@ -2907,7 +2907,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5efb61e2a876670007a
 #EXTINF:-1 tvg-id="rescue-911" tvg-logo="http://images.pluto.tv/channels/5f21e831e9fe730007706acb/colorLogoPNG.png" group-title="EUA: Pluto 🇺🇸",Rescue 911 | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f21e831e9fe730007706acb/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc993810-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=5920fffa-acd3-494f-bba7-c0b6533bd3a6&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="rifftrax" tvg-logo="http://images.pluto.tv/channels/58d947b9e420d8656ee101ab/colorLogoPNG.png" group-title="EUA: Pluto 🇺🇸",RiffTrax | EUA
+#EXTINF:-1 tvg-id="rifftrax" tvg-logo="http://images.pluto.tv/channels/58d947b9e420d8656ee101ab/colorLogoPNG.png" group-title="Seriados em inglês",RiffTrax | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58d947b9e420d8656ee101ab/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc9344a5-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=cc4a8758-1641-4650-9d0b-e8b4b22a7afe&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-id="shout-factory-tv" tvg-logo="http://images.pluto.tv/channels/55a6a3275616b6240c26f393/colorLogoPNG.png" group-title="EUA: Pluto 🇺🇸",Shout! Factory TV | EUA
