@@ -142,15 +142,12 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60072798dcf43700075
 #EXTINF:-1 tvg-id="porta-dos-fundos" tvg-logo="https://imgur.com/Xb0RMoR.png" group-title="Brasil: jovens 🇧🇷",Porta dos Fundos | Brasil 
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f36f2346ede750007332d11/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781ef22-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a4be72ee-4337-4176-a253-be6d837c977f&userId=&serverSideAds=true
 
-<<<<<<< HEAD
 #EXTINF:-1 tvg-id="south-park-ptv1" tvg-logo="https://i.imgur.com/6ycpYth.jpg" group-title="Brasil: Jovens 🇧🇷",South Park | Brasil
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/609ae66b359b270007869ff1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=e61e81d1-c6d5-4eea-a605-2651410462b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3bf99bf4-e584-11eb-a5e5-0242ac110002&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-id="tastemade-ptv2" tvg-logo="https://imgur.com/JnHVIgo.png" group-title="Brasil: Jovens 🇧🇷",Tastemade | Brasil
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fd1419a3b4f4b000773ba85livestitch/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=e61e81d1-c6d5-4eea-a605-2651410462b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d6cc25d6-e662-11eb-8628-0242ac110003&userId=&serverSideAds=true
 
-=======
->>>>>>> 31a260a8444a9ad4c10ff428ec4541f9e0c713e4
 #EXTINF:-1 tvg-ID="Woohoo.br" tvg-name="Woohoo" tvg-logo="http://168.205.87.198/logocanais/woohoo.png" group-title="Brasil: jovens 🇧🇷",Woohoo | Brasil 
 http://168.205.87.198:8555/live/viniciusvieira/vieira123/141.m3u8
 
@@ -289,11 +286,7 @@ http://200.194.238.229:8383/live/primer/playlist.m3u8
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-name="Record" tvg-logo="https://i.pinimg.com/originals/93/d3/65/93d365753811901f3fd8fea11c78d79c.jpg" tvg-shift="0" group-title="Brasil: TV aberta 🇧🇷",Record | Brasil
 https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
 
-<<<<<<< HEAD
-#EXTINF:-1 tvg-id="Redebrasil.br" tvg-name="Rede Brasil" tvg-logo="https://imgur.com/ZgnRZ47.png" group-title="Brasil: TV aberta 🇧🇷",Rede Brasil
-=======
 #EXTINF:-1 tvg-id="Redebrasil.br" tvg-name="Rede Brasil" tvg-logo="https://imgur.com/ZgnRZ47.png" group-title=""Brasil: TV aberta 🇧🇷",Rede Brasil
->>>>>>> 31a260a8444a9ad4c10ff428ec4541f9e0c713e4
 https://video01.logicahost.com.br/redebrasil/redebrasil/chunklist_w1839344534.m3u8
 
 #EXTINF:-1 tvg-id="Redemetropole.br" tvg-name="Rede Metrópole" group-title="Brasil: TV aberta 🇧🇷" tvg-logo="https://play-lh.googleusercontent.com/yAp592JJ2UwfANsFzndnqQDnwbx9EcVo1lbikgbxz3mgR0V7Fp6Jtif0EFFl0CrDNbM",Rede Metrópole | Brasil
@@ -768,19 +761,15 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dc2c444b
 #EXTINF:-1 tvg-id="pluto-tv-true-crime" tvg-logo="http://images.pluto.tv/channels/5812be1c249444e05d09cc50/colorLogoPNG.png" group-title="Documentários em inglês",Pluto TV True Crime | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812be1c249444e05d09cc50/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc931d91-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7a320c5e-e226-4374-bc39-f3dc36100d8c&userId=&serverSideAds=true
 
-<<<<<<< HEAD
 #EXTINF:-1 tvg-name="Real Stories AU" tvg-id="realstories.au" tvg-logo="https://i.imgur.com/KOkWP6i.jpg" group-title="Documentários em inglês",Real Stories | Austrália
 https://lds-realstories-samsungau.amagi.tv/playlist.m3u8
 
-=======
->>>>>>> 31a260a8444a9ad4c10ff428ec4541f9e0c713e4
 #EXTINF:-1 tvg-id="Really.uk" tvg-name="Really" tvg-logo="https://static.filmon.com/assets/channels/2798/extra_big_logo.png" group-title="Documentários em inglês",Really | Reino Unido
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/2798?pprotocol=hls
 
 #EXTINF:-1 tvg-id="rtdoc" tvg-logo="https://i.imgur.com/TYoMkWn.png" group-title="Documentários em inglês",RT Documentary Channel
 https://rt-doc.secure.footprint.net/1101_1600Kb.m3u8
 
-<<<<<<< HEAD
 #EXTINF:-1 tvg-name="Smithsonian Channel AU" tvg-id="Smithsonian.au" tvg-logo="https://i.imgur.com/weNdD7r.png" group-title="Documentários em inglês",Smithsonian Channel | Austrália
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 
@@ -790,8 +779,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f21ea08007a4900076
 #EXTINF:-1 tvg-id="travelxp.au" tvg-name="Travel XP AU" tvg-logo="https://i.imgur.com/6V48LwT.jpg" group-title="Documentários em inglês",Travel XP | Austrália
 https://travelxp-travelxp-1-au.samsung.wurl.com/manifest/playlist.m3u8
 
-=======
->>>>>>> 31a260a8444a9ad4c10ff428ec4541f9e0c713e4
 #EXTINF:-1 tvg-id="5ebd0ff1e1a4770007479dc7" tvg-logo="https://images.pluto.tv/channels/5ebd0ff1e1a4770007479dc7/colorLogoPNG.png" group-title="Documentários em inglês",Truly | Reino Unido
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ebd0ff1e1a4770007479dc7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
@@ -894,12 +881,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f7794162a455900078
 
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.imgur.com/1LPIb2E.png" group-title="Seriados em inglês",Kocowa Classic | EUA
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokukocowa/CDN/playlist.m3u8
-<<<<<<< HEAD
-=======
 
 #EXTINF:-1 tvg-id="leverage" tvg-logo="http://images.pluto.tv/channels/5d9ccebb60a26500097dc5a4/colorLogoPNG.png" group-title="Zicado",Leverage: Acerto de Contas 🇺🇸
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d9ccebb60a26500097dc5a4/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc96ee22-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=2f635c2c-5786-4c44-8149-08abf66902eb&userId=&serverSideAds=true
->>>>>>> 31a260a8444a9ad4c10ff428ec4541f9e0c713e4
 
 #EXTINF:-1 group-title="Seriados em inglês" tvg-logo="https://static.filmon.com/assets/channels/4646/extra_big_logo.png",(The) Life of Riley (1953 - 1958) 🇺🇸
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/4646&pprotocol=hls
@@ -1415,12 +1399,9 @@ https://gsn-gameshowchannnel-2.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="game-show-central" tvg-logo="http://images.pluto.tv/channels/5e54187aae660e00093561d6/colorLogoPNG.png" group-title="Game show em inglês",Game Show Central do Pluto | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e54187aae660e00093561d6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc97b176-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e7a61a72-2810-4284-9591-2fdf499ae2a3&userId=&serverSideAds=true
 
-<<<<<<< HEAD
 #EXTINF:-1 tvg-id="the-price-is-right-the-barker-era" tvg-logo="http://images.pluto.tv/channels/5f7791b8372da90007fd45e6/colorLogoPNG.png" group-title="Game show em inglês",The Price Is Right: The Barker Era | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f7791b8372da90007fd45e6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc9a4985-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b47894d7-228e-4dd6-9425-043e45b9eba0&userId=&serverSideAds=true
 
-=======
->>>>>>> 31a260a8444a9ad4c10ff428ec4541f9e0c713e4
 #EXTINF:-1 tvg-id="wipeout" tvg-logo="http://images.pluto.tv/channels/5ab3e1242be690697279c75d/colorLogoPNG.png" group-title="Game show em inglês",Wipeout | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ab3e1242be690697279c75d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc93e0e0-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=14eef5cb-bf39-4a9c-9cb0-7901cb48c24e&userId=&serverSideAds=true
 
@@ -1429,7 +1410,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ea190ae8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K1kJf1s.png" group-title="Game show em inglês" tvg-name="Wipeout Xtra | EUA",Wipeout Xtra | EUA
 https://endemol-wipeoutxtra-1.roku.wurl.com/manifest/playlist.m3u8
-<<<<<<< HEAD
 
 #################### Humor em inglês ###################
 
@@ -1453,9 +1433,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bb1ad55268cae539bc
 
 #EXTINF:-1 tvg-id="5ad8d819e738977e2c31096a" tvg-logo="https://images.pluto.tv/channels/5ad8d819e738977e2c31096a/colorLogoPNG.png" group-title="Humor em inglês",The Pet Collective | Reino Unido
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad8d819e738977e2c31096a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-
-=======
->>>>>>> 31a260a8444a9ad4c10ff428ec4541f9e0c713e4
 
 ################# Kids em espanhol ###################
 
@@ -1778,12 +1755,9 @@ https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/5507&p
 #EXTINF:-1 group-title="Kids em inglês" tvg-logo="https://static.filmon.com/assets/channels/3263/extra_big_logo.png",Tayla's Toddler Toy Review
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3263&pprotocol=hls
 
-<<<<<<< HEAD
-=======
 #EXTINF:-1 tvg-logo="https://gvimage.zype.com/53c0457a69702d4d66040000/60870ce6504c56000131647a/custom_thumbnail/480.jpg" group-title="Zicado",TokuSHOUTsu | EUA
 https://tokushoutsu-zype.amagi.tv/playlistR1080p.m3u8
 
->>>>>>> 31a260a8444a9ad4c10ff428ec4541f9e0c713e4
 #EXTINF:-1 tvg-id="tokushoutsu" tvg-logo="http://images.pluto.tv/channels/5c3f8f12a93c2d61b9990a4e/colorLogoPNG.png" group-title="Kids em inglês",TokuSHOUTsu do Pluto TV | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c3f8f12a93c2d61b9990a4e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc951960-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=821f2083-7899-4967-8ad2-b26d25e2ca90&userId=&serverSideAds=true
 
@@ -3500,12 +3474,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5bd833b41
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f0c2f3739f6b900075f366c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="5dc2ba1a9c91420009db4858" tvg-logo="https://images.pluto.tv/channels/5dc2ba1a9c91420009db4858/colorLogoPNG.png" group-title="Reino Unido: Pluto 🇬🇧",Nosey | Reino Unido
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dc2ba1a9c91420009db4858/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-<<<<<<< HEAD
-
-=======
 #EXTINF:-1 tvg-id="5eb95d63b270fc0007c465e6" tvg-logo="https://images.pluto.tv/channels/5eb95d63b270fc0007c465e6/colorLogoPNG.png" group-title="Reino Unido: Pluto 🇬🇧",People are Awesome | Reino Unido
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5eb95d63b270fc0007c465e6/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
->>>>>>> 31a260a8444a9ad4c10ff428ec4541f9e0c713e4
+
 #EXTINF:-1 tvg-id="5dbfeb961b411c00090b52b3" tvg-logo="https://images.pluto.tv/channels/5dbfeb961b411c00090b52b3/colorLogoPNG.png" group-title="Reino Unido: Pluto 🇬🇧",Pluto TV Action | Reino Unido
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dbfeb961b411c00090b52b3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
@@ -3578,22 +3549,17 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad8d4e7e
 #EXTINF:-1 tvg-id="5e9ed47c26ebb000074af566" tvg-logo="https://images.pluto.tv/channels/5e9ed47c26ebb000074af566/colorLogoPNG.png" group-title="Reino Unido: Pluto 🇬🇧",Sensing Murder | Reino Unido
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e9ed47c26ebb000074af566/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-<<<<<<< HEAD
-=======
 #EXTINF:-1 tvg-id="5e735c6834d7d10007059790" tvg-logo="https://images.pluto.tv/channels/5e735c6834d7d10007059790/colorLogoPNG.png" group-title="Zicado",Slow TV | Reino Unido
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e735c6834d7d10007059790/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
->>>>>>> 31a260a8444a9ad4c10ff428ec4541f9e0c713e4
+
 #EXTINF:-1 tvg-id="5c45f0427b2c0c065e91aab5" tvg-logo="https://images.pluto.tv/channels/5c45f0427b2c0c065e91aab5/colorLogoPNG.png" group-title="Reino Unido: Pluto 🇬🇧",The Asylum Channel | Reino Unido
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c45f0427b2c0c065e91aab5/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="5e393d5c696b3b0009775c8b" tvg-logo="https://images.pluto.tv/channels/5e393d5c696b3b0009775c8b/colorLogoPNG.png" group-title="Reino Unido: Pluto 🇬🇧",The New Detectives | Reino Unido
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e393d5c696b3b0009775c8b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-<<<<<<< HEAD
-
-=======
 #EXTINF:-1 tvg-id="5ad8d819e738977e2c31096a" tvg-logo="https://images.pluto.tv/channels/5ad8d819e738977e2c31096a/colorLogoPNG.png" group-title="Reino Unido: Pluto 🇬🇧",The Pet Collective | Reino Unido
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad8d819e738977e2c31096a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
->>>>>>> 31a260a8444a9ad4c10ff428ec4541f9e0c713e4
+
 #EXTINF:-1 tvg-id="5ea18f35ae8f730007465915" tvg-logo="https://images.pluto.tv/channels/5ea18f35ae8f730007465915/colorLogoPNG.png" group-title="Reino Unido: Pluto 🇬🇧",The Simple Life | Reino Unido
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ea18f35ae8f730007465915/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
@@ -3880,13 +3846,9 @@ https://live.video.globo.com/h/1402196702233012345678915746222339876543210pJEKZj
 #EXTINF:-1 tvg-id="os-tres-patetas" tvg-logo="https://imgur.com/mZlKac0.png" group-title="Zicado",Os Três Patetas | Brasil 
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1eed3c29b39600073e2ec0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781c812-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1cd1cf22-327f-4dee-80be-2eb8d58b2da9&userId=&serverSideAds=true
 
-<<<<<<< HEAD
-=======
-
 #EXTINF:-1 tvg-id="people-are-awesome-ptv1" tvg-logo="https://imgur.com/y0Kdqtm.png" group-title="Zicado",People are Awesome | Brasil
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f515d080e738d000739e19c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=97821630-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d3401ffe-5054-4e86-94f4-9056a358ddad&userId=&serverSideAds=true
 
->>>>>>> 31a260a8444a9ad4c10ff428ec4541f9e0c713e4
 #EXTINF:-1 tvg-id="5ad8d0cbfd87eb3a2717afc4" tvg-logo="https://images.pluto.tv/channels/5ad8d0cbfd87eb3a2717afc4/colorLogoPNG.png" group-title="Zicado",Pluto TV Explore | Reino Unido
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad8d0cbfd87eb3a2717afc4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
@@ -3913,7 +3875,6 @@ https://demo.cdn.tv.br/media/n/BZi1nZuZy2GXmdqZnti4/a/BZi1nZuZy2GXmdqZnti4/720p/
 
 #EXTINF:-1 tvg-id="Redebrasil.br" tvg-name="TV Brasil Oeste" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngiy6kmZ2e2moV1EZeW3KgPDcjD6yHdQsEB8pvddQ=s900-c-k-c0x00ffffff-no-rj" group-title="Zicado", Rede Brasil | TV Brasil Oeste (MT)
 https://5ad482a77183d.streamlock.net/operacaotbomt.com.br/operacaotbomt.com.br/playlist.m3u8
-<<<<<<< HEAD
 
 #EXTINF:-1 tvg-id="Pixtv.br" tvg-name="Pix TV" tvg-logo="https://i.imgur.com/n4gOQMI.png" tvg-shift="0" group-title="Zicado",Pix TV | Brasil
 https://demo.cdn.tv.br/media/n/BZjJAdCY/a/BZjJAdCY/720p/chunks.m3u8?ch=BZjJAdCY&t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkZWZhdWx0IzE1NzYwODMyNTgiLCJpYXQiOjE2MTk2NDU0NTgsImV4cCI6MTYxOTY2MzQ1OH0.9LEOe9xmjuOo8OEOVWvcVZ-1HjjMaCXZIj3eWhkgDxs
@@ -4071,5 +4032,4 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cd1495bd
 
 #EXTINF:-1 tvg-name="Pulse TV AU" tvg-id="pulse.au" tvg-logo="https://i.imgur.com/vQ6cBdd.png" group-title="Zicado",Pulse TV AU
 https://lightning-pulse-samsungaustralia.amagi.tv/playlist.m3u8
-=======
->>>>>>> 31a260a8444a9ad4c10ff428ec4541f9e0c713e4
+
