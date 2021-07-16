@@ -392,6 +392,13 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db04c9ee
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VrZkqvM.png" group-title="Casa e decoração em inglês" tvg-name="The Design Network | EUA",The Design Network | EUA
 https://thedesignnetwork-tdn-2.roku.wurl.com/manifest/playlist.m3u8
 
+#EXTINF:-1 tvg-id="tiny-house-nation" tvg-logo="https://images.pluto.tv/channels/601a0342dcf4370007566891/featuredImage.jpg" group-title="Casa e decoração em inglês",Tiny House Nation | EUA
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/601a0342dcf4370007566891/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc9678f2-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=cec3474e-9d21-4955-8b61-315f126c29ba&userId=&serverSideAds=true
+
+
+#EXTINF:-1 tvg-id="the-design-network" tvg-logo="https://images.pluto.tv/channels/5f4ff8c8bcf3d600078af3eb/featuredImage.jpg" group-title="Casa e decoração em inglês",The Design Network | EUA
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4ff8c8bcf3d600078af3eblivestitch/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc9678f2-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=cec3474e-9d21-4955-8b61-315f126c29ba&userId=&serverSideAds=true
+
 #EXTINF:-1 tvg-id="this-old-house" tvg-logo="http://images.pluto.tv/channels/5d51e791b7dba3b2ae990ab2/colorLogoPNG.png" group-title="Casa e decoração em inglês",This Old House | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d51e791b7dba3b2ae990ab2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc9678f2-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=cec3474e-9d21-4955-8b61-315f126c29ba&userId=&serverSideAds=true
 
@@ -741,6 +748,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bb3fea0f711fd76340
 
 #EXTINF:-1 tvg-id="5db050444f3c52000984c72a" tvg-logo="https://images.pluto.tv/channels/5db050444f3c52000984c72a/colorLogoPNG.png" group-title="Documentários em inglês",Pluto TV Nature | Reino Unido
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db050444f3c52000984c72a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-id="pluto-tv-paranormal" tvg-logo="http://images.pluto.tv/channels/5adf96e3e738977e2c31cb04/colorLogoPNG.png" group-title="Documentários em inglês",Pluto TV Paranormal | EUA
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5adf96e3e738977e2c31cb04/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc93e0e1-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=be986ed4-f548-41eb-bcde-45fe6f4dd7b8&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-id="pluto-tv-science" tvg-logo="http://images.pluto.tv/channels/563a970aa1a1f7fe7c9daad7/colorLogoPNG.png" group-title="Documentários em inglês",Pluto TV Science | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/563a970aa1a1f7fe7c9daad7/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc92a863-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f01617d2-e11c-4f72-a81d-5dd34bd84fc0&userId=&serverSideAds=true
@@ -1415,14 +1425,24 @@ https://endemol-wipeoutxtra-1.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="afv-tv" tvg-logo="http://images.pluto.tv/channels/5e82b55ad0213e00079c509f/colorLogoPNG.png" group-title="Humor em inglês",AFV TV | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e82b55ad0213e00079c509f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc97ff93-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dbfdfaf4-0d28-40f9-ba3e-9084c724f1b6&userId=&serverSideAds=true
 
+#EXTINF:-1 tvg-id="cats-247" tvg-logo="http://images.pluto.tv/channels/599375885ceaac3cabccbed7/colorLogoPNG.png" group-title="Humor em inglês",Cats 24/7 | EUA
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/599375885ceaac3cabccbed7/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc936bb5-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=109d2b15-65ce-41c6-abe9-175172809d60&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="5db044d7846b170009215ef0" tvg-logo="https://images.pluto.tv/channels/5db044d7846b170009215ef0/colorLogoPNG.png" group-title="Humor em inglês",Cats 24/7 | Reino Unido
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db044d7846b170009215ef0/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
 #EXTINF:-1 tvg-name="Dry Bar Comedy AU" tvg-id="" tvg-logo="https://i.imgur.com/XDqmN1R.png" group-title="Humor em inglês",Dry Bar Comedy | Austrália
 https://drybar-drybarcomedy-1-au.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="dogs-247" tvg-logo="http://images.pluto.tv/channels/5b329e0a7b9d8872aeb49ceb/colorLogoPNG.png" group-title="Humor em inglês",Dogs 24/7 | EUA
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b329e0a7b9d8872aeb49ceb/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc9407f0-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=07a069e0-60de-45b3-9e96-ae431c7ce670&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-id="people-are-awesome" tvg-logo="http://images.pluto.tv/channels/5e54169f4b9b25000994a303/colorLogoPNG.png" group-title="Humor em inglês",People are Awesome | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e54169f4b9b25000994a303/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc97b175-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=58e5a524-7e81-41c6-b53c-07bb344eadd9&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-id="5eb95d63b270fc0007c465e6" tvg-logo="https://images.pluto.tv/channels/5eb95d63b270fc0007c465e6/colorLogoPNG.png" group-title="Humor em inglês",People are Awesome | Reino Unido
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5eb95d63b270fc0007c465e6/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
 
 #EXTINF:-1 tvg-id="stand-up-tv" tvg-logo="http://images.pluto.tv/channels/5637d31f319573e26b64040b/colorLogoPNG.png" group-title="Humor em inglês",Stand-Up TV | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5637d31f319573e26b64040b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc92a862-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f99980fa-8b7b-4921-81a5-89a65494abb7&userId=&serverSideAds=true
@@ -2864,6 +2884,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca672f515a62078d2e
 #EXTINF:-1 tvg-id="mtv-spankin-new" tvg-logo="http://images.pluto.tv/channels/5d14fdb8ca91eedee1633117/colorLogoPNG.png" group-title="EUA: Viacom 🇺🇸",MTV Spankin' New | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fdb8ca91eedee1633117/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7e6cd1-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=86fe2c41-24ae-4853-942c-7cf0a3b53856&userId=&serverSideAds=true
 
+#EXTINF:-1 tvg-id="pluto-tv-best-life" tvg-logo="http://images.pluto.tv/channels/5887ba337b8e94223eb121bd/colorLogoPNG.png" group-title="EUA: Viacom 🇺🇸",Pluto TV Best Life | EUA
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5887ba337b8e94223eb121bd/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc9344a2-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=40426e5e-f4a8-4cf9-9aa7-cb15bd8698ce&userId=&serverSideAds=true
+
 #EXTINF:-1 tvg-id="the-challenge" tvg-logo="http://images.pluto.tv/channels/5d48685da7e9f476aa8a1888/colorLogoPNG.png" group-title="EUA: Viacom 🇺🇸",The Challenge | EUA 
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d48685da7e9f476aa8a1888/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc962ad4-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a7a65bb9-8ce5-4d1c-9548-06e3e2ddce7a&userId=&serverSideAds=true
 
@@ -2893,9 +2916,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f77895fb3add200073
 
 #EXTINF:-1 tvg-id="british-tv" tvg-logo="http://images.pluto.tv/channels/5b68a18823ecb93393cba2f1/colorLogoPNG.png" group-title="EUA e Canadá: Pluto",British TV | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b68a18823ecb93393cba2f1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc947d21-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=93c13958-378d-4cb1-a2b7-2d12988166d6&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="cats-247" tvg-logo="http://images.pluto.tv/channels/599375885ceaac3cabccbed7/colorLogoPNG.png" group-title="EUA e Canadá: Pluto",Cats 24/7 | EUA
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/599375885ceaac3cabccbed7/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc936bb5-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=109d2b15-65ce-41c6-abe9-175172809d60&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-id="cmt-pluto-tv" tvg-name="CMT Pluto TV" tvg-logo="http://images.pluto.tv/channels/5dcc42446750e200093b15e2/colorLogoPNG.png" group-title="EUA e Canadá: Pluto",CMT Pluto TV | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcc42446750e200093b15e2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc978a61-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c3fe49f7-bd69-4ad5-aa37-697357cf5d4d&userId=&serverSideAds=true
@@ -2932,9 +2952,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f061242a7951e00075
 
 #EXTINF:-1 tvg-id="dog-the-bounty-hunter" tvg-logo="http://images.pluto.tv/channels/5bee1a7359ee03633e780238/colorLogoPNG.png" group-title="EUA e Canadá: Pluto",Dog the Bounty Hunter | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bee1a7359ee03633e780238/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc94cb44-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=563f7fd2-1dce-40e0-9e0d-af0d6ca3b068&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="dogs-247" tvg-logo="http://images.pluto.tv/channels/5b329e0a7b9d8872aeb49ceb/colorLogoPNG.png" group-title="EUA e Canadá: Pluto",Dogs 24/7 | EUA
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b329e0a7b9d8872aeb49ceb/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc9407f0-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=07a069e0-60de-45b3-9e96-ae431c7ce670&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-id="dr-oz" tvg-logo="http://images.pluto.tv/channels/5fac43a40fe4ab0007f478ac/colorLogoPNG.png" group-title="EUA e Canadá: Pluto",Dr. Oz | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fac43a40fe4ab0007f478ac/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc9a97a3-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f22c8ec6-f96c-4438-b421-84428393ab6b&userId=&serverSideAds=true
@@ -2992,9 +3009,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f7788ab87772800077
 
 #EXTINF:-1 tvg-id="pluto-tv-action" tvg-logo="http://images.pluto.tv/channels/561d7d484dc7c8770484914a/colorLogoPNG.png" group-title="EUA e Canadá: Pluto",Pluto TV Action | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc928152-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8ab70e18-eb25-44e4-b2c0-30bc524235b8&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="pluto-tv-best-life" tvg-logo="http://images.pluto.tv/channels/5887ba337b8e94223eb121bd/colorLogoPNG.png" group-title="EUA e Canadá: Pluto",Pluto TV Best Life | EUA
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5887ba337b8e94223eb121bd/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc9344a2-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=40426e5e-f4a8-4cf9-9aa7-cb15bd8698ce&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-id="pluto-tv-comedy" tvg-logo="http://images.pluto.tv/channels/5a4d3a00ad95e4718ae8d8db/colorLogoPNG.png" group-title="EUA e Canadá: Pluto",Pluto TV Comedy | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a4d3a00ad95e4718ae8d8db/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc93b9d0-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6cff35d4-5aa6-42d2-8a62-5acfa825a1dd&userId=&serverSideAds=true
@@ -3480,8 +3494,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dbfeb961
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d4af2a24f1c5ab2d298776b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="5e1edac394e0e80009b2416a" tvg-logo="https://images.pluto.tv/channels/5e1edac394e0e80009b2416a/colorLogoPNG.png" group-title="Reino Unido: Pluto 🇬🇧",Pluto TV Britpocalypse | Reino Unido
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e1edac394e0e80009b2416a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-id="5db044d7846b170009215ef0" tvg-logo="https://images.pluto.tv/channels/5db044d7846b170009215ef0/colorLogoPNG.png" group-title="Reino Unido: Pluto 🇬🇧",Pluto TV Cats 24/7 | Reino Unido
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db044d7846b170009215ef0/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
 #EXTINF:-1 tvg-id="5d134a74ca91eedee1630faa" tvg-logo="https://images.pluto.tv/channels/5d134a74ca91eedee1630faa/colorLogoPNG.png" group-title="Reino Unido: Pluto 🇬🇧",Pluto TV Classic TV | Reino Unido
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d134a74ca91eedee1630faa/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="5c363c2411c5ca053f198f97" tvg-logo="https://images.pluto.tv/channels/5c363c2411c5ca053f198f97/colorLogoPNG.png" group-title="Reino Unido: Pluto 🇬🇧",Pluto TV Comedy | Reino Unido
@@ -3601,9 +3614,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ce4475cd43850831ca
 #EXTINF:-1 tvg-id="dog-the-bounty-hunter" tvg-logo="http://images.pluto.tv/channels/5bee1a7359ee03633e780238/colorLogoPNG.png" group-title="EUA e Canadá: Pluto",Dog the Bounty Hunter | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bee1a7359ee03633e780238/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc94cb44-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=563f7fd2-1dce-40e0-9e0d-af0d6ca3b068&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="dogs-247" tvg-logo="http://images.pluto.tv/channels/5b329e0a7b9d8872aeb49ceb/colorLogoPNG.png" group-title="EUA e Canadá: Pluto",Dogs 24/7 | EUA
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b329e0a7b9d8872aeb49ceb/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc9407f0-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=07a069e0-60de-45b3-9e96-ae431c7ce670&userId=&serverSideAds=true
-
 #EXTINF:-1 tvg-id="dr-oz" tvg-logo="http://images.pluto.tv/channels/5fac43a40fe4ab0007f478ac/colorLogoPNG.png" group-title="EUA e Canadá: Pluto",Dr. Oz | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fac43a40fe4ab0007f478ac/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc9a97a3-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f22c8ec6-f96c-4438-b421-84428393ab6b&userId=&serverSideAds=true
 
@@ -3718,9 +3728,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d103f031154a4172
 
 #EXTINF:-1 tvg-id="pluto-tv-naturaleza" tvg-logo="http://images.pluto.tv/channels/5d8d10ce06a9665fe54bf74a/colorLogoPNG.png" group-title="EUA e Canadá: Pluto",Pluto TV Naturaleza | EUA 
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d10ce06a9665fe54bf74a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc96c713-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8b739946-b2b3-4418-bfbd-39dad5769bbc&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="pluto-tv-paranormal" tvg-logo="http://images.pluto.tv/channels/5adf96e3e738977e2c31cb04/colorLogoPNG.png" group-title="EUA e Canadá: Pluto",Pluto TV Paranormal | EUA
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5adf96e3e738977e2c31cb04/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc93e0e1-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=be986ed4-f548-41eb-bcde-45fe6f4dd7b8&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-id="pluto-tv-realities-esp" tvg-logo="http://images.pluto.tv/channels/5d93b4d71754e6a4298d086e/colorLogoPNG.png" group-title="EUA e Canadá: Pluto",Pluto TV Realities ESP | EUA 
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b4d71754e6a4298d086e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc96ee20-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0e1655cb-4d0a-4f43-b08d-dc7f4efa9301&userId=&serverSideAds=true
