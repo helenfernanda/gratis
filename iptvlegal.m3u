@@ -830,7 +830,11 @@ https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3866&p
 #EXTINF:-1 tvg-id="classic-tv-comedy" tvg-logo="http://images.pluto.tv/channels/5f15e32b297f96000768f928/colorLogoPNG.png" group-title="Seriados em inglês",Classic TV Comedy | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f15e32b297f96000768f928/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc98e9f8-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ffcf042d-173c-4e52-92da-c49fb1be0f85&userId=&serverSideAds=true
 
+<<<<<<< HEAD
 #EXTINF:-1 tvg-id="classic-tv-drama-ptv1" tvg-logo="http://images.pluto.tv/channels/5f15e3cccf49290007053c67/colorLogoPNG.png" group-title="Seriados em inglês",Classic TV Drama | EUA
+=======
+#EXTINF:-1 tvg-id="classic-tv-drama-ptv1" tvg-logo="http://images.pluto.tv/channels/5f15e3cccf49290007053c67/colorLogoPNG.png" group-title="Seridos em inglês",Classic TV Drama | EUA
+>>>>>>> 1aef6645cac02949a7f9c1d1da5534821b982b71
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f15e3cccf49290007053c67/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc991100-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=379106d0-fa57-4cc2-9030-99bf40a58be7&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-id="CBSAction.uk" tvg-name="CBS Action" tvg-logo="https://presentationarchive.com/cbsaction2017/left-c.jpg" group-title="Seriados em inglês",CBS Action | Filmon 🇺🇸
@@ -3545,6 +3549,13 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad8d4e7e
 #EXTINF:-1 tvg-id="5e9ed47c26ebb000074af566" tvg-logo="https://images.pluto.tv/channels/5e9ed47c26ebb000074af566/colorLogoPNG.png" group-title="Reino Unido: Pluto 🇬🇧",Sensing Murder | Reino Unido
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e9ed47c26ebb000074af566/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
+<<<<<<< HEAD
+=======
+#EXTINF:-1 tvg-id="5e735c6834d7d10007059790" tvg-logo="https://images.pluto.tv/channels/5e735c6834d7d10007059790/colorLogoPNG.png" group-title="Zicado",Slow TV | Reino Unido
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e735c6834d7d10007059790/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+
+>>>>>>> 1aef6645cac02949a7f9c1d1da5534821b982b71
 #EXTINF:-1 tvg-id="5c45f0427b2c0c065e91aab5" tvg-logo="https://images.pluto.tv/channels/5c45f0427b2c0c065e91aab5/colorLogoPNG.png" group-title="Reino Unido: Pluto 🇬🇧",The Asylum Channel | Reino Unido
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c45f0427b2c0c065e91aab5/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="5e393d5c696b3b0009775c8b" tvg-logo="https://images.pluto.tv/channels/5e393d5c696b3b0009775c8b/colorLogoPNG.png" group-title="Reino Unido: Pluto 🇬🇧",The New Detectives | Reino Unido
