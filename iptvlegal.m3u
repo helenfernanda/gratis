@@ -640,6 +640,9 @@ https://bad6f547d5364da0b2fe3080c5a48068.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K1kJf1s.png" group-title="Cinema em inglês",Maverick Black Cinema do Roku | EUA
 https://maverick-maverick-black-cinema-3.roku.wurl.com/manifest/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K1kJf1s.png" tvg-id="5e20b730f2f8d5003d739db7-5ef4e1b40d9ad000423c4427" group-title="Cinema em inglês" tvg-name="Midnight Pulp",Midnight Pulp | EUA
+https://midnightpulp-samsung.roku.wurl.com/manifest/playlist.m3u8
+
 #EXTINF:-1 tvg-id="movies-on-verizon" tvg-logo="http://images.pluto.tv/channels/5efb60a9e426140007c78e4b/colorLogoPNG.png" group-title="Cinema em inglês",Movies on Verizon | EUA 🇺🇸
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5efb60a9e426140007c78e4b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc98e9f0-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d37f4fa9-653a-47f2-851d-f7c9e1a8d0cb&userId=&serverSideAds=true
 
@@ -1015,6 +1018,9 @@ https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/4649&p
 
 #EXTINF:-1 tvg-id="rescue-911" tvg-logo="http://images.pluto.tv/channels/5f21e831e9fe730007706acb/colorLogoPNG.png" group-title="Seriados em inglês",Rescue 911 | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f21e831e9fe730007706acb/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc993810-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=5920fffa-acd3-494f-bba7-c0b6533bd3a6&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5ef4e1b40d9ad000423c442a" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/digitalmediarights_retrocrush_1.png" group-title="Seriados em inglês",RetroCrush | EUA
+https://45034ce1cbb7489ab1499301f6274415.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RetroCrush/playlist.m3u8?ads.wurl_channel=491&ads.wurl_name=RetroCrush&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=Tog8X6wK6iweuzGFsz6p&ads.plex_id=5ef4e1b40d9ad000423c442a&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
 
 #EXTINF:-1 tvg-id="rifftrax" tvg-logo="http://images.pluto.tv/channels/58d947b9e420d8656ee101ab/colorLogoPNG.png" group-title="Seriados em inglês",RiffTrax | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58d947b9e420d8656ee101ab/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc9344a5-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=cc4a8758-1641-4650-9d0b-e8b4b22a7afe&userId=&serverSideAds=true
@@ -2473,6 +2479,9 @@ https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3890?p
 #EXTINF:-1 tvg-name="MIS Televizija" tvg-id="mis.au" tvg-logo="https://i.imgur.com/XaXRbxj.png" group-title="Variedades em outros idiomas",MIS Televizija | Idioma sérvio
 https://5afd52b55ff79.streamlock.net/MISTV/_definst_/myStream/playlist.m3u8
 
+#EXTINF:-1 tvg-ID="5e20b730f2f8d5003d739db7-60d4edd7b2fdec002c14112d" tvg-logo="https://i.imgur.com/Z5t6cCe.jpg" group-title="Variedade em outros idioma" tvg-name="New K-ID",New K-ID | EUA | inglês e coreano
+https://b9860b21629b415987978bdbbfbc3095.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_NewKID/playlist.m3u8
+
 #EXTINF:-1 tvg-id="nuestra-vision" tvg-logo="http://images.pluto.tv/channels/5e6690befbdf780007f78158/colorLogoPNG.png" group-title="Variedades em outros idiomas",Nuestra Vision | EUA | Idioma espanhol
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6690befbdf780007f78158/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc97d880-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=26dab85a-c1e2-4023-9cde-864e1c0d5f94&userId=&serverSideAds=true
 
@@ -3349,20 +3358,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8df4bc16e34700077
 #EXTINF:-1 tvg-id="wings-ptv1" tvg-logo="http://images.pluto.tv/channels/5f7792f6e093980007e02945/colorLogoPNG.png" group-title="EUA e Canadá: Pluto",Wings | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f7792f6e093980007e02945/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc9a4986-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=979dba71-ddd6-421c-bd85-8f18e3ee7aef&userId=&serverSideAds=true
 
-
-
-########################################## EUA: Roku ###############################
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K1kJf1s.png" group-title="EUA: Roku 🇺🇸" tvg-name="",Midnight Pulp | EUA
-https://midnightpulp-samsung.roku.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/Z5t6cCe.jpg" group-title="EUA: Roku 🇺🇸" tvg-name="",New K-ID | EUA
-https://b9860b21629b415987978bdbbfbc3095.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_NewKID/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K1kJf1s.png" group-title="EUA: Roku 🇺🇸" tvg-name="Retro Crush | EUA",Retro Crush | EUA
-https://digitalmediarights-retrocrush-1.roku.wurl.com/manifest/playlist.m3u8
-
-############### França ##################################
 #EXTINF:-1 tvg-id="ARTE.fr" tvg-logo="https://play-lh.googleusercontent.com/2NW3hshNevDuVkpDfwNqiYc4Yz00nJxkKqO51U5Q94qeJ4blYAlw9H_7mFPhBl5TqyM" group-title="França 🇫🇷" tvg-name="Arte",Arte | França
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/1729?pprotocol=hls
 
