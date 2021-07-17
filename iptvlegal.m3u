@@ -633,7 +633,10 @@ https://d1h1d6qoy9vnra.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/hcLUKfv.jpg" group-title="Cinema em inglês" tvg-name="",Hallmark Movies & More | EUA
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K1kJf1s.png" group-title="Cinema em inglês",Maverick Black Cinema | EUA
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5ef4e1b40d9ad000423c4430" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/maverick_maverick_black_cinema_2.png" group-title="Cinema em inglês",Maverick Black Cinema do Plex | EUA
+https://bad6f547d5364da0b2fe3080c5a48068.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_MaverickBlackCinema/playlist.m3u8?ads.wurl_channel=527&ads.wurl_name=MaverickBlackCinema&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=Tog8X6wK6iweuzGFsz6p&ads.plex_id=5ef4e1b40d9ad000423c4430&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K1kJf1s.png" group-title="Cinema em inglês",Maverick Black Cinema do Roku | EUA
 https://maverick-maverick-black-cinema-3.roku.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-id="movies-on-verizon" tvg-logo="http://images.pluto.tv/channels/5efb60a9e426140007c78e4b/colorLogoPNG.png" group-title="Cinema em inglês",Movies on Verizon | EUA 🇺🇸
@@ -672,6 +675,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad8d3a31
 #EXTINF:-1 tvg-id="pluto-tv-westerns-ptv1" tvg-logo="http://images.pluto.tv/channels/5b4e94282d4ec87bdcbb87cd/colorLogoPNG.png" group-title="Cinema em inglês",Pluto TV Westerns  🇺🇸
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e94282d4ec87bdcbb87cd/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc945610-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=4e94c265-c1b2-4e2c-b6bd-6eaefd17125f&userId=&serverSideAds=true
 
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60089d8df682a3002c348297" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/popcornflix_logo_dark-v2.png" group-title="Cinema em inglês",Popcornflix
+https://popcornflix-plex.amagi.tv/hls/amagi_hls_data_crackleAA-popcornflix-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=Tog8X6wK6iweuzGFsz6p&channelId=60089d8df682a3002c348297&caid=2514449_RobertTheBruce_SMV_Eng-11198666-11198666-1920x1080&coppa=0
+
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f47b0b87cb6a400422f9146" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/runtime-logo.png" group-title="Cinema em inglês",RunTime
 https://ammoruntime-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-runtime-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=Tog8X6wK6iweuzGFsz6p&channelId=5f47b0b87cb6a400422f9146
 
@@ -706,6 +712,15 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e1efdbf9
 ################################################################################################
 ############ documentários em inglês ##############
 
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5efe1de4e0b3f5003f5d9f73" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/docurama.png" group-title="Documentários em inglês",Docurama
+https://docurama-plex.cinedigm.com/midroll/amagi_hls_data_xumo-host-docurama-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=Tog8X6wK6iweuzGFsz6p&channelId=5efe1de4e0b3f5003f5d9f73
+
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60a53634126de9002e694bc2" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/GoTraveler_logo_dark.png" group-title="Documentários em inglês",GoTraveler
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=703&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=Tog8X6wK6iweuzGFsz6p&content_series=60a53634126de9002e694bc2&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=Tog8X6wK6iweuzGFsz6p&custom_7=60a53634126de9002e694bc2
+
+#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-60a9d105d162b9002d05a60c" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/GoUSA_logo_dark_v3.png" group-title="Documentários em inglês",GoUSA TV
+https://a7ea429b0854458daac9f78715c8093f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_GoUSATV/playlist.m3u8?ads.wurl_channel=535&ads.wurl_name=GoUSATV&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=Tog8X6wK6iweuzGFsz6p&ads.plex_id=60a9d105d162b9002d05a60c&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
+
 #EXTINF:-1 tvg-name="Insight TV AU" tvg-id="insight.au" tvg-logo="https://i.imgur.com/gKNP2Gd.png" group-title="Documentários em inglês",Insight TV AU
 https://insighttv-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Introuble TV AU" tvg-id="introuble.au" tvg-logo="https://i.imgur.com/iVw55kC.png" group-title="Documentários em inglês",Introuble TV AU
@@ -714,7 +729,19 @@ https://introuble-samsungau.amagi.tv/playlist.m3u8
 https://inwild-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Inwonder TV AU" tvg-id="inwonder.au" tvg-logo="https://i.imgur.com/d3LshRd.png" group-title="Documentários em inglês",Inwonder TV AU
 https://inwonder-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K1kJf1s.png" group-title="Documentários em inglês" tvg-name="",Love Nature | EUA
+
+#EXTINF:-1 tvg-id="USBB600003MK" tvg-chno="1408" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/76/USBB600003MK_20210525T051552.png" group-title="Documentários em inglês",(The) Jack Hanna Channel | EUA 
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-litton-jackhannah-samsungus/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+
+#EXTINF:-1 tvg-id="USBB1000003HL" tvg-chno="1208" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/04/USBB1000003HL_20210525T051451.png" group-title="Documentários em inglês",Journy | EUA 
+https://d3lzjtrf5mvf3p.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Journy-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60995eb136c72d002da7bbcb" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/LoveNature_Logo_Dark.png" group-title="Documentários em inglês",Love Nature | EUA 
+https://lovenatureus-eng-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-bamus-lovenature-eng-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=Tog8X6wK6iweuzGFsz6p&channelId=60995eb136c72d002da7bbcb
+
+#EXTINF:-1 tvg-id="USBA3400003IP" tvg-chno="1404" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/81/USBA3400003IP_20210525T051505.png" group-title="Documentários em inglês",Love Nature 4K | EUA 
+https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+
 #EXTINF:-1 tvg-name="Outdoor Channel AU" tvg-id="outdoor.au" tvg-logo="https://i.imgur.com/mcUDAhZ.png" group-title="Documentários em inglês",Outdoor Channel AU
 https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
 
@@ -781,6 +808,9 @@ https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/2798?p
 #EXTINF:-1 tvg-id="rtdoc" tvg-logo="https://i.imgur.com/TYoMkWn.png" group-title="Documentários em inglês",RT Documentary Channel | Rússia
 https://rt-doc.secure.footprint.net/1101_1600Kb.m3u8
 
+#EXTINF:-1 tvg-id="USBA3000043LH" tvg-chno="1400" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/32/USBA3000043LH_20210525T051504.png" group-title="Documentários em inglês",Samsung Wild Life | EUA 
+https://d1vp12yk4i8ou5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/WildLife2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+
 #EXTINF:-1 tvg-name="Smithsonian Channel AU" tvg-id="Smithsonian.au" tvg-logo="https://i.imgur.com/weNdD7r.png" group-title="Documentários em inglês",Smithsonian Channel | Austrália
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 
@@ -813,6 +843,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d882d5233170007e
 
 #EXTINF:-1 tvg-id="xive-tv" tvg-logo="http://images.pluto.tv/channels/589aa03df9ba56a84197a560/colorLogoPNG.png" group-title="Documentários em inglês",Voyager Documentaries | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/589aa03df9ba56a84197a560/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc9344a3-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=125f613e-1ba2-484c-9430-237501c0b663&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="USBA430000220" tvg-chno="1407" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/04/60/USBA430000220_20210525T051550.png" group-title="Documentários em inglês",Xplore | EUA 
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-xplore-samsungus/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
 ########## Novelas em espanhol ###########
 
@@ -1076,6 +1109,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84f54a82f05300080
 #EXTINF:-1 tvg-id="bbc-food" tvg-logo="http://images.pluto.tv/channels/5fb5844bf5514d0007945bda/colorLogoPNG.png" group-title="Culinária em inglês",BBC Food | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fb5844bf5514d0007945bda/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc9a97a5-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=158550d2-4810-413b-8ff3-f7f25a4694c0&userId=&serverSideAds=true
 
+#EXTINF:-1 tvg-id="USAJ1700008H6" tvg-chno="1202" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/58/USAJ1700008H6_20210525T051543.png" group-title="Culinária em inglês",Bon Appétit | EUA
+https://bonappetit-samsung.amagi.tv/hls/amagi_hls_data_condenast-bonappetitsamsung/CDN/playlist.m3u8?device[did]=%7BPSID%7D&device[dnt]=%7BTARGETOPT%7D&us_privacy=1YNY&app_name=%7BAPP_NAME%7D
+
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f07e9fdf313eb0041bbecda" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/cooking-panda.png" group-title="Culinária em inglês",Cooking Panda
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=46&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=Tog8X6wK6iweuzGFsz6p&content_series=5f07e9fdf313eb0041bbecda&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=Tog8X6wK6iweuzGFsz6p&custom_7=5f07e9fdf313eb0041bbecda
 
@@ -1088,20 +1124,17 @@ https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/2915?p
 #EXTINF:-1 tvg-id="" tvg-name="Eco Rico" tvg-logo="https://static.filmon.com/theme/images/logo/filmon_facebook.png" group-title="Culinária em inglês",Eco Rico
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/710?pprotocol=hls
 
-#EXTINF:-1 tvg-id="food-tv" tvg-logo="http://images.pluto.tv/channels/5877ac8cb791f4eb4a140d81/colorLogoPNG.png" group-title="Culinária em inglês",Food TV | EUA
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5877ac8cb791f4eb4a140d81/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc931d94-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=32f960d9-a0a4-41ce-94d9-e22127cdf15d&userId=&serverSideAds=true
-
 #EXTINF:-1 tvg-id="FoodNetwork.uk" tvg-name="Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Food_Network_-_Logo_2016.png" group-title="Culinária em inglês",Food Network | Reino Unido
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/20?pprotocol=hls
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Food_Network_-_Logo_2016.png" tvg-id="FoodNetworkPlus1.uk" group-title="Culinária em inglês" tvg-name="Food Network+1",Food Network+1 | Reino Unido
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/1829&pprotocol=hls
 
+#EXTINF:-1 tvg-id="food-tv" tvg-logo="http://images.pluto.tv/channels/5877ac8cb791f4eb4a140d81/colorLogoPNG.png" group-title="Culinária em inglês",Food TV | EUA
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5877ac8cb791f4eb4a140d81/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc931d94-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=32f960d9-a0a4-41ce-94d9-e22127cdf15d&userId=&serverSideAds=true
+
 #EXTINF:-1 tvg-logo="https://static.filmon.com/theme/images/logo/filmon_facebook.png" tvg-id="" group-title="Culinária em inglês" tvg-name="Gastrolab TV",Gastrolab TV | EUA
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3005&pprotocol=hls
-
-#EXTINF:-1 tvg-logo="https://static.filmon.com/theme/images/logo/filmon_facebook.png" tvg-id="" group-title="Culinária em inglês" tvg-name="Indian Recipes",Indian Recipes 🇮🇳
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/2921&pprotocol=hls
 
 #EXTINF:-1 tvg-id="gordon-ramsays-hells-kitchen" tvg-logo="https://akns-images.eonline.com/eol_images/Entire_Site/2014213/rs_1024x759-140313084133-1024.hells-kitchen-gordon-ramsay.ls.31314.jpg?fit=around%7C1024:759&output-quality=90&crop=1024:759;center,top" group-title="Culinária em inglês",Gordon Ramsay's Hell's Kitchen | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e99f4423e067bd6df6903/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc945612-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d2385b8b-8a8b-486d-8323-d342c2815163&userId=&serverSideAds=true
@@ -1118,8 +1151,17 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c5c47f36
 #EXTINF:-1 tvg-id="5e6f38792075160007d85823" tvg-logo="https://pm1.narvii.com/6444/e1cbdb43f242738fa96311e318705067b4506ba3_hq.jpg" group-title="Culinária em inglês",Hell's Kitchen
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e6f38792075160007d85823/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
+#EXTINF:-1 tvg-id="USAJ2200009C2" tvg-chno="1206" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/20/USAJ2200009C2_20210525T051654.png" group-title="Culinária em inglês",Hungry | EUA 
+https://9bfce4d7d1834266b2953afe3deb1e8f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Hungry/playlist.m3u8?ads.wurl_channel=140&ads.wurl_name=Hungry&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+
 #EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple114/v4/28/b8/f1/28b8f1aa-ffe3-06c1-ba37-bccfac30a5a5/source/512x512bb.jpg" tvg-id="" group-title="Culinária em inglês" tvg-name="iFood TV",iFood TV | EUA
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/2918&pprotocol=hls
+
+#EXTINF:-1 tvg-logo="https://static.filmon.com/theme/images/logo/filmon_facebook.png" tvg-id="" group-title="Culinária em inglês" tvg-name="Indian Recipes",Indian Recipes 🇮🇳
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/2921&pprotocol=hls
+
+#EXTINF:-1 tvg-id="USBA3000042O6" tvg-chno="1000" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/50/USBA3000042O6_20210525T051452.png" group-title="Culinária em inglês",Kitchen Nightmares | EUA 
+https://d12hafsmzbqmzo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/KitchenNightmare2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
 #EXTINF:-1 tvg-id="5dbc297672961b0009f12e5b" tvg-logo="https://images.pluto.tv/channels/5dbc297672961b0009f12e5b/colorLogoPNG.png" group-title="Culinária em inglês",Pluto TV Cookalong | Reino Unido
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dbc297672961b0009f12e5b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
@@ -1440,6 +1482,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e9debf8c881310007d
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K1kJf1s.png" group-title="Game show em inglês" tvg-name="Game Show Central",Game Show Central do Roku | EUA
 https://gsn-gameshowchannnel-2.roku.wurl.com/manifest/playlist.m3u8
 
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc782" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/gsn_gameshowchannnel_1.png" group-title="Game show em inglês",Game Show Central do Plex | EUA
+https://ffcf6c437bec4f3988224ccfe150499d.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_GameShowCentral/playlist.m3u8?ads.wurl_channel=416&ads.wurl_name=GameShowCentral&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=Tog8X6wK6iweuzGFsz6p&ads.plex_id=5eea605574085f0040ddc782&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
+
 #EXTINF:-1 tvg-id="game-show-central" tvg-logo="http://images.pluto.tv/channels/5e54187aae660e00093561d6/colorLogoPNG.png" group-title="Game show em inglês",Game Show Central do Pluto | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e54187aae660e00093561d6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc97b176-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e7a61a72-2810-4284-9591-2fdf499ae2a3&userId=&serverSideAds=true
 
@@ -1456,6 +1501,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ea190ae8
 https://endemol-wipeoutxtra-1.roku.wurl.com/manifest/playlist.m3u8
 
 #################### Humor em inglês ###################
+
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5ef11486d33ab9004048a1cd" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/afv-family.png" group-title="Humor em inglês",AFV Family | EUA 
+https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8?ads.plex_token=Tog8X6wK6iweuzGFsz6p&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
 
 #EXTINF:-1 tvg-id="afv-tv" tvg-logo="http://images.pluto.tv/channels/5e82b55ad0213e00079c509f/colorLogoPNG.png" group-title="Humor em inglês",AFV TV | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e82b55ad0213e00079c509f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc97ff93-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dbfdfaf4-0d28-40f9-ba3e-9084c724f1b6&userId=&serverSideAds=true
@@ -1736,11 +1784,17 @@ https://494e639cacb24ad484819d7154a3f100.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 group-title="Kids em inglês" tvg-logo="https://static.filmon.com/assets/channels/3794/extra_big_logo.png",Kids Zone
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3794&pprotocol=hls
 
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc797" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/kidsflix.png" group-title="Kids em inglês",KidsFlix
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=Tog8X6wK6iweuzGFsz6p&content_series=5eea605574085f0040ddc797&custom4=plex&gdpr=0&device_make=&device_model=&coppa=1&us_privacy=1---&custom_6=Tog8X6wK6iweuzGFsz6p&custom_7=5eea605574085f0040ddc797
+
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/mMAO3P6.jpg" group-title="Kids em inglês" tvg-name="Kidoodle",Kidoodle | EUA
 http://kidoodletv-kdtv-3.roku.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.filmon.com/assets/channels/316/extra_big_logo.png" group-title="Kids em inglês",Kix!
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/316&pprotocol=hls
+
+#EXTINF:-1 tvg-id="USBA2300001S8" tvg-chno="1385" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/29/USBA2300001S8_20201028T004919.png" group-title="Kids em inglês",(The) LEGO Channel | EUA
+https://d34enhfsgjw5ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LEGO2-prod/mhls?appId=2&feedId=1120-v56&auth-token=1213111&version=sv7.0&deviceId=SDF543&deviceFwVer=4.99?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&coppa=1
 
 #EXTINF:-1 tvg-id="little-baby-bum" tvg-name="Little Baby Bum" tvg-logo="http://images.pluto.tv/channels/5eb301b7395671000780d100/colorLogoPNG.png" group-title="Kids em inglês",Little Baby Bum | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5eb301b7395671000780d100/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc9874c5-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bf0a4baf-d00c-46d2-abf7-51be14289df6&userId=&serverSideAds=true
@@ -1750,6 +1804,9 @@ https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/5726&p
 
 #EXTINF:-1 tvg-id="5dbc264e0451770009ed742f" tvg-logo="https://images.pluto.tv/channels/5dbc264e0451770009ed742f/colorLogoPNG.png" group-title="Kids em inglês",Mario vs. Sonic | Reino Unido
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dbc264e0451770009ed742f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-id="USBB11000015Q" tvg-chno="1383" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/07/13/USBB11000015Q_20210323T125515.png" group-title="Kids em inglês",Moonbug | EUA 
+https://d30kp0xfvvs2gr.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Moonbug-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&coppa=1
 
 #EXTINF:-1 tvg-id="naruto" tvg-name="Naruto" tvg-logo="http://images.pluto.tv/channels/5da0c85bd2c9c10009370984/colorLogoPNG.png" group-title="Kids em inglês",Naruto | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0c85bd2c9c10009370984/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc971530-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=fb25a686-bb60-4058-8b48-aeefd97f06b7&userId=&serverSideAds=true
@@ -1793,7 +1850,10 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad8d54be
 #EXTINF:-1 tvg-id="pluto-tv-kids-animation" tvg-logo="http://images.pluto.tv/channels/5db0ad56edc89300090d2ebb/colorLogoPNG.png" group-title="Kids em inglês",Pluto TV Kids Animation | EUA 
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc973c41-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=71c9993c-ec46-4bfb-8c21-2aca2e49eac1&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="pocketwatch" tvg-name="pocket.watch" tvg-logo="http://images.pluto.tv/channels/5dae0a40e8ee0d000975e99b/colorLogoPNG.png" group-title="Kids em inglês",pocket.watch | EUA 
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f91c4ea96a391002df9a661" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/pocketwatch-logo.png" group-title="Kids em inglês",pocket.watch do Plex | EUA
+https://f3445d6b0acf47dab6af7097fc57ce6d.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_PocketWatch/playlist.m3u8?ads.wurl_channel=272&ads.wurl_name=PocketWatch&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=Tog8X6wK6iweuzGFsz6p&ads.plex_id=5f91c4ea96a391002df9a661&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.coppa=1&ads.device_type=handset&ads.device_id_type=
+
+#EXTINF:-1 tvg-id="pocketwatch" tvg-name="pocket.watch" tvg-logo="http://images.pluto.tv/channels/5dae0a40e8ee0d000975e99b/colorLogoPNG.png" group-title="Kids em inglês",pocket.watch do Pluto | EUA 
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dae0a40e8ee0d000975e99b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc971534-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b65fb460-bc9c-4543-9d6a-9cb2c70223bb&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-name="Ryan and Friends AU" tvg-logo="https://i.imgur.com/M8VTWFk.jpg" group-title="Kids em inglês",Ryan and Friends | Austrália 🇦🇺
@@ -1810,6 +1870,9 @@ https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/5507&p
 
 #EXTINF:-1 group-title="Kids em inglês" tvg-logo="https://static.filmon.com/assets/channels/3263/extra_big_logo.png",Tayla's Toddler Toy Review
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3263&pprotocol=hls
+
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60d4edd7b2fdec002c141129" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/TokuSHOUTsu_logo_dark.png" group-title="Kids em inglês",TokuSHOUTsu do Plex | EUA
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00163-shoutfactory-tokushoutsu-plex/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=Tog8X6wK6iweuzGFsz6p&channelId=60d4edd7b2fdec002c141129
 
 #EXTINF:-1 tvg-id="tokushoutsu" tvg-logo="http://images.pluto.tv/channels/5c3f8f12a93c2d61b9990a4e/colorLogoPNG.png" group-title="Kids em inglês",TokuSHOUTsu do Pluto TV | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c3f8f12a93c2d61b9990a4e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc951960-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=821f2083-7899-4967-8ad2-b26d25e2ca90&userId=&serverSideAds=true
@@ -1848,7 +1911,6 @@ http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/mono.m3u8
 
 #EXTINF:-1 tvg-id="BoxHits.uk" tvg-name="Box Hits" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Box_hits.svg/1280px-Box_hits.svg.png" group-title="Música",Box Hits | Reino Unido
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/5947?pprotocol=hls
-
 
 #EXTINF:-1 tvg-id="" group-title="Música" tvg-name="BritRox" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWeckfObfyFWhe5JuPFGqaZgCiFyBSZXjg4RqleTMoxnlpG_wSOg3gOaRJjYdxQHUbZa0&usqp=CAU",BritRox
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3698&pprotocol=hls
@@ -1925,14 +1987,17 @@ https://5580b04771d94e5eb245830c5975eb77.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/62CjWTa.jpg" group-title="Música" tvg-name="Loop Hottest | EUA",Loop Hottest | EUA
 https://a0da9e6a83bc4a739ceb39f81766fce0.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_LoopHottest/playlist.m3u8
 
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60cab54031ae01002cf7bb31" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/loopmusicvideos_logo_dark.png" group-title="Música",Loop Music Videos
+https://loopmusic-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-loopmusic-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=Tog8X6wK6iweuzGFsz6p&channelId=60cab54031ae01002cf7bb31
+
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/62CjWTa.jpg" group-title="Música" tvg-name="Loop Party | EUA",Loop Party | EUA
 https://aa25f9002c724666a6e1e9402e78f94f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_LoopParty/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Loupe Brasil" tvg-id="loupe-br" tvg-logo="https://media-exp1.licdn.com/dms/image/C4D0BAQFyyXznCPCX5Q/company-logo_200_200/0/1519921044747?e=2159024400&v=beta&t=zG7sdc7PpRBdwxr00jP9ssNa_WfXxGLxPkvpeuKePlI" group-title="Música",Loupe Brasil
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/600b248969c6580007e91a2d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b24c9db0-8dd8-11eb-83c3-1ff76e6e06e9&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7a6e25a5-cd97-4493-beb5-5001da599dd1&userId=&serverSideAds=true
-
 #EXTINF:-1 tvg-name="Loupe Argentina" tvg-id="loupe-ar" tvg-logo="https://media-exp1.licdn.com/dms/image/C4D0BAQFyyXznCPCX5Q/company-logo_200_200/0/1519921044747?e=2159024400&v=beta&t=zG7sdc7PpRBdwxr00jP9ssNa_WfXxGLxPkvpeuKePlI" group-title="Música",Loupe Argentina
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ffcc38adbc38100073511f2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=98a3fd62-8e3f-11eb-9619-637dcb8e0f08&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a35b3c8a-7da4-45c8-99f2-06811ca4c06d&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-name="Loupe Brasil" tvg-id="loupe-br" tvg-logo="https://media-exp1.licdn.com/dms/image/C4D0BAQFyyXznCPCX5Q/company-logo_200_200/0/1519921044747?e=2159024400&v=beta&t=zG7sdc7PpRBdwxr00jP9ssNa_WfXxGLxPkvpeuKePlI" group-title="Música",Loupe Brasil
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/600b248969c6580007e91a2d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b24c9db0-8dd8-11eb-83c3-1ff76e6e06e9&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7a6e25a5-cd97-4493-beb5-5001da599dd1&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-name="Loupe EUA" tvg-id="loupe-eua" tvg-logo="https://media-exp1.licdn.com/dms/image/C4D0BAQFyyXznCPCX5Q/company-logo_200_200/0/1519921044747?e=2159024400&v=beta&t=zG7sdc7PpRBdwxr00jP9ssNa_WfXxGLxPkvpeuKePlI" group-title="Música",Loupe EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f0cb39b4ae1f80007bad585/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc98e9f5-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=99bbe6a5-becc-4f1b-8af9-bb8f6923faf9&userId=&serverSideAds=true
@@ -1958,6 +2023,14 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=489&live=1&app_bundle=com.
 #EXTINF:-1 tvg-id="classica.eua" tvg-name="Pluto Clássica EUA" tvg-logo="http://images.pluto.tv/channels/5f779951372da90007fd45e8/colorLogoPNG.png" group-title="Música",Pluto Clássica EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f779951372da90007fd45e8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c8a2ca3-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d0c6b789-884d-4edf-bde4-b9619b8ad48c&userId=&serverSideAds=true
 
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60aeb06487f9b1002ce1231b" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/qwesttv-classical_channel_logo_dark.png" group-title="Música",QwestTV Classical
+https://qwest-classic-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-qwest-classic-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=Tog8X6wK6iweuzGFsz6p&channelId=60aeb06487f9b1002ce1231b
+
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60b0f65c0c8ffb002c821a75" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/qwesttv-jazz&beyond_channel_logo_dark.png" group-title="Música",QwestTV Jazz & Beyond
+https://qwest-jazz-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-qwest-jazz-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=Tog8X6wK6iweuzGFsz6p&channelId=60b0f65c0c8ffb002c821a75
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60b0f65c0c8ffb002c821a77" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/qwesttv-mix_channel_logo_dark.png" group-title="Música",QwestTV Mix
+https://qwest-mix-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-qwest-mix-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=Tog8X6wK6iweuzGFsz6p&channelId=60b0f65c0c8ffb002c821a77
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWeckfObfyFWhe5JuPFGqaZgCiFyBSZXjg4RqleTMoxnlpG_wSOg3gOaRJjYdxQHUbZa0&usqp=CAU" group-title="Música" tvg-name="Road2Fame",Road2Fame
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3347&pprotocol=hls
 
@@ -1966,6 +2039,9 @@ https://tls.cdnz.cl/rewindtv/rewindtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="pluto-tv-shows-por-stingray" tvg-logo="https://images.pluto.tv/channels/604b91e0692f770007d9f33f/featuredImage.jpg" group-title="Música",Shows por Stingray | Brasil
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/604b91e0692f770007d9f33flivestitch/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=e61e81d1-c6d5-4eea-a605-2651410462b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3bf99bf4-e584-11eb-a5e5-0242ac110002&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5fe27da28c198b002d179199" tvg-logo="https://provider-static.plex.tv/2/epg/channels/logos/gracenote/22bd0a5841518ba9a43be20dc200bd10.png" group-title="Música",Stingray Qello
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=568&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=Tog8X6wK6iweuzGFsz6p&content_series=5fe27da28c198b002d179199&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=Tog8X6wK6iweuzGFsz6p&custom_7=5fe27da28c198b002d179199
 
 #EXTINF:-1 tvg-id="" group-title="Música" tvg-name="Talent Watch" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWeckfObfyFWhe5JuPFGqaZgCiFyBSZXjg4RqleTMoxnlpG_wSOg3gOaRJjYdxQHUbZa0&usqp=CAU",Talent Watch
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/4706&pprotocol=hls
@@ -2067,7 +2143,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56283c8769ba54637de
 #EXTINF:-1 tvg-id="cnet.eua" tvg-name="c|net EUA" tvg-logo="http://images.pluto.tv/channels/56283c8769ba54637dea0464/colorLogoPNG.png" group-title="Notícias em inglês",c|net EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56283c8769ba54637dea0464/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc928153-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=956807c1-c826-4518-b9c8-6df19cdc2575&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="cbsnews" tvg-name="CBS News" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51UjITm0Z-L.png" group-title="Notícias em inglês",CBS News
+#EXTINF:-1 tvg-id="cbsnews" tvg-name="CBS News" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51UjITm0Z-L.png" group-title="Notícias em inglês",CBS News | EUA 
 https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_11.m3u8
 
 #EXTINF:-1 tvg-id="cbsn-2" tvg-name="CBSN 2" tvg-logo="http://images.pluto.tv/channels/5a6b92f6e22a617379789618/colorLogoPNG.png" group-title="Notícias em inglês",CBSN 2
@@ -2130,6 +2206,9 @@ https://euronews-euronews-world-1.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="euronews.au" tvg-name="Euronews" tvg-logo="https://i.imgur.com/szYOy8S.jpg" group-title="Notícias em inglês",Euronews | Austrália 🇦🇺
 https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
 
+#EXTINF:-1 tvg-id="USBA300024TN" tvg-chno="1006" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/97/USBA300024TN20200730102745.png" group-title="Notícias em inglês",FOX News NOW | EUA 
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-fox-newsnow-samsung/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+
 #EXTINF:-1 tvg-id="FRANCE24.en" tvg-name="France 24 | Inglês" tvg-logo="https://imgur.com/Tj0KCYI.png" tvg-shift="0" group-title="Notícias em inglês",France 24 em inglês | Inglês
 http://static.france24.com/live/F24_EN_LO_HLS/live_ios.m3u8
 
@@ -2185,6 +2264,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5331d5fb753499095a0
 
 #EXTINF:-1 tvg-id="tyt-network.eua" tvg-logo="http://images.pluto.tv/channels/5331d5fb753499095a00045a/colorLogoPNG.png" group-title="Notícias em inglês",TYT | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5331d5fb753499095a00045a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc91be01-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=239af27b-fd86-49b4-9590-a7b51c7e9b90&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="USBB1500001GD" tvg-chno="1023" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/40/USBB1500001GD_20210622T090612.png" group-title="Notícias em inglês",USA Today | EUA 
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/usatoday-usatodaynews-samsungus/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 
 #EXTINF:-1 tvg-id="weather-nation" tvg-name="WeatherNation EUA" tvg-logo="http://images.pluto.tv/channels/5bdce04659ee03633e758130/colorLogoPNG.png" group-title="Notícias em inglês",Weather Nation | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bdce04659ee03633e758130/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc94cb43-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=28d59b7e-e3fd-4337-838d-dc0e7091a5de&userId=&serverSideAds=true
@@ -2366,6 +2448,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5bd7fb15c9a300077
 
 #EXTINF:-1 tvg-id="gamespot" tvg-logo="http://images.pluto.tv/channels/5f186626dcd00d0007936443/colorLogoPNG.png" group-title="Videogame",GameSpot | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f186626dcd00d0007936443/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc991102-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6ecb36e8-d680-49e3-a904-14ec1e90c75b&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-605cc6ca6858f7002ca38f92" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/GameToon_logo_dark.png" group-title="Videogame",Gametoon
+https://gametoon-plex.amagi.tv/hls/amagi_hls_data_xumo-host-gametoon-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=Tog8X6wK6iweuzGFsz6p&channelId=605cc6ca6858f7002ca38f92
 
 #EXTINF:-1 tvg-id="gaming-tv-fr" tvg-logo="http://images.pluto.tv/channels/5f8eccd81062c300078a11df/colorLogoPNG.png" group-title="Videogame",Gaming TV | França
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8eccd81062c300078a11df/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=dda4a0c2-6a6f-11eb-8380-d53d31dd7908&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e162ea5a-ce97-4c8c-81c3-64c901aacc1a&userId=&serverSideAds=true
