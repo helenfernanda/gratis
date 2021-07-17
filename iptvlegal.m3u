@@ -389,18 +389,20 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dc1cb279c91420009d
 #EXTINF:-1 tvg-id="5db04c9eedc89300090d2884" tvg-logo="https://images.pluto.tv/channels/5db04c9eedc89300090d2884/colorLogoPNG.png" group-title="Casa e decoração em inglês",Pluto TV Home | Reino Unido 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db04c9eedc89300090d2884/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VrZkqvM.png" group-title="Casa e decoração em inglês" tvg-name="The Design Network | EUA",The Design Network | EUA
-https://thedesignnetwork-tdn-2.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f0641d3e8ffda004033b16e" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/thedesignnetwork_tdn_5.png" group-title="Casa e decoração em inglês",The Design Network do Plex | EUA
+https://9215cc5c363c4ed297905b3ca9195080.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_TheDesignNetwork-2/playlist.m3u8?ads.wurl_channel=553&ads.wurl_name=TheDesignNetwork&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=zhVJhkYiviQfYuzKS--y&ads.plex_id=5f0641d3e8ffda004033b16e&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
 
-#EXTINF:-1 tvg-id="tiny-house-nation" tvg-logo="https://images.pluto.tv/channels/601a0342dcf4370007566891/featuredImage.jpg" group-title="Casa e decoração em inglês",Tiny House Nation | EUA
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/601a0342dcf4370007566891/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc9678f2-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=cec3474e-9d21-4955-8b61-315f126c29ba&userId=&serverSideAds=true
-
-
-#EXTINF:-1 tvg-id="the-design-network" tvg-logo="https://images.pluto.tv/channels/5f4ff8c8bcf3d600078af3eb/featuredImage.jpg" group-title="Casa e decoração em inglês",The Design Network | EUA
+#EXTINF:-1 tvg-id="the-design-network" tvg-logo="https://images.pluto.tv/channels/5f4ff8c8bcf3d600078af3eb/featuredImage.jpg" group-title="Casa e decoração em inglês",The Design Network do Pluto | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4ff8c8bcf3d600078af3eblivestitch/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc9678f2-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=cec3474e-9d21-4955-8b61-315f126c29ba&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VrZkqvM.png" group-title="Casa e decoração em inglês" tvg-name="The Design Network | EUA",The Design Network do Roku | EUA
+https://thedesignnetwork-tdn-2.roku.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-id="this-old-house" tvg-logo="http://images.pluto.tv/channels/5d51e791b7dba3b2ae990ab2/colorLogoPNG.png" group-title="Casa e decoração em inglês",This Old House | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d51e791b7dba3b2ae990ab2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc9678f2-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=cec3474e-9d21-4955-8b61-315f126c29ba&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="tiny-house-nation" tvg-logo="https://images.pluto.tv/channels/601a0342dcf4370007566891/featuredImage.jpg" group-title="Casa e decoração em inglês",Tiny House Nation | EUA
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/601a0342dcf4370007566891/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc9678f2-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=cec3474e-9d21-4955-8b61-315f126c29ba&userId=&serverSideAds=true
 
 ########### casa e decoração em outros idiomas ############################
 
@@ -704,9 +706,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e1efdbf9
 ################################################################################################
 ############ documentários em inglês ##############
 
-#EXTINF:-1 tvg-id="ForcesTV.uk" tvg-logo="https://www.freeview.co.uk/sites/default/files/styles/255_wide/public/2019-10/ForcesTV-logo-255x140.png" group-title="Documentários em inglês" tvg-name="Forces TV",Forces TV | Reino Unido
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3386&pprotocol=hls
-
 #EXTINF:-1 tvg-name="Insight TV AU" tvg-id="insight.au" tvg-logo="https://i.imgur.com/gKNP2Gd.png" group-title="Documentários em inglês",Insight TV AU
 https://insighttv-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Introuble TV AU" tvg-id="introuble.au" tvg-logo="https://i.imgur.com/iVw55kC.png" group-title="Documentários em inglês",Introuble TV AU
@@ -779,7 +778,7 @@ https://lds-realstories-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Really.uk" tvg-name="Really" tvg-logo="https://static.filmon.com/assets/channels/2798/extra_big_logo.png" group-title="Documentários em inglês",Really | Reino Unido
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/2798?pprotocol=hls
 
-#EXTINF:-1 tvg-id="rtdoc" tvg-logo="https://i.imgur.com/TYoMkWn.png" group-title="Documentários em inglês",RT Documentary Channel
+#EXTINF:-1 tvg-id="rtdoc" tvg-logo="https://i.imgur.com/TYoMkWn.png" group-title="Documentários em inglês",RT Documentary Channel | Rússia
 https://rt-doc.secure.footprint.net/1101_1600Kb.m3u8
 
 #EXTINF:-1 tvg-name="Smithsonian Channel AU" tvg-id="Smithsonian.au" tvg-logo="https://i.imgur.com/weNdD7r.png" group-title="Documentários em inglês",Smithsonian Channel | Austrália
@@ -787,6 +786,15 @@ https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="smithsonian-channel-selects" tvg-logo="http://images.pluto.tv/channels/5f21ea08007a49000762d349/colorLogoPNG.png" group-title="Documentários em inglês",Smithsonian Channel Selects | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f21ea08007a49000762d349/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc993812-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=175bfa02-3c92-450e-9680-60a5bbfbc499&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kFJ3Qa4.png" group-title="Documentários em inglês" tvg-name="Skills + Thrills Channel 1 | EUA",Skills + Thrills Channel 1 | EUA
+https://aenetworks-skills-thrills-1.plex.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kFJ3Qa4.png" group-title="Documentários em inglês" tvg-name="Skills + Thrills Channel 2 | EUA",Skills + Thrills Channel 2 | EUA
+https://aenetworks-skills-thrills-1.roku.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kFJ3Qa4.png" group-title="Documentários em inglês" tvg-name="Skills + Thrills Channel 3 | EUA",Skills + Thrills Channel 3 | EUA
+https://aenetworks-skills-thrills-1.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-id="travelxp.au" tvg-name="Travel XP AU" tvg-logo="https://i.imgur.com/6V48LwT.jpg" group-title="Documentários em inglês",Travel XP | Austrália
 https://travelxp-travelxp-1-au.samsung.wurl.com/manifest/playlist.m3u8
@@ -805,6 +813,26 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d882d5233170007e
 
 #EXTINF:-1 tvg-id="xive-tv" tvg-logo="http://images.pluto.tv/channels/589aa03df9ba56a84197a560/colorLogoPNG.png" group-title="Documentários em inglês",Voyager Documentaries | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/589aa03df9ba56a84197a560/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc9344a3-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=125f613e-1ba2-484c-9430-237501c0b663&userId=&serverSideAds=true
+
+########## Novelas em espanhol ###########
+
+#EXTINF:-1 tvg-id="pluto-tv-novelas" tvg-logo="https://imgur.com/0IPigWA.png" group-title="Novelas em espanhol",Novelas | Argentina
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde0cc2efd2700090b7ff4/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff02782-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=22b78acb-0a00-4b76-bfa7-4f50b2916c32&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="5dcde0cc2efd2700090b7ff4" tvg-logo="https://images.pluto.tv/channels/5dcde0cc2efd2700090b7ff4/colorLogoPNG.png" group-title="Novelas em espanhol",Novelas | México
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde0cc2efd2700090b7ff4/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=e61e81d1-c6d5-4eea-a605-2651410462b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3bf99bf4-e584-11eb-a5e5-0242ac110002&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="novelas-drama" tvg-logo="http://images.pluto.tv/channels/5e84dbf4a838b60007ffbba1/colorLogoPNG.png" group-title="Novelas em espanhol",Novelas Drama | EUA
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84dbf4a838b60007ffbba1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc97ff96-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8cedea0a-6879-4563-9cc9-1719a448805e&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="novelas-romance" tvg-logo="http://images.pluto.tv/channels/5e84db2db3851800077c871e/colorLogoPNG.png" group-title="Novelas em espanhol",Novelas Romance | EUA
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84db2db3851800077c871e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc97ff95-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=42a55f6c-fdaf-4e87-afaa-cd701e20b6fa&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="novelas-thriller" tvg-logo="http://images.pluto.tv/channels/5e84dc59026b9b000766f9a2/colorLogoPNG.png" group-title="Novelas em espanhol",Novelas Suspense | EUA
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84dc59026b9b000766f9a2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc9826a0-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ccbab69c-ca70-449b-b556-2d78f157d377&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="telemundo-telenovelas-clasicas-ptv1" tvg-logo="http://images.pluto.tv/channels/5cf96cc422df39f1a338d165/colorLogoPNG.png" group-title="Novelas em espanhol",Telemundo Telenovelas Clásicas | EUA
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc95b5a3-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e1f8d7f0-1bdb-4cba-bfee-8803af11e15c&userId=&serverSideAds=true
 
 ####################################################################################################################################################################################################################################### Seriados em inglês ###################
 #EXTINF:-1 tvg-id="90210" tvg-logo="http://images.pluto.tv/channels/5f4d83e0a382c00007bc02e7/colorLogoPNG.png" group-title="Seriados em inglês",90210: Barrados no Baile | EUA 🇺🇸
@@ -977,9 +1005,6 @@ https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/5582&p
 #EXTINF:-1 tvg-id="antiques-roadshow-uk" tvg-logo="http://images.pluto.tv/channels/5ce44810b421747ae467b7cd/colorLogoPNG.png" group-title="Compras em inglês",Antiques Roadshow | Reino Unido
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ce44810b421747ae467b7cd/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc958e92-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=43f8fc30-39de-4276-aa43-96073e7869e4&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="5ede45d077746000072be0fe" group-title="Compras em alemão" tvg-name="Auction Hunters - Alemanha" tvg-logo="https://images.pluto.tv/channels/5ede45d077746000072be0fe/colorLogoPNG.png",Auction Hunters | Alemanha
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ede45d077746000072be0fe/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-
 #EXTINF:-1 tvg-id="5e4bba36e4644300098cd0bb" tvg-logo="https://images.pluto.tv/channels/5e4bba36e4644300098cd0bb/colorLogoPNG.png" group-title="Compras em inglês",Auction Kings | Reino Unido
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e4bba36e4644300098cd0bb/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
@@ -1000,6 +1025,16 @@ https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3575&p
 
 #EXTINF:-1 tvg-id="tvsn.au" tvg-name="TVSN AU" tvg-logo="https://i.imgur.com/TuHnkxP.png" group-title="Compras em inglês",TVSN | Austrália 
 https://tvsn-i.akamaihd.net/hls/live/261837/tvsn/tvsn_750.m3u8
+
+############
+############ compras em outros idiomas ##############
+###########
+
+#EXTINF:-1 tvg-id="5ede45d077746000072be0fe" group-title="Compras em outros idiomas" tvg-name="Auction Hunters - Alemanha" tvg-logo="https://images.pluto.tv/channels/5ede45d077746000072be0fe/colorLogoPNG.png",Auction Hunters | Alemanha
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ede45d077746000072be0fe/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-logo="https://static.filmon.com/theme/images/logo/filmon_facebook.png" tvg-id="" group-title="Compras em outros idiomas" tvg-name="Teos TV",Teos TV | Itália
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3359&pprotocol=hls
 
 ################################## Culinária em espanhol ###########################
 
@@ -1635,7 +1670,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ecc1b37867f00071
 
 ################# Kids em inglês ###################
 
-
 #EXTINF:-1 tvg-id="after-school-cartoons" tvg-logo="http://images.pluto.tv/channels/56171fafada51f8004c4b40f/colorLogoPNG.png" group-title="Kids em inglês",After School Cartoons | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56171fafada51f8004c4b40f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc925a43-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=4a13fc8e-17c6-4453-9800-086b4d7b4cad&userId=&serverSideAds=true
 
@@ -2187,21 +2221,6 @@ https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_18
 https://stream-01.nyc.dailymotion.com/sec(8lOMYwOWJB0kD-8STcdDUHgqhulIXEZtfjzKdKviBcQ)/dm/3/x7yb4xm/s/live-1.m3u8
 
 
-
-########## Novelas em espanhol ###########
-#EXTINF:-1 tvg-id="novelas-drama" tvg-logo="http://images.pluto.tv/channels/5e84dbf4a838b60007ffbba1/colorLogoPNG.png" group-title="Novelas em espanhol 👩‍❤️‍💋‍👨",Novelas Drama | EUA
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84dbf4a838b60007ffbba1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc97ff96-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8cedea0a-6879-4563-9cc9-1719a448805e&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="novelas-romance" tvg-logo="http://images.pluto.tv/channels/5e84db2db3851800077c871e/colorLogoPNG.png" group-title="Novelas em espanhol 👩‍❤️‍💋‍👨",Novelas Romance | EUA
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84db2db3851800077c871e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc97ff95-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=42a55f6c-fdaf-4e87-afaa-cd701e20b6fa&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="novelas-thriller" tvg-logo="http://images.pluto.tv/channels/5e84dc59026b9b000766f9a2/colorLogoPNG.png" group-title="Novelas em espanhol 👩‍❤️‍💋‍👨",Novelas Suspense | EUA
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84dc59026b9b000766f9a2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc9826a0-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ccbab69c-ca70-449b-b556-2d78f157d377&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="telemundo-telenovelas-clasicas-ptv1" tvg-logo="http://images.pluto.tv/channels/5cf96cc422df39f1a338d165/colorLogoPNG.png" group-title="Novelas em espanhol 👩‍❤️‍💋‍👨",Telemundo Telenovelas Clásicas | EUA
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc95b5a3-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e1f8d7f0-1bdb-4cba-bfee-8803af11e15c&userId=&serverSideAds=true
-
-
 ######### variedades em inglês  #############
 
 #EXTINF:-1 tvg-name="ABC Adelaide AU" tvg-id="" tvg-logo="https://i.imgur.com/rLCHYCs.png" group-title="Variedades em inglês",ABC Adelaide | Austrália
@@ -2240,6 +2259,9 @@ https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/2?ppro
 
 #EXTINF:-1 tvg-id="Channel5.uk" tvg-name="Channel 5" tvg-logo="https://static.next-episode.net/tv-shows-images/huge/channel-5-uk-documentaries.jpg" group-title="Variedades em inglês",Channel 5
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/22?pprotocol=hls
+
+#EXTINF:-1 tvg-id="ForcesTV.uk" tvg-logo="https://www.freeview.co.uk/sites/default/files/styles/255_wide/public/2019-10/ForcesTV-logo-255x140.png" group-title="Variedades em inglês" tvg-name="Forces TV",Forces TV | Reino Unido
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3386&pprotocol=hls
 
 #EXTINF:-1 tvg-id="ITV1London.uk" tvg-name="itv" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhZGzYBPp6VnmunMtgGbKkG1bqRMBm8i5IHE55Ndg=s900-c-k-c0x00ffffff-no-rj" group-title="Variedades em inglês",itv | Reino Unido
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/11?pprotocol=hls
@@ -2297,7 +2319,7 @@ https://5afd52b55ff79.streamlock.net/MISTV/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="nuestra-vision" tvg-logo="http://images.pluto.tv/channels/5e6690befbdf780007f78158/colorLogoPNG.png" group-title="Variedades em outros idiomas",Nuestra Vision | EUA | Idioma espanhol
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6690befbdf780007f78158/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc97d880-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=26dab85a-c1e2-4023-9cde-864e1c0d5f94&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-name="Once" tvg-id="once" tvg-logo="https://i.imgur.com/j1Pkdfe.png" group-title="Variedades em outros idiomas",Once | México | Idioma espanhol
+#EXTINF:-1 tvg-name="Once" tvg-id="once" tvg-logo="https://i.imgur.com/21y9wac.png" group-title="Variedades em outros idiomas",Once | México | Idioma espanhol
 https://live2.canaloncelive.tv/oncemx/smil:oncemx.smil/chunklist_w539276902_b1300000_slesp.m3u8
 
 #EXTINF:-1 tvg-name="Rialto" tvg-logo="https://i.imgur.com/RnzWT9C.jpg" group-title="Variedades em inglês",Rialto | Nova Zelândia
@@ -2312,8 +2334,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de91cf02fc07c00099
 #EXTINF:-1 tvg-id="5de91cf02fc07c0009910465" tvg-logo="https://images.pluto.tv/channels/5de91cf02fc07c0009910465/colorLogoPNG.png" group-title="Variedades em outros idiomas",Telefe Clásico México
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de91cf02fc07c0009910465/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 
-#EXTINF:-1 tvg-logo="https://static.filmon.com/theme/images/logo/filmon_facebook.png" tvg-id="" group-title="Variedades em outros idiomas" tvg-name="Teos TV",Teos TV | Itália
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3359&pprotocol=hls
 
 ################### Videogame ###############
 
@@ -2564,12 +2584,8 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddfbdb7cf0e0009a
 
 ###################################### Entretenimiento ###########################################################
 
-#EXTINF:-1 tvg-id="pluto-tv-novelas" tvg-logo="https://imgur.com/0IPigWA.png" group-title="Argentina: Pluto 🇦🇷",Pluto TV Novelas
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde0cc2efd2700090b7ff4/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff02782-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=22b78acb-0a00-4b76-bfa7-4f50b2916c32&userId=&serverSideAds=true
-
 #EXTINF:-1 tvg-id="pluto-tv-series" tvg-logo="https://imgur.com/KB1hXsY.png" group-title="Argentina: Pluto 🇦🇷",Pluto TV Series
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde1317578340009b751d0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff04e90-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7937749a-cec8-47cd-b6d9-43b0c4fea6c8&userId=&serverSideAds=true
-
 
 #EXTINF:-1 tvg-id="pluto-tv-competencias" tvg-logo="https://imgur.com/QE7tyFh.png" group-title="Argentina: Pluto 🇦🇷",Pluto TV  Competencias
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6d935d000120009bc1132/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff0ead0-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6c3600a0-cf5d-4708-b2b3-adcada18c483&userId=&serverSideAds=true
@@ -3131,9 +3147,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d81607ab737153ea3c
 #EXTINF:-1 tvg-id="the-asylum" tvg-logo="http://images.pluto.tv/channels/591105034c1806b47438342c/colorLogoPNG.png" group-title="EUA e Canadá: Pluto",The Asylum | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/591105034c1806b47438342c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc936bb0-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=613d39e5-536b-4e4d-b35f-fcd603b93cf4&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="the-design-network" tvg-logo="http://images.pluto.tv/channels/5f4ff8c8bcf3d600078af3eb/colorLogoPNG.png" group-title="EUA e Canadá: Pluto",The Design Network | EUA
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4ff8c8bcf3d600078af3eb/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc99fb63-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ad710ed7-b34b-4592-9ae7-5dbd4e831378&userId=&serverSideAds=true
-
 #EXTINF:-1 tvg-id="the-love-boat" tvg-logo="http://images.pluto.tv/channels/5f7794a788d29000079d2f07/colorLogoPNG.png" group-title="EUA e Canadá: Pluto",The Love Boat | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f7794a788d29000079d2f07/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc9a7091-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9cc735ae-6db9-4e78-8bed-a35dbcf21939&userId=&serverSideAds=true
 
@@ -3191,15 +3204,6 @@ https://b9860b21629b415987978bdbbfbc3095.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K1kJf1s.png" group-title="EUA: Roku 🇺🇸" tvg-name="Retro Crush | EUA",Retro Crush | EUA
 https://digitalmediarights-retrocrush-1.roku.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kFJ3Qa4.png" group-title="EUA: Roku 🇺🇸" tvg-name="Skills + Thrills Channel 1 | EUA",Skills + Thrills Channel 1 | EUA
-https://aenetworks-skills-thrills-1.plex.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kFJ3Qa4.png" group-title="EUA: Roku 🇺🇸" tvg-name="Skills + Thrills Channel 2 | EUA",Skills + Thrills Channel 2 | EUA
-https://aenetworks-skills-thrills-1.roku.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kFJ3Qa4.png" group-title="EUA: Roku 🇺🇸" tvg-name="Skills + Thrills Channel 3 | EUA",Skills + Thrills Channel 3 | EUA
-https://aenetworks-skills-thrills-1.samsung.wurl.com/manifest/playlist.m3u8
 
 ############### França ##################################
 #EXTINF:-1 tvg-id="ARTE.fr" tvg-logo="https://play-lh.googleusercontent.com/2NW3hshNevDuVkpDfwNqiYc4Yz00nJxkKqO51U5Q94qeJ4blYAlw9H_7mFPhBl5TqyM" group-title="França 🇫🇷" tvg-name="Arte",Arte | França
@@ -3382,8 +3386,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde27ffae9520009
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde2f53449c50009b2b4dc/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 #EXTINF:-1 tvg-id="5dd85eac039bba0009e86d1d" tvg-logo="https://images.pluto.tv/channels/5dd85eac039bba0009e86d1d/colorLogoPNG.png" group-title="México: Pluto 🇲🇽",Pluto TV Naturaleza MX
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd85eac039bba0009e86d1d/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-#EXTINF:-1 tvg-id="5dcde0cc2efd2700090b7ff4" tvg-logo="https://images.pluto.tv/channels/5dcde0cc2efd2700090b7ff4/colorLogoPNG.png" group-title="México: Pluto 🇲🇽",Pluto TV Novelas México
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde0cc2efd2700090b7ff4/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+
 #EXTINF:-1 tvg-id="5e98b0447665f200078caded" tvg-logo="https://images.pluto.tv/channels/5e98b0447665f200078caded/colorLogoPNG.png" group-title="México: Pluto 🇲🇽",Pluto TV Peleas México
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e98b0447665f200078caded/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 #EXTINF:-1 tvg-id="5dcde197f6591d0009839e04" tvg-logo="https://images.pluto.tv/channels/5dcde197f6591d0009839e04/colorLogoPNG.png" group-title="México: Pluto 🇲🇽",Pluto TV Reality México
