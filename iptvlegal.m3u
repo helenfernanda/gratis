@@ -225,9 +225,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f9b096236af340008d
 #EXTINF:-1 tvg-id="nosey-escandalos-ptv2" tvg-logo="https://images.pluto.tv/channels/5f9b05a99547eb0007676b02/featuredImage.jpg?w=300" group-title="Brasil: Pluto 🇧🇷" tvg-name="Nosey Escândalos",Nosey Escândalos | Brasil 
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f9b05a99547eb0007676b02/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=0651cfd7-3dba-4a55-99ce-263e1c29297a&clientModelNumber=na&deviceDNT=false&deviceId=0651cfd7-3dba-4a55-99ce-263e1c29297a&deviceLat=-16.6391&deviceLon=-49.2622&deviceMake=Opera&deviceModel=web&deviceType=web&deviceVersion=73.0.3856.421&marketingRegion=BR&serverSideAds=true&sessionID=f913e75f-9703-11eb-8cd8-0242ac110002&sid=f913e75f-9703-11eb-8cd8-0242ac110002&userId= 
 
-#EXTINF:-1 tvg-id="pluto-tv-paisagens-por-stingray" tvg-logo="https://i.imgur.com/of2VOTj.png" group-title="Brasil: Pluto 🇧🇷",Paisagens por Stingray | Brasil 
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/604a8dedbca75b0007b1c753livestitch/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=e61e81d1-c6d5-4eea-a605-2651410462b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d6cc25d6-e662-11eb-8628-0242ac110003&userId=&serverSideAds=true
-
 #EXTINF:-1 tvg-id="people-are-awesome-ptv1" tvg-logo="https://imgur.com/y0Kdqtm.png" group-title="Brasil: Pluto 🇧🇷",People are Awesome | Brasil
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f515d080e738d000739e19c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=e61e81d1-c6d5-4eea-a605-2651410462b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d6cc25d6-e662-11eb-8628-0242ac110003&userId=&serverSideAds=true
 
@@ -2244,14 +2241,14 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f68f53eb1e58000073
 #EXTINF:-1 tvg-id="" group-title="Música" tvg-name="Country Star" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWeckfObfyFWhe5JuPFGqaZgCiFyBSZXjg4RqleTMoxnlpG_wSOg3gOaRJjYdxQHUbZa0&usqp=CAU",Country Star
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3008&pprotocol=hls
 
-#EXTINF:-1 tvg-id="GBBA15000034L" tvg-chno="4457" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/05/GBBA15000034L_20210609T004621.png" group-title="Música",Deluxe Lounge HD | Reino Unido 
-https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/abb4746a-80c1-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=GB&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
-
 #EXTINF:-1 tvg-id="" group-title="Música" tvg-name="DMTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWeckfObfyFWhe5JuPFGqaZgCiFyBSZXjg4RqleTMoxnlpG_wSOg3gOaRJjYdxQHUbZa0&usqp=CAU",DMTV
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3056&pprotocol=hls
 
 #EXTINF:-1 tvg-id="" group-title="Música" tvg-name="EDM TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWeckfObfyFWhe5JuPFGqaZgCiFyBSZXjg4RqleTMoxnlpG_wSOg3gOaRJjYdxQHUbZa0&usqp=CAU",EDM TV
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3863&pprotocol=hls
+
+#EXTINF:-1 tvg-name="Electro Anthems" tvg-logo="https://i.imgur.com/hKruqwx.png" group-title="Música",Electro Anthems | Distro TV
+https://8172757f4514438fa4feebfa046aacc9.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/electro_anthems_distrotv/ec2c5c4e-2236-451e-a22a-301f9d29f50f/0.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Música" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWeckfObfyFWhe5JuPFGqaZgCiFyBSZXjg4RqleTMoxnlpG_wSOg3gOaRJjYdxQHUbZa0&usqp=CAU" tvg-name="Filmon Jazz and Blues",Filmon Jazz and Blues
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/530&pprotocol=hls
@@ -2304,15 +2301,6 @@ https://loopmusic-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-loopmusic-plex/CDN/
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/62CjWTa.jpg" group-title="Música" tvg-name="Loop Party | EUA",Loop Party | EUA
 https://aa25f9002c724666a6e1e9402e78f94f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_LoopParty/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Loupe Argentina" tvg-id="loupe-ar" tvg-logo="https://media-exp1.licdn.com/dms/image/C4D0BAQFyyXznCPCX5Q/company-logo_200_200/0/1519921044747?e=2159024400&v=beta&t=zG7sdc7PpRBdwxr00jP9ssNa_WfXxGLxPkvpeuKePlI" group-title="Música",Loupe Argentina
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ffcc38adbc38100073511f2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=98a3fd62-8e3f-11eb-9619-637dcb8e0f08&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a35b3c8a-7da4-45c8-99f2-06811ca4c06d&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-name="Loupe Brasil" tvg-id="loupe-br" tvg-logo="https://media-exp1.licdn.com/dms/image/C4D0BAQFyyXznCPCX5Q/company-logo_200_200/0/1519921044747?e=2159024400&v=beta&t=zG7sdc7PpRBdwxr00jP9ssNa_WfXxGLxPkvpeuKePlI" group-title="Música",Loupe Brasil
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/600b248969c6580007e91a2d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b24c9db0-8dd8-11eb-83c3-1ff76e6e06e9&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7a6e25a5-cd97-4493-beb5-5001da599dd1&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-name="Loupe EUA" tvg-id="loupe-eua" tvg-logo="https://media-exp1.licdn.com/dms/image/C4D0BAQFyyXznCPCX5Q/company-logo_200_200/0/1519921044747?e=2159024400&v=beta&t=zG7sdc7PpRBdwxr00jP9ssNa_WfXxGLxPkvpeuKePlI" group-title="Música",Loupe EUA
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f0cb39b4ae1f80007bad585/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc98e9f5-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=99bbe6a5-becc-4f1b-8af9-bb8f6923faf9&userId=&serverSideAds=true
-
 #EXTINF:-1 tvg-id="" group-title="Música" tvg-name="Miami Music Television" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWeckfObfyFWhe5JuPFGqaZgCiFyBSZXjg4RqleTMoxnlpG_wSOg3gOaRJjYdxQHUbZa0&usqp=CAU",Miami Music Television | EUA
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/4670&pprotocol=hls
 
@@ -2327,6 +2315,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fdb8ca91eedee16
 
 #EXTINF:-1 tvg-name="MTV Yo! EUA" tvg-id="yo-mtv" tvg-logo="http://images.pluto.tv/channels/5d14fc31252d35decbc4080b/colorLogoPNG.png" group-title="Música",MTV Yo! EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fc31252d35decbc4080b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7e45c2-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dfeb1d80-be28-4be3-b669-23fa79a8aec7&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-name="Neural Focused" tvg-logo="https://i.imgur.com/MsAr9Ik.png" group-title="Música",Neural Focused | Distro TV 
+https://bc555b434b5f44709a31ae6b102bf6a6.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/neural_focused_distrotv/95d88f64-6af1-4527-8e7f-02950daa88f2/3.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWeckfObfyFWhe5JuPFGqaZgCiFyBSZXjg4RqleTMoxnlpG_wSOg3gOaRJjYdxQHUbZa0&usqp=CAU" group-title="Música" tvg-name="New Star TV",New Star TV
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3065&pprotocol=hls
@@ -2363,6 +2354,12 @@ https://tls.cdnz.cl/rewindtv/rewindtv/playlist.m3u8
 #EXTINF:-1 tvg-id="pluto-tv-shows-por-stingray" tvg-logo="https://images.pluto.tv/channels/604b91e0692f770007d9f33f/featuredImage.jpg" group-title="Música",Shows por Stingray | Brasil
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/604b91e0692f770007d9f33flivestitch/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=e61e81d1-c6d5-4eea-a605-2651410462b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3bf99bf4-e584-11eb-a5e5-0242ac110002&userId=&serverSideAds=true
 
+#EXTINF:-1 tvg-name="Stingray Clássica" tvg-logo="https://i.imgur.com/qcXmubl.png" group-title="Música",Stingray Clássica | Distro TV 
+https://dai.google.com/linear/hls/pa/event/yxQJZMf2SBmO-N9E7_nOOA/stream/956a9642-a25b-48dd-9079-49359972f7c7:MRN2/variant/11765288f2c6392e146aadda07fd6ea7/bandwidth/1751200.m3u8
+
+#EXTINF:-1 tvg-name="Stingray Djazz" tvg-logo="https://i.imgur.com/oa14Oxs.png" group-title="Música",Stingray Djazz | Distro TV 
+https://dai.google.com/linear/hls/pa/event/7mp_xJmYSrun0m6xBYpO2w/stream/88d346f7-e410-4c22-8aef-3f8371c1e30a:MRN2/variant/b1ad8124bc69e95456d65e7d68c74f67/bandwidth/211200.m3u8
+
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5fe27da28c198b002d179199" tvg-logo="https://i.imgur.com/z0mmnRk.png" group-title="Música",Stingray Qello
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=568&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=Tog8X6wK6iweuzGFsz6p&content_series=5fe27da28c198b002d179199&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=Tog8X6wK6iweuzGFsz6p&custom_7=5fe27da28c198b002d179199
 
@@ -2372,11 +2369,20 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f982c342
 #EXTINF:-1 tvg-id="" group-title="Música" tvg-name="Talent Watch" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWeckfObfyFWhe5JuPFGqaZgCiFyBSZXjg4RqleTMoxnlpG_wSOg3gOaRJjYdxQHUbZa0&usqp=CAU",Talent Watch
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/4706&pprotocol=hls
 
+#EXTINF:-1 tvg-name="That's Hot" tvg-logo="https://i.imgur.com/c1MImst.png" group-title="Música",That's Hot | Distro TV
+https://a9c952d731a2427d8e01903d3778c601.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/thats_hot_distrotv/5e5a4c96-ce1f-46e4-9687-8d836f47c314/3.m3u8
+
 #EXTINF:-1 tvg-id="Tipstr.TV" group-title="Música" tvg-name="Tipstr.TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWeckfObfyFWhe5JuPFGqaZgCiFyBSZXjg4RqleTMoxnlpG_wSOg3gOaRJjYdxQHUbZa0&usqp=CAU",Tipstr.TV
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3539&pprotocol=hls
 
+#EXTINF:-1 tv-name="Trending" tvg-logo="https://i.imgur.com/6C7OQKO.png" group-title="Música",Trending | Distro TV
+https://4fc8c9ea374c44e99993653a37b0a3c6.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/trending_distrotv/f46bc222-4059-4a5b-b6be-9ea0897d57d6/3.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWeckfObfyFWhe5JuPFGqaZgCiFyBSZXjg4RqleTMoxnlpG_wSOg3gOaRJjYdxQHUbZa0&usqp=CAU" tvg-id="tribetv" group-title="Música" tvg-name="Tribe TV",Tribe TV
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/2987&pprotocol=hls
+
+#EXTINF:-1 tvg-name="Unwind" tvg-logo="https://i.imgur.com/1RGyGxH.png" group-title="Música",Unwind | Distro TV
+https://e5ec48fe8d5247f6891057812a8bb239.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/unwind_distrotv/bbf9ee6d-92b0-4826-8908-c36b7449f38a/3.m3u8
 
 #EXTINF:-1 tvg-id="vevo-reggaeton-and-trap" tvg-name="Vevo Reggaetón & Trap" tvg-logo="http://images.pluto.tv/channels/5f32f397795b750007706448/colorLogoPNG.png" group-title="Música",Vevo Reggaetón & Trap
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32f397795b750007706448/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c868322-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=fc027a03-e512-45db-98af-879f6889407f&userId=&serverSideAds=true
@@ -2405,28 +2411,78 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fd7bca3e0a4ee0007a
 #EXTINF:-1 tvg-id="DEBA2200007V6" tvg-chno="4463" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/01/DEBA2200007V6_20201006T091036.png" group-title="Música",Xite | Alemanha 
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/xiteaaaaa-xite-samsung-de/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D
 
-############## MÚSICA: KARAOKÊ ##############
+#EXTINF:-1 tvg-name="Yacht Rock" group-title="Música instrumental e som ambiente" tvg-logo="https://i.imgur.com/zgIWP8b.png",Yacht Rock | Distro TV
+https://a664d95a53d042edb10d6b28889bd25c.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/yacht_rock_distrotv/b0016d91-137e-4e86-a778-b1c4b9416f0c/3.m3u8
 
-#EXTINF:-1 tvg-id="pluto-tv-karaoke-por-stingray" tvg-logo="https://images.pluto.tv/channels/604b99d633a72b00078e05ad/featuredImage.jpg" group-title="Música: Karaokê",Karaokê por Stingray | Brasil
+############## Música: karaokê ############## Música: karaokê ############## Música: karaokê ############## Música: karaokê ############## Música: karaokê ############## Música: karaokê ##############
+
+#EXTINF:-1 tvg-id="pluto-tv-karaoke-por-stingray" tvg-logo="https://images.pluto.tv/channels/604b99d633a72b00078e05ad/featuredImage.jpg" group-title="Música: karaokê",Karaokê por Stingray | Brasil
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/604b99d633a72b00078e05adlivestitch/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=e61e81d1-c6d5-4eea-a605-2651410462b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=357672e9-e58c-11eb-b36a-0242ac110002&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5eea605674085f0040ddc7ac" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/party-tyme-karaoke.png" group-title="Música: Karaokê",Party Tyme Karaoke 1
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5eea605674085f0040ddc7ac" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/party-tyme-karaoke.png" group-title="Música: karaokê",Party Tyme Karaoke 1
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=63&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=Tog8X6wK6iweuzGFsz6p&content_series=5eea605674085f0040ddc7ac&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=Tog8X6wK6iweuzGFsz6p&custom_7=5eea605674085f0040ddc7ac
 
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-602d56bef867c4002c897e22" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/PTK_Spanish_logo_dark.png" group-title="Música: Karaokê",Party Tyme Karaoke 2
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-602d56bef867c4002c897e22" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/PTK_Spanish_logo_dark.png" group-title="Música: karaokê",Party Tyme Karaoke 2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=489&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=Tog8X6wK6iweuzGFsz6p&content_series=602d56bef867c4002c897e22&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=Tog8X6wK6iweuzGFsz6p&custom_7=602d56bef867c4002c897e22
 
-#EXTINF:-1 tvg-id="DEBA100000271" tvg-chno="4459" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/12/DEBA100000271_20200923T100336.png" group-title="Música: Karaokê",Stingray Karaoke | Alemanha
+#EXTINF:-1 tvg-id="DEBA100000271" tvg-chno="4459" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/12/DEBA100000271_20200923T100336.png" group-title="Música: karaokê",Stingray Karaoke | Alemanha
 https://f72059bf9e3c46f6bea80af68e489193.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_StingrayKaraoke/playlist.m3u8?ads.wurl_channel=457&ads.wurl_name=StingrayKaraoke&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
 
-#EXTINF:-1 tvg-id="ATBA1000003RP" tvg-chno="4459" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/04/92/ATBA1000003RP_20200923T100338.png" group-title="Música: Karaokê",Stingray Karaoke | Áustria
+#EXTINF:-1 tvg-id="ATBA1000003RP" tvg-chno="4459" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/04/92/ATBA1000003RP_20200923T100338.png" group-title="Música: karaokê",Stingray Karaoke | Áustria
 https://c9316f31c76b47b495b0f20dc2d79401.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-at_StingrayKaraoke/playlist.m3u8?ads.wurl_channel=457&ads.wurl_name=StingrayKaraoke&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
 
-#EXTINF:-1 tvg-id="GBAJ49000148R" tvg-chno="4453" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/14/GBAJ49000148R_20200923T100340.png" group-title="Música: Karaokê",Stingray Karaoke | Reino Unido
+#EXTINF:-1 tvg-id="GBAJ49000148R" tvg-chno="4453" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/14/GBAJ49000148R_20200923T100340.png" group-title="Música: karaokê",Stingray Karaoke | Reino Unido
 https://a080fd7d091e4c3f8e34bdfe40a36584.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_StingrayKaraoke/playlist.m3u8?ads.wurl_channel=456&ads.wurl_name=StingrayKaraoke&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
 
-#EXTINF:-1 tvg-id="CHBA1000002MK" tvg-chno="4459" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/43/CHBA1000002MK_20200923T100339.png" group-title="Música: Karaokê",Stingray Karaoke | Suiça
+#EXTINF:-1 tvg-id="CHBA1000002MK" tvg-chno="4459" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/43/CHBA1000002MK_20200923T100339.png" group-title="Música: karaokê",Stingray Karaoke | Suiça
 https://e4bd492634cb45a8b5f007639f01ba3a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-ch_StingrayKaraoke/playlist.m3u8?ads.wurl_channel=457&ads.wurl_name=StingrayKaraoke&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
+
+## Música instrumental e som ambiente ############## Música instrumental e som ambiente ############## Música instrumental e som ambiente ############## Música instrumental e som ambiente ############## Música instrumental e som ambiente ############## Música instrumental e som ambiente ##############
+
+#EXTINF:-1 tvg-id="GBBA15000034L" tvg-chno="4457" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/05/GBBA15000034L_20210609T004621.png" group-title="Música instrumental e som ambiente",Deluxe Lounge HD | Reino Unido 
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/abb4746a-80c1-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=GB&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
+
+#EXTINF:-1 tvg-name="Drone Channel" tvg-logo="https://i.imgur.com/oxa0QfO.png" group-title="Música instrumental e som ambiente",Drone Channel | Distro TV
+https://f610a312b4ae4c22bf14771a4a5cfd2d.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/drone_channel_distrotv/3e0824f8-ef1f-43d2-8da9-dbee472a0a0b/1.m3u8
+
+#EXTINF:-1 tvg-name="Fireplace Lounge" tvg-logo="https://i.imgur.com/2HXdzka.png" group-title="Música instrumental e som ambiente", Fireplace Lounge | Distro TV
+https://dai.google.com/linear/hls/pa/event/oyLDEcuuQES_mgQ7KPOR4w/stream/03567611-0e29-4669-9ec4-5926325164d0:SCL/variant/dd4684c86ce389bc8c3d7c723a5a30bd/bandwidth/1128000.m3u8
+
+#EXTINF:-1 tvg-name="Fish Tank" tvg-logo="https://i.imgur.com/pj63FMU.png" group-title="Música instrumental e som ambiente",Fish Tank | Distro TV
+https://dai.google.com/linear/hls/pa/event/SUiAUobmTi6nMfIemEKjTA/stream/dd1dd577-6921-4c76-901d-bbc314da0e20:SCL/variant/fbe47fb693c6f663e2909e159bd4a79a/bandwidth/2628000.m3u8
+
+#EXTINF:-1 tvg-name="Island Scape" tvg-logo="https://i.imgur.com/qvo7zo4.png" group-title="Música instrumental e som ambiente",Island Escape | Distro TV
+https://dai.google.com/linear/hls/pa/event/IpUm6gZ6Tz-pEotpMRsZ4w/stream/4f1910f2-bdd3-4f2d-8c57-76f10e7ed787:SCL/variant/5b7262bfab5ec893dfe38b42c2f6c46d/bandwidth/1128000.m3u8
+
+#EXTINF:-1 tvg-name="Loupe Argentina" tvg-id="loupe-ar" tvg-logo="https://media-exp1.licdn.com/dms/image/C4D0BAQFyyXznCPCX5Q/company-logo_200_200/0/1519921044747?e=2159024400&v=beta&t=zG7sdc7PpRBdwxr00jP9ssNa_WfXxGLxPkvpeuKePlI" group-title="Música instrumental e som ambiente",Loupe Argentina
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ffcc38adbc38100073511f2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=98a3fd62-8e3f-11eb-9619-637dcb8e0f08&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a35b3c8a-7da4-45c8-99f2-06811ca4c06d&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-name="Loupe Brasil" tvg-id="loupe-br" tvg-logo="https://media-exp1.licdn.com/dms/image/C4D0BAQFyyXznCPCX5Q/company-logo_200_200/0/1519921044747?e=2159024400&v=beta&t=zG7sdc7PpRBdwxr00jP9ssNa_WfXxGLxPkvpeuKePlI" group-title="Música instrumental e som ambiente",Loupe Brasil
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/600b248969c6580007e91a2d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b24c9db0-8dd8-11eb-83c3-1ff76e6e06e9&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7a6e25a5-cd97-4493-beb5-5001da599dd1&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-name="Loupe EUA" tvg-id="loupe-eua" tvg-logo="https://media-exp1.licdn.com/dms/image/C4D0BAQFyyXznCPCX5Q/company-logo_200_200/0/1519921044747?e=2159024400&v=beta&t=zG7sdc7PpRBdwxr00jP9ssNa_WfXxGLxPkvpeuKePlI" group-title="Música instrumental e som ambiente",Loupe EUA
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f0cb39b4ae1f80007bad585/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc98e9f5-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=99bbe6a5-becc-4f1b-8af9-bb8f6923faf9&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="naturescape" tvg-logo="http://images.pluto.tv/channels/5812bd9f249444e05d09cc4e/colorLogoPNG.png" group-title="Música instrumental e som ambiente",Naturescape by Stingray | EUA
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812bd9f249444e05d09cc4e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc931d90-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e4bbfd7a-3f22-4871-93e7-24aafee63cae&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="5f0c2f3739f6b900075f366c" tvg-logo="https://images.pluto.tv/channels/5f0c2f3739f6b900075f366c/colorLogoPNG.png" group-title="Música instrumental e som ambiente",Naturescape by Stingray | Reino Unido
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f0c2f3739f6b900075f366c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-id="pluto-tv-paisagens-por-stingray" tvg-logo="https://i.imgur.com/of2VOTj.png" group-title="Música instrumental e som ambiente",Paisagens por Stingray | Brasil 
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/604a8dedbca75b0007b1c753livestitch/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=e61e81d1-c6d5-4eea-a605-2651410462b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d6cc25d6-e662-11eb-8628-0242ac110003&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-name="Quietude 4K" tvg-logo="https://i.imgur.com/13vyZaJ.png" group-title="Música instrumental e som ambiente",Quietude 4K | Distro TV
+https://dai.google.com/linear/hls/pa/event/znOljgluSSeoYrXfiYc2VA/stream/0338a56c-e0ba-4062-aeb5-bced44f78da1:SCL/variant/a0cf20e78e424fe2ee6fc620df87f7a0/bandwidth/1288642.m3u8
+
+#EXTINF:-1 tvg-name="Relaxing Rain" tvg-logo="https://i.imgur.com/3kyTy12.png" group-title="Música instrumental e som ambiente",Relaxing Rain | Distro TV
+https://dai.google.com/linear/hls/pa/event/N-tqcU4fRBGJsIWzsgMfmg/stream/b5333f45-a39d-4ce8-92a3-7e0870b5ebb0:SCL/variant/5d1bba9f581ce0972e4e5eec2ccdbfe6/bandwidth/2628000.m3u8
+
+#EXTINF:-1 tvg-name="Screendreams by Invincible" tvg-logo="https://i.imgur.com/YITPJFX.png" group-title="Música instrumental e som ambiente", Screendreams by Invincible | Distro TV
+https://content-asae1-up-1.uplynk.com/channel/3e4b9cada2b74cf18977298804134a36/d.m3u8?ad=distrotv_scrndreams&ad.pod_max_dur=120&ad.pod_ad_slots=3&ad.preroll=1&ad.postroll=1ad.w=1920&h=1080&&ad.domain=https://galxy.tv/screendreams/&ad.app_name=watchitscream&ad.app_store_url=https://galxy.tv/screendreams/&ad.us_privacy=1&ad.media_transcoding=high&ad.ssai.enabled=1&ad.ssai.vendor=Uplynk&ad._debug=invincibletest&pbs=8baafc9d7b124cac9935808a3bcc5aff
+
+#EXTINF:-1 tvg-name="Tranquil Thunderstorms" tvg-logo="https://i.imgur.com/1Siw1Fy.png" group-title="Música instrumental e som ambiente",Tranquil Thunderstorms | Distro TV
+https://dai.google.com/linear/hls/pa/event/474qwragRU6-z1YGWo1NMA/stream/d2486367-4cfb-42f5-a99a-5bff8db5ebf3:SCL/variant/b111e38a38e2e8d7bc547e87fecef24f/bandwidth/1128000.m3u8
 
 ############## NOTÍCIAS em ESPANHOL ##############
 
@@ -3105,6 +3161,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca670f6593a5d78f0e
 #EXTINF:-1 tvg-id="bet-pluto-tv-3" tvg-logo="http://images.pluto.tv/channels/5f77895fb3add2000735ac29/colorLogoPNG.png" group-title="Variedades em inglês",BET Pluto TV 3 | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f77895fb3add2000735ac29/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc9a4980-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0711ce0b-1795-439d-ac3f-a2d959c21800&userId=&serverSideAds=true
 
+#EXTINF:-1 tvg-id="british-tv" tvg-logo="http://images.pluto.tv/channels/5b68a18823ecb93393cba2f1/colorLogoPNG.png" group-title="Variedades em inglês",British TV | EUA
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b68a18823ecb93393cba2f1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc947d21-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=93c13958-378d-4cb1-a2b7-2d12988166d6&userId=&serverSideAds=true
+
 #EXTINF:-1 tvg-id="Channel4.uk" tvg-name="Channel 4" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnj5-UCkqcufVmucfYwPFt4cHvz8__pkfDTfh7CAKA=s900-c-k-c0x00ffffff-no-rj" group-title="Variedades em inglês",Channel 4
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/2?pprotocol=hls
 
@@ -3482,9 +3541,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6a38eaa5b68b0007a
 #EXTINF:-1 tvg-id="awe-plus" tvg-logo="http://images.pluto.tv/channels/5e7cf6608c805600078872f2/colorLogoPNG.png" group-title="EUA e Canadá: Pluto",AWE Plus | EUA 
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e7cf6608c805600078872f2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc97d883-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=df68e87e-674e-402f-b5ab-8a2c421c3236&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="british-tv" tvg-logo="http://images.pluto.tv/channels/5b68a18823ecb93393cba2f1/colorLogoPNG.png" group-title="EUA e Canadá: Pluto",British TV | EUA
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b68a18823ecb93393cba2f1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc947d21-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=93c13958-378d-4cb1-a2b7-2d12988166d6&userId=&serverSideAds=true
-
 #EXTINF:-1 tvg-id="cold-case-files" tvg-logo="http://images.pluto.tv/channels/5c37d6712de254456f7ec340/colorLogoPNG.png" group-title="EUA e Canadá: Pluto",Cold Case Files
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c37d6712de254456f7ec340/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc94f253-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6b8d7d70-8515-4daf-83d8-19bc083407ab&userId=&serverSideAds=true
 
@@ -3514,9 +3570,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e9decb953e15700075
 
 #EXTINF:-1 tvg-id="laughoutloud" tvg-logo="http://images.pluto.tv/channels/5af09e645126c2157123f9eb/colorLogoPNG.png" group-title="EUA e Canadá: Pluto",Kevin Hart Laugh Out Loud Network | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5af09e645126c2157123f9eb/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc93e0e4-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a3a352c3-0bfb-4821-bea1-12645c03f41a&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="naturescape" tvg-logo="http://images.pluto.tv/channels/5812bd9f249444e05d09cc4e/colorLogoPNG.png" group-title="EUA e Canadá: Pluto",Naturescape | EUA
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812bd9f249444e05d09cc4e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc931d90-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e4bbfd7a-3f22-4871-93e7-24aafee63cae&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-id="nosey" tvg-logo="http://images.pluto.tv/channels/5aec96ec5126c2157123c657/colorLogoPNG.png" group-title="EUA e Canadá: Pluto",Nosey | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5aec96ec5126c2157123c657/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc93e0e3-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=09d9b5c8-bc5e-48f8-9b73-115037eb93e8&userId=&serverSideAds=true
@@ -3777,8 +3830,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d2c571fa
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d2c57ee4f9ddf73da8a0ba5/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="5bd833b41843b56328bac189" tvg-logo="https://images.pluto.tv/channels/5bd833b41843b56328bac189/colorLogoPNG.png" group-title="Reino Unido: Pluto 🇬🇧",Mythbusters
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5bd833b41843b56328bac189/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-id="5f0c2f3739f6b900075f366c" tvg-logo="https://images.pluto.tv/channels/5f0c2f3739f6b900075f366c/colorLogoPNG.png" group-title="Reino Unido: Pluto 🇬🇧",Naturescape | Reino Unido
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f0c2f3739f6b900075f366c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
 #EXTINF:-1 tvg-id="5dc2ba1a9c91420009db4858" tvg-logo="https://images.pluto.tv/channels/5dc2ba1a9c91420009db4858/colorLogoPNG.png" group-title="Reino Unido: Pluto 🇬🇧",Nosey | Reino Unido
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dc2ba1a9c91420009db4858/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="5eb95d63b270fc0007c465e6" tvg-logo="https://images.pluto.tv/channels/5eb95d63b270fc0007c465e6/colorLogoPNG.png" group-title="Reino Unido: Pluto 🇬🇧",People are Awesome | Reino Unido
