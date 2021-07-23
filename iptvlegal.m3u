@@ -2716,8 +2716,11 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812afe1d0f0b8d55dd
 #EXTINF:-1 tvg-id="5ca1e02c08ee5378be82db47" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhepz6SehmqduyGlGWCqxZkf1EnMjN_cZBQICoPyA=s300-c-k-c0x00ffffff-no-rj" group-title="Notícias em inglês",Cheddar | Reino Unido
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca1e02c08ee5378be82db47/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1 tvg-id="cnn" tvg-name="CNN EUA" tvg-logo="http://images.pluto.tv/channels/5421f71da6af422839419cb3/colorLogoPNG.png" group-title="Notícias em inglês",CNN EUA
+#EXTINF:-1 tvg-id="cnn" tvg-name="CNN EUA" tvg-logo="http://images.pluto.tv/channels/5421f71da6af422839419cb3/colorLogoPNG.png" group-title="Notícias em inglês",CNN | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af422839419cb3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc91e510-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=03988411-6463-422e-81c6-ec0873b4bd7a&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-name="CNN Int. (UK)" tvg-logo="https://i.imgur.com/bD9jUgK.png" group-title="Notícias em inglês",CNN Internacional| Reino Unido
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K1kJf1s.png" group-title="Notícias em inglês" tvg-name="Euronews Roku | EUA",Euronews Roku | EUA
 https://euronews-euronews-world-1.roku.wurl.com/manifest/playlist.m3u8
@@ -2839,7 +2842,7 @@ https://liveprodeuwest.global.ssl.fastly.net/eu1/Channel-EUTVqvs-AWS-ireland-1/S
 #EXTINF:-1 tvg-name="Bloomberg+ 4K" group-title="Notícias sobre dinheiro em inglês" tvg-logo="https://i.imgur.com/idRFfhY.png",Bloomberg+ 4K
 https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-id="yahoo-finance" tvg-name="Yahoo Finance | EUA" tvg-logo="http://images.pluto.tv/channels/5f161c0a8ba90f0007d5bd0b/colorLogoPNG.png" group-title="Notícias em inglês",Yahoo Finance | EUA
+#EXTINF:-1 tvg-id="yahoo-finance" tvg-name="Yahoo Finance | EUA" tvg-logo="http://images.pluto.tv/channels/5f161c0a8ba90f0007d5bd0b/colorLogoPNG.png" group-title="Notícias sobre dinheiro em inglês",Yahoo Finance | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f161c0a8ba90f0007d5bd0b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc991101-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=5405d8e5-1f39-4ff4-8b85-bce9c635d926&userId=&serverSideAds=true
 
 
@@ -4085,4 +4088,6 @@ http://oneamericanews-roku-us.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="the-first" tvg-logo="http://images.pluto.tv/channels/5d486acc34ceb37d3c458a64/colorLogoPNG.png" group-title="☢️☣️ Extrema direita | EUA" tvg-name="The First",The First | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d486acc34ceb37d3c458a64/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc9651e0-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=485e6f6b-8aa0-42dc-ae6d-c4a527fc2eca&userId=&serverSideAds=true
+
+######## Esta lista não seria possível sem todos os voluntários do GitHub; CxTV; Distro TV; Plex TV; Roku TV; Samsung TV ##########
 
