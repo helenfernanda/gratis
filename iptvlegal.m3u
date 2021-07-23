@@ -864,6 +864,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c58a539fae3812612f
 #EXTINF:-1 tvg-id="hillsong-channel" tvg-logo="http://images.pluto.tv/channels/5d486b87428fe37d8cadba44/colorLogoPNG.png" group-title="Cristianismo em inglês",Hillsong Channel | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d486b87428fe37d8cadba44/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7f3021-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=21744e45-9ad4-4bd4-a0af-1581ea5b1813&userId=&serverSideAds=true
 
+#EXTINF:-1 tvg-name="Sonlife UK" group-title="Cristianismo em inglês" tvg-logo="https://i.imgur.com/p6og1yz.png",Sonlife | Reino Unido
+https://sonlife7-i.akamaihd.net/hls/live/585011/ch7/master.m3u8
+
 #EXTINF:-1 tvg-id="tbn" tvg-logo="http://images.pluto.tv/channels/5d486b2eeddd9576d66f9066/colorLogoPNG.png" group-title="Cristianismo em inglês",TBN | EUA 
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d486b2eeddd9576d66f9066/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc9651e1-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9aeae7ff-1282-42b8-a00b-0aed4b4f13cd&userId=&serverSideAds=true
 
@@ -1571,10 +1574,16 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWeckfObfyFWhe5JuPFGqaZgCiFyBSZXjg4RqleTMoxnlpG_wSOg3gOaRJjYdxQHUbZa0&usqp=CAU" tvg-name="MMA Now"  group-title="Esportes em inglês",MMA Now
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3860&pprotocol=hls
 
+#EXTINF:-1 tvg-id="FRAJ45000169H" tvg-name="MySurf" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/06/79/FRAJ45000169H_20200923T100358.png" group-title="Esportes em inglês",My Surf TV | Austrália
+https://35fc2bcebb524ff49a28f557feba83e9.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_MySurf/playlist.m3u8?ads.wurl_channel=336&ads.wurl_name=MySurf&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
+
 #EXTINF:-1 tvg-id="nfl-channel" tvg-logo="http://images.pluto.tv/channels/5ced7d5df64be98e07ed47b6/colorLogoPNG.png" group-title="Esportes em inglês",NFL Channel
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc958e94-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dce17222-dcee-4cd2-81d7-4717e3f8134d&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="outside-tv" vg-name="Outside TV+ EUA" tvg-logo="http://images.pluto.tv/channels/5ecd60a893483f0007d9b98d/colorLogoPNG.png" group-title="Esportes em inglês",Outside TV+ | EUA
+#EXTINF:-1 tvg-name="Outside TV" tvg-logo="http://images.pluto.tv/channels/5ecd60a893483f0007d9b98d/colorLogoPNG.png" group-title="Esportes em inglês",Outside TV | EUA
+https://outside-tv-samsung.vizio.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="outside-tv" tvg-name="Outside TV+ EUA" tvg-logo="http://images.pluto.tv/channels/5ecd60a893483f0007d9b98d/colorLogoPNG.png" group-title="Esportes em inglês",Outside TV+ | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ecd60a893483f0007d9b98d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc989bd0-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=4cbb69af-7072-4cd8-8c7b-c7e6cb22362d&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-id="pac-12-insider" tvg-logo="http://images.pluto.tv/channels/5f84ce2ac265700008d48dcf/colorLogoPNG.png" group-title="Esportes em inglês",Pac-12 Insider | EUA
@@ -3350,10 +3359,10 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f77895fb3add200073
 #EXTINF:-1 tvg-id="british-tv" tvg-logo="http://images.pluto.tv/channels/5b68a18823ecb93393cba2f1/colorLogoPNG.png" group-title="Variedades em inglês",British TV | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b68a18823ecb93393cba2f1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc947d21-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=93c13958-378d-4cb1-a2b7-2d12988166d6&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="Channel4.uk" tvg-name="Channel 4" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnj5-UCkqcufVmucfYwPFt4cHvz8__pkfDTfh7CAKA=s900-c-k-c0x00ffffff-no-rj" group-title="Variedades em inglês",Channel 4
+#EXTINF:-1 tvg-id="Channel4.uk" tvg-name="Channel 4" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnj5-UCkqcufVmucfYwPFt4cHvz8__pkfDTfh7CAKA=s900-c-k-c0x00ffffff-no-rj" group-title="Variedades em inglês",Channel 4 | Reino Unido
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/2?pprotocol=hls
 
-#EXTINF:-1 tvg-id="Channel5.uk" tvg-name="Channel 5" tvg-logo="https://static.next-episode.net/tv-shows-images/huge/channel-5-uk-documentaries.jpg" group-title="Variedades em inglês",Channel 5
+#EXTINF:-1 tvg-id="Channel5.uk" tvg-name="Channel 5" tvg-logo="https://static.next-episode.net/tv-shows-images/huge/channel-5-uk-documentaries.jpg" group-title="Variedades em inglês",Channel 5 | Reino Unido
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/22?pprotocol=hls
 
 #EXTINF:-1 tvg-name="Circle" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Circle_Network_logo.svg/300px-Circle_Network_logo.svg.png" group-title="Variedades em inglês",Circle | EUA
@@ -3419,8 +3428,14 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f778a59b02eb40007f
 #EXTINF:-1 tvg-name="NHK World" tvg-id="nhkworld" tvg-logo="https://i.imgur.com/G8dUiLU.png" group-title="Variedades em inglês",NHK World | Japão
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 
+#EXTINF:-1 tvg-name="PBS America" tvg-logo="https://i.imgur.com/JkwTORb.png" group-title="Reino Unido",PBS America | Reino Unido
+https://pbs-samsunguk.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-name="Plymouth Rock TV" tvg-logo="https://i.imgur.com/kNtbCDF.png" group-title="Variedades em inglês",Plymouth Rock TV | EUA
 https://na-us-sw10.secdn.net/barakyah-channel/play/mp4:plymouthtvedge/chunklist_w88502186.m3u8
+
+#EXTINF:-1 tvg-name="Spark TV" group-title="Variedades em inglês" tvg-logo="https://i.imgur.com/vTGknv3.png",Spark TV | Reino Unido 
+https://sparktv-samsunguk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="spike" tvg-logo="http://images.pluto.tv/channels/5812bcc8237a6ff45d16c407/colorLogoPNG.png" group-title="Variedades em inglês",Spike Pluto TV | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812bcc8237a6ff45d16c407/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc92f684-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=76f9f229-ee49-4557-bb9d-cf72d548ba02&userId=&serverSideAds=true
@@ -3457,8 +3472,19 @@ https://stream-01.nyc.dailymotion.com/sec(8lOMYwOWJB0kD-8STcdDUEIWsDuDaQT588Jq3V
 #EXTINF:-1 tvg-name="MIS Televizija" tvg-id="mis.au" tvg-logo="https://i.imgur.com/XaXRbxj.png" group-title="Variedades em outros idiomas",MIS Televizija | Idioma sérvio
 https://5afd52b55ff79.streamlock.net/MISTV/_definst_/myStream/playlist.m3u8
 
+#EXTINF:-1 tvg-name="MTA 1" tvg-logo="https://i.imgur.com/b3nn216.png" group-title="Variedades em outros idiomas",Muslim Television Ahmadiyya 1
+https://ooyalahd2-f.akamaihd.net/i/mtaeng_delivery@345736/index_3000_av-p.m3u8
+
+#EXTINF:-1 tvg-name="MTA 2" tvg-logo="https://i.imgur.com/V6uUz9l.png" group-title="Variedades em outros idiomas",Muslim Television Ahmadiyya 2
+https://ooyalahd2-f.akamaihd.net/i/mtach7audio_delivery@65519/master.m3u8
+
+#EXTINF:-1 tvg-name="MTA 3" tvg-logo="https://i.imgur.com/C5nT9yi.png" group-title="Variedades em outros idiomas",Muslim Television Ahmadiyya 3
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWeckfObfyFWhe5JuPFGqaZgCiFyBSZXjg4RqleTMoxnlpG_wSOg3gOaRJjYdxQHUbZa0&usqp=CAU" tvg-id="Nollywood.ng" group-title="Variedades em outros idiomas" tvg-name="Nollywood",Nollywood | Nigéria
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3617&pprotocol=hls
+
+#EXTINF:-1 tvg-name="Noor TV" tvg-logo="https://i.imgur.com/oeV42l0.jpg" group-title="Variedades em outros idiomas",Noor TV | Reino Unido
+https://ls1.serverdump.com/stream3.m3u8
 
 #EXTINF:-1 tvg-ID="5e20b730f2f8d5003d739db7-60d4edd7b2fdec002c14112d" tvg-logo="https://i.imgur.com/Z5t6cCe.jpg" group-title="Variedades em outros idiomas" tvg-name="New K-ID",New K-ID | EUA | inglês e coreano
 https://b9860b21629b415987978bdbbfbc3095.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_NewKID/playlist.m3u8
