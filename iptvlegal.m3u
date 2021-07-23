@@ -1054,6 +1054,10 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f9848703
 #EXTINF:-1 tvg-id="5d765a05f65029ce2385aa30" group-title="Documentários em alemão" tvg-name="Slow TV" tvg-logo="https://images.pluto.tv/channels/5d765a05f65029ce2385aa30/colorLogoPNG.png",Slow TV | Alemanha
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d765a05f65029ce2385aa30/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
+#EXTINF:-1 tvg-id="CHBA3300028G3" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/17/CHBA3300028G3_20210714T000948.png" group-title="Documentários em alemão",Wilder Planet
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00477-samsunguk-wilderplanet-samsunguk-samsunguk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+
+
 #### Documentários em espanhol ######### ############ ####### ######## ######## ######## ######## ######## Documentários em espanhol ############ Documentários em espanhol ########### ############ Documentários em espanhol ##################
 
 #EXTINF:-1 tvg-id="archivos-forenses" tvg-logo="https://imgur.com/ZchRCdN.png" group-title="Documentários em espanhol",Archivos Forenses | Argentina
@@ -1176,7 +1180,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=703&live=1&app_bundle=com.
 #EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-60a9d105d162b9002d05a60c" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/GoUSA_logo_dark_v3.png" group-title="Documentários em inglês",GoUSA TV
 https://a7ea429b0854458daac9f78715c8093f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_GoUSATV/playlist.m3u8?ads.wurl_channel=535&ads.wurl_name=GoUSATV&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=Tog8X6wK6iweuzGFsz6p&ads.plex_id=60a9d105d162b9002d05a60c&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
 
-#EXTINF:-1 tvg-id="GBAJ400048WZ" tvg-name="Humanity" tvg-logo="https://i.imgur.com/XZSCpl2.jpg" group-title="UK",Humanity Documentaries 1 | Reino Unido
+#EXTINF:-1 tvg-id="GBAJ400048WZ" tvg-name="Humanity" tvg-logo="https://i.imgur.com/XZSCpl2.jpg" group-title="Documentários em inglês",Humanity Documentaries 1 | Reino Unido
 https://alchimie-humanity-2-gb.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GBAJ400048WZ" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/13/GBAJ400048WZ_20210310T011210.png" group-title="Documentários em inglês",Humanity Documentaries 2 | Reino Unido
@@ -1478,7 +1482,7 @@ https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/79?ppr
 #EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-5eea71d45252710041e0ccb9" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/edgesport.png" group-title="Esportes em inglês",Edge Sport - Plex 
 https://edgesports-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-edgesports-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=Tog8X6wK6iweuzGFsz6p&channelId=5eea71d45252710041e0ccb9
 
-#EXTINF:-1 tvg-id="" tvg-name="Edge Sport" tvg-logo="https://i.imgur.com/6h10JDk.png" group-title="UK",Edge Sport | Reino Unido 
+#EXTINF:-1 tvg-id="" tvg-name="Edge Sport" tvg-logo="https://i.imgur.com/6h10JDk.png" group-title="Esportes em inglês",Edge Sport | Reino Unido 
 https://edgesport-samsunguk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60aeb5cd87f9b1002ce12321" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/Extreme_logo_dark.png" group-title="Esportes em inglês",Extreme Plus
@@ -2672,8 +2676,14 @@ https://e4bd492634cb45a8b5f007639f01ba3a.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1  tvg-logo="https://media-exp1.licdn.com/dms/image/C4D12AQHdedL5JOiBAg/article-inline_image-shrink_1000_1488/0/1603957307349?e=1622073600&v=beta&t=X1OTeuwVTbsfRV_DvNimwcSJGsESrErYhkxn86utI9o" group-title="Notícias em espanhol",Estrella News em espanhol
 https://estrellanews-plex.amagi.tv/amRdirect/us_privacy=1---&did=83cf59f7-dc7f-5753-8faa-ab958f6c33e3&dnt=0&X-Plex-Token=jePnUaVx_dJ5XWHmG6ob&channelId=60089d97f682a3002c34829b/hls/amagi_hls_data_plexAAAAA-estrellanews-plex/CDN/384x216_435600/index.m3u8
 
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60089d97f682a3002c34829d" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/euronewsespanol_logo_dark2.png" group-title="Notícias em espanhol",Euronews Español
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60089d97f682a3002c34829d" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/euronewsespanol_logo_dark2.png" group-title="Notícias em espanhol",Euronews | Espanha
 https://2e0d18116bec40e088c0723dc56accf5.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_EuronewsSpanish/playlist.m3u8?ads.wurl_channel=671&ads.wurl_name=EuronewsSpanish&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=Tog8X6wK6iweuzGFsz6p&ads.plex_id=60089d97f682a3002c34829d&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
+
+#EXTINF:-1 tvg-id="ESAJ45000120Q" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/09/57/ESAJ45000120Q_20200923T101201.png" group-title="Notícias em espanhol",Euronews | Espanha 
+https://dc10a8b558744d9992b9fd0cefe2f818.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_Euronews/playlist.m3u8?ads.wurl_channel=376&ads.wurl_name=EuroNews&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
+
+#EXTINF:-1 tvg-id="ESAJ4500024LR" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/81/ESAJ4500024LR_20200923T101206.png" group-title="Notícias em espanhol",Euronews Live | Espanhol
+https://39997b2f529e4793961899e546833a75.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_EuroNewsLive/playlist.m3u8?ads.wurl_channel=544&ads.wurl_name=EuroNewsLive&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
 
 #EXTINF:-1 tvg-id="ForoTV.mx" tvg-name="Foro TV" tvg-logo="https://pbs.twimg.com/profile_images/1057408851253714946/GSxqNEQv_400x400.jpg" group-title="Notícias em espanhol",Foro TV (Televisa News) | México
 https://stnothds-lh.akamaihd.net/i/sslf0r0tvnus_1@109755/index_1296_av-p.m3u8?sd=10&rebase=on
@@ -2693,7 +2703,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f523aa5523ae00007
 #EXTINF:-1 tvg-name="TVE 24h" tvg-id="TVE24h.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2084px-Logo_TVE-24h.svg.png" group-title="Notícias em espanhol",TVE 24h | Espanha
 https://rtvelivestream.akamaized.net/24h_main_dvr_360.m3u8
 
-############## NOTÍCIAS em INGLÊS ##############
+############## NOTÍCIAS em INGLÊS ############## NOTÍCIAS em INGLÊS ############## NOTÍCIAS em INGLÊS ############## NOTÍCIAS em INGLÊS ############## NOTÍCIAS em INGLÊS ############## NOTÍCIAS em INGLÊS ############## NOTÍCIAS em INGLÊS ##############
 
 #EXTINF:-1 tvg-name="ABC News | Austrália 🇦🇺" tvg-id="abcnews.com.au" tvg-logo="https://i.imgur.com/rdkvOCh.png" group-title="Notícias em inglês",ABC News | Austrália 🇦🇺
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
@@ -2782,11 +2792,17 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af4228394
 #EXTINF:-1 tvg-name="CNN Int. UK" tvg-logo="https://i.imgur.com/bD9jUgK.png" group-title="Notícias em inglês",CNN Internacional | Reino Unido
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
+#EXTINF:-1 tvg-id="euronews.au" tvg-name="Euronews" tvg-logo="https://i.imgur.com/szYOy8S.jpg" group-title="Notícias em inglês",Euronews | Austrália - Samsung
+https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/szYOy8S.jpg" group-title="Notícias em inglês" tvg-name="Euronews Roku | EUA",Euronews | EUA - Roku 
 https://euronews-euronews-world-1.roku.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-id="euronews.au" tvg-name="Euronews" tvg-logo="https://i.imgur.com/szYOy8S.jpg" group-title="Notícias em inglês",Euronews | Austrália - Samsung
-https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="GBAJ2400002Y8" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/10/GBAJ2400002Y8_20200923T101202.png" group-title="Notícias em inglês",Euronews | Reino Unido
+https://fb35ecd0cc074cb88b4d0e4ff5c03593.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_Euronews/playlist.m3u8?ads.wurl_channel=377&ads.wurl_name=Euronews&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
+
+#EXTINF:-1 tvg-id="GBAJ4900020VP" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/62/GBAJ4900020VP_20200923T101209.png" group-title="Notícias em inglês",Euronews Live | Reino Unido
+https://685531619097460582835d479ff140bb.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_EuroNewsLive/playlist.m3u8?ads.wurl_channel=541&ads.wurl_name=EuroNewsLive&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
 
 #EXTINF:-1 tvg-name="Fox 23 Tulsa" tvg-logo="https://i.imgur.com/FeY6aUe.png" group-title="Notícias em inglês",Fox 23 Tulsa | EUA
 https://d1hdqxv58eu2nj.cloudfront.net/v1/manifest/77872db67918a151b697b5fbc23151e5765767dc/cmg_PROD_cmg-tv-10100_0d4036c1-d9dd-46b1-84f7-506ba49b7b28_LE/2fe56b38-622d-4c04-8aad-f83ce821c25f/1.m3u8
@@ -2860,8 +2876,26 @@ https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3032?p
 #EXTINF:-1 tvg-id="BFMTV.fr" tvg-logo="https://i.imgur.com/6vSFWfq.png" tvg-name="BFM TV" group-title="Notícias em outros idiomas",BFM | França
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/2765?pprotocol=hls
 
-#EXTINF:-1 tvg-id="ITAJ4500023ZX" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/09/ITAJ4500023ZX_20200923T101207.png" group-title="Notícias em outros idiomas",Euronews | Itália in diretta
+#EXTINF:-1 tvg-id="FRAJ450001933" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/27/FRAJ450001933_20200923T101203.png" group-title="Notícias em outros idiomas",Euronews em francês
+https://8cf01fb5f05e4b429c6c9359f65595a6.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_Euronews/playlist.m3u8?ads.wurl_channel=326&ads.wurl_name=Euronews&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
+
+#EXTINF:-1 tvg-id="ITAJ45000141D" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/06/31/ITAJ45000141D_20200923T101204.png" group-title="Notícias em outros idiomas",Euronews | Itália
+https://e4a5a147cb5e4aa38ecb8b703171308c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-it_Euronews/playlist.m3u8?ads.wurl_channel=375&ads.wurl_name=Euronews&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
+
+#EXTINF:-1 tvg-id="DEBA1000003IM" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/29/DEBA1000003IM_20200923T101210.png" group-title="Notícias em outros idiomas",Euronews Live | Alemanha
+https://64ae17e353a144d38d09cb7530008fb7.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_EuroNewsLive/playlist.m3u8?ads.wurl_channel=545&ads.wurl_name=EuroNewsLive&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
+
+#EXTINF:-1 tvg-id="ATBA1000004XC" tvg-chno="4003" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/04/25/ATBA1000004XC_20200923T101208.png" group-title="Notícias em outros idiomas",Euronews Live | Áustria
+https://97f90ef61a6244789817737a9e99c01b.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-at_EuroNewsLive/playlist.m3u8?ads.wurl_channel=547&ads.wurl_name=EuroNewsLive&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
+
+#EXTINF:-1 tvg-id="FRBA1000005TW" tvg-chno="4003" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/78/FRBA1000005TW_20200923T101205.png" group-title="Notícias em outros idiomas",Euronews Live | Francês 
+https://7c8b7dbf12d64234a983336fdddb88c2.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_EuroNewsLive/playlist.m3u8?ads.wurl_channel=542&ads.wurl_name=EuroNewsLive&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
+
+#EXTINF:-1 tvg-id="ITAJ4500023ZX" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/09/ITAJ4500023ZX_20200923T101207.png" group-title="Notícias em outros idiomas",Euronews Live | Itália
 https://3d48917864744271986248c38e797ee2.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-it_EuroNewsLive/playlist.m3u8?ads.wurl_channel=543&ads.wurl_name=EuroNewsLive&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
+
+#EXTINF:-1 tvg-id="CHBA100000532" tvg-chno="4003" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/09/14/CHBA100000532_20200923T101207.png" group-title="Notícias em outros idiomas",Euronews Live | Suiça
+https://6e90edc1f58640ebadb0955758715502.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-ch_EuroNewsLive/playlist.m3u8?ads.wurl_channel=546&ads.wurl_name=EuroNewsLive&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
 
 #EXTINF:-1 tvg-id="FRANCE24.es" tvg-name="France 24 | Francês" tvg-logo="https://imgur.com/Tj0KCYI.png" tvg-shift="0" group-title="Notícias em outros idiomas",France 24 | Francês
 https://static.france24.com/live/F24_FR_LO_HLS/live_web.m3u8
@@ -3428,7 +3462,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f778a59b02eb40007f
 #EXTINF:-1 tvg-name="NHK World" tvg-id="nhkworld" tvg-logo="https://i.imgur.com/G8dUiLU.png" group-title="Variedades em inglês",NHK World | Japão
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 
-#EXTINF:-1 tvg-name="PBS America" tvg-logo="https://i.imgur.com/JkwTORb.png" group-title="Reino Unido",PBS America | Reino Unido
+#EXTINF:-1 tvg-name="PBS America" tvg-logo="https://i.imgur.com/JkwTORb.png" group-title="Variedades em inglês",PBS America | Reino Unido
 https://pbs-samsunguk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Plymouth Rock TV" tvg-logo="https://i.imgur.com/kNtbCDF.png" group-title="Variedades em inglês",Plymouth Rock TV | EUA
