@@ -679,6 +679,9 @@ https://content-asae1-up-1.uplynk.com/channel/e54d7e92a0154d67ae0770c9d4210e77/c
 #EXTINF:-1  tvg-name="DUST AU" tvg-logo="https://i.imgur.com/pXXUmuW.jpg" group-title="Cinema em inglês",Dust | Austrália
 https://dust-samsung-uk-au.samsung.wurl.com/manifest/playlist.m3u8
 
+#EXTINF:-1 tvg-name="Dust" tvg-logo="https://i.imgur.com/pXXUmuW.jpg" group-title="Cinema em inglês",Dust | Reino Unido
+https://dust-gb.samsung.wurl.com/manifest/playlist.m3u8
+
 #EXTINF:-1 group-title="Cinema em inglês" tvg-logo="https://static.filmon.com/assets/channels/4655/extra_big_logo.png",Faith Cinema
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/4655&pprotocol=hls
 
@@ -823,6 +826,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e8dc0af6
 #EXTINF:-1 group-title="Compras em inglês" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWeckfObfyFWhe5JuPFGqaZgCiFyBSZXjg4RqleTMoxnlpG_wSOg3gOaRJjYdxQHUbZa0&usqp=CAU",Star Shop | EUA
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3575&pprotocol=hls
 
+#EXTINF:-1 tvg-name="TJC" tvg-logo="https://i.imgur.com/ekb8ZWb.png" group-title="Compras em inglês",TJC | Reino Unido 
+https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/index.m3u8
+
 #EXTINF:-1 tvg-id="tvsn.au" tvg-name="TVSN AU" tvg-logo="https://i.imgur.com/TuHnkxP.png" group-title="Compras em inglês",TVSN | Austrália 
 https://tvsn-i.akamaihd.net/hls/live/261837/tvsn/tvsn_750.m3u8
 
@@ -935,14 +941,17 @@ https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3005&p
 #EXTINF:-1 tvg-id="gordon-ramsays-hells-kitchen" tvg-logo="https://akns-images.eonline.com/eol_images/Entire_Site/2014213/rs_1024x759-140313084133-1024.hells-kitchen-gordon-ramsay.ls.31314.jpg?fit=around%7C1024:759&output-quality=90&crop=1024:759;center,top" group-title="Culinária em inglês",Gordon Ramsay's Hell's Kitchen | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e99f4423e067bd6df6903/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc945612-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d2385b8b-8a8b-486d-8323-d342c2815163&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-name="Gusto TV AU" tvg-id="gustotv.au" tvg-logo="https://gustotv.com/wp-content/uploads/2020/04/gustotv-logo.svg" group-title="Culinária em inglês",Gusto TV | Austrália 🇦🇺
+#EXTINF:-1 tvg-name="Gusto TV AU" tvg-id="gustotv.au" tvg-logo="https://i.imgur.com/bfm8dgT.png" group-title="Culinária em inglês",Gusto TV | Austrália
 https://gustotv-samsung-au.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://gustotv.com/wp-content/uploads/2020/04/gustotv-logo.svg" group-title="Culinária em inglês" tvg-name="Gusto TV | EUA",Gusto TV | EUA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bfm8dgT.png" group-title="Culinária em inglês" tvg-name="Gusto TV | EUA",Gusto TV | EUA
 https://gustotv-gustotv-1.roku.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-id="5c5c47f3662f6b3c476fc03e" tvg-logo="https://gustotv.com/wp-content/uploads/2020/04/gustotv-logo.svg" group-title="Culinária em inglês",Gusto TV | Reino Unido
+#EXTINF:-1 tvg-id="5c5c47f3662f6b3c476fc03e" tvg-logo="https://i.imgur.com/bfm8dgT.png" group-title="Culinária em inglês",Gusto TV | Reino Unido - Pluto TV 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c5c47f3662f6b3c476fc03e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-name="GustoTV" tvg-logo="https://i.imgur.com/bfm8dgT.png" group-title="Culinária em inglês",Gusto TV | Reino Unido - Samsung 
+https://gustotv-samsung-gb.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-id="5e6f38792075160007d85823" tvg-logo="https://pm1.narvii.com/6444/e1cbdb43f242738fa96311e318705067b4506ba3_hq.jpg" group-title="Culinária em inglês",Hell's Kitchen
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e6f38792075160007d85823/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
@@ -970,6 +979,9 @@ https://firstmedia-soyummy-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-so-yummy-p
 
 #EXTINF:-1 tvg-id="tastemade-1" tvg-name="Tastemade" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhA7X7nydAFWlQFSb6HkoKiKmEZXtdzpsD2DzM1s18=s900-c-k-c0x00ffffff-no-rj" group-title="Culinária em inglês",Tastemade | EUA 
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ece9beb0a542e0007199c2f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc98c2e1-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=407d3896-71f8-446b-a9de-e217a351edf4&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-name="Tastemade" tvg-logo="https://i.imgur.com/dwMUVhs.png" group-title="Culinária em inglês",Tastemade | Reino Unido
+https://tastemade-gb.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1  tvg-name="The Chef Roc TV Show" tvg-logo="https://static.filmon.com/theme/images/logo/filmon_facebook.png" tvg-shift="0" group-title="Culinária em inglês",The Chef Roc TV Show | EUA
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3599&pprotocol=hls
@@ -1314,6 +1326,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5aea40b35126c215712
 #EXTINF:-1 tvg-id="5e393d5c696b3b0009775c8b" tvg-logo="https://images.pluto.tv/channels/5e393d5c696b3b0009775c8b/colorLogoPNG.png" group-title="Documentários em inglês",The New Detectives | Reino Unido
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e393d5c696b3b0009775c8b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
+#EXTINF:-1 tvg-name="Timeline" tvg-logo="https://i.imgur.com/AzZhwWR.jpg" group-title="Documentários em inglês",Timeline | Reino Unido
+https://timeline-samsung-uk.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="travelxp.au" tvg-name="Travel XP AU" tvg-logo="https://i.imgur.com/6V48LwT.jpg" group-title="Documentários em inglês",Travel XP | Austrália
 https://travelxp-travelxp-1-au.samsung.wurl.com/manifest/playlist.m3u8
 
@@ -1457,8 +1472,11 @@ https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/787&pp
 #EXTINF:-1  tvg-logo="https://www.desifree.tv/wp-content/uploads/DUBAI-SPORTS.jpg" tvg-name="Dubai Sports" group-title="Esportes em inglês",Dubai Sports | Emirados Árabes Unidos 
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/79?pprotocol=hls
 
-#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-5eea71d45252710041e0ccb9" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/edgesport.png" group-title="Esportes em inglês",EDGEsport
+#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-5eea71d45252710041e0ccb9" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/edgesport.png" group-title="Esportes em inglês",Edge Sport - Plex 
 https://edgesports-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-edgesports-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=Tog8X6wK6iweuzGFsz6p&channelId=5eea71d45252710041e0ccb9
+
+#EXTINF:-1 tvg-id="" tvg-name="Edge Sport" tvg-logo="https://i.imgur.com/6h10JDk.png" group-title="UK",Edge Sport | Reino Unido 
+https://edgesport-samsunguk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60aeb5cd87f9b1002ce12321" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/Extreme_logo_dark.png" group-title="Esportes em inglês",Extreme Plus
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=729&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=Tog8X6wK6iweuzGFsz6p&content_series=60aeb5cd87f9b1002ce12321&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=Tog8X6wK6iweuzGFsz6p&custom_7=60aeb5cd87f9b1002ce12321
@@ -1608,14 +1626,20 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d486bed428fe37d8ca
 #EXTINF:-1 tvg-name="Racing.com" tvg-id="Racing.com.au" tvg-logo="https://i.imgur.com/NAY9DTt.png" group-title="Esportes em inglês",Racing.com | Austrália 🇦🇺
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/628.m3u8
 
-#EXTINF:-1 tvg-id="redbull" tvg-shift="0" tvg-name="Redbull TV" group-title="Esportes em inglês" tvg-logo="https://img2.gratispng.com/20180824/fph/kisspng-red-bull-tv-television-film-streaming-media-red-bull-tv-primavera-sound-5b805de6d852c0.5594931315351393028861.jpg",Redbull TV | EUA 
+#EXTINF:-1 tvg-id="redbull" tvg-shift="0" tvg-name="Red Bull TV" group-title="Esportes em inglês" tvg-logo="https://img2.gratispng.com/20180824/fph/kisspng-red-bull-tv-television-film-streaming-media-red-bull-tv-primavera-sound-5b805de6d852c0.5594931315351393028861.jpg",Red Bull TV | EUA 
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 
-#EXTINF:-1 tvg-id="redbull" tvg-name="Redbull TV" tvg-logo="https://i.imgur.com/0ydrMIj.png" group-title="Esportes em inglês",Redbull TV | Reino Unido
+#EXTINF:-1 tvg-id="redbull" tvg-name="Red Bull TV" tvg-logo="https://i.imgur.com/0ydrMIj.png" group-title="Esportes em inglês",Red Bull TV | Reino Unido
 https://rbmn-live.akamaized.net/hls/live/622817/BoRB-US/master_928.m3u8
 
 #EXTINF:-1 tvg-name="Roopstigo" tvg-logo="https://lh3.googleusercontent.com/proxy/Uye5lFPTNcXF-STkWj-XY1g64tzU-bNiI0gJ_eUs1QoFmJuWS_hyoqFrdt0BCGBNJbq9KW2TZbjOuRuQI6XOChC9_y5_SpfWihgcvU7PSScNugscWIsRs1S9" tvg-id="Roopstigo" group-title="Esportes em inglês",Roopstigo | EUA
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/2737&pprotocol=hls
+
+#EXTINF:-1 tvg-name="Sky 1 Racing" group-title="Esportes em inglês" tvg-logo="https://i.imgur.com/QweV0BP.png",Sky 1 Racing | Reino Unido
+https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky1.m3u8
+
+#EXTINF:-1 tvg-name="Sky 2" group-title="Esportes em inglês" tvg-logo="https://i.imgur.com/7MkX0Ct.png",Sky 2 Racing | Reino Unido
+https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 
 #EXTINF:-1 tvg-id="snowymountains.au" tvg-name="Snowy Mountains" tvg-logo="https://i.imgur.com/vuFx0Zd.jpg" group-title="Esportes em inglês",Snowy Mountains | Austrália 🇦🇺
 http://c.mjh.nz/snowy-mountains/
@@ -1623,8 +1647,14 @@ http://c.mjh.nz/snowy-mountains/
 #EXTINF:-1 tvg-id="spike-outdoors" tvg-logo="http://images.pluto.tv/channels/5c393cad2de254456f7ef8c2/colorLogoPNG.png" group-title="Esportes em inglês",Spike Outdoors | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c393cad2de254456f7ef8c2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc94f254-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=db20fee1-70c0-4454-85d6-f589c2726be9&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWeckfObfyFWhe5JuPFGqaZgCiFyBSZXjg4RqleTMoxnlpG_wSOg3gOaRJjYdxQHUbZa0&usqp=CAU" tvg-name="Sports Bloopers"  group-title="Esportes em inglês",Sports Bloopers
+#EXTINF:-1 tvg-logo="https://static.filmon.com/assets/channels/3110/extra_big_logo.png" tvg-name="Sports Bloopers"  group-title="Esportes em inglês",Sports Bloopers
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3110&pprotocol=hls
+
+#EXTINF:-1 tvg-name="Sports Channel Network" tvg-logo="https://i.imgur.com/ie6wpAO.png" group-title="Esportes em inglês",Sports Channel Network | Reino Unido
+https://vod365-sports-channel-network-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Sports Tonight" tvg-id="FreeSports.uk" group-title="Esportes em inglês" tvg-logo="https://i.imgur.com/Nh4LyPv.png",Sports Tonight | Reino Unido
+http://sports.ashttp9.visionip.tv/live/visiontvuk-sports-sportstonightlive-hsslive-25f-4x3-SD/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="stadium" tvg-logo="http://images.pluto.tv/channels/59974b6d7ec5063cb56f24c9/colorLogoPNG.png" group-title="Esportes em inglês",Stadium | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/59974b6d7ec5063cb56f24c9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc9392c0-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=08eb340c-dab0-4f15-815b-e42f91d5d5bc&userId=&serverSideAds=true
@@ -2622,6 +2652,9 @@ https://c9316f31c76b47b495b0f20dc2d79401.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="GBAJ49000148R" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/14/GBAJ49000148R_20200923T100340.png" group-title="Música: karaokê",Stingray Karaoke | Reino Unido
 https://a080fd7d091e4c3f8e34bdfe40a36584.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_StingrayKaraoke/playlist.m3u8?ads.wurl_channel=456&ads.wurl_name=StingrayKaraoke&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
 
+#EXTINF:-1 tvg-name="Stingray Karaoke" tvg-logo="https://i.imgur.com/XkBOu3Q.jpg" group-title="Música: karaokê",Stingray Karaoke 2 | Reino Unido
+https://stingray-karaoke-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+
 #EXTINF:-1 tvg-id="CHBA1000002MK" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/43/CHBA1000002MK_20200923T100339.png" group-title="Música: karaokê",Stingray Karaoke | Suiça
 https://e4bd492634cb45a8b5f007639f01ba3a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-ch_StingrayKaraoke/playlist.m3u8?ads.wurl_channel=457&ads.wurl_name=StingrayKaraoke&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
 
@@ -2661,9 +2694,6 @@ https://c.mjh.nz/101002210220/
 
 #EXTINF:-1 tvg-name="Al Jazeera | English" tvg-id="Al-JazeeraEnglish.net" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Al-jazeera-logo.jpg" group-title="Notícias em inglês",Al Jazeera | Inglês
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
-
-#EXTINF:-1 tvg-name="Ameritrade" tvg-logo="https://i.imgur.com/Ay5jSQn.png" group-title="Notícias em inglês",Ameritrade | EUA
-https://tdameritrade-vizio.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Arise News" group-title="Notícias em inglês" tvg-logo="https://i.imgur.com/vvO3Fes.png",Arise News | Reino Unido
 http://news.ashttp9.visionip.tv/live/visiontvuk-news-arise-tv-hsslive-25f-16x9-SD/chunklist.m3u8
@@ -2740,13 +2770,13 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca1e02c0
 #EXTINF:-1 tvg-id="cnn" tvg-name="CNN EUA" tvg-logo="http://images.pluto.tv/channels/5421f71da6af422839419cb3/colorLogoPNG.png" group-title="Notícias em inglês",CNN | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af422839419cb3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc91e510-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=03988411-6463-422e-81c6-ec0873b4bd7a&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-name="CNN Int. (UK)" tvg-logo="https://i.imgur.com/bD9jUgK.png" group-title="Notícias em inglês",CNN Internacional| Reino Unido
+#EXTINF:-1 tvg-name="CNN Int. UK" tvg-logo="https://i.imgur.com/bD9jUgK.png" group-title="Notícias em inglês",CNN Internacional | Reino Unido
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K1kJf1s.png" group-title="Notícias em inglês" tvg-name="Euronews Roku | EUA",Euronews Roku | EUA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/szYOy8S.jpg" group-title="Notícias em inglês" tvg-name="Euronews Roku | EUA",Euronews | EUA - Roku 
 https://euronews-euronews-world-1.roku.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-id="euronews.au" tvg-name="Euronews" tvg-logo="https://i.imgur.com/szYOy8S.jpg" group-title="Notícias em inglês",Euronews | Austrália 🇦🇺
+#EXTINF:-1 tvg-id="euronews.au" tvg-name="Euronews" tvg-logo="https://i.imgur.com/szYOy8S.jpg" group-title="Notícias em inglês",Euronews | Austrália - Samsung
 https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Fox 23 Tulsa" tvg-logo="https://i.imgur.com/FeY6aUe.png" group-title="Notícias em inglês",Fox 23 Tulsa | EUA
@@ -2786,21 +2816,11 @@ https://live.rte.ie/live/a/channel3/news.isml/news-audio_128k=128000.m3u8?dvr_wi
 #EXTINF:-1 tvg-id="RussiaToday.uk" tvg-name="Russia Today" tvg-shift="0" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1024px-Russia-today-logo.svg.png" group-title="Notícias em inglês",Russia Today HD em Inglês
 https://rt-news-gd.secure2.footprint.net/1103_2500Kb.m3u8
 
-
-#EXTINF:-1 tvg-id="sky-news-2" tvg-name="Sky News 2 EUA" tvg-logo="http://images.pluto.tv/channels/5cf5a3ac163e69f04c5b11b1/colorLogoPNG.png" group-title="Notícias em inglês",Sky News 2 EUA
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf5a3ac163e69f04c5b11b1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc958e95-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ab85c55d-2986-4e99-86f1-703e0f49a895&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-name="Sky News Austrália 🇦🇺" tvg-id="australiachannel.com.au" tvg-logo="https://i.imgur.com/ZeC0jE4.png" group-title="Notícias em inglês",Sky News Austrália 🇦🇺
+#EXTINF:-1 tvg-name="Sky News Austrália 🇦🇺" tvg-id="australiachannel.com.au" tvg-logo="https://i.imgur.com/1XiQezD.png" group-title="Notícias em inglês",Sky News | Austrália
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8
 
-#EXTINF:-1 tvg-name="Sky News Austrália 🇦🇺 Extra 1" tvg-id="skynews.au1" tvg-logo="https://i.imgur.com/1XiQezD.png" group-title="Notícias em inglês",Sky News Austrália 🇦🇺 Extra 1
-https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
-
-#EXTINF:-1 tvg-name="Sky News Austrália 🇦🇺 Extra 2" tvg-id="skynews.au2" tvg-logo="https://i.imgur.com/1XiQezD.png" group-title="Notícias em inglês",Sky News Austrália 🇦🇺 Extra 2
-https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
-
-#EXTINF:-1 tvg-name="Sky News Austrália 🇦🇺 Extra 3" tvg-id="skynews.au3" tvg-logo="https://i.imgur.com/1XiQezD.png" group-title="Notícias em inglês",Sky News Austrália 🇦🇺 Extra 3
-https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
+#EXTINF:-1 tvg-id="sky-news-2" tvg-name="Sky News 2 EUA" tvg-logo="http://images.pluto.tv/channels/5cf5a3ac163e69f04c5b11b1/colorLogoPNG.png" group-title="Notícias em inglês",Sky News 2 | EUA
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf5a3ac163e69f04c5b11b1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc958e95-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ab85c55d-2986-4e99-86f1-703e0f49a895&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-id="newsy" tvg-name="Newsy" tvg-logo="http://images.pluto.tv/channels/5459795fc9f133a519bc0bef/colorLogoPNG.png" group-title="Notícias em inglês",Top Stories by Newsy | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5459795fc9f133a519bc0bef/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc91e512-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a9feb354-d076-43b0-9c88-cefa72c3fbf0&userId=&serverSideAds=true
@@ -2844,6 +2864,9 @@ https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_18
 https://stream-01.nyc.dailymotion.com/sec(8lOMYwOWJB0kD-8STcdDUHgqhulIXEZtfjzKdKviBcQ)/dm/3/x7yb4xm/s/live-1.m3u8
 
 ######## Notícias sobre dinheiro em inglês ######## Notícias sobre dinheiro em inglês ######## Notícias sobre dinheiro em inglês ######## Notícias sobre dinheiro em inglês ######## Notícias sobre dinheiro em inglês ######## Notícias sobre dinheiro em inglês ########
+
+#EXTINF:-1 tvg-name="Ameritrade" tvg-logo="https://i.imgur.com/Ay5jSQn.png" group-title="Notícias sobre dinheiro em inglês",Ameritrade | EUA
+https://tdameritrade-vizio.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Ausbiz Austrália 🇦🇺" tvg-id="tv.7ausbiz" tvg-logo="https://i.imgur.com/8hYBj3q.png" group-title="Notícias sobre dinheiro em inglês",Ausbiz | Austrália
 https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8
