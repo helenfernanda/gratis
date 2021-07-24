@@ -42,54 +42,73 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5a545d0dbf7f0007c
 #EXTINF:-1 tvg-id="pluto-tv-filmes-suspense" tvg-logo="https://imgur.com/K9gHNmZ.png" group-title="Brasil: cinema",Filmes Suspense | Brasil 
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f171d3442a0500007362f22/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781c810-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=34b16d8e-8dce-4632-ba87-dabc2e07988f&userId=&serverSideAds=true
 
-############################### BRASIL Documentários #####################################
+######################### Brasil: educativos e documentários ############## Brasil: educativos e documentários ############## Brasil: educativos e documentários ############## Brasil: educativos e documentários ############## Brasil: educativos e documentários ########
 
-#EXTINF:-1 tvg-id="pluto-tv-investigacao-ptv1" tvg-logo="https://imgur.com/JfLHsbj.png" group-title="Brasil: documentários",Investigação | Brasil 
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32cf37c9ff2b00082adbc8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781ef20-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c6910880-42dc-4cb1-99bb-7227886a27ba&userId=&serverSideAds=true
+#EXTINF:-1 tvg-id="Tvbrasil.br" tvg-name="TV Brasil" tvg-logo="https://www.fenaert.org.br/images/Novatvbrasil.jpg" group-title="Brasil: educativos e documentários",TV Brasil 240
+https://tvbrasil-stream.ebc.com.br/STsEBCLIVE_240/index.m3u8
 
-#EXTINF:-1 tvg-id="pluto-tv-misterios-ptv1" tvg-logo="https://images.pluto.tv/channels/5fac52f142044f00078e2a51/featuredImage.jpg" group-title="Brasil: documentários",Mistérios | Brasil
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fac52f142044f00078e2a51/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=e61e81d1-c6d5-4eea-a605-2651410462b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=357672e9-e58c-11eb-b36a-0242ac110002&userId=&serverSideAds=true 
+#EXTINF:-1 tvg-id="Tvbrasil.br" tvg-name="TV Brasil" tvg-logo="https://www.fenaert.org.br/images/Novatvbrasil.jpg" group-title="Brasil: educativos e documentários",TV Brasil 480
+https://tvbrasil-stream.ebc.com.br/STsEBCLIVE_480/index.m3u8
 
-#EXTINF:-1 tvg-id="pluto-tv-natureza" tvg-logo="https://imgur.com/oAarMpL.png" group-title="Brasil: documentários",Natureza | Brasil 
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977f3000-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=5bf5881e-ff8d-45df-a6a2-db61d0e625a0&userId=&serverSideAds=true
+#EXTINF:-1 tvg-id="Tvbrasil.br" tvg-name="TV Brasil" tvg-logo="https://www.fenaert.org.br/images/Novatvbrasil.jpg" group-title="Brasil: educativos e documentários",TV Brasil 720
+https://tvbrasil-stream.ebc.com.br/STsEBCLIVE_720/index.m3u8
 
-#EXTINF:-1 tvg-id="pluto-tv-vida-real-ptv1" tvg-logo="https://imgur.com/YuTPeFV.png" group-title="Brasil: documentários",Vida Real | Brasil 
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32d4d9ec194100070c7449/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781ef21-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=29b136d2-3f75-488b-9ace-35ab0ac5684e&userId=&serverSideAds=true
+#EXTINF:-1 tvg-id="Tvbrasil.br" tvg-name="TV Brasil" tvg-logo="https://www.fenaert.org.br/images/Novatvbrasil.jpg" group-title="Brasil: educativos e documentários",TV Brasil HD
+https://origin-02.nxplay.com.br/TV_BRASIL_NX/index.m3u8
 
-############################### BRASIL EDUCATIVOS #####################################
-
-#EXTINF:-1 tvg-id="canalsaude.br" tvg-name="Canal Saúde" tvg-logo="https://i.imgur.com/CGQhh0s.png" tvg-shift="0" group-title="Brasil: educativos",Canal Saúde | Brasil
-https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/playlist.m3u8
-
-#EXTINF:-1 tvg-id="culturapara" tvg-logo="https://listaiptv.gratis/logos/imagens/culturapara.png" group-title="Brasil: educativos",Cultura do Pará | Brasil
-http://str.portalcultura.com.br/funtelpa/tv_funtelpa/live.m3u8
-
-#EXTINF:-1 tvg-id="Redeminas.br" tvg-name="Rede Minas" group-title="Brasil: educativos" tvg-logo="https://pbs.twimg.com/profile_images/1151111400615550976/MQW6Uj8p.png",Rede Minas SD | Brasil
-https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_.m3u8
-
-#EXTINF:-1 tvg-id="SESCTV.br" tvg-name="SESC TV" group-title="Brasil: educativos" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCQlj4F0w8sO6hAPUKpnxfh5GOGxG9XEzi9obcZVtYWwuDRf3otJWvZ_YQF_xbnaovDaY&usqp=CAU",Sesc TV | Brasil
-https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2c3e9324497d5ff/video/0c884f97-4264-446f-abcd-03aa46089a96_index1080p.m3u8
-
-#EXTINF:-1  tvg-name="TV Brasil | TVE" tvg-logo="https://pbs.twimg.com/profile_images/927523078690787328/cY2qU7jK_400x400.jpg" group-title="Brasil: educativos",TV Brasil | TVE (RS)
+#EXTINF:-1 tvg-name="TV Brasil | TVE" tvg-logo="https://pbs.twimg.com/profile_images/927523078690787328/cY2qU7jK_400x400.jpg" group-title="Brasil: educativos e documentários",TV Brasil | TVE (RS)
 http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
 
-#EXTINF:-1  tvg-name="TV UFG | TV Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Avatar_-_Quadrado_02.png" group-title="Brasil: educativos",TV Brasil - TV UFG (GO)
+#EXTINF:-1 tvg-name="TV UFG | TV Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Avatar_-_Quadrado_02.png" group-title="Brasil: educativos e documentários",TV Brasil | TV UFG (GO)
 http://wowza.softhost.com.br:1935/ufg/smil:tvufgweb/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="TV Cultura" tvg-logo="https://listaiptv.gratis/logos/imagens/1180px-cultura_logo_2013.svg_.png" group-title="Brasil: educativos", TV Cultura | TV Futuro (RJ) | Brasil
+#EXTINF:-1  tvg-name="TV Câmara" tvg-logo="https://logodownload.org/wp-content/uploads/2019/01/tv-camara-logo.png" group-title="Brasil: educativos e documentários",TV Câmara | Brasil
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+
+#EXTINF:-1  tvg-name="TV Câmara" tvg-logo="https://logodownload.org/wp-content/uploads/2019/01/tv-camara-logo.png" group-title="Brasil: educativos e documentários",TV Câmara 2 | Brasil
+https://stream3.camara.gov.br/tv2/manifest.m3u8
+
+#EXTINF:-1  tvg-name="TV Câmara" tvg-logo="https://logodownload.org/wp-content/uploads/2019/01/tv-camara-logo.png" group-title="Brasil: educativos e documentários",TV Câmara 3 | Brasil
+https://stream3.camara.gov.br/tv2/manifest.m3u8
+
+#EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="TV Cultura" tvg-logo="https://listaiptv.gratis/logos/imagens/1180px-cultura_logo_2013.svg_.png" group-title="Brasil: educativos e documentários",TV Cultura | TV Futuro (RJ) | Brasil
 https://streaming03.zas.media/tvfuturo/tvfuturo/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Tvescola.br" tvg-name="TV Escola" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjMchEFtSE24KRWXsviP6GZD2KLdE_PHlvNvK_c0Q=s900-c-k-c0x00ffffff-no-rj" group-title="Brasil: educativos",TV Escola | Brasil
+#EXTINF:-1 tvg-id="culturapara" tvg-logo="https://listaiptv.gratis/logos/imagens/culturapara.png" group-title="Brasil: educativos e documentários",Cultura do Pará | Brasil
+http://str.portalcultura.com.br/funtelpa/tv_funtelpa/live.m3u8
+
+#EXTINF:-1 tvg-id="Tvescola.br" tvg-name="TV Escola" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjMchEFtSE24KRWXsviP6GZD2KLdE_PHlvNvK_c0Q=s900-c-k-c0x00ffffff-no-rj" group-title="Brasil: educativos e documentários",(TV) Escola | Brasil
 https://edge-rj-01.eduplay.rnp.br/media/ocp(r(uxqJWw)t(AAAAAAAAAAA)p(d(1V0)k(cto)m(ozliuPfkh1eJAWz5pwZ4mA)n(a(3SvKKEX2OOhT6h3pe_Y_EFfDaFcT3ac-)s(Q7o)'a(Kvu_4LKDXK79KhEoIpPBfg1d)s(E1o)))s(t(sQg)b(N3U2BrNIlr__FHGgSagEOxUNBPapU6wLgFdu5hPXv3n22-TGb3AbZpfiS1pTXHOIcor3Raeer_hlcpDs4U46Shu80FDN-6iQACwB_Oxj20B2bxL8tILA6xQEv-xlD6O-wVm7bmTz-to-cnWrmVmmqpL5Yj0hiqqxSGMPOmGL)'t(kjo)b(AeKwH7JgZN3Rv21RLL8hjgBCod6HGEsVOxyD)))/live_540_index.m3u8
 
-#EXTINF:-1 tvg-name="TV Faap" tvg-logo="https://listaiptv.gratis/logos/imagens/tvfaap.png" group-title="Brasil: educativos",TV Faap | Brasil
+#EXTINF:-1 tvg-name="TV Faap" tvg-logo="https://listaiptv.gratis/logos/imagens/tvfaap.png" group-title="Brasil: educativos e documentários",(TV) Faap | Brasil
 http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8
 
-#EXTINF:-1 tvg-id="TVparanaturismo.br" group-title="Brasil: educativos" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjjKFPE1dR10rEbyAE2fus0Mu0iQ0mEwehWdlf6uQ=s250-c-k-c0x00ffffff-no-rj" tvg-name="TV Paraná Turismo",TV Paraná Turismo | Brasil
+#EXTINF:-1 tvg-id="pluto-tv-investigacao-ptv1" tvg-logo="https://imgur.com/JfLHsbj.png" group-title="Brasil: educativos e documentários",Investigação | Brasil 
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32cf37c9ff2b00082adbc8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781ef20-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c6910880-42dc-4cb1-99bb-7227886a27ba&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="pluto-tv-misterios-ptv1" tvg-logo="https://images.pluto.tv/channels/5fac52f142044f00078e2a51/featuredImage.jpg" group-title="Brasil: educativos e documentários",Mistérios | Brasil
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fac52f142044f00078e2a51/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=e61e81d1-c6d5-4eea-a605-2651410462b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=357672e9-e58c-11eb-b36a-0242ac110002&userId=&serverSideAds=true 
+
+#EXTINF:-1 tvg-id="pluto-tv-natureza" tvg-logo="https://imgur.com/oAarMpL.png" group-title="Brasil: educativos e documentários",Natureza | Brasil 
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977f3000-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=5bf5881e-ff8d-45df-a6a2-db61d0e625a0&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="TVparanaturismo.br" group-title="Brasil: educativos e documentários" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjjKFPE1dR10rEbyAE2fus0Mu0iQ0mEwehWdlf6uQ=s250-c-k-c0x00ffffff-no-rj" tvg-name="TV Paraná Turismo",(TV) Paraná Turismo | Brasil
 http://200.189.113.201/hls/tve.m3u8
 
-#EXTINF:-1 tvg-id="unisctv" tvg-name="Unisc TV" group-title="Brasil: educativos" tvg-logo="http://radiosantacruz.com.br/online/wp-content/uploads/2018/01/Unisc-1.jpg",Unisc TV | Brasil
+#EXTINF:-1 tvg-id="Redeminas.br" tvg-name="Rede Minas" group-title="Brasil: educativos e documentários" tvg-logo="https://pbs.twimg.com/profile_images/1151111400615550976/MQW6Uj8p.png",Rede Minas SD | Brasil
+https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_.m3u8
+
+#EXTINF:-1 tvg-id="canalsaude.br" tvg-name="Canal Saúde" tvg-logo="https://i.imgur.com/CGQhh0s.png" tvg-shift="0" group-title="Brasil: educativos e documentários",(Canal) Saúde | Brasil
+https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SESCTV.br" tvg-name="SESC TV" group-title="Brasil: educativos e documentários" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCQlj4F0w8sO6hAPUKpnxfh5GOGxG9XEzi9obcZVtYWwuDRf3otJWvZ_YQF_xbnaovDaY&usqp=CAU",Sesc TV | Brasil
+https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2c3e9324497d5ff/video/0c884f97-4264-446f-abcd-03aa46089a96_index1080p.m3u8
+
+#EXTINF:-1 tvg-id="unisctv" tvg-name="Unisc TV" group-title="Brasil: educativos e documentários" tvg-logo="http://radiosantacruz.com.br/online/wp-content/uploads/2018/01/Unisc-1.jpg",Unisc TV | Brasil
 https://tv.unisc.br/hls/test.m3u8
+
+#EXTINF:-1 tvg-id="pluto-tv-vida-real-ptv1" tvg-logo="https://imgur.com/YuTPeFV.png" group-title="Brasil: educativos e documentários",Vida Real | Brasil 
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32d4d9ec194100070c7449/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781ef21-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=29b136d2-3f75-488b-9ace-35ab0ac5684e&userId=&serverSideAds=true
 
 ############## Brasil: jovens ############## ############## Brasil: jovens ############## ############## Brasil: jovens ############## ############## Brasil: jovens ############## ############## Brasil: jovens ############## ############## Brasil: jovens ############## 
 
@@ -172,11 +191,14 @@ https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 #EXTINF:-1 tvg-id="babyfirst-ptv1" tvg-logo="http://images.pluto.tv/channels/5f4fb4cf605ddf000748e16f/colorLogoPNG.png" group-title="Brasil: kids",Babyfirst | Brasil 
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4fb4cf605ddf000748e16f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a575dc40-77db-11eb-bfcd-e755c619a901&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6708234f-7c33-4ea1-b3ea-e27dab0bf1f1&userId=&serverSideAds=true
 
-#EXTINF:-1   tvg-logo="https://i.imgur.com/WklXZlV.png" tvg-shift="0" group-title="Brasil: kids",Clubinho Fun | Brasil
+#EXTINF:-1  tvg-logo="https://i.imgur.com/WklXZlV.png" tvg-shift="0" group-title="Brasil: kids",Clubinho Fun | Brasil
 http://45.165.178.82:8000/play/a011/index.m3u8
 
-#EXTINF:-1  tvg-name="Desenhos antigos 1" tvg-logo="https://i.pinimg.com/originals/f5/1d/08/f51d08be05919290355ac004cdd5c2d6.png" tvg-shift="0" group-title="Brasil: kids",Desenhos antigos 1 | Brasil
+#EXTINF:-1 tvg-name="Desenhos antigos 1" tvg-logo="https://i.pinimg.com/originals/f5/1d/08/f51d08be05919290355ac004cdd5c2d6.png" tvg-shift="0" group-title="Brasil: kids",Desenhos antigos 1 | Brasil
 https://srv5.zcast.com.br/tvmanchete/tvmanchete/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Os Jetsons" tvg-logo="https://i.imgur.com/sqUlcaY.png" group-title="Brasil: kids",Os Jetsons | Brasil
+https://stmv1.srvif.com/jetsontv/jetsontv/chunklist_w570003448.m3u8
 
 #EXTINF:-1 tvg-id="pluto-tv-junior-1" tvg-logo="https://imgur.com/4a5RFCU.png" group-title="Brasil: kids",Junior | Brasil 
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12141b146d760007934ea7/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=978179f0-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bc2b3e9d-2c6a-4239-b56d-b64e1afa1902&userId=&serverSideAds=true
@@ -238,6 +260,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f121262a189a800076
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f515ebac01c0f00080e8439/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=97821631-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=25075146-4d3f-4138-a177-5d8a41b330d4&userId=&serverSideAds=true
 
 ############################### BRASIL TV ABERTA #####################################
+
+#EXTINF:-1  tvg-name="1001 Noites" tvg-logo="https://i.imgur.com/WrXXeRO.png" group-title="Brasil: TV aberta",1001 Noites (PR)
+https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/chunklist_b1155072.m3u8
 
 #EXTINF:-1 tvg-id="agromais" tvg-name="Agro Mais" tvg-logo="https://portaldoqueijo.com.br/site/wp-content/uploads/2020/06/101158384_143665053919698_2333568191340478464_o.png" group-title="Brasil: TV aberta",Agro+ | Brasil
 https://evpp.mm.uol.com.br/geob_band/agromais/chunklist_w290965376.m3u8
@@ -317,41 +342,26 @@ https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u
 #EXTINF:-1 tvg-id="Terraviva.br" tvg-name="Terra Viva" tvg-logo="https://1.bp.blogspot.com/-1DYn7WAo9Xc/XyxDWmZ9aeI/AAAAAAABu4Y/yrSqKd72VG8fkB_l6Ti7hUMp-AZUuMMqQCLcBGAsYHQ/w300-c/Terraviva.png" group-title="Brasil: TV aberta",Terra Viva | Brasil
 https://evpp.mm.uol.com.br/band_live/terraviva/chunklist_w1942099493.m3u8
 
-#EXTINF:-1 tvg-logo="https://pa-str.srvsite.com/arquivos/5155/cabecalho-5155-20191024185420.png" group-title="Brasil: TV aberta",TV ADO | Brasil
+#EXTINF:-1 tvg-name="TV Ado" tvg-logo="https://i.imgur.com/weOxAEx.png" group-title="Brasil: TV aberta",TV ADO | Brasil
 https://5c483b9d1019c.streamlock.net/tvado/tvado/chunklist_w1766917256.m3u8
 
-#EXTINF:-1 tvg-id="Assembleia.go" tvg-name="Assembleia Goiás" tvg-logo="https://politizar.al.go.leg.br/wp-content/uploads/2019/04/thumbnail_NovaLogo-TV-Alego-branco.png" group-title="Brasil: TV aberta",TV Alego | Brasil
+#EXTINF:-1 tvg-id="Assembleia.go" tvg-name="TV Alego" tvg-logo="https://i.imgur.com/UyRDotD.png" group-title="Brasil: TV aberta",TV Alego | Brasil
 https://ngbvqmbygn.zoeweb.tv/alegolive/smil:alegolive.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PUCTV.br" tvg-name="PUC TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3c/Logo_puctv.png" tvg-shift="0" group-title="Brasil: TV aberta",TV Aparecida | PUC TV (GO)
 https://59fb88a1b1108.streamlock.net/pucgoias/aovivo/chunklist_w897014956.m3u8
 
-#EXTINF:-1 tvg-id="Tvbrasil.br" tvg-name="TV Brasil" tvg-logo="https://www.fenaert.org.br/images/Novatvbrasil.jpg" group-title="Brasil: TV aberta",TV Brasil 240
-https://tvbrasil-stream.ebc.com.br/STsEBCLIVE_240/index.m3u8
-
-#EXTINF:-1 tvg-id="Tvbrasil.br" tvg-name="TV Brasil" tvg-logo="https://www.fenaert.org.br/images/Novatvbrasil.jpg" group-title="Brasil: TV aberta",TV Brasil 480
-https://tvbrasil-stream.ebc.com.br/STsEBCLIVE_480/index.m3u8
-
-#EXTINF:-1 tvg-id="Tvbrasil.br" tvg-name="TV Brasil" tvg-logo="https://www.fenaert.org.br/images/Novatvbrasil.jpg" group-title="Brasil: TV aberta",TV Brasil 720
-https://tvbrasil-stream.ebc.com.br/STsEBCLIVE_720/index.m3u8
-
-#EXTINF:-1 tvg-id="Tvbrasil.br" tvg-name="TV Brasil" tvg-logo="https://www.fenaert.org.br/images/Novatvbrasil.jpg" group-title="Brasil: TV aberta",TV Brasil HD
-https://origin-02.nxplay.com.br/TV_BRASIL_NX/index.m3u8
-
-#EXTINF:-1  tvg-name="TV Câmara" tvg-logo="https://logodownload.org/wp-content/uploads/2019/01/tv-camara-logo.png" group-title="Brasil: TV aberta",TV Câmara | Brasil
-https://stream3.camara.gov.br/tv1/manifest.m3u8
-
-#EXTINF:-1  tvg-name="TV Câmara" tvg-logo="https://logodownload.org/wp-content/uploads/2019/01/tv-camara-logo.png" group-title="Brasil: TV aberta",TV Câmara 2 | Brasil
-https://stream3.camara.gov.br/tv2/manifest.m3u8
-
-#EXTINF:-1  tvg-name="TV Câmara" tvg-logo="https://logodownload.org/wp-content/uploads/2019/01/tv-camara-logo.png" group-title="Brasil: TV aberta",TV Câmara 3 | Brasil
-https://stream3.camara.gov.br/tv2/manifest.m3u8
+#EXTINF:-1 tvg-name="TV Balcão" tvg-logo="https://i.imgur.com/GbPiWi0.png" group-title="Brasil: TV aberta",TV Balcão (MG)
+https://cdn.jmvstream.com/w/AVJ-9028/playlist/chunklist.m3u8
 
 #EXTINF:-1  tvg-name="TV Carioca" tvg-logo="https://pbr-str.srvsite.com/arquivos/7051/cabecalho-7051-20200320104612.png" group-title="Brasil: TV aberta",TV Carioca | Brasil
 https://srv5.zcast.com.br/tvcarioca/tvcarioca/chunklist_w1896676795.m3u8
 
 #EXTINF:-1  tvg-name="TBC Cultura Goiás" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/ececa6333f0610f8e13aafbe16a5830b.png" group-title="Brasil: TV aberta",TV Cultura | TBC (GO)
 http://wz3.dnip.com.br/tvbrasil/tvbrasil.sdp/playlist.m3u8
+
+#EXTINF:-1  tvg-name="TV Destaque Nacional" tvg-logo="https://i.imgur.com/v1tZOxy.png" group-title="Brasil: TV aberta",TV Destaque Nacional (SP)
+https://novo.bitstreaming.info:1936/tvdestaquenacional/tvdestaquenacional/chunklist_w334682338.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/diariodosertao.png" group-title="Brasil: TV aberta", TV Diário do Sertão (PB)
 https://5a2b083e9f360.streamlock.net/pdsertaotv/pdsertaotv.sdp/chunklist_w1456507595.m3u8
@@ -828,6 +838,9 @@ https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3575&p
 
 #EXTINF:-1 tvg-name="TJC" tvg-logo="https://i.imgur.com/ekb8ZWb.png" group-title="Compras em inglês",TJC | Reino Unido 
 https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/index.m3u8
+
+#EXTINF:-1 tvg-name="TSC" tvg-logo="https://i.imgur.com/c2Zbn8A.png" group-title="Compras em inglês",TSC | Canadá
+https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/index_1_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 tvg-id="tvsn.au" tvg-name="TVSN AU" tvg-logo="https://i.imgur.com/TuHnkxP.png" group-title="Compras em inglês",TVSN | Austrália 
 https://tvsn-i.akamaihd.net/hls/live/261837/tvsn/tvsn_750.m3u8
@@ -3341,8 +3354,24 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de91cf02fc07c00099
 #EXTINF:-1 tvg-id="5de91cf02fc07c0009910465" tvg-logo="https://images.pluto.tv/channels/5de91cf02fc07c0009910465/colorLogoPNG.png" group-title="Variedades em espanhol",Telefe Clásico | México
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de91cf02fc07c0009910465/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 
-######### variedades em inglês  ############# ######### variedades em inglês  #############
-######### variedades em inglês  ############# ######### variedades em inglês  #############
+######### variedades em francês ######### variedades em francês ######### variedades em francês ######### variedades em francês ######### variedades em francês ######### variedades em francês ######### variedades em francês ######### variedades em francês ######### variedades em francês 
+
+#EXTINF:-1 tvg-id="FRBA3300026BR" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/08/82/FRBA3300026BR_20210414T024616.png" group-title="Variedades em francês",Famille - Rakuten TV | França
+https://43e98e0eaa9b4118b1b79e62f98cff7d.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_RakutenFamily/playlist.m3u8?ads.wurl_channel=720&ads.wurl_name=RakutenFamily&ads.coppa=1&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+
+#EXTINF:-1 tvg-id="France2.fr" tvg-logo="https://www.ffp.asso.fr/wp-content/uploads/2018/10/France-2.png" group-title="Variedades em francês" tvg-name="France 2",France 2
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/1717?pprotocol=hls
+
+#EXTINF:-1 tvg-id="France3Alpes.fr" tvg-logo="https://institutdelors.eu/wp-content/uploads/2020/08/logo-france-3-14.png" group-title="Variedades em francês" tvg-name="France 3 Alpes",France 3 Alpes
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3893?pprotocol=hls
+
+#EXTINF:-1 tvg-id="France3Rhone-Alpes.fr" tvg-logo="https://institutdelors.eu/wp-content/uploads/2020/08/logo-france-3-14.png" group-title="Variedades em francês" tvg-name="France 3 Rhône-Alpes",France 3 Rhône-Alpes
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3890?pprotocol=hls
+
+#EXTINF:-1 tvg-name="VoxAfrica FR" tvg-logo="https://i.imgur.com/qjcUn49.png" group-title="Variedades em francês",VoxAfrica em francês
+https://1927901613.rsc.cdn77.org/1927901613/tracks-v1a1/mono.m3u8
+
+######### variedades em inglês  ############# ######### variedades em inglês  ############# ######### variedades em inglês  ############# ######### variedades em inglês  #############
 
 #EXTINF:-1 tvg-name="ABC Adelaide AU"  tvg-logo="https://i.imgur.com/rLCHYCs.png" group-title="Variedades em inglês",ABC Adelaide | Austrália
 https://c.mjh.nz/101002510251/
@@ -3459,6 +3488,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ce5a8954311f992edb
 #EXTINF:-1 tvg-id="logo-pluto-tv-ptv1" tvg-logo="http://images.pluto.tv/channels/5f778a59b02eb40007f6d70b/colorLogoPNG.png" group-title="Variedades em inglês",Logo Pluto TV 2 | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f778a59b02eb40007f6d70b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc9a4983-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=21bbee64-3dd2-4672-b0f0-605e4e5341a7&userId=&serverSideAds=true
 
+#EXTINF:-1 tvg-ID="5e20b730f2f8d5003d739db7-60d4edd7b2fdec002c14112d" tvg-logo="https://i.imgur.com/Z5t6cCe.jpg" group-title="Variedades em inglês" tvg-name="New K-ID",New K-ID | EUA | inglês e coreano
+https://b9860b21629b415987978bdbbfbc3095.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_NewKID/playlist.m3u8
+
 #EXTINF:-1 tvg-name="NHK World" tvg-id="nhkworld" tvg-logo="https://i.imgur.com/G8dUiLU.png" group-title="Variedades em inglês",NHK World | Japão
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 
@@ -3468,11 +3500,20 @@ https://pbs-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Plymouth Rock TV" tvg-logo="https://i.imgur.com/kNtbCDF.png" group-title="Variedades em inglês",Plymouth Rock TV | EUA
 https://na-us-sw10.secdn.net/barakyah-channel/play/mp4:plymouthtvedge/chunklist_w88502186.m3u8
 
+#EXTINF:-1 tvg-name="Rialto" tvg-logo="https://i.imgur.com/RnzWT9C.jpg" group-title="Variedades em inglês",Rialto | Nova Zelândia
+https://rialto-rialto-samsungaustralia.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="SCBC TV" tvg-logo="https://i.imgur.com/7NXtbOF.png" group-title="Variedades em inglês",SCBC TV | República da Ambazônia - Camarões
+https://cdn-unified-hls.streamspot.com/ingest1/5b70d4ab87/chunklist.m3u8?origin=1
+
 #EXTINF:-1 tvg-name="Spark TV" group-title="Variedades em inglês" tvg-logo="https://i.imgur.com/vTGknv3.png",Spark TV | Reino Unido 
 https://sparktv-samsunguk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="spike" tvg-logo="http://images.pluto.tv/channels/5812bcc8237a6ff45d16c407/colorLogoPNG.png" group-title="Variedades em inglês",Spike Pluto TV | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812bcc8237a6ff45d16c407/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc92f684-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=76f9f229-ee49-4557-bb9d-cf72d548ba02&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-name="VoxAfrica" tvg-logo="https://i.imgur.com/qjcUn49.png" group-title="Variedades em inglês",VoxAfrica em inglês
+https://1494836162.rsc.cdn77.org/LS-PRG-59570-1/tracks-v1a1/mono.m3u8
 
 ######### variedades em outros idiomas  ###################### variedades em outros idiomas  ###################### variedades em outros idiomas  ###################### variedades em outros idiomas  ###################### variedades em outros idiomas  ###################### variedades em outros idiomas  ###################### variedades em outros idiomas  #############
 
@@ -3484,18 +3525,6 @@ https://dvr.ch20-cdnwiz.com/hls/live_360/index.m3u8
 
 #EXTINF:-1 tvg-id="dwtv" tvg-logo="https://i.imgur.com/CsHdYhG.png" group-title="Variedades em outros idiomas",Deutsche Welle (DW) | Alemanha
 https://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/index_1_av-p.m3u8?sd=10&rebase=on
-
-#EXTINF:-1 tvg-id="FRBA3300026BR" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/08/82/FRBA3300026BR_20210414T024616.png" group-title="Variedades em outros idiomas",Famille - Rakuten TV | França
-https://43e98e0eaa9b4118b1b79e62f98cff7d.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_RakutenFamily/playlist.m3u8?ads.wurl_channel=720&ads.wurl_name=RakutenFamily&ads.coppa=1&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-
-#EXTINF:-1 tvg-id="France2.fr" tvg-logo="https://www.ffp.asso.fr/wp-content/uploads/2018/10/France-2.png" group-title="Variedades em outros idiomas" tvg-name="France 2",France 2
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/1717?pprotocol=hls
-
-#EXTINF:-1 tvg-id="France3Alpes.fr" tvg-logo="https://institutdelors.eu/wp-content/uploads/2020/08/logo-france-3-14.png" group-title="Variedades em outros idiomas" tvg-name="France 3 Alpes",France 3 Alpes
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3893?pprotocol=hls
-
-#EXTINF:-1 tvg-id="France3Rhone-Alpes.fr" tvg-logo="https://institutdelors.eu/wp-content/uploads/2020/08/logo-france-3-14.png" group-title="Variedades em outros idiomas" tvg-name="France 3 Rhône-Alpes",France 3 Rhône-Alpes
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3890?pprotocol=hls
 
 #EXTINF:-1 tvg-id="Channel11.il" tvg-logo="https://i.imgur.com/NLbnUz3.png" group-title="Variedades em outros idiomas" tvg-name="Kan 11",Kan 11 Jerusalém | Israel
 https://stream-03.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl9VEUxHPci9Zzif2aQ5-OY0)/dm/3/x7wjmog/d/live-2.m3u8
@@ -3520,12 +3549,6 @@ https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3617&p
 
 #EXTINF:-1 tvg-name="Noor TV" tvg-logo="https://i.imgur.com/oeV42l0.jpg" group-title="Variedades em outros idiomas",Noor TV | Reino Unido
 https://ls1.serverdump.com/stream3.m3u8
-
-#EXTINF:-1 tvg-ID="5e20b730f2f8d5003d739db7-60d4edd7b2fdec002c14112d" tvg-logo="https://i.imgur.com/Z5t6cCe.jpg" group-title="Variedades em outros idiomas" tvg-name="New K-ID",New K-ID | EUA | inglês e coreano
-https://b9860b21629b415987978bdbbfbc3095.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_NewKID/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Rialto" tvg-logo="https://i.imgur.com/RnzWT9C.jpg" group-title="Variedades em inglês",Rialto | Nova Zelândia
-https://rialto-rialto-samsungaustralia.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="TeleBärn" tvg-id="telebarn" tvg-logo="https://i.imgur.com/j1Pkdfe.png" group-title="Variedades em outros idiomas",TeleBärn | Suiça | Idioma alemão
 https://klive.kaltura.com/env/cluster-1-a.live.nvp1/live/hls/p/1719221/e/1_obr1n222/tl/main/st/0/t/_O-oCNON5VqA2aG8WYVDeg/index-s32.m3u8
