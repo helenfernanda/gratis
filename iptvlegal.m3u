@@ -621,8 +621,23 @@ https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-tucineus-plex/CDN/pla
 
 ####### CINEMA EM francês ############################# ####### CINEMA EM francês ############################# ####### CINEMA EM francês ############################# ####### CINEMA EM francês #############################
 
+#EXTINF:-1 tvg-id="pluto-tv-action-fr" tvg-logo="http://images.pluto.tv/channels/5f8ed1ff5c39700007e2204a/colorLogoPNG.png" group-title="Cinema em francês",Action - Pluto TV | França
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ed1ff5c39700007e2204a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=dda515f1-6a6f-11eb-8380-d53d31dd7908&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c92c16ba-2074-45af-acd5-0bd1a24bb968&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="FRAJ3800002W5" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/54/FRAJ3800002W5_20210209T093407.png" group-title="Cinema em francês",Ciné - Pluto TV | França
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff5eb810e2996000768c0e2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="pluto-tv-cine-fr-plus" tvg-logo="http://images.pluto.tv/channels/5ff5eb810e2996000768c0e2/colorLogoPNG.png" group-title="Cinema em francês",Ciné+ - Pluto TV | Francês
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff5eb810e2996000768c0e2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=dda62765-6a6f-11eb-8380-d53d31dd7908&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=4784db9f-feab-4920-a142-f8157c887fe0&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="pluto-tv-cine-retro-fr" tvg-logo="http://images.pluto.tv/channels/5f8ed168f72fcd0007e56269/colorLogoPNG.png" group-title="Cinema em francês",Ciné Rétro - Pluto TV | França
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ed168f72fcd0007e56269/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=dda515f0-6a6f-11eb-8380-d53d31dd7908&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=828b5b96-882a-4c13-8140-b3dd75ce6a11&userId=&serverSideAds=true
+
 #EXTINF:-1 tvg-id="FRAJ4500024MR" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/18/FRAJ4500024MR_20210414T025112.png" group-title="Cinema em francês",Comédies - Rakuten TV | França
 https://e4d1581301dd446495286986116b1679.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_RakutenComedyMovies/playlist.m3u8?ads.wurl_channel=448&ads.wurl_name=RakutenComedyMovies&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
+
+#EXTINF:-1 tvg-id="pluto-tv-crime-fr" tvg-logo="http://images.pluto.tv/channels/5f8ed4dbf6bb0800071ffbcb/colorLogoPNG.png" group-title="Cinema em francês",Crime - Pluto TV | França
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ed4dbf6bb0800071ffbcb/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=dda5b230-6a6f-11eb-8380-d53d31dd7908&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=cc9d8022-0e21-4d77-ac55-d702d7913082&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-id="FRAJ4500025AN" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/41/FRAJ4500025AN_20210414T024927.png" group-title="Cinema em francês",Films dramatiques - Rakuten TV | França
 https://5b31b343db684f2d897b12cc1793defb.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_RakutenTVShows/playlist.m3u8?ads.wurl_channel=449&ads.wurl_name=RakutenTVShows&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
@@ -635,18 +650,6 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsunguk-appletree-mytimefrance-samsu
 
 #EXTINF:-1 tvg-id="FRBA10000039N" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/40/FRBA10000039N_20200923T100424.png" group-title="Cinema em francês",Movies Central by TVPlayer | França
 https://61711202639b4050845a8a1f02ec4df8.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_MoviesCentralByTVPlayer/playlist.m3u8?ads.wurl_channel=522&ads.wurl_name=MoviesCentralByTVPlayer&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
-
-#EXTINF:-1 tvg-id="FRAJ3800002W5" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/54/FRAJ3800002W5_20210209T093407.png" group-title="Cinema em francês",Pluto TV Ciné | França
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff5eb810e2996000768c0e2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-id="pluto-tv-cine-fr-plus" tvg-logo="http://images.pluto.tv/channels/5ff5eb810e2996000768c0e2/colorLogoPNG.png" group-title="Cinema em francês",Pluto TV Ciné+ | Francês
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff5eb810e2996000768c0e2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=dda62765-6a6f-11eb-8380-d53d31dd7908&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=4784db9f-feab-4920-a142-f8157c887fe0&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="pluto-tv-cine-retro-fr" tvg-logo="http://images.pluto.tv/channels/5f8ed168f72fcd0007e56269/colorLogoPNG.png" group-title="Cinema em francês",Pluto TV Ciné Rétro | França
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ed168f72fcd0007e56269/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=dda515f0-6a6f-11eb-8380-d53d31dd7908&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=828b5b96-882a-4c13-8140-b3dd75ce6a11&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="pluto-tv-action-fr" tvg-logo="http://images.pluto.tv/channels/5f8ed1ff5c39700007e2204a/colorLogoPNG.png" group-title="Cinema em francês",Pluto TV Action | França
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ed1ff5c39700007e2204a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=dda515f1-6a6f-11eb-8380-d53d31dd7908&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c92c16ba-2074-45af-acd5-0bd1a24bb968&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-id="FRBA2200004J6" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/07/17/FRBA2200004J6_20210113T004315.png" group-title="Cinema em francês",Sofy.tv | França
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsunguk-sofytv-samsung-fr/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
@@ -713,9 +716,6 @@ https://content-asae1-up-1.uplynk.com/channel/e54d7e92a0154d67ae0770c9d4210e77/c
 
 #EXTINF:-1 tvg-id="classic-movies-channel" tvg-logo="http://images.pluto.tv/channels/561c5b0dada51f8004c4d855/colorLogoPNG.png" group-title="Cinema em inglês",Classic Movies Channel | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc928150-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e0e7c2c9-2c91-4084-9c20-f7a55e7fca1f&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="5d4ae94ef1a1bbb350ca41bb" tvg-logo="https://images.pluto.tv/channels/5d4ae94ef1a1bbb350ca41bb/colorLogoPNG.png" group-title="Documentários em inglês",Conspiracy - Pluto TV | Reino Unido
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d4ae94ef1a1bbb350ca41bb/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-id="pluto-tv-crime-movies" tvg-logo="http://images.pluto.tv/channels/5f4d8594eb979c0007706de7/colorLogoPNG.png" group-title="Cinema em inglês",Crime Movies - Pluto TV | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d8594eb979c0007706de7/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc995f23-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1446c0aa-6b96-4d78-8b8a-ea701a9bb296&userId=&serverSideAds=true
@@ -1287,6 +1287,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ddf8ea0d
 #EXTINF:-1 tvg-id="cold-case-files" tvg-logo="http://images.pluto.tv/channels/5c37d6712de254456f7ec340/colorLogoPNG.png" group-title="Documentários em inglês",Cold Case Files | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c37d6712de254456f7ec340/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc94f253-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6b8d7d70-8515-4daf-83d8-19bc083407ab&userId=&serverSideAds=true
 
+#EXTINF:-1 tvg-id="5d4ae94ef1a1bbb350ca41bb" tvg-logo="https://images.pluto.tv/channels/5d4ae94ef1a1bbb350ca41bb/colorLogoPNG.png" group-title="Documentários em inglês",Conspiracy - Pluto TV | Reino Unido
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d4ae94ef1a1bbb350ca41bb/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
 #EXTINF:-1 tvg-id="USBA3800005NI" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/10/USBA3800005NI_20210323T125532.png" group-title="Documentários em inglês",Clarity 4K | EUA 
 https://d3thiix3tzne5u.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/ClarityTV4K2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
@@ -1672,6 +1675,10 @@ https://edgesports-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-edgesports-plex/CD
 #EXTINF:-1 tvg-id="" tvg-name="Edge Sport" tvg-logo="https://i.imgur.com/6h10JDk.png" group-title="Esportes em inglês",Edge Sport | Reino Unido 
 https://edgesport-samsunguk.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="pluto-tv-extreme-fr" tvg-logo="http://images.pluto.tv/channels/5f8ed327f9e9b0000761141e/colorLogoPNG.png" group-title="Esportes em inglês",Extrême - Pluto TV | França
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ed327f9e9b0000761141e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=dda53d00-6a6f-11eb-8380-d53d31dd7908&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9676cd48-4878-4343-a40c-46218b80ca05&userId=&serverSideAds=true
+
+
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60aeb5cd87f9b1002ce12321" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/Extreme_logo_dark.png" group-title="Esportes em inglês",Extreme Plus
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=729&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=Tog8X6wK6iweuzGFsz6p&content_series=60aeb5cd87f9b1002ce12321&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=Tog8X6wK6iweuzGFsz6p&custom_7=60aeb5cd87f9b1002ce12321
 
@@ -2009,6 +2016,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ed6828192e8b300074
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ed6828192e8b3000743ef61/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 
 #################### Humor em francês ################### Humor em francês ################### Humor em francês ################### Humor em francês ################### Humor em francês ################### Humor em francês ################### Humor em francês ###################
+
+#EXTINF:-1 tvg-id="pluto-tv-comedie-fr" tvg-logo="http://images.pluto.tv/channels/5f8eb91bb9b9e7000817e67f/colorLogoPNG.png" group-title="Humor em francês",Comédie - Pluto TV | França
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8eb91bb9b9e7000817e67f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=dda40480-6a6f-11eb-8380-d53d31dd7908&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ce14fc7b-20bd-483e-9650-ad5aa07c58d7&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-id="fail-army-fr" tvg-logo="http://images.pluto.tv/channels/5f8ecd9169d2d4000864a974/colorLogoPNG.png" group-title="Humor em francês",FailArmy | França
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ecd9169d2d4000864a974/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=dda4c7d1-6a6f-11eb-8380-d53d31dd7908&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=775fc931-56b4-4c9f-aa01-73069122c7f5&userId=&serverSideAds=true
@@ -2865,7 +2875,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4fed840a27640007
 #EXTINF:-1 tvg-name="Screendreams by Invincible" tvg-logo="https://i.imgur.com/YITPJFX.png" group-title="Música instrumental e som ambiente", Screendreams by Invincible | Distro TV
 https://content-asae1-up-1.uplynk.com/channel/3e4b9cada2b74cf18977298804134a36/d.m3u8?ad=distrotv_scrndreams&ad.pod_max_dur=120&ad.pod_ad_slots=3&ad.preroll=1&ad.postroll=1ad.w=1920&h=1080&&ad.domain=https://galxy.tv/screendreams/&ad.app_name=watchitscream&ad.app_store_url=https://galxy.tv/screendreams/&ad.us_privacy=1&ad.media_transcoding=high&ad.ssai.enabled=1&ad.ssai.vendor=Uplynk&ad._debug=invincibletest&pbs=8baafc9d7b124cac9935808a3bcc5aff
 
-#EXTINF:-1 tvg-id="slow-tv" tvg-logo="http://images.pluto.tv/channels/5317bfebff98025b3200ff99/colorLogoPNG.png" group-title="Música: instrumental e som ambiente",Slow TV | EUA
+#EXTINF:-1 tvg-id="slow-tv" tvg-logo="http://images.pluto.tv/channels/5317bfebff98025b3200ff99/colorLogoPNG.png" group-title="Música instrumental e som ambiente",Slow TV | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5317bfebff98025b3200ff99/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc91be00-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=de52e7eb-384f-4927-ae68-f6b16863e23b&userId=&serverSideAds=true
 
 ############## Música: karaokê ############## Música: karaokê ############## Música: karaokê ############## Música: karaokê ############## Música: karaokê ############## Música: karaokê ##############
@@ -3225,6 +3235,33 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/600ae59c341b1d0007d
 #EXTINF:-1 tvg-id="vaya-semanita-es" tvg-logo="http://images.pluto.tv/channels/5f28009b150b2500077766b8/colorLogoPNG.png" group-title="Novelas e séries em espanhol",Vaya semanita | Espanha
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f28009b150b2500077766b8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a9a75eb2-8b68-11eb-b9cd-1bc319230674&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dff5ad69-e7d7-4ba3-bd98-6fb904fe8645&userId=&serverSideAds=true
 
+########## Novelas e séries em francês  ########## Novelas e séries em francês ########## Novelas e séries em francês ########## Novelas e séries em francês ########## Novelas e séries em francês ########## Novelas e séries em francês ########## Novelas e séries em francês #######
+
+#EXTINF:-1 tvg-id="bet-classics-pluto-tv-fr" tvg-logo="http://images.pluto.tv/channels/5f92b5ba040eaa0007074d0a/colorLogoPNG.png" group-title="Novelas e séries em francês",BET Classics - Pluto TV | França
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f92b5ba040eaa0007074d0a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=dda62763-6a6f-11eb-8380-d53d31dd7908&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6efb7d17-45f4-41f2-bf67-4e4e3a10af87&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="bb119" tvg-logo="http://images.pluto.tv/channels/5e46ae801f347500099d461a/colorLogoPNG.png" group-title="Novelas e séries em francês",Classic TV - Pluto TV | França
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e46ae801f347500099d461a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=dda36840-6a6f-11eb-8380-d53d31dd7908&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=38509659-ad65-44c6-bac0-3c50d7fb710a&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="pluto-tv-drama-fr" tvg-logo="http://images.pluto.tv/channels/5f8ed2d1c34c2300073bf02c/colorLogoPNG.png" group-title="Novelas e séries em francês",Drama - Pluto TV | França
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ed2d1c34c2300073bf02c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=dda515f2-6a6f-11eb-8380-d53d31dd7908&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=2826c804-f888-4974-9b71-59d70d38b14a&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="femme-de-loi-fr" tvg-logo="http://images.pluto.tv/channels/5f8ed673cad35f0007651fd4/colorLogoPNG.png" group-title="Novelas e séries em francês",Femmes de Loi | França
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ed673cad35f0007651fd4/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=dda5d941-6a6f-11eb-8380-d53d31dd7908&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=664ccb6c-6b49-40d8-aa49-3ee3df061116&userId=&serverSideAds=true
+
+
+#EXTINF:-1 tvg-id="les-cordier-juge-et-flic-fr" tvg-logo="http://images.pluto.tv/channels/5f8ed80fa09f120007c8daa5/colorLogoPNG.png" group-title="Novelas e séries em francês",Les Cordier | França
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ed80fa09f120007c8daa5/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=dda60050-6a6f-11eb-8380-d53d31dd7908&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=4ccc45e1-0b62-4e5c-846f-3bef56264e11&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="louis-la-brocante-fr" tvg-logo="http://images.pluto.tv/channels/5f8ed6d569d2d4000864a976/colorLogoPNG.png" group-title="Novelas e séries em francês",Louis La Brocante | França
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ed6d569d2d4000864a976/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=dda5d942-6a6f-11eb-8380-d53d31dd7908&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=049b9421-4ba3-4b00-ab1d-cc20c21077fd&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="plus-belle-la-vie-fr" tvg-logo="http://images.pluto.tv/channels/5f8ed5fba4ffb8000764ea01/colorLogoPNG.png" group-title="Novelas e séries em francês",Plus Belle La Vie | França
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ed5fba4ffb8000764ea01/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=dda5d940-6a6f-11eb-8380-d53d31dd7908&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=83dc9f37-681e-4c1e-85b6-a6e0771583fa&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="pluto-tv-telenovela-fr" tvg-logo="http://images.pluto.tv/channels/5f914f9dccb4de0007df8bc4/colorLogoPNG.png" group-title="Novelas e séries em francês",Telenovela - Pluto TV | França
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f914f9dccb4de0007df8bc4/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=dda62761-6a6f-11eb-8380-d53d31dd7908&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=5672b9c0-2841-4fd4-ad79-89a6c5fe9134&userId=&serverSideAds=true
+
 ######### reality shows em espanhol  ############# reality shows em espanhol  ############# reality shows em espanhol  ############# reality shows em espanhol  ############# reality shows em espanhol  ############# reality shows em espanhol  ############# reality shows em espanhol  #############
 
 #EXTINF:-1 tvg-id="el-conquistador-del-fin-del-mundo-es" tvg-logo="http://images.pluto.tv/channels/5f280149cec6be00072ab1fc/colorLogoPNG.png" group-title="Reality shows em espanhol",El Conquistador del Fin | Espanha
@@ -3277,6 +3314,23 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1abdceddf6a20007f
 
 #EXTINF:-1 tvg-id="rich-es" tvg-logo="http://images.pluto.tv/channels/60218d81873f0e0007cff614/colorLogoPNG.png" group-title="Reality shows em espanhol",Rich | Espanha
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60218d81873f0e0007cff614/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a9a90c63-8b68-11eb-b9cd-1bc319230674&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=26befa90-3c76-459e-a867-59ae3520c3d4&userId=&serverSideAds=true
+
+######### reality shows em francês ######### reality shows em francês ######### reality shows em francês ######### reality shows em francês ######### reality shows em francês ######### reality shows em francês ######### reality shows em francês #############
+
+#EXTINF:-1 tvg-id="mtv-catfish-tv-show-fr" tvg-logo="http://images.pluto.tv/channels/5f8eb66537867f0007146953/colorLogoPNG.png" group-title="Reality shows em francês",Catfish TV | França
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8eb66537867f0007146953/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=dda3b660-6a6f-11eb-8380-d53d31dd7908&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3841d442-5ef0-4ae8-9c8a-8e098f576a89&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="made-fr" tvg-logo="http://images.pluto.tv/channels/5f8eb71a26ed8300076433f9/colorLogoPNG.png" group-title="Reality shows em francês",MADE TV | França
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8eb71a26ed8300076433f9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=dda3b661-6a6f-11eb-8380-d53d31dd7908&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=71b0f256-b54a-4c02-a49b-b3af42d3786e&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="mtv-catfish-tv-show-fr-plus" tvg-logo="http://images.pluto.tv/channels/5ff5ed0bb61f1200072ca4cd/colorLogoPNG.png" group-title="Reality shows em francês",MTV Catfish+ | França
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff5ed0bb61f1200072ca4cd/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=dda64e70-6a6f-11eb-8380-d53d31dd7908&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=2f2072cb-ef59-4e5d-bdac-73b7981ebb81&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="mtv-classics-fr" tvg-logo="http://images.pluto.tv/channels/5f92b56a367e170007cd43f4/colorLogoPNG.png" group-title="Reality shows em francês",MTV Classics | França
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f92b56a367e170007cd43f4/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=dda62762-6a6f-11eb-8380-d53d31dd7908&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f3e85b0f-0b88-4bab-9cfc-13770abcbc61&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="mtv-classics-fr-plus" tvg-logo="http://images.pluto.tv/channels/5ff5ec5500d4c70007341c7c/colorLogoPNG.png" group-title="Reality shows em francês",MTV Classics+ | França
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff5ec5500d4c70007341c7c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=dda62767-6a6f-11eb-8380-d53d31dd7908&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a4254d33-5014-4a4e-8788-0fdbb855c683&userId=&serverSideAds=true
 
 
 ######### reality shows em inglês  ############# reality shows em inglês  ############# reality shows em inglês  ############# reality shows em inglês  ############# reality shows em inglês  ############# reality shows em inglês  ############# reality shows em inglês  #############
@@ -3365,7 +3419,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca672f515a62078d2e
 #EXTINF:-1 tvg-id="nosey" tvg-logo="http://images.pluto.tv/channels/5aec96ec5126c2157123c657/colorLogoPNG.png" group-title="Reality shows em inglês",Nosey | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5aec96ec5126c2157123c657/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc93e0e3-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=09d9b5c8-bc5e-48f8-9b73-115037eb93e8&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="nosey-2" tvg-logo="http://images.pluto.tv/channels/5f7788ab8777280007781296/colorLogoPNG.png" group-title="Reality show em inglês",Nosey 2 | EUA
+#EXTINF:-1 tvg-id="nosey-2" tvg-logo="http://images.pluto.tv/channels/5f7788ab8777280007781296/colorLogoPNG.png" group-title="Reality shows em inglês",Nosey 2 | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f7788ab8777280007781296/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc9a2278-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d818d115-ea4b-4360-9a3a-b354c80bb9da&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-id="5dc2ba1a9c91420009db4858" tvg-logo="https://images.pluto.tv/channels/5dc2ba1a9c91420009db4858/colorLogoPNG.png" group-title="Reality shows em inglês",Nosey | Reino Unido
@@ -4066,56 +4120,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ffcc21a43294500076
 #EXTINF:-1 tvg-id="the-pet-collective-1" tvg-logo="https://imgur.com/ivpFJPw.png" group-title="Argentina: Pluto 🇦🇷",The Pet Collective
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebacbcae43a6d000787b88e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff24a61-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ad69ad2b-c3cd-4010-b69d-634cd5976ddd&userId=&serverSideAds=true
 
-
-############### canais da frança ############# canais da frança ############# canais da frança ############# canais da frança ############# canais da frança ############# canais da frança ############# canais da frança ############# canais da frança ############# canais da frança ############# canais da frança ############# canais da frança ############# canais da frança ############# 
-
-#EXTINF:-1 tvg-id="bet-classics-pluto-tv-fr" tvg-logo="http://images.pluto.tv/channels/5f92b5ba040eaa0007074d0a/colorLogoPNG.png" group-title="França 🇫🇷",BET CLASSICS Pluto TV | França
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f92b5ba040eaa0007074d0a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=dda62763-6a6f-11eb-8380-d53d31dd7908&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6efb7d17-45f4-41f2-bf67-4e4e3a10af87&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="mtv-catfish-tv-show-fr" tvg-logo="http://images.pluto.tv/channels/5f8eb66537867f0007146953/colorLogoPNG.png" group-title="França 🇫🇷",CATFISH TV | França
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8eb66537867f0007146953/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=dda3b660-6a6f-11eb-8380-d53d31dd7908&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3841d442-5ef0-4ae8-9c8a-8e098f576a89&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="femme-de-loi-fr" tvg-logo="http://images.pluto.tv/channels/5f8ed673cad35f0007651fd4/colorLogoPNG.png" group-title="França 🇫🇷",Femmes De Loi | França
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ed673cad35f0007651fd4/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=dda5d941-6a6f-11eb-8380-d53d31dd7908&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=664ccb6c-6b49-40d8-aa49-3ee3df061116&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="les-cordier-juge-et-flic-fr" tvg-logo="http://images.pluto.tv/channels/5f8ed80fa09f120007c8daa5/colorLogoPNG.png" group-title="França 🇫🇷",Les Cordier | França
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ed80fa09f120007c8daa5/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=dda60050-6a6f-11eb-8380-d53d31dd7908&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=4ccc45e1-0b62-4e5c-846f-3bef56264e11&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="louis-la-brocante-fr" tvg-logo="http://images.pluto.tv/channels/5f8ed6d569d2d4000864a976/colorLogoPNG.png" group-title="França 🇫🇷",Louis La Brocante | França
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ed6d569d2d4000864a976/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=dda5d942-6a6f-11eb-8380-d53d31dd7908&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=049b9421-4ba3-4b00-ab1d-cc20c21077fd&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="made-fr" tvg-logo="http://images.pluto.tv/channels/5f8eb71a26ed8300076433f9/colorLogoPNG.png" group-title="França 🇫🇷",MADE TV | França
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8eb71a26ed8300076433f9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=dda3b661-6a6f-11eb-8380-d53d31dd7908&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=71b0f256-b54a-4c02-a49b-b3af42d3786e&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="mtv-catfish-tv-show-fr-plus" tvg-logo="http://images.pluto.tv/channels/5ff5ed0bb61f1200072ca4cd/colorLogoPNG.png" group-title="França 🇫🇷",MTV Catfish+ | França
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff5ed0bb61f1200072ca4cd/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=dda64e70-6a6f-11eb-8380-d53d31dd7908&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=2f2072cb-ef59-4e5d-bdac-73b7981ebb81&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="mtv-classics-fr" tvg-logo="http://images.pluto.tv/channels/5f92b56a367e170007cd43f4/colorLogoPNG.png" group-title="França 🇫🇷",MTV CLASSICS | França
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f92b56a367e170007cd43f4/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=dda62762-6a6f-11eb-8380-d53d31dd7908&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f3e85b0f-0b88-4bab-9cfc-13770abcbc61&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="mtv-classics-fr-plus" tvg-logo="http://images.pluto.tv/channels/5ff5ec5500d4c70007341c7c/colorLogoPNG.png" group-title="França 🇫🇷",MTV Classics+ | França
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff5ec5500d4c70007341c7c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=dda62767-6a6f-11eb-8380-d53d31dd7908&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a4254d33-5014-4a4e-8788-0fdbb855c683&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="plus-belle-la-vie-fr" tvg-logo="http://images.pluto.tv/channels/5f8ed5fba4ffb8000764ea01/colorLogoPNG.png" group-title="França 🇫🇷",Plus Belle La Vie | França
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ed5fba4ffb8000764ea01/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=dda5d940-6a6f-11eb-8380-d53d31dd7908&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=83dc9f37-681e-4c1e-85b6-a6e0771583fa&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="bb119" tvg-logo="http://images.pluto.tv/channels/5e46ae801f347500099d461a/colorLogoPNG.png" group-title="França 🇫🇷",Pluto TV Classic TV | França FR
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e46ae801f347500099d461a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=dda36840-6a6f-11eb-8380-d53d31dd7908&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=38509659-ad65-44c6-bac0-3c50d7fb710a&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="pluto-tv-comedie-fr" tvg-logo="http://images.pluto.tv/channels/5f8eb91bb9b9e7000817e67f/colorLogoPNG.png" group-title="França 🇫🇷",Pluto TV Comédie | França
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8eb91bb9b9e7000817e67f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=dda40480-6a6f-11eb-8380-d53d31dd7908&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ce14fc7b-20bd-483e-9650-ad5aa07c58d7&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="pluto-tv-crime-fr" tvg-logo="http://images.pluto.tv/channels/5f8ed4dbf6bb0800071ffbcb/colorLogoPNG.png" group-title="França 🇫🇷",Pluto TV Crime | França
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ed4dbf6bb0800071ffbcb/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=dda5b230-6a6f-11eb-8380-d53d31dd7908&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=cc9d8022-0e21-4d77-ac55-d702d7913082&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="pluto-tv-drama-fr" tvg-logo="http://images.pluto.tv/channels/5f8ed2d1c34c2300073bf02c/colorLogoPNG.png" group-title="França 🇫🇷",Pluto TV Drama | França
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ed2d1c34c2300073bf02c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=dda515f2-6a6f-11eb-8380-d53d31dd7908&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=2826c804-f888-4974-9b71-59d70d38b14a&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="pluto-tv-extreme-fr" tvg-logo="http://images.pluto.tv/channels/5f8ed327f9e9b0000761141e/colorLogoPNG.png" group-title="França 🇫🇷",Pluto TV Extrême | França
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ed327f9e9b0000761141e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=dda53d00-6a6f-11eb-8380-d53d31dd7908&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9676cd48-4878-4343-a40c-46218b80ca05&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="pluto-tv-telenovela-fr" tvg-logo="http://images.pluto.tv/channels/5f914f9dccb4de0007df8bc4/colorLogoPNG.png" group-title="França 🇫🇷",Pluto TV Telenovela | França
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f914f9dccb4de0007df8bc4/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=dda62761-6a6f-11eb-8380-d53d31dd7908&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=5672b9c0-2841-4fd4-ad79-89a6c5fe9134&userId=&serverSideAds=true
 
 #################################### MÉXICO ############ MÉXICO ############ MÉXICO ############ MÉXICO ############ MÉXICO ############ MÉXICO ############ MÉXICO ############ MÉXICO ############ MÉXICO ############ MÉXICO ############ MÉXICO ############ MÉXICO ############ MÉXICO ############ MÉXICO ############ MÉXICO ############ MÉXICO ############ MÉXICO ############ MÉXICO ############ MÉXICO ############ MÉXICO ############
 
