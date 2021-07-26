@@ -1035,6 +1035,12 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ed48146ba9e00078
 #EXTINF:-1 tvg-id="5d767ae7b456c8cf265ce922" group-title="Documentários em alemão" tvg-name="Animals" tvg-logo="https://images.pluto.tv/channels/5d767ae7b456c8cf265ce922/colorLogoPNG.png",Animals | Alemanha
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d767ae7b456c8cf265ce922/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
+#EXTINF:-1 tvg-id="DeutscheWelleDE.de" group-title="Documentários em alemão" tvg-name="Deutsche Welle" tvg-logo="https://i.imgur.com/CsHdYhG.png",Deutsche Welle - DW | Alemanha
+https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/stream04/streamPlaylist.m3u8
+
+#EXTINF:-1 tvg-id="Dw(deutsch+).de" group-title="Documentários em alemão" tvg-name="DW +" tvg-logo="https://i.imgur.com/CsHdYhG.png",Deutsche Welle - DW+ | Alemanha
+https://dwamdstream105.akamaized.net/hls/live/2015531/dwstream105/stream04/streamPlaylist.m3u8
+
 #EXTINF:-1 tvg-id="5db048f9447d6c0009b8f29d" group-title="Documentários em alemão" tvg-name="Documentaries" tvg-logo="https://images.pluto.tv/channels/5db048f9447d6c0009b8f29d/colorLogoPNG.png",Documentaries | Alemanha
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db048f9447d6c0009b8f29d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
@@ -1082,6 +1088,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5efb8c19b2678b00078
 
 #EXTINF:-1 tvg-id="archivos-forenses-es" tvg-logo="http://images.pluto.tv/channels/5f984f4a09e92d0007d74647/colorLogoPNG.png" group-title="Documentários em espanhol",Archivos Forenses | Espanha
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f984f4a09e92d0007d74647/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a9a8be40-8b68-11eb-b9cd-1bc319230674&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0b1d7798-1bd7-47bf-b044-13cc0f062b07&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="DeutscheWelleES.de" group-title="Documentários em espanhol" tvg-name="Deutsche Welle Español" tvg-logo="https://i.imgur.com/CsHdYhG.png",Deutsche Welle - DW em espanhol
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
 
 #EXTINF:-1 tvg-id="ESAJ45000120Q" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/09/57/ESAJ45000120Q_20200923T101201.png" group-title="Documentários em espanhol",Euronews Doc | Espanha 
 https://dc10a8b558744d9992b9fd0cefe2f818.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_Euronews/playlist.m3u8?ads.wurl_channel=376&ads.wurl_name=EuroNews&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
@@ -1199,6 +1208,9 @@ https://fb35ecd0cc074cb88b4d0e4ff5c03593.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-id="5ad9b8551b95267e225e59c1" group-title="Documentários em inglês" tvg-name="Explore" tvg-logo="https://images.pluto.tv/channels/5ad9b8551b95267e225e59c1/colorLogoPNG.png",Explore | Alemanha
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad9b8551b95267e225e59c1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-id="DeutscheWelleEN.de" group-title="Documentários em inglês" tvg-name="DW English" tvg-logo="https://i.imgur.com/CsHdYhG.png",Deutsche Welle - DW em inglês
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream04/streamPlaylist.m3u8
 
 #EXTINF:-1 tvg-id="forensic-files" tvg-logo="http://images.pluto.tv/channels/5bb1af6a268cae539bcedb0a/colorLogoPNG.png" group-title="Documentários em inglês",Forensic Files | EUA 
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bb1af6a268cae539bcedb0a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc94a433-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=2115d380-853b-409a-bf6e-2c693f67159d&userId=&serverSideAds=true
@@ -1390,6 +1402,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/589aa03df9ba56a8419
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-xplore-samsungus/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
 ################# Documentários em outros idiomas ################# Documentários em outros idiomas ################# Documentários em outros idiomas ################# Documentários em outros idiomas ################# Documentários em outros idiomas ################# Documentários em outros idiomas 
+
+#EXTINF:-1 group-title="Documentários em outros idiomas" tvg-name="Deutsche Welle Árabe" tvg-logo="https://i.imgur.com/CsHdYhG.png",Deutsche Welle - DW em árabe 
+https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/stream04/streamPlaylist.m3u8
 
 #EXTINF:-1 tvg-id="ITAJ45000141D" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/06/31/ITAJ45000141D_20200923T101204.png" group-title="Documentários em outros idiomas",Euronews Doc | Itália
 https://e4a5a147cb5e4aa38ecb8b703171308c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-it_Euronews/playlist.m3u8?ads.wurl_channel=375&ads.wurl_name=Euronews&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
@@ -3554,9 +3569,6 @@ https://stream-02.nyc.dailymotion.com/sec(EWe07LaLICe6ZTgKrFaKW31K79bVGH8Y--l1Lb
 
 #EXTINF:-1 tvg-id="Channel20.il" tvg-logo="https://i.imgur.com/vxGmKFv.png" group-title="Variedades em outros idiomas" tvg-name="Channel 20",Channel 20 | Israel
 https://dvr.ch20-cdnwiz.com/hls/live_360/index.m3u8
-
-#EXTINF:-1 tvg-id="dwtv" tvg-logo="https://i.imgur.com/CsHdYhG.png" group-title="Variedades em outros idiomas",Deutsche Welle (DW) | Alemanha
-https://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/index_1_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 tvg-id="Channel11.il" tvg-logo="https://i.imgur.com/NLbnUz3.png" group-title="Variedades em outros idiomas" tvg-name="Kan 11",Kan 11 Jerusalém | Israel
 https://stream-03.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl9VEUxHPci9Zzif2aQ5-OY0)/dm/3/x7wjmog/d/live-2.m3u8
