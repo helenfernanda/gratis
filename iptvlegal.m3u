@@ -62,25 +62,16 @@ http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
 #EXTINF:-1 tvg-name="TV UFG | TV Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Avatar_-_Quadrado_02.png" group-title="Brasil: educativos e documentários",TV Brasil | TV UFG (GO)
 http://wowza.softhost.com.br:1935/ufg/smil:tvufgweb/playlist.m3u8
 
-#EXTINF:-1  tvg-name="TV Câmara" tvg-logo="https://logodownload.org/wp-content/uploads/2019/01/tv-camara-logo.png" group-title="Brasil: educativos e documentários",TV Câmara | Brasil
-https://stream3.camara.gov.br/tv1/manifest.m3u8
-
-#EXTINF:-1  tvg-name="TV Câmara" tvg-logo="https://logodownload.org/wp-content/uploads/2019/01/tv-camara-logo.png" group-title="Brasil: educativos e documentários",TV Câmara 2 | Brasil
-https://stream3.camara.gov.br/tv2/manifest.m3u8
-
-#EXTINF:-1  tvg-name="TV Câmara" tvg-logo="https://logodownload.org/wp-content/uploads/2019/01/tv-camara-logo.png" group-title="Brasil: educativos e documentários",TV Câmara 3 | Brasil
-https://stream3.camara.gov.br/tv2/manifest.m3u8
-
 #EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="TV Cultura" tvg-logo="https://listaiptv.gratis/logos/imagens/1180px-cultura_logo_2013.svg_.png" group-title="Brasil: educativos e documentários",TV Cultura | TV Futuro (RJ) | Brasil
 https://streaming03.zas.media/tvfuturo/tvfuturo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="culturapara" tvg-logo="https://listaiptv.gratis/logos/imagens/culturapara.png" group-title="Brasil: educativos e documentários",Cultura do Pará | Brasil
 http://str.portalcultura.com.br/funtelpa/tv_funtelpa/live.m3u8
 
-#EXTINF:-1 tvg-id="Tvescola.br" tvg-name="TV Escola" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjMchEFtSE24KRWXsviP6GZD2KLdE_PHlvNvK_c0Q=s900-c-k-c0x00ffffff-no-rj" group-title="Brasil: educativos e documentários",(TV) Escola | Brasil
+#EXTINF:-1 tvg-id="Tvescola.br" tvg-name="TV Escola" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjMchEFtSE24KRWXsviP6GZD2KLdE_PHlvNvK_c0Q=s900-c-k-c0x00ffffff-no-rj" group-title="Brasil: educativos e documentários",TV Escola | Brasil
 https://edge-rj-01.eduplay.rnp.br/media/ocp(r(uxqJWw)t(AAAAAAAAAAA)p(d(1V0)k(cto)m(ozliuPfkh1eJAWz5pwZ4mA)n(a(3SvKKEX2OOhT6h3pe_Y_EFfDaFcT3ac-)s(Q7o)'a(Kvu_4LKDXK79KhEoIpPBfg1d)s(E1o)))s(t(sQg)b(N3U2BrNIlr__FHGgSagEOxUNBPapU6wLgFdu5hPXv3n22-TGb3AbZpfiS1pTXHOIcor3Raeer_hlcpDs4U46Shu80FDN-6iQACwB_Oxj20B2bxL8tILA6xQEv-xlD6O-wVm7bmTz-to-cnWrmVmmqpL5Yj0hiqqxSGMPOmGL)'t(kjo)b(AeKwH7JgZN3Rv21RLL8hjgBCod6HGEsVOxyD)))/live_540_index.m3u8
 
-#EXTINF:-1 tvg-name="TV Faap" tvg-logo="https://listaiptv.gratis/logos/imagens/tvfaap.png" group-title="Brasil: educativos e documentários",(TV) Faap | Brasil
+#EXTINF:-1 tvg-name="TV Faap" tvg-logo="https://listaiptv.gratis/logos/imagens/tvfaap.png" group-title="Brasil: educativos e documentários",TV Faap | Brasil
 http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8
 
 #EXTINF:-1 tvg-id="pluto-tv-investigacao-ptv1" tvg-logo="https://imgur.com/JfLHsbj.png" group-title="Brasil: educativos e documentários",Investigação | Brasil 
@@ -92,13 +83,13 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fac52f142044f00078
 #EXTINF:-1 tvg-id="pluto-tv-natureza" tvg-logo="https://imgur.com/oAarMpL.png" group-title="Brasil: educativos e documentários",Natureza | Brasil 
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977f3000-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=5bf5881e-ff8d-45df-a6a2-db61d0e625a0&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="TVparanaturismo.br" group-title="Brasil: educativos e documentários" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjjKFPE1dR10rEbyAE2fus0Mu0iQ0mEwehWdlf6uQ=s250-c-k-c0x00ffffff-no-rj" tvg-name="TV Paraná Turismo",(TV) Paraná Turismo | Brasil
+#EXTINF:-1 tvg-id="TVparanaturismo.br" group-title="Brasil: educativos e documentários" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjjKFPE1dR10rEbyAE2fus0Mu0iQ0mEwehWdlf6uQ=s250-c-k-c0x00ffffff-no-rj" tvg-name="TV Paraná Turismo",TV Paraná Turismo | Brasil
 http://200.189.113.201/hls/tve.m3u8
 
-#EXTINF:-1 tvg-id="Redeminas.br" tvg-name="Rede Minas" group-title="Brasil: educativos e documentários" tvg-logo="https://pbs.twimg.com/profile_images/1151111400615550976/MQW6Uj8p.png",Rede Minas SD | Brasil
+#EXTINF:-1 tvg-id="Redeminas.br" tvg-name="Rede Minas" group-title="Brasil: educativos e documentários" tvg-logo="https://pbs.twimg.com/profile_images/1151111400615550976/MQW6Uj8p.png",Rede Minas | Brasil
 https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_.m3u8
 
-#EXTINF:-1 tvg-id="canalsaude.br" tvg-name="Canal Saúde" tvg-logo="https://i.imgur.com/CGQhh0s.png" tvg-shift="0" group-title="Brasil: educativos e documentários",(Canal) Saúde | Brasil
+#EXTINF:-1 tvg-id="canalsaude.br" tvg-name="Canal Saúde" tvg-logo="https://i.imgur.com/CGQhh0s.png" tvg-shift="0" group-title="Brasil: educativos e documentários",Canal Saúde | Brasil
 https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SESCTV.br" tvg-name="SESC TV" group-title="Brasil: educativos e documentários" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCQlj4F0w8sO6hAPUKpnxfh5GOGxG9XEzi9obcZVtYWwuDRf3otJWvZ_YQF_xbnaovDaY&usqp=CAU",Sesc TV | Brasil
@@ -110,49 +101,83 @@ https://tv.unisc.br/hls/test.m3u8
 #EXTINF:-1 tvg-id="pluto-tv-vida-real-ptv1" tvg-logo="https://imgur.com/YuTPeFV.png" group-title="Brasil: educativos e documentários",Vida Real | Brasil 
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32d4d9ec194100070c7449/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781ef21-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=29b136d2-3f75-488b-9ace-35ab0ac5684e&userId=&serverSideAds=true
 
-############## Brasil: jovens ############## ############## Brasil: jovens ############## ############## Brasil: jovens ############## ############## Brasil: jovens ############## ############## Brasil: jovens ############## ############## Brasil: jovens ############## 
+############################### Brasil: humor e seriados ############################### Brasil: humor e seriados ############################### Brasil: humor e seriados ############################### Brasil: humor e seriados ############################### Brasil: humor e seriados ############################### Brasil: humor e seriados 
 
-#EXTINF:-1 tvg-id="allsports.br" tvg-name="All Sports" tvg-logo="https://pbs.twimg.com/profile_images/1212859696383696896/ljdBfeUQ_400x400.jpg" group-title="Brasil: jovens",All Sports 1 | Brasil
-https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
+#EXTINF:-1 tvg-id="bet-being-mary-jane" tvg-logo="https://images.pluto.tv/channels/60a8126a0ac3970007f850fe/featuredImage.jpg" group-title="Brasil: humor e seriados",Being Mary Jane | Brasil 
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60a8126a0ac3970007f850fe/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=e61e81d1-c6d5-4eea-a605-2651410462b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=357672e9-e58c-11eb-b36a-0242ac110002&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="allsports.br" tvg-name="All Sports" tvg-logo="https://pbs.twimg.com/profile_images/1212859696383696896/ljdBfeUQ_400x400.jpg" group-title="Brasil: jovens",All Sports 2 | Brasil
-https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w2128065062.m3u8
-
-#EXTINF:-1 tvg-id="pluto-tv-comedia" tvg-name="Pluto TV Comédia" group-title="Brasil: jovens" tvg-logo="https://images.pluto.tv/channels/6001f3018502100007f528ac/featuredImage.jpg",Pluto TV Comédia | Brasil
+#EXTINF:-1 tvg-id="pluto-tv-comedia" tvg-name="Pluto TV Comédia" group-title="Brasil: humor e seriados" tvg-logo="https://images.pluto.tv/channels/6001f3018502100007f528ac/featuredImage.jpg",Comédia | Brasil
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6001f3018502100007f528ac/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=97821633-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d1b9e931-6816-41d0-878e-e83836fbe919&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="Loading.br" tvg-name="Loading TV" tvg-logo="https://imgur.com/DAyMXAx.png" tvg-shift="0" group-title="Brasil: jovens",Loading TV | Brasil
-https://aws.gcp.br.cdn.booyah.live/hls/151073/master_34850987.m3u8
+#EXTINF:-1 tvg-id="failarmy-ptv1" tvg-logo="https://imgur.com/zkifc9i.png" group-title="Brasil: humor e seriados",FailArmy | Brasil 
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5141c1605ddf000748eb1b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781ef23-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=06a388de-3b13-4ca7-8144-9c9d538f436c&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="mtv-pluto-tv1" tvg-logo="https://imgur.com/Of1yJaj.png" group-title="Brasil: jovens",MTV do Pluto | Brasil 
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1212fb81e85c00077ae9ef/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977f08f0-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3887c04b-bb4b-49b8-8511-47613f5cadbb&userId=&serverSideAds=true
+#EXTINF:-1 tvg-id="people-are-awesome-ptv1" tvg-logo="https://imgur.com/y0Kdqtm.png" group-title="Brasil: humor e seriados",People are Awesome | Brasil
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f515d080e738d000739e19c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=e61e81d1-c6d5-4eea-a605-2651410462b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d6cc25d6-e662-11eb-8628-0242ac110003&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="mtv-are-you-the-one-ptv1" tvg-logo="https://imgur.com/u6zAeKw.png" group-title="Brasil: jovens",MTV: Are you the One? | Brasil 
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6108d8cc331900075e98e4/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=97821633-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d1b9e931-6816-41d0-878e-e83836fbe919&userId=&serverSideAds=true
-
-#EXTINF:-1  tvg-name="New Face Reality" tvg-logo="https://tvthepapo.com.br/uploads/galery/2021/04/4337a0f5498504c6514ba268c4f26f606a8c0f07e83b3.png" tvg-shift="0" group-title="Brasil: jovens",New Face Reality | Brasil
-https://59f1cbe63db89.streamlock.net:1443/reality/_definst_/reality/chunklist_w962566584.m3u8
-
-#EXTINF:-1 tvg-id="paramount-apresenta" tvg-logo="http://images.pluto.tv/channels/60072798dcf437000755b4f3/colorLogoPNG.png" group-title="Brasil: jovens",Paramount+ Apresenta | Brasil 
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60072798dcf437000755b4f3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=adce3d82-7ced-11eb-b41a-4d1db88b305b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8c2058a6-297d-4b07-8c15-fcb77b9a2808&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="porta-dos-fundos" tvg-logo="https://imgur.com/Xb0RMoR.png" group-title="Brasil: jovens",Porta dos Fundos | Brasil 
+#EXTINF:-1 tvg-id="porta-dos-fundos" tvg-logo="https://imgur.com/Xb0RMoR.png" group-title="Brasil: humor e seriados",Porta dos Fundos | Brasil 
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f36f2346ede750007332d11/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781ef22-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a4be72ee-4337-4176-a253-be6d837c977f&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="south-park-ptv1" tvg-logo="https://i.imgur.com/6ycpYth.jpg" group-title="Brasil: jovens",South Park | Brasil
+#EXTINF:-1 tvg-id="south-park-ptv1" tvg-logo="https://i.imgur.com/6ycpYth.jpg" group-title="Brasil: humor e seriados",South Park | Brasil
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/609ae66b359b270007869ff1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=e61e81d1-c6d5-4eea-a605-2651410462b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3bf99bf4-e584-11eb-a5e5-0242ac110002&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="tastemade-ptv2" tvg-logo="https://imgur.com/JnHVIgo.png" group-title="Brasil: jovens",Tastemade | Brasil
+#EXTINF:-1 tvg-id="the-pet-collective-ptv1" tvg-logo="https://imgur.com/ZC9x6Yf.png" group-title="Brasil: humor e seriados",The Pet Collective | Brasil 
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f515ebac01c0f00080e8439/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=97821631-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=25075146-4d3f-4138-a177-5d8a41b330d4&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="pluto-tv-retro-2" tvg-logo="https://imgur.com/Bxf8Gwu.png" group-title="Brasil: humor e seriados",Retrô | Brasil
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1212ad1728050007a523b8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977ee1e2-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b6493600-b3db-4363-8eef-3a781c72e728&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="pluto-tv-series-1" tvg-logo="https://imgur.com/SIUu1eO.png" group-title="Brasil: humor e seriados",Séries | Brasil
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f121262a189a800076b9386/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977ee1e1-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d54d8e7b-d3f3-44cd-ac61-95ff7aa498d3&userId=&serverSideAds=true
+
+############## Brasil: jovens ############## ############## Brasil: jovens ############## ############## Brasil: jovens ############## ############## Brasil: jovens ############## ############## Brasil: jovens ############## ############## Brasil: jovens ############## 
+
+#EXTINF:-1 tvg-id="fashionbox" tvg-logo="https://imgur.com/dSGszHV.png" group-title="Brasil: jovens e reality shows",Fashionbox | Brasil 
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f516730b78b7600079294f5/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=97821632-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3a1c0715-7e54-4c98-b40d-facafa1841d1&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="Loading.br" tvg-name="Loading TV" tvg-logo="https://imgur.com/DAyMXAx.png" tvg-shift="0" group-title="Brasil: jovens e reality show",Loading TV | Brasil
+https://aws.gcp.br.cdn.booyah.live/hls/151073/master_34850987.m3u8
+
+#EXTINF:-1 tvg-id="mtv-pluto-tv1" tvg-logo="https://imgur.com/Of1yJaj.png" group-title="Brasil: jovens e reality shows",MTV do Pluto | Brasil 
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1212fb81e85c00077ae9ef/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977f08f0-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3887c04b-bb4b-49b8-8511-47613f5cadbb&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="mtv-are-you-the-one-ptv1" tvg-logo="https://imgur.com/u6zAeKw.png" group-title="Brasil: jovens e reality shows",MTV: Are you the One? | Brasil 
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6108d8cc331900075e98e4/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=97821633-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d1b9e931-6816-41d0-878e-e83836fbe919&userId=&serverSideAds=true
+
+#EXTINF:-1  tvg-name="New Face Reality" tvg-logo="https://tvthepapo.com.br/uploads/galery/2021/04/4337a0f5498504c6514ba268c4f26f606a8c0f07e83b3.png" tvg-shift="0" group-title="Brasil: jovens e reality shows",New Face Reality | Brasil
+https://59f1cbe63db89.streamlock.net:1443/reality/_definst_/reality/chunklist_w962566584.m3u8
+
+#EXTINF:-1 tvg-id="nosey-casos-ptv2" tvg-logo="https://images.pluto.tv/channels/5f9b096236af340008da3779/featuredImage.jpg?w=300" group-title="Brasil: jovens e reality shows" tvg-name="Nosey Casos",Nosey Casos | Brasil 
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f9b096236af340008da3779/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0651cfd7-3dba-4a55-99ce-263e1c29297a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3e6e9843-96e5-11eb-b1b4-0242ac110002&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="nosey-escandalos-ptv2" tvg-logo="https://images.pluto.tv/channels/5f9b05a99547eb0007676b02/featuredImage.jpg?w=300" group-title="Brasil: jovens e reality shows" tvg-name="Nosey Escândalos",Nosey Escândalos | Brasil 
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f9b05a99547eb0007676b02/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=0651cfd7-3dba-4a55-99ce-263e1c29297a&clientModelNumber=na&deviceDNT=false&deviceId=0651cfd7-3dba-4a55-99ce-263e1c29297a&deviceLat=-16.6391&deviceLon=-49.2622&deviceMake=Opera&deviceModel=web&deviceType=web&deviceVersion=73.0.3856.421&marketingRegion=BR&serverSideAds=true&sessionID=f913e75f-9703-11eb-8cd8-0242ac110002&sid=f913e75f-9703-11eb-8cd8-0242ac110002&userId= 
+
+#EXTINF:-1 tvg-id="tastemade-ptv2" tvg-logo="https://imgur.com/JnHVIgo.png" group-title="Brasil: jovens e reality shows",Tastemade | Brasil
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fd1419a3b4f4b000773ba85livestitch/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=e61e81d1-c6d5-4eea-a605-2651410462b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d6cc25d6-e662-11eb-8628-0242ac110003&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-ID="Woohoo.br" tvg-name="Woohoo" tvg-logo="http://168.205.87.198/logocanais/woohoo.png" group-title="Brasil: jovens",Woohoo | Brasil 
+#EXTINF:-1 tvg-ID="Woohoo.br" tvg-name="Woohoo" tvg-logo="http://168.205.87.198/logocanais/woohoo.png" group-title="Brasil: jovens e reality shows",Woohoo | Brasil 
 http://168.205.87.198:8555/live/viniciusvieira/vieira123/141.m3u8
 
-#EXTINF:-1 group-title="Brasil: jovens" tvg-logo="https://i.imgur.com/aAwNIcI.png",Yeah Life | Brasil
-http://45.165.178.82:8000/play/a00z/index.m3u8
-
-#EXTINF:-1 tvg-id="Yeeaah.br" tvg-name="Yeeaah" tvg-logo="http://canalyeeah.com.br/wp-content/uploads/2021/01/YEEAAHTV-2021_SITE.png" group-title="Brasil: jovens",Yeeaah | Brasil
+#EXTINF:-1 tvg-id="Yeeaah.br" tvg-name="Yeeaah" tvg-logo="http://canalyeeah.com.br/wp-content/uploads/2021/01/YEEAAHTV-2021_SITE.png" group-title="Brasil: jovens e reality shows",Yeeaah | Brasil
 https://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
+
+############## BRASIL e portugal: legislativos ############## BRASIL e portugal: legislativos ############## BRASIL e portugal: legislativos ############## BRASIL e portugal: legislativos ############## BRASIL e portugal: legislativos ############## BRASIL e portugal: legislativos ###
+
+#EXTINF:-1 tvg-id="Assembleia.go" tvg-name="TV Alego" tvg-logo="https://i.imgur.com/UyRDotD.png" group-title="Brasil e Portugal: legislativos",TV Alego | Brasil
+https://ngbvqmbygn.zoeweb.tv/alegolive/smil:alegolive.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ARTV.pt" tvg-name="ARTV" tvg-logo="" group-title="Brasil e Portugal: legislativos",ARTV | Portugal
+https://playout175.livextend.cloud/livenlin4/2liveartvpub/playlist.m3u8
+
+#EXTINF:-1  tvg-name="TV Câmara" tvg-logo="https://logodownload.org/wp-content/uploads/2019/01/tv-camara-logo.png" group-title="Brasil e Portugal: legislativos",TV Câmara | Brasil
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+
+#EXTINF:-1  tvg-name="TV Câmara" tvg-logo="https://logodownload.org/wp-content/uploads/2019/01/tv-camara-logo.png" group-title="Brasil e Portugal: legislativos",TV Câmara 2 | Brasil
+https://stream3.camara.gov.br/tv2/manifest.m3u8
+
+#EXTINF:-1  tvg-name="TV Câmara" tvg-logo="https://logodownload.org/wp-content/uploads/2019/01/tv-camara-logo.png" group-title="Brasil e Portugal: legislativos",TV Câmara 3 | Brasil
+https://stream3.camara.gov.br/tv2/manifest.m3u8
 
 ############## BRASIL NOTÍCIAS ############## BRASIL NOTÍCIAS ############## BRASIL NOTÍCIAS ############## BRASIL NOTÍCIAS ############## BRASIL NOTÍCIAS ############## BRASIL NOTÍCIAS ############## BRASIL NOTÍCIAS ############## BRASIL NOTÍCIAS ##############
 
@@ -230,156 +255,135 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f997e44949bc70007a
 #EXTINF:-1 tvg-ID="Tvratimbum.br" tvg-name="TV RA TIM BUM!" tvg-logo="http://168.205.87.198/logocanais/tvratimbum.png" group-title="Brasil: kids",TV Ra Tim Bum!
 http://168.205.87.198:8555/live/viniciusvieira/vieira123/84.m3u8
 
-######################### Brasil: Pluto TV ###############
 
-#EXTINF:-1 tvg-id="bet-being-mary-jane" tvg-logo="https://images.pluto.tv/channels/60a8126a0ac3970007f850fe/featuredImage.jpg" group-title="Brasil: Pluto TV",Being Mary Jane | Brasil 
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60a8126a0ac3970007f850fe/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=e61e81d1-c6d5-4eea-a605-2651410462b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=357672e9-e58c-11eb-b36a-0242ac110002&userId=&serverSideAds=true
+############################### BRASIL TV ABERTA ############################### BRASIL TV ABERTA ############################### BRASIL TV ABERTA ############################### BRASIL TV ABERTA ############################### BRASIL TV ABERTA ############################### BRASIL TV ABERTA ############################### BRASIL TV ABERTA ############################### BRASIL TV ABERTA 
 
-#EXTINF:-1 tvg-id="failarmy-ptv1" tvg-logo="https://imgur.com/zkifc9i.png" group-title="Brasil: Pluto TV",FailArmy | Brasil 
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5141c1605ddf000748eb1b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781ef23-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=06a388de-3b13-4ca7-8144-9c9d538f436c&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="fashionbox" tvg-logo="https://imgur.com/dSGszHV.png" group-title="Brasil: Pluto TV",Fashionbox | Brasil 
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f516730b78b7600079294f5/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=97821632-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3a1c0715-7e54-4c98-b40d-facafa1841d1&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="nosey-casos-ptv2" tvg-logo="https://images.pluto.tv/channels/5f9b096236af340008da3779/featuredImage.jpg?w=300" group-title="Brasil: Pluto TV" tvg-name="Nosey Casos",Nosey Casos | Brasil 
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f9b096236af340008da3779/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0651cfd7-3dba-4a55-99ce-263e1c29297a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3e6e9843-96e5-11eb-b1b4-0242ac110002&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="nosey-escandalos-ptv2" tvg-logo="https://images.pluto.tv/channels/5f9b05a99547eb0007676b02/featuredImage.jpg?w=300" group-title="Brasil: Pluto TV" tvg-name="Nosey Escândalos",Nosey Escândalos | Brasil 
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f9b05a99547eb0007676b02/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=0651cfd7-3dba-4a55-99ce-263e1c29297a&clientModelNumber=na&deviceDNT=false&deviceId=0651cfd7-3dba-4a55-99ce-263e1c29297a&deviceLat=-16.6391&deviceLon=-49.2622&deviceMake=Opera&deviceModel=web&deviceType=web&deviceVersion=73.0.3856.421&marketingRegion=BR&serverSideAds=true&sessionID=f913e75f-9703-11eb-8cd8-0242ac110002&sid=f913e75f-9703-11eb-8cd8-0242ac110002&userId= 
-
-#EXTINF:-1 tvg-id="people-are-awesome-ptv1" tvg-logo="https://imgur.com/y0Kdqtm.png" group-title="Brasil: Pluto TV",People are Awesome | Brasil
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f515d080e738d000739e19c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=e61e81d1-c6d5-4eea-a605-2651410462b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d6cc25d6-e662-11eb-8628-0242ac110003&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="pluto-tv-retro-2" tvg-logo="https://imgur.com/Bxf8Gwu.png" group-title="Brasil: Pluto TV",Retrô | Brasil
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1212ad1728050007a523b8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977ee1e2-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b6493600-b3db-4363-8eef-3a781c72e728&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="pluto-tv-series-1" tvg-logo="https://imgur.com/SIUu1eO.png" group-title="Brasil: Pluto TV",Séries | Brasil
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f121262a189a800076b9386/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977ee1e1-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d54d8e7b-d3f3-44cd-ac61-95ff7aa498d3&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="the-pet-collective-ptv1" tvg-logo="https://imgur.com/ZC9x6Yf.png" group-title="Brasil: Pluto TV",The Pet Collective | Brasil 
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f515ebac01c0f00080e8439/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=97821631-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=25075146-4d3f-4138-a177-5d8a41b330d4&userId=&serverSideAds=true
-
-############################### BRASIL TV ABERTA #####################################
-
-#EXTINF:-1  tvg-name="1001 Noites" tvg-logo="https://i.imgur.com/WrXXeRO.png" group-title="Brasil: TV aberta",1001 Noites (PR)
+#EXTINF:-1  tvg-name="1001 Noites" tvg-logo="https://i.imgur.com/WrXXeRO.png" group-title="Brasil e Portugal: TV aberta",1001 Noites (PR)
 https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/chunklist_b1155072.m3u8
 
-#EXTINF:-1 tvg-id="agromais" tvg-name="Agro Mais" tvg-logo="https://portaldoqueijo.com.br/site/wp-content/uploads/2020/06/101158384_143665053919698_2333568191340478464_o.png" group-title="Brasil: TV aberta",Agro+ | Brasil
+#EXTINF:-1 tvg-id="agromais" tvg-name="Agro Mais" tvg-logo="https://portaldoqueijo.com.br/site/wp-content/uploads/2020/06/101158384_143665053919698_2333568191340478464_o.png" group-title="Brasil e Portugal: TV aberta",Agro+ | Brasil
 https://evpp.mm.uol.com.br/geob_band/agromais/chunklist_w290965376.m3u8
 
-#EXTINF:-1 tvg-id="BandRede.br" tvg-name="Band" tvg-logo="https://imgur.com/HnL2uBA.png" tvg-shift="0" group-title="Brasil: TV aberta",Band | Brasil
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="Band" tvg-logo="https://imgur.com/HnL2uBA.png" tvg-shift="0" group-title="Brasil e Portugal: TV aberta",Band | Brasil
 http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Canal29.br" tvg-name="Canal 29" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/dcb3ff84b8f31ddc39ef213b42402f75.jpg" group-title="Brasil: TV aberta",Canal 29 - séries antigas | Brasil
+#EXTINF:-1 tvg-id="allsports.br" tvg-name="All Sports" tvg-logo="https://pbs.twimg.com/profile_images/1212859696383696896/ljdBfeUQ_400x400.jpg" group-title="Brasil e Portugal: TV aberta",All Sports 1 | Brasil
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="allsports.br" tvg-name="All Sports" tvg-logo="https://pbs.twimg.com/profile_images/1212859696383696896/ljdBfeUQ_400x400.jpg" group-title="Brasil e Portugal: TV aberta",All Sports 2 | Brasil
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w2128065062.m3u8
+
+#EXTINF:-1 tvg-id="Canal29.br" tvg-name="Canal 29" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/dcb3ff84b8f31ddc39ef213b42402f75.jpg" group-title="Brasil e Portugal: TV aberta",Canal 29 - séries antigas | Brasil
 https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Canalsaopaulo.br" tvg-name="Canal de São Paulo" tvg-logo="https://www.canalsp.com.br/wp-content/uploads/2019/07/logotipo.png" group-title="Brasil: TV aberta",Canal de São Paulo | Brasil
+#EXTINF:-1 tvg-id="Canalsaopaulo.br" tvg-name="Canal de São Paulo" tvg-logo="https://www.canalsp.com.br/wp-content/uploads/2019/07/logotipo.png" group-title="Brasil e Portugal: TV aberta",Canal de São Paulo | Brasil
 https://demo.cdn.tv.br/media/n/BZjJAde1odK4mZC0mZu/a/BZjJAde1odK4mZC0mZu/720p/chunks.m3u8?ch=BZjJAde1odK4mZC0mZu&t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkZWZhdWx0IzE1NzYwODMyNTgiLCJpYXQiOjE2MTg1ODc0MjQsImV4cCI6MTYxODYwNTQyNH0.sVjz_wrKqFvaOKI4CTPu4bHugsA7R-UKAp0BpU0nkGU
 
-#EXTINF:-1 tvg-id="combrasil.br" tvg-name="Com Brasil" tvg-logo="https://combrasiltv.com.br/wp-content/uploads/2020/02/logo_site.png" tvg-shift="0" group-title="Brasil: TV aberta",Com Brasil
+#EXTINF:-1 tvg-id="combrasil.br" tvg-name="Com Brasil" tvg-logo="https://combrasiltv.com.br/wp-content/uploads/2020/02/logo_site.png" tvg-shift="0" group-title="Brasil e Portugal: TV aberta",Com Brasil
 https://596639ebdd89b.streamlock.net/8032/8032/chunklist_w866856436.m3u8
 
-#EXTINF:-1 tvg-id="demaistv.br" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5a0ca2ab1c68adcde7bf577af87071b8.jpg" group-title="Brasil: TV aberta",D+ TV | Brasil
+#EXTINF:-1 tvg-id="demaistv.br" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5a0ca2ab1c68adcde7bf577af87071b8.jpg" group-title="Brasil e Portugal: TV aberta",D+ TV | Brasil
 https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
 
-#EXTINF:-1 tvg-ID="Globominas.br" tvg-name="Globo Minas" tvg-logo="http://168.205.87.198/logocanais/globominas.png" group-title="Brasil: TV aberta",Globo Minas
+#EXTINF:-1 tvg-ID="Globominas.br" tvg-name="Globo Minas" tvg-logo="http://168.205.87.198/logocanais/globominas.png" group-title="Brasil e Portugal: TV aberta",Globo Minas
 http://168.205.87.198:8555/live/viniciusvieira/vieira123/70.m3u8
 
-#EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ SD" tvg-logo="https://imgur.com/5RQ1PxL.png" group-title="Brasil: TV aberta",Globo RJ SD | Brasil
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ SD" tvg-logo="https://imgur.com/5RQ1PxL.png" group-title="Brasil e Portugal: TV aberta",Globo RJ SD | Brasil
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ HD" tvg-logo="https://imgur.com/5RQ1PxL.png" group-title="Brasil: TV aberta",Globo RJ HD | Brasil
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ HD" tvg-logo="https://imgur.com/5RQ1PxL.png" group-title="Brasil e Portugal: TV aberta",Globo RJ HD | Brasil
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.imgur.com/zW9EbPE.png" group-title="Brasil: TV aberta",Hello TV | Brasil
+#EXTINF:-1  tvg-logo="https://i.imgur.com/zW9EbPE.png" group-title="Brasil e Portugal: TV aberta",Hello TV | Brasil
 http://45.165.178.82:8000/play/a00w/index.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.imgur.com/5KbMwQm.png" group-title="Brasil: TV aberta",Inspire | Brasil
+#EXTINF:-1  tvg-logo="https://i.imgur.com/5KbMwQm.png" group-title="Brasil e Portugal: TV aberta",Inspire | Brasil
 http://45.165.178.82:8000/play/a01a/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jl1IZn6.png" group-title="Brasil: TV aberta",Mosaico | Brasil
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jl1IZn6.png" group-title="Brasil e Portugal: TV aberta",Mosaico | Brasil
 http://45.165.178.82:8000/play/a00v/index.m3u8
 
-#EXTINF:-1 tvg-id="Primertv.br" tvg-name="Primer TV" tvg-logo="https://demo.cdn.tv.br/logo/1559412042.3773847.png" tvg-shift="0" group-title="Brasil: TV aberta",Primer TV | Brasil
+#EXTINF:-1 tvg-id="PortoCanal.pt" tvg-name="Porto Canal" tvg-logo="https://i.imgur.com/xLyv1oL.png" group-title="Brasil e Portugal: TV aberta",Porto TV | Portugal
+https://streamer-b02.videos.sapo.pt/live/portocanal/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Primertv.br" tvg-name="Primer TV" tvg-logo="https://demo.cdn.tv.br/logo/1559412042.3773847.png" tvg-shift="0" group-title="Brasil e Portugal: TV aberta",Primer TV | Brasil
 http://200.194.238.229:8383/live/primer/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="Record" tvg-logo="https://i.pinimg.com/originals/93/d3/65/93d365753811901f3fd8fea11c78d79c.jpg" tvg-shift="0" group-title="Brasil: TV aberta",Record | Brasil
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="Record" tvg-logo="https://i.pinimg.com/originals/93/d3/65/93d365753811901f3fd8fea11c78d79c.jpg" tvg-shift="0" group-title="Brasil e Portugal: TV aberta",Record | Brasil
 https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
 
-#EXTINF:-1 tvg-id="Redebrasil.br" tvg-name="Rede Brasil" tvg-logo="https://imgur.com/ZgnRZ47.png" group-title="Brasil: TV aberta",Rede Brasil
+#EXTINF:-1 tvg-id="Redebrasil.br" tvg-name="Rede Brasil" tvg-logo="https://imgur.com/ZgnRZ47.png" group-title="Brasil e Portugal: TV aberta",Rede Brasil
 https://video01.logicahost.com.br/redebrasil/redebrasil/chunklist_w1839344534.m3u8
 
-#EXTINF:-1 tvg-id="Redemetropole.br" tvg-name="Rede Metrópole" group-title="Brasil: TV aberta" tvg-logo="https://play-lh.googleusercontent.com/yAp592JJ2UwfANsFzndnqQDnwbx9EcVo1lbikgbxz3mgR0V7Fp6Jtif0EFFl0CrDNbM",Rede Metrópole | Brasil
+#EXTINF:-1 tvg-id="Redemetropole.br" tvg-name="Rede Metrópole" group-title="Brasil e Portugal: TV aberta" tvg-logo="https://play-lh.googleusercontent.com/yAp592JJ2UwfANsFzndnqQDnwbx9EcVo1lbikgbxz3mgR0V7Fp6Jtif0EFFl0CrDNbM",Rede Metrópole | Brasil
 http://187.33.200.235:9000/hls/redemetropole.m3u8
 
-#EXTINF:-1 tvg-id="Redetv.br" tvg-name="Rede TV" tvg-logo="https://i.imgur.com/hd76Jt4.png" tvg-shift="0" group-title="Brasil: TV aberta",Rede TV (RJ)
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="Rede TV" tvg-logo="https://i.imgur.com/hd76Jt4.png" tvg-shift="0" group-title="Brasil e Portugal: TV aberta",Rede TV (RJ)
 https://hls.brasilstream.com.br/live/redetves/redetves/mono.m3u8?token=6410329353875642000
 
-#EXTINF:-1 tvg-id="Redetv.br" tvg-name="Rede TV" tvg-logo="https://listaiptv.gratis/logos/imagens/redetvtocantins.png" group-title="Brasil: TV aberta",Rede TV | Tocantins
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="Rede TV" tvg-logo="https://listaiptv.gratis/logos/imagens/redetvtocantins.png" group-title="Brasil e Portugal: TV aberta",Rede TV | Tocantins
 https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Redetv.br" tvg-name="Rede TV" tvg-logo="http://engelhosting.com.br/images/tvarapuanhd.png" group-title="Brasil: TV aberta",Rede TV | TV Arapuan (PB)
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="Rede TV" tvg-logo="http://engelhosting.com.br/images/tvarapuanhd.png" group-title="Brasil e Portugal: TV aberta",Rede TV | TV Arapuan (PB)
 https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Redetv.br" tvg-name="Rede TV" tvg-logo="https://listaiptv.gratis/logos/imagens/pampa.png" group-title="Brasil: TV aberta",Rede TV | TV Pampa (RS)
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="Rede TV" tvg-logo="https://listaiptv.gratis/logos/imagens/pampa.png" group-title="Brasil e Portugal: TV aberta",Rede TV | TV Pampa (RS)
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="TV Cidade Verde PI" tvg-logo="https://i.imgur.com/7knMSz7.png" tvg-shift="0" group-title="Brasil: TV aberta",SBT | TV Cidade Verde (PI)
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="TV Cidade Verde PI" tvg-logo="https://i.imgur.com/7knMSz7.png" tvg-shift="0" group-title="Brasil e Portugal: TV aberta",SBT | TV Cidade Verde (PI)
 https://stmv1.transmissaodigital.com/cidadeverde/cidadeverde/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT Maranhão" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b4/Logotipo_da_TV_Difusora.png" group-title="Brasil: TV aberta",SBT | TV Difusora (MA)
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT Maranhão" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b4/Logotipo_da_TV_Difusora.png" group-title="Brasil e Portugal: TV aberta",SBT | TV Difusora (MA)
 http://difusorama.zoeweb.tv:1935/z437-live/stream/chunklist_w1260675550.m3u8
 
-#EXTINF:-1 tvg-logo="https://imagens.ne10.uol.com.br/img/imagens/2020/10/22/a38a58f118_design-sem-nome5.jpg" group-title="Brasil: TV aberta",SBT | TV Jornal (PE)
+#EXTINF:-1 tvg-logo="https://imagens.ne10.uol.com.br/img/imagens/2020/10/22/a38a58f118_design-sem-nome5.jpg" group-title="Brasil e Portugal: TV aberta",SBT | TV Jornal (PE)
 http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8
  
-#EXTINF:-1 tvg-logo="https://imagens.ne10.uol.com.br/img/imagens/2020/10/22/a38a58f118_design-sem-nome5.jpg" group-title="Brasil: TV aberta",SBT | TV Jornal Caruaru (PE)
+#EXTINF:-1 tvg-logo="https://imagens.ne10.uol.com.br/img/imagens/2020/10/22/a38a58f118_design-sem-nome5.jpg" group-title="Brasil e Portugal: TV aberta",SBT | TV Jornal Caruaru (PE)
 http://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/567312773319630848/Sho8pafO.png" group-title="Brasil: TV aberta",SBT | TV Serra Dourada (GO)
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/567312773319630848/Sho8pafO.png" group-title="Brasil e Portugal: TV aberta",SBT | TV Serra Dourada (GO)
 https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Terraviva.br" tvg-name="Terra Viva" tvg-logo="https://1.bp.blogspot.com/-1DYn7WAo9Xc/XyxDWmZ9aeI/AAAAAAABu4Y/yrSqKd72VG8fkB_l6Ti7hUMp-AZUuMMqQCLcBGAsYHQ/w300-c/Terraviva.png" group-title="Brasil: TV aberta",Terra Viva | Brasil
+#EXTINF:-1 tvg-id="Terraviva.br" tvg-name="Terra Viva" tvg-logo="https://1.bp.blogspot.com/-1DYn7WAo9Xc/XyxDWmZ9aeI/AAAAAAABu4Y/yrSqKd72VG8fkB_l6Ti7hUMp-AZUuMMqQCLcBGAsYHQ/w300-c/Terraviva.png" group-title="Brasil e Portugal: TV aberta",Terra Viva | Brasil
 https://evpp.mm.uol.com.br/band_live/terraviva/chunklist_w1942099493.m3u8
 
-#EXTINF:-1 tvg-name="TV Ado" tvg-logo="https://i.imgur.com/weOxAEx.png" group-title="Brasil: TV aberta",TV ADO | Brasil
+#EXTINF:-1 tvg-name="TV Ado" tvg-logo="https://i.imgur.com/weOxAEx.png" group-title="Brasil e Portugal: TV aberta",TV ADO | Brasil
 https://5c483b9d1019c.streamlock.net/tvado/tvado/chunklist_w1766917256.m3u8
 
-#EXTINF:-1 tvg-id="Assembleia.go" tvg-name="TV Alego" tvg-logo="https://i.imgur.com/UyRDotD.png" group-title="Brasil: TV aberta",TV Alego | Brasil
-https://ngbvqmbygn.zoeweb.tv/alegolive/smil:alegolive.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="PUCTV.br" tvg-name="PUC TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3c/Logo_puctv.png" tvg-shift="0" group-title="Brasil: TV aberta",TV Aparecida | PUC TV (GO)
+#EXTINF:-1 tvg-id="PUCTV.br" tvg-name="PUC TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3c/Logo_puctv.png" tvg-shift="0" group-title="Brasil e Portugal: TV aberta",TV Aparecida | PUC TV (GO)
 https://59fb88a1b1108.streamlock.net/pucgoias/aovivo/chunklist_w897014956.m3u8
 
-#EXTINF:-1 tvg-name="TV Balcão" tvg-logo="https://i.imgur.com/GbPiWi0.png" group-title="Brasil: TV aberta",TV Balcão (MG)
+#EXTINF:-1 tvg-name="TV Balcão" tvg-logo="https://i.imgur.com/GbPiWi0.png" group-title="Brasil e Portugal: TV aberta",TV Balcão (MG)
 https://cdn.jmvstream.com/w/AVJ-9028/playlist/chunklist.m3u8
 
-#EXTINF:-1  tvg-name="TV Carioca" tvg-logo="https://pbr-str.srvsite.com/arquivos/7051/cabecalho-7051-20200320104612.png" group-title="Brasil: TV aberta",TV Carioca | Brasil
+#EXTINF:-1  tvg-name="TV Carioca" tvg-logo="https://pbr-str.srvsite.com/arquivos/7051/cabecalho-7051-20200320104612.png" group-title="Brasil e Portugal: TV aberta",TV Carioca | Brasil
 https://srv5.zcast.com.br/tvcarioca/tvcarioca/chunklist_w1896676795.m3u8
 
-#EXTINF:-1  tvg-name="TBC Cultura Goiás" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/ececa6333f0610f8e13aafbe16a5830b.png" group-title="Brasil: TV aberta",TV Cultura | TBC (GO)
+#EXTINF:-1  tvg-name="TBC Cultura Goiás" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/ececa6333f0610f8e13aafbe16a5830b.png" group-title="Brasil e Portugal: TV aberta",TV Cultura | TBC (GO)
 http://wz3.dnip.com.br/tvbrasil/tvbrasil.sdp/playlist.m3u8
 
-#EXTINF:-1  tvg-name="TV Destaque Nacional" tvg-logo="https://i.imgur.com/v1tZOxy.png" group-title="Brasil: TV aberta",TV Destaque Nacional (SP)
+#EXTINF:-1  tvg-name="TV Destaque Nacional" tvg-logo="https://i.imgur.com/v1tZOxy.png" group-title="Brasil e Portugal: TV aberta",TV Destaque Nacional (SP)
 https://novo.bitstreaming.info:1936/tvdestaquenacional/tvdestaquenacional/chunklist_w334682338.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/diariodosertao.png" group-title="Brasil: TV aberta", TV Diário do Sertão (PB)
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/diariodosertao.png" group-title="Brasil e Portugal: TV aberta", TV Diário do Sertão (PB)
 https://5a2b083e9f360.streamlock.net/pdsertaotv/pdsertaotv.sdp/chunklist_w1456507595.m3u8
 
-#EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="TV Gazeta | TV Alternativa (MA)" tvg-logo="https://imgur.com/lAXbfuU.png" tvg-shift="0" group-title="Brasil: TV aberta",TV Gazeta | Alternativa (MA)
+#EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="TV Gazeta | TV Alternativa (MA)" tvg-logo="https://imgur.com/lAXbfuU.png" tvg-shift="0" group-title="Brasil e Portugal: TV aberta",TV Gazeta | Alternativa (MA)
 http://stmv8.conectastm.com/wagner1168/wagner1168/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Tvmetropole.br" group-title="Brasil: TV aberta" tvg-logo="https://imgur.com/EhJNGIy.png",TV Metrópole | Caucaia (CE)
+#EXTINF:-1 tvg-id="Tvmetropole.br" group-title="Brasil e Portugal: TV aberta" tvg-logo="https://imgur.com/EhJNGIy.png",TV Metrópole | Caucaia (CE)
 https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Tvmon.br" group-title="Brasil: TV aberta" tvg-logo="https://2net.com.br/Repositorio/3106/Logo/ee19d371-e.png",TV Mon | Montenegro (RS)
+#EXTINF:-1 tvg-id="Tvmon.br" group-title="Brasil e Portugal: TV aberta" tvg-logo="https://2net.com.br/Repositorio/3106/Logo/ee19d371-e.png",TV Mon | Montenegro (RS)
 https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvpantanal.png" group-title="Brasil: TV aberta", TV Pantanal (MS)
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvpantanal.png" group-title="Brasil e Portugal: TV aberta", TV Pantanal (MS)
 https://5e837408ea907.streamlock.net:1936/tvpantanalms/tvpantanalms/playlist.m3u8
 
-#EXTINF:-1   group-title="Brasil: TV aberta" tvg-logo="https://i.imgur.com/IIztLyO.png",Up Channel | Brasil
+#EXTINF:-1   group-title="Brasil e Portugal: TV aberta" tvg-logo="https://i.imgur.com/IIztLyO.png",Up Channel | Brasil
 http://45.165.178.82:8000/play/a00x/index.m3u8
+
 
 ####################################### casa e decoração em inglês ############################
 
@@ -1079,6 +1083,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5efb8c19b2678b00078
 #EXTINF:-1 tvg-id="archivos-forenses-es" tvg-logo="http://images.pluto.tv/channels/5f984f4a09e92d0007d74647/colorLogoPNG.png" group-title="Documentários em espanhol",Archivos Forenses | Espanha
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f984f4a09e92d0007d74647/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a9a8be40-8b68-11eb-b9cd-1bc319230674&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0b1d7798-1bd7-47bf-b044-13cc0f062b07&userId=&serverSideAds=true
 
+#EXTINF:-1 tvg-id="ESAJ45000120Q" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/09/57/ESAJ45000120Q_20200923T101201.png" group-title="Documentários em espanhol",Euronews Doc | Espanha 
+https://dc10a8b558744d9992b9fd0cefe2f818.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_Euronews/playlist.m3u8?ads.wurl_channel=376&ads.wurl_name=EuroNews&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
+
 #EXTINF:-1 tvg-id="forensic-files-en-espanol" tvg-logo="http://images.pluto.tv/channels/5e94cd036cc69d0007e8a1ba/colorLogoPNG.png" group-title="Documentários em espanhol",Forensic Files en Español | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e94cd036cc69d0007e8a1ba/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc9826a3-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=af16c2bc-1d47-48b8-8f8a-0f57e29274b0&userId=&serverSideAds=true
 
@@ -1153,6 +1160,9 @@ https://9dd705dfd14b4d3cac606b4672142dd9.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="dossiers-fbi-fr" tvg-logo="http://images.pluto.tv/channels/5f8edad922b10b000753bc37/colorLogoPNG.png" group-title="Documentários em francês",Dossiers FBI | França
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8edad922b10b000753bc37/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=dda60052-6a6f-11eb-8380-d53d31dd7908&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bea5cff9-7ce3-4934-8a7a-235bcce286a6&userId=&serverSideAds=true
 
+#EXTINF:-1 tvg-id="FRAJ450001933" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/27/FRAJ450001933_20200923T101203.png" group-title="Documentários em francês",Euronews Doc | França
+https://8cf01fb5f05e4b429c6c9359f65595a6.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_Euronews/playlist.m3u8?ads.wurl_channel=326&ads.wurl_name=Euronews&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
+
 #EXTINF:-1 tvg-id="FRAJ4500008NW" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/17/FRAJ4500008NW_20210623T011135.png" group-title="Documentários em francês",Humanity Documentaires | França
 https://b29e9e0f5af24435bbf1ddbb557f6a84.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_Humanity/playlist.m3u8?ads.wurl_channel=327&ads.wurl_name=Humanity&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
 
@@ -1177,6 +1187,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ed9461b35690007a
 
 #EXTINF:-1 tvg-id="USBA3800005NI" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/10/USBA3800005NI_20210323T125532.png" group-title="Documentários em inglês",Clarity 4K | EUA 
 https://d3thiix3tzne5u.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/ClarityTV4K2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+
+#EXTINF:-1 tvg-id="GBAJ2400002Y8" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/10/GBAJ2400002Y8_20200923T101202.png" group-title="Documentários em inglês",Euronews Doc | Reino Unido
+https://fb35ecd0cc074cb88b4d0e4ff5c03593.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_Euronews/playlist.m3u8?ads.wurl_channel=377&ads.wurl_name=Euronews&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
 
 #EXTINF:-1 tvg-id="5ad9b8551b95267e225e59c1" group-title="Documentários em inglês" tvg-name="Explore" tvg-logo="https://images.pluto.tv/channels/5ad9b8551b95267e225e59c1/colorLogoPNG.png",Explore | Alemanha
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad9b8551b95267e225e59c1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
@@ -1240,6 +1253,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ddf90128
 
 #EXTINF:-1 tvg-name="Outdoor Channel AU" tvg-id="outdoor.au" tvg-logo="https://i.imgur.com/mcUDAhZ.png" group-title="Documentários em inglês",Outdoor Channel | Austrália
 https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="PBS America" tvg-logo="https://i.imgur.com/JkwTORb.png" group-title="Variedades em inglês",PBS America | Reino Unido
+https://pbs-samsunguk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="USBB800001O7" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/04/USBB800001O7_20210525T051730.png" group-title="Documentários em inglês",PBS Digital Studios | EUA 
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-samsungtvplus-pbs/CDN/playlist.m3u8?p=samsung&device_id=%7BPSID%7D&is_lat=%7BTARGETOPT%7D&us_privacy=1YNY&coppa=0&app_name=%7BAPP_NAME%7D
@@ -1368,6 +1384,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/589aa03df9ba56a8419
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-xplore-samsungus/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
 ################# Documentários em outros idiomas ################# Documentários em outros idiomas ################# Documentários em outros idiomas ################# Documentários em outros idiomas ################# Documentários em outros idiomas ################# Documentários em outros idiomas 
+
+#EXTINF:-1 tvg-id="ITAJ45000141D" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/06/31/ITAJ45000141D_20200923T101204.png" group-title="Documentários em outros idiomas",Euronews Doc | Itália
+https://e4a5a147cb5e4aa38ecb8b703171308c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-it_Euronews/playlist.m3u8?ads.wurl_channel=375&ads.wurl_name=Euronews&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
 
 #EXTINF:-1  tvg-name="History Lab" tvg-logo="https://i.imgur.com/Hf8RtBU.png" tvg-shift="0" group-title="Documentários em outros idiomas",History Lab | Itália
 https://5929b138b139d.streamlock.net/HistoryLab/livestream/chunklist_w442798614.m3u8
@@ -1744,8 +1763,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e46e64dc73db400094
 #EXTINF:-1 tvg-id="5e46e64dc73db400094b5f0b" tvg-logo="https://images.pluto.tv/channels/5e46e64dc73db400094b5f0b/colorLogoPNG.png" group-title="Game show em espanhol",Minuto Para Ganar | México
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e46e64dc73db400094b5f0b/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 
-#EXTINF:-1 tvg-id="wipeout-1" tvg-logo="https://imgur.com/TzeCHhn.png" group-title="Game show em espanhol",WipeOut | Argentina
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ed6828192e8b3000743ef61/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff24a63-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1f0d7540-0011-48c6-bbe6-b760ec556dff&userId=&serverSideAds=true
 
 ################### GAME SHOW EM INGLÊS #################### GAME SHOW EM INGLÊS #################### GAME SHOW EM INGLÊS #################### GAME SHOW EM INGLÊS #################### GAME SHOW EM INGLÊS #################### GAME SHOW EM INGLÊS #################### GAME SHOW EM INGLÊS #################### GAME SHOW EM INGLÊS ####################
 #EXTINF:-1 tvg-id="buzzr" tvg-logo="http://images.pluto.tv/channels/5812bfbe4ced4f7b601b12e6/colorLogoPNG.png" group-title="Game show em inglês",Buzzr | EUA
@@ -1787,15 +1804,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f7791b8372da90007f
 #EXTINF:-1 tvg-id="wild-n-out" tvg-logo="http://images.pluto.tv/channels/5d48678d34ceb37d3c458a55/colorLogoPNG.png" group-title="Game show em inglês",Wild 'N Out | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d48678d34ceb37d3c458a55/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc962ad3-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=00373f75-c9d1-420d-b676-e8005ef57762&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="wipeout" tvg-logo="http://images.pluto.tv/channels/5ab3e1242be690697279c75d/colorLogoPNG.png" group-title="Game show em inglês",Wipeout | EUA
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ab3e1242be690697279c75d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc93e0e0-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=14eef5cb-bf39-4a9c-9cb0-7901cb48c24e&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="5ea190ae85a26900075a80e9" tvg-logo="https://images.pluto.tv/channels/5ea190ae85a26900075a80e9/colorLogoPNG.png" group-title="Game show em inglês",Wipeout | Reino Unido
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ea190ae85a26900075a80e9/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K1kJf1s.png" group-title="Game show em inglês" tvg-name="Wipeout Xtra | EUA",Wipeout Xtra | EUA
-https://endemol-wipeoutxtra-1.roku.wurl.com/manifest/playlist.m3u8
-
 #################### Humor em alemão ################### Humor em alemão ################### Humor em alemão ################### Humor em alemão ################### Humor em alemão ################### Humor em alemão ################### Humor em alemão ################### Humor em alemão ################### Humor em alemão ###################
 
 #EXTINF:-1 tvg-id="5db6a56ce10f0b0009e64037" group-title="Humor em alemão" tvg-name="Cats 24/7" tvg-logo="https://images.pluto.tv/channels/5db6a56ce10f0b0009e64037/colorLogoPNG.png",Cats 24/7 | Alemanha
@@ -1813,7 +1821,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5eb95c119
 
 #EXTINF:-1 tvg-id="5b4f5a07694c027be6ed1417" group-title="Humor em alemão" tvg-name="The Pet Collective" tvg-logo="https://images.pluto.tv/channels/5b4f5a07694c027be6ed1417/colorLogoPNG.png",The Pet Collective | Alemanha
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5b4f5a07694c027be6ed1417/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-
 
 #################### Humor em espanhol ################### Humor em espanhol ################### Humor em espanhol ################### Humor em espanhol ################### Humor em espanhol ################### Humor em espanhol ################### Humor em espanhol ###################
 
@@ -1846,6 +1853,12 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1abf097eb06300079
 
 #EXTINF:-1 tvg-id="trol-es" tvg-logo="http://images.pluto.tv/channels/5f1aae8c65727d0007d15a17/colorLogoPNG.png" group-title="Humor em espanhol",TROL | Espanha
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aae8c65727d0007d15a17/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a9a5b103-8b68-11eb-b9cd-1bc319230674&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f0dc6c3c-5756-4272-8cd4-d3c4f3156e62&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="wipeout-1" tvg-logo="https://imgur.com/TzeCHhn.png" group-title="Humor em espanhol",Wipeout | Argentina
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ed6828192e8b3000743ef61/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff24a63-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1f0d7540-0011-48c6-bbe6-b760ec556dff&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="5ed6828192e8b3000743ef61" tvg-logo="https://images.pluto.tv/channels/5ed6828192e8b3000743ef61/colorLogoPNG.png" group-title="Humor em espanhol",Wipeout | México
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ed6828192e8b3000743ef61/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 
 #################### Humor em francês ################### Humor em francês ################### Humor em francês ################### Humor em francês ################### Humor em francês ################### Humor em francês ################### Humor em francês ###################
 
@@ -1894,7 +1907,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e54169f4b9b2500099
 #EXTINF:-1 tvg-id="5eb95d63b270fc0007c465e6" tvg-logo="https://images.pluto.tv/channels/5eb95d63b270fc0007c465e6/colorLogoPNG.png" group-title="Humor em inglês",People are Awesome | Reino Unido
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5eb95d63b270fc0007c465e6/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-
 #EXTINF:-1 tvg-id="stand-up-tv" tvg-logo="http://images.pluto.tv/channels/5637d31f319573e26b64040b/colorLogoPNG.png" group-title="Humor em inglês",Stand-Up TV | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5637d31f319573e26b64040b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc92a862-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f99980fa-8b7b-4921-81a5-89a65494abb7&userId=&serverSideAds=true
 
@@ -1906,6 +1918,15 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad8d819e
 
 #EXTINF:-1 tvg-id="tosh-1" tvg-logo="http://images.pluto.tv/channels/5dae084727c8af0009fe40a4/colorLogoPNG.png" group-title="Humor em inglês",Tosh.0 | EUA 
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dae084727c8af0009fe40a4/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc971533-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=11c0b0aa-5ad2-462b-a7dc-594545833e1f&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="wipeout" tvg-logo="http://images.pluto.tv/channels/5ab3e1242be690697279c75d/colorLogoPNG.png" group-title="Humor em inglês",Wipeout | EUA
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ab3e1242be690697279c75d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc93e0e0-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=14eef5cb-bf39-4a9c-9cb0-7901cb48c24e&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="5ea190ae85a26900075a80e9" tvg-logo="https://images.pluto.tv/channels/5ea190ae85a26900075a80e9/colorLogoPNG.png" group-title="Humor em inglês",Wipeout | Reino Unido
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ea190ae85a26900075a80e9/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K1kJf1s.png" group-title="Humor em inglês" tvg-name="Wipeout Xtra | EUA",Wipeout Xtra | EUA
+https://endemol-wipeoutxtra-1.roku.wurl.com/manifest/playlist.m3u8
 
 ################# Kids em alemão ################### Kids em alemão ################### Kids em alemão ################### Kids em alemão ################### Kids em alemão ################### Kids em alemão ################### Kids em alemão ################### Kids em alemão ################### Kids em alemão ###################
 
@@ -2689,16 +2710,13 @@ https://e4bd492634cb45a8b5f007639f01ba3a.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1  tvg-logo="https://media-exp1.licdn.com/dms/image/C4D12AQHdedL5JOiBAg/article-inline_image-shrink_1000_1488/0/1603957307349?e=1622073600&v=beta&t=X1OTeuwVTbsfRV_DvNimwcSJGsESrErYhkxn86utI9o" group-title="Notícias em espanhol",Estrella News em espanhol
 https://estrellanews-plex.amagi.tv/amRdirect/us_privacy=1---&did=83cf59f7-dc7f-5753-8faa-ab958f6c33e3&dnt=0&X-Plex-Token=jePnUaVx_dJ5XWHmG6ob&channelId=60089d97f682a3002c34829b/hls/amagi_hls_data_plexAAAAA-estrellanews-plex/CDN/384x216_435600/index.m3u8
 
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60089d97f682a3002c34829d" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/euronewsespanol_logo_dark2.png" group-title="Notícias em espanhol",Euronews | Espanha
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60089d97f682a3002c34829d" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/euronewsespanol_logo_dark2.png" group-title="Notícias em espanhol",Euronews | Espanha - Plex
 https://2e0d18116bec40e088c0723dc56accf5.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_EuronewsSpanish/playlist.m3u8?ads.wurl_channel=671&ads.wurl_name=EuronewsSpanish&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=Tog8X6wK6iweuzGFsz6p&ads.plex_id=60089d97f682a3002c34829d&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
 
-#EXTINF:-1 tvg-id="ESAJ45000120Q" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/09/57/ESAJ45000120Q_20200923T101201.png" group-title="Notícias em espanhol",Euronews | Espanha 
-https://dc10a8b558744d9992b9fd0cefe2f818.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_Euronews/playlist.m3u8?ads.wurl_channel=376&ads.wurl_name=EuroNews&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
-
-#EXTINF:-1 tvg-id="ESAJ4500024LR" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/81/ESAJ4500024LR_20200923T101206.png" group-title="Notícias em espanhol",Euronews Live | Espanhol
+#EXTINF:-1 tvg-id="ESAJ4500024LR" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/81/ESAJ4500024LR_20200923T101206.png" group-title="Notícias em espanhol",Euronews | Espanha - Samsung
 https://39997b2f529e4793961899e546833a75.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_EuroNewsLive/playlist.m3u8?ads.wurl_channel=544&ads.wurl_name=EuroNewsLive&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
 
-#EXTINF:-1 tvg-id="ForoTV.mx" tvg-name="Foro TV" tvg-logo="https://pbs.twimg.com/profile_images/1057408851253714946/GSxqNEQv_400x400.jpg" group-title="Notícias em espanhol",Foro TV (Televisa News) | México
+#EXTINF:-1 tvg-id="ForoTV.mx" tvg-name="Foro TV" tvg-logo="https://pbs.twimg.com/profile_images/1057408851253714946/GSxqNEQv_400x400.jpg" group-title="Notícias em espanhol",Foro TV - Televisa News | México
 https://stnothds-lh.akamaihd.net/i/sslf0r0tvnus_1@109755/index_1296_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 tvg-id="FRANCE24.es" tvg-name="France 24 | Espanhol" tvg-logo="https://imgur.com/Tj0KCYI.png" tvg-shift="0" group-title="Notícias em espanhol",France 24 | Espanhol
@@ -2805,16 +2823,13 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af4228394
 #EXTINF:-1 tvg-name="CNN Int. UK" tvg-logo="https://i.imgur.com/bD9jUgK.png" group-title="Notícias em inglês",CNN Internacional | Reino Unido
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-id="euronews.au" tvg-name="Euronews" tvg-logo="https://i.imgur.com/szYOy8S.jpg" group-title="Notícias em inglês",Euronews | Austrália - Samsung
+#EXTINF:-1 tvg-id="euronews.au" tvg-name="Euronews" tvg-logo="https://i.imgur.com/szYOy8S.jpg" group-title="Notícias em inglês",Euronews | Austrália
 https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/szYOy8S.jpg" group-title="Notícias em inglês" tvg-name="Euronews Roku | EUA",Euronews | EUA - Roku 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/szYOy8S.jpg" group-title="Notícias em inglês" tvg-name="Euronews Roku | EUA",Euronews | EUA 
 https://euronews-euronews-world-1.roku.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-id="GBAJ2400002Y8" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/10/GBAJ2400002Y8_20200923T101202.png" group-title="Notícias em inglês",Euronews | Reino Unido
-https://fb35ecd0cc074cb88b4d0e4ff5c03593.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_Euronews/playlist.m3u8?ads.wurl_channel=377&ads.wurl_name=Euronews&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
-
-#EXTINF:-1 tvg-id="GBAJ4900020VP" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/62/GBAJ4900020VP_20200923T101209.png" group-title="Notícias em inglês",Euronews Live | Reino Unido
+#EXTINF:-1 tvg-id="GBAJ4900020VP" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/62/GBAJ4900020VP_20200923T101209.png" group-title="Notícias em inglês",Euronews | Reino Unido
 https://685531619097460582835d479ff140bb.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_EuroNewsLive/playlist.m3u8?ads.wurl_channel=541&ads.wurl_name=EuroNewsLive&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
 
 #EXTINF:-1 tvg-name="Fox 23 Tulsa" tvg-logo="https://i.imgur.com/FeY6aUe.png" group-title="Notícias em inglês",Fox 23 Tulsa | EUA
@@ -2889,32 +2904,29 @@ https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3032?p
 #EXTINF:-1 tvg-id="BFMTV.fr" tvg-logo="https://i.imgur.com/6vSFWfq.png" tvg-name="BFM TV" group-title="Notícias em outros idiomas",BFM | França
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/2765?pprotocol=hls
 
-#EXTINF:-1 tvg-id="FRAJ450001933" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/27/FRAJ450001933_20200923T101203.png" group-title="Notícias em outros idiomas",Euronews | França
-https://8cf01fb5f05e4b429c6c9359f65595a6.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_Euronews/playlist.m3u8?ads.wurl_channel=326&ads.wurl_name=Euronews&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
-
-#EXTINF:-1 tvg-id="ITAJ45000141D" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/06/31/ITAJ45000141D_20200923T101204.png" group-title="Notícias em outros idiomas",Euronews | Itália
-https://e4a5a147cb5e4aa38ecb8b703171308c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-it_Euronews/playlist.m3u8?ads.wurl_channel=375&ads.wurl_name=Euronews&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
-
-#EXTINF:-1 tvg-id="DEBA1000003IM" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/29/DEBA1000003IM_20200923T101210.png" group-title="Notícias em outros idiomas",Euronews Live | Alemanha
+#EXTINF:-1 tvg-id="DEBA1000003IM" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/29/DEBA1000003IM_20200923T101210.png" group-title="Notícias em outros idiomas",Euronews | Alemanha
 https://64ae17e353a144d38d09cb7530008fb7.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_EuroNewsLive/playlist.m3u8?ads.wurl_channel=545&ads.wurl_name=EuroNewsLive&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
 
-#EXTINF:-1 tvg-id="ATBA1000004XC" tvg-chno="4003" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/04/25/ATBA1000004XC_20200923T101208.png" group-title="Notícias em outros idiomas",Euronews Live | Áustria
+#EXTINF:-1 tvg-id="ATBA1000004XC" tvg-chno="4003" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/04/25/ATBA1000004XC_20200923T101208.png" group-title="Notícias em outros idiomas",Euronews | Áustria
 https://97f90ef61a6244789817737a9e99c01b.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-at_EuroNewsLive/playlist.m3u8?ads.wurl_channel=547&ads.wurl_name=EuroNewsLive&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
 
-#EXTINF:-1 tvg-id="FRBA1000005TW" tvg-chno="4003" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/78/FRBA1000005TW_20200923T101205.png" group-title="Notícias em outros idiomas",Euronews Live | França 
+#EXTINF:-1 tvg-id="FRBA1000005TW" tvg-chno="4003" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/78/FRBA1000005TW_20200923T101205.png" group-title="Notícias em outros idiomas",Euronews | França 
 https://7c8b7dbf12d64234a983336fdddb88c2.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_EuroNewsLive/playlist.m3u8?ads.wurl_channel=542&ads.wurl_name=EuroNewsLive&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
 
-#EXTINF:-1 tvg-id="ITAJ4500023ZX" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/09/ITAJ4500023ZX_20200923T101207.png" group-title="Notícias em outros idiomas",Euronews Live | Itália
+#EXTINF:-1 tvg-id="ITAJ4500023ZX" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/09/ITAJ4500023ZX_20200923T101207.png" group-title="Notícias em outros idiomas",Euronews | Itália - Samsung
 https://3d48917864744271986248c38e797ee2.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-it_EuroNewsLive/playlist.m3u8?ads.wurl_channel=543&ads.wurl_name=EuroNewsLive&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
 
-#EXTINF:-1 tvg-id="CHBA100000532" tvg-chno="4003" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/09/14/CHBA100000532_20200923T101207.png" group-title="Notícias em outros idiomas",Euronews Live | Suiça
+#EXTINF:-1 tvg-id="ITAJ4500023ZX" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/09/ITAJ4500023ZX_20200923T101207.png" group-title="Notícias em outros idiomas",Euronews | Itália - Rakuten
+https://rakuten-euronews-3-it.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CHBA100000532" tvg-chno="4003" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/09/14/CHBA100000532_20200923T101207.png" group-title="Notícias em outros idiomas",Euronews | Suiça
 https://6e90edc1f58640ebadb0955758715502.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-ch_EuroNewsLive/playlist.m3u8?ads.wurl_channel=546&ads.wurl_name=EuroNewsLive&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
 
 #EXTINF:-1 tvg-id="FRANCE24.es" tvg-name="France 24 | Francês" tvg-logo="https://imgur.com/Tj0KCYI.png" tvg-shift="0" group-title="Notícias em outros idiomas",France 24 | Francês
 https://static.france24.com/live/F24_FR_LO_HLS/live_web.m3u8
 
-#EXTINF:-1 group-title="Notícias em outros idiomas" tvg-id="RaiNews24" tvg-name="Rai News 24" tvg-logo="https://m3upt.com/logos/Rai-News-24.png",Rai News 24 | Itália
-https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_1800/chunklist.m3u8
+#EXTINF:-1 group-title="Notícias em outros idiomas" tvg-name="TR24" tvg-logo="https://i.imgur.com/WtUFMnB.png",TR24 | Itália
+http://livetr.teleromagna.it/mia/live/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Ülke TV" tvg-id="ulketv" tvg-logo="https://i.imgur.com/PRgSM2Y.png" group-title="Notícias em outros idiomas",Ülke TV | Turquia | Idioma turco
 https://stream-01.nyc.dailymotion.com/sec(8lOMYwOWJB0kD-8STcdDUHgqhulIXEZtfjzKdKviBcQ)/dm/3/x7yb4xm/s/live-1.m3u8
@@ -3081,6 +3093,12 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f7789c1d210fd0007a
 
 #EXTINF:-1 tvg-id="vh1-i-love-reality" tvg-logo="http://images.pluto.tv/channels/5d7154fa8326b6ce4ec31f2e/colorLogoPNG.png" group-title="Reality show em inglês",I Love Reality | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d7154fa8326b6ce4ec31f2e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc9678f4-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b059b819-69cd-49c6-9e53-71939a6403ee&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="logo-pluto-tv" tvg-logo="https://i.imgur.com/GLx01bJ.png" group-title="Reality show em inglês",Logo Pluto TV | EUA 
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ce5a8954311f992edbe1da2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc958e93-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=5a5627d9-1383-4404-a3ac-06b5dcec14d6&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="logo-pluto-tv-ptv1" tvg-logo="https://i.imgur.com/GLx01bJ.png" group-title="Reality show em inglês",Logo Pluto TV 2 | EUA
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f778a59b02eb40007f6d70b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc9a4983-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=21bbee64-3dd2-4672-b0f0-605e4e5341a7&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-id="love-and-hip-hop" tvg-logo="http://images.pluto.tv/channels/5d51ddf0369acdb278dfb05e/colorLogoPNG.png" group-title="Reality show em inglês",Love & Hip Hop | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d51ddf0369acdb278dfb05e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc9651e5-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=80068276-c01b-42b1-ab69-765c87e3a9f7&userId=&serverSideAds=true
@@ -3482,20 +3500,11 @@ https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/1826?p
 #EXTINF:-1 tvg-id="ITVBe.uk" tvg-name="itv Be" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhZGzYBPp6VnmunMtgGbKkG1bqRMBm8i5IHE55Ndg=s900-c-k-c0x00ffffff-no-rj" group-title="Variedades em inglês",itv Be | Reino Unido
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3211?pprotocol=hls
 
-#EXTINF:-1 tvg-id="logo-pluto-tv" tvg-logo="http://images.pluto.tv/channels/5ce5a8954311f992edbe1da2/colorLogoPNG.png" group-title="Variedades em inglês",Logo Pluto TV | EUA 
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ce5a8954311f992edbe1da2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc958e93-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=5a5627d9-1383-4404-a3ac-06b5dcec14d6&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="logo-pluto-tv-ptv1" tvg-logo="http://images.pluto.tv/channels/5f778a59b02eb40007f6d70b/colorLogoPNG.png" group-title="Variedades em inglês",Logo Pluto TV 2 | EUA
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f778a59b02eb40007f6d70b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc9a4983-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=21bbee64-3dd2-4672-b0f0-605e4e5341a7&userId=&serverSideAds=true
-
 #EXTINF:-1 tvg-ID="5e20b730f2f8d5003d739db7-60d4edd7b2fdec002c14112d" tvg-logo="https://i.imgur.com/Z5t6cCe.jpg" group-title="Variedades em inglês" tvg-name="New K-ID",New K-ID | EUA | inglês e coreano
 https://b9860b21629b415987978bdbbfbc3095.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_NewKID/playlist.m3u8
 
 #EXTINF:-1 tvg-name="NHK World" tvg-id="nhkworld" tvg-logo="https://i.imgur.com/G8dUiLU.png" group-title="Variedades em inglês",NHK World | Japão
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
-
-#EXTINF:-1 tvg-name="PBS America" tvg-logo="https://i.imgur.com/JkwTORb.png" group-title="Variedades em inglês",PBS America | Reino Unido
-https://pbs-samsunguk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Plymouth Rock TV" tvg-logo="https://i.imgur.com/kNtbCDF.png" group-title="Variedades em inglês",Plymouth Rock TV | EUA
 https://na-us-sw10.secdn.net/barakyah-channel/play/mp4:plymouthtvedge/chunklist_w88502186.m3u8
@@ -3550,8 +3559,18 @@ https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3617&p
 #EXTINF:-1 tvg-name="Noor TV" tvg-logo="https://i.imgur.com/oeV42l0.jpg" group-title="Variedades em outros idiomas",Noor TV | Reino Unido
 https://ls1.serverdump.com/stream3.m3u8
 
+#EXTINF:-1 tvg-name="Rai 3" group-title="Variedades em outros idiomas" tvg-logo="https://i.imgur.com/jm1Rwon.png",Rai 3 | Itália 
+http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TV 2000" tvg-id="tv2000" tvg-logo="https://i.imgur.com/E5F7dVE.png" group-title="Variedades em outros idiomas",TV 2000 | Itália
+https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/hls_1_1500/chunklist.m3u8
+
 #EXTINF:-1 tvg-name="TeleBärn" tvg-id="telebarn" tvg-logo="https://i.imgur.com/j1Pkdfe.png" group-title="Variedades em outros idiomas",TeleBärn | Suiça | Idioma alemão
 https://klive.kaltura.com/env/cluster-1-a.live.nvp1/live/hls/p/1719221/e/1_obr1n222/tl/main/st/0/t/_O-oCNON5VqA2aG8WYVDeg/index-s32.m3u8
+
+#EXTINF:-1 tvg-name="Teleromagna" tvg-id="teleromagna" tvg-logo="https://i.imgur.com/T2cK6aE.png" group-title="Variedades em outros idiomas",Teleromagna | Itália
+http://livetr.teleromagna.it/teleromagna/live/playlist.m3u8
+
 
 ################### Videogame ############### Videogame ###############  Videogame ###############  Videogame ###############  Videogame ###############  Videogame ###############  Videogame ###############  Videogame ###############  Videogame ############### 
 
@@ -4061,8 +4080,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df265697ec3510009
 
 #EXTINF:-1 tvg-id="5ebacbcae43a6d000787b88e" tvg-logo="https://images.pluto.tv/channels/5ebacbcae43a6d000787b88e/colorLogoPNG.png" group-title="México: Pluto 🇲🇽",The Pet Collective México
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebacbcae43a6d000787b88e/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-#EXTINF:-1 tvg-id="5ed6828192e8b3000743ef61" tvg-logo="https://images.pluto.tv/channels/5ed6828192e8b3000743ef61/colorLogoPNG.png" group-title="México: Pluto 🇲🇽",Wipe Out México
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ed6828192e8b3000743ef61/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 
 
 ########################## REINO UNIDO PLUTO ###################
