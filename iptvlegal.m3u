@@ -613,6 +613,10 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac8a87cd38d00074
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f5132e362fe160040f26c15" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/runtime-espanol.png" group-title="Cinema em espanhol",Runtime Español
 https://ammo-espanol-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-ammo-espanol-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=Tog8X6wK6iweuzGFsz6p&channelId=5f5132e362fe160040f26c15
 
+
+#EXTINF:-1 tvg-id="pluto-tv-sci-fi-ptv1" tvg-logo="https://imgur.com/959gesF.png" group-title="Cinema em espanhol",Sci-Fi - Pluto TV | Argentina
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f2817d3d7573a00080f9175/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff29881-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=69952490-17b7-4b2b-92ec-4525b187cbe6&userId=&serverSideAds=true
+
 #EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-608b7094a09205002da4f291" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/topcine_logo_dark_v3.png" group-title="Cinema em espanhol",Top Cine
 https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-topcine-latam-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=Tog8X6wK6iweuzGFsz6p&channelId=608b7094a09205002da4f291
 
@@ -1182,8 +1186,20 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1acbed25948a0007f
 #EXTINF:-1 tvg-id="los-nuevos-detectives-es" tvg-logo="http://images.pluto.tv/channels/5f1acba0d1f6340007db8843/colorLogoPNG.png" group-title="Documentários em espanhol",Los nuevos detectives | Espanha
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1acba0d1f6340007db8843/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a9a71090-8b68-11eb-b9cd-1bc319230674&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=4df637be-b9e1-4a0e-8f91-732d19352f35&userId=&serverSideAds=true
 
+#EXTINF:-1 tvg-id="pluto-tv-misterios" tvg-logo="https://imgur.com/kExdKzl.png" group-title="Documentários em espanhol",Misterios - Pluto TV | Argentina
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde2f53449c50009b2b4dc/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff0c3c0-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=143bd56d-49f4-4f1d-af28-384df378b15d&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="misterios-medicos" tvg-logo="https://imgur.com/8ao4Zey.png" group-title="Documentários em espanhol",Misterios Medicos | Argentina
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f230e416b68ff00075b0139/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff27173-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=25a22310-9312-4b9f-b9e9-92dac7411fe9&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="5f230e416b68ff00075b0139" tvg-logo="https://images.pluto.tv/channels/5f230e416b68ff00075b0139/colorLogoPNG.png" group-title="Documentários em espanhol",Misterios Medicos | México
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f230e416b68ff00075b0139/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+
 #EXTINF:-1 tvg-id="misterios-sin-resolver" tvg-logo="https://imgur.com/SoH7hx1.png" group-title="Documentários em espanhol",Misterios sin Resolver | Argentina
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f610042272f68000867685b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff334c3-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e8023daf-3778-41a0-b07f-825852bd1452&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="5f610042272f68000867685b" tvg-logo="https://images.pluto.tv/channels/5f610042272f68000867685b/colorLogoPNG.png" group-title="Documentários em espanhol",Misterios sin Resolver | México
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f610042272f68000867685b/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 
 #EXTINF:-1 tvg-id="pluto-tv-animales" tvg-logo="https://imgur.com/VApVRaY.png" group-title="Documentários em espanhol",Pluto TV Animales | Argentina
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd834c66fe2ca0009303b8d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff111e3-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f8b00032-b77c-4a09-85aa-2efb870d9032&userId=&serverSideAds=true
@@ -1907,56 +1923,59 @@ https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/4289&p
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWeckfObfyFWhe5JuPFGqaZgCiFyBSZXjg4RqleTMoxnlpG_wSOg3gOaRJjYdxQHUbZa0&usqp=CAU" tvg-name="Xptv Sports"  group-title="Esportes em inglês",Xptv Sports
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/5825&pprotocol=hls
 
-################### GAME SHOW EM ESPANHOL ################### GAME SHOW EM ESPANHOL ################### GAME SHOW EM ESPANHOL ################### GAME SHOW EM ESPANHOL ################### GAME SHOW EM ESPANHOL 
+################### Game shows em ESPANHOL ################### Game shows em ESPANHOL ################### Game shows em ESPANHOL ################### Game shows em ESPANHOL ################### Game shows em ESPANHOL 
 
-#EXTINF:-1 tvg-id="minuto-para-ganar" tvg-logo="https://imgur.com/kuYDVnj.png" group-title="Game show em espanhol",Minuto Para Ganar | Argentina
+#EXTINF:-1 tvg-id="pluto-tv-competencias" tvg-logo="https://imgur.com/QE7tyFh.png" group-title="Game shows em espanhol",Competencias - Pluto TV | Argentina
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6d935d000120009bc1132/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff0ead0-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6c3600a0-cf5d-4708-b2b3-adcada18c483&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="minuto-para-ganar" tvg-logo="https://imgur.com/kuYDVnj.png" group-title="Game shows em espanhol",Minuto Para Ganar | Argentina
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e46e64dc73db400094b5f0b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1d534-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=32f0e359-8b03-4d9e-aad5-ed32dbb7049b&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="5e46e64dc73db400094b5f0b" tvg-logo="https://images.pluto.tv/channels/5e46e64dc73db400094b5f0b/colorLogoPNG.png" group-title="Game show em espanhol",Minuto Para Ganar | México
+#EXTINF:-1 tvg-id="5e46e64dc73db400094b5f0b" tvg-logo="https://images.pluto.tv/channels/5e46e64dc73db400094b5f0b/colorLogoPNG.png" group-title="Game shows em espanhol",Minuto Para Ganar | México
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e46e64dc73db400094b5f0b/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 
 
-################### GAME SHOW EM INGLÊS #################### GAME SHOW EM INGLÊS #################### GAME SHOW EM INGLÊS #################### GAME SHOW EM INGLÊS #################### GAME SHOW EM INGLÊS #################### GAME SHOW EM INGLÊS #################### GAME SHOW EM INGLÊS #################### GAME SHOW EM INGLÊS ####################
-#EXTINF:-1 tvg-id="buzzr" tvg-logo="http://images.pluto.tv/channels/5812bfbe4ced4f7b601b12e6/colorLogoPNG.png" group-title="Game show em inglês",Buzzr | EUA
+################### Game shows em INGLÊS #################### Game shows em INGLÊS #################### Game shows em INGLÊS #################### Game shows em INGLÊS #################### Game shows em INGLÊS #################### Game shows em INGLÊS #################### Game shows em INGLÊS #################### Game shows em INGLÊS ####################
+#EXTINF:-1 tvg-id="buzzr" tvg-logo="http://images.pluto.tv/channels/5812bfbe4ced4f7b601b12e6/colorLogoPNG.png" group-title="Game shows em inglês",Buzzr | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812bfbe4ced4f7b601b12e6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc931d92-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1d161653-86c5-4291-9280-1ac45c9be1ab&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/26/c9/05/26c9050271cdde5fa0c5f4b26fd75185.png" tvg-id="Challenge.uk" group-title="Game show em inglês" tvg-name="Challenge",Challenge | Reino Unido
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/26/c9/05/26c9050271cdde5fa0c5f4b26fd75185.png" tvg-id="Challenge.uk" group-title="Game shows em inglês" tvg-name="Challenge",Challenge | Reino Unido
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/1036&pprotocol=hls
 
-#EXTINF:-1 tvg-id="USAJ3504712A" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/75/USAJ3504712A_20210525T051620.png" group-title="Game show em inglês",Deal or No Deal da Samsung | EUA
+#EXTINF:-1 tvg-id="USAJ3504712A" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/75/USAJ3504712A_20210525T051620.png" group-title="Game shows em inglês",Deal or No Deal da Samsung | EUA
 https://ed171e536a1c40559db9cbd2ea300bd8.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_DealOrNoDeal/playlist.m3u8?ads.wurl_channel=468&ads.wurl_name=DealOrNoDeal&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SXWX2Wf.png" group-title="Game show em inglês" tvg-name="Deal or No Deal",Deal or No Deal do Roku | EUA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SXWX2Wf.png" group-title="Game shows em inglês" tvg-name="Deal or No Deal",Deal or No Deal do Roku | EUA
 https://endemol-dealornodeal-1.roku.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-id="deal-or-no-deal" tvg-logo="http://images.pluto.tv/channels/5e9debf8c881310007d7bde1/colorLogoPNG.png" group-title="Game show em inglês",Deal or No Deal do Pluto TV | EUA
+#EXTINF:-1 tvg-id="deal-or-no-deal" tvg-logo="http://images.pluto.tv/channels/5e9debf8c881310007d7bde1/colorLogoPNG.png" group-title="Game shows em inglês",Deal or No Deal do Pluto TV | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e9debf8c881310007d7bde1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc9826a4-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a5280bcf-3519-4027-85ee-24e9c1b11c6f&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="CAAJ34000147C" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/06/30/CAAJ34000147C_20210622T090506.png" group-title="Game show em inglês",Deal or No Deal | Canadá
+#EXTINF:-1 tvg-id="CAAJ34000147C" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/06/30/CAAJ34000147C_20210622T090506.png" group-title="Game shows em inglês",Deal or No Deal | Canadá
 https://fec7508e048c4bdcba43a89541f0a3ac.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-ca_DealOrNoDeal/playlist.m3u8?ads.wurl_channel=468&ads.wurl_name=DealOrNoDeal&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 
-#EXTINF:-1 tvg-id="fear-factor" tvg-logo="http://images.pluto.tv/channels/588128d17d64bc0d0f385c34/colorLogoPNG.png" group-title="Game show em inglês",Fear Factor | EUA
+#EXTINF:-1 tvg-id="fear-factor" tvg-logo="http://images.pluto.tv/channels/588128d17d64bc0d0f385c34/colorLogoPNG.png" group-title="Game shows em inglês",Fear Factor | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/588128d17d64bc0d0f385c34/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc9344a1-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8a941dfa-4f64-4f30-a29c-500cbc84a0ef&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="5c362ded581a86051df509b4" tvg-logo="https://images.pluto.tv/channels/5c362ded581a86051df509b4/colorLogoPNG.png" group-title="Game show em inglês",Fear Factor | Reino Unido
+#EXTINF:-1 tvg-id="5c362ded581a86051df509b4" tvg-logo="https://images.pluto.tv/channels/5c362ded581a86051df509b4/colorLogoPNG.png" group-title="Game shows em inglês",Fear Factor | Reino Unido
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c362ded581a86051df509b4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K1kJf1s.png" group-title="Game show em inglês" tvg-name="Game Show Central",Game Show Central do Roku | EUA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K1kJf1s.png" group-title="Game shows em inglês" tvg-name="Game Show Central",Game Show Central do Roku | EUA
 https://gsn-gameshowchannnel-2.roku.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc782" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/gsn_gameshowchannnel_1.png" group-title="Game show em inglês",Game Show Central do Plex | EUA
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc782" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/gsn_gameshowchannnel_1.png" group-title="Game shows em inglês",Game Show Central do Plex | EUA
 https://ffcf6c437bec4f3988224ccfe150499d.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_GameShowCentral/playlist.m3u8?ads.wurl_channel=416&ads.wurl_name=GameShowCentral&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=Tog8X6wK6iweuzGFsz6p&ads.plex_id=5eea605574085f0040ddc782&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
 
-#EXTINF:-1 tvg-id="game-show-central" tvg-logo="http://images.pluto.tv/channels/5e54187aae660e00093561d6/colorLogoPNG.png" group-title="Game show em inglês",Game Show Central do Pluto | EUA
+#EXTINF:-1 tvg-id="game-show-central" tvg-logo="http://images.pluto.tv/channels/5e54187aae660e00093561d6/colorLogoPNG.png" group-title="Game shows em inglês",Game Show Central do Pluto | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e54187aae660e00093561d6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc97b176-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e7a61a72-2810-4284-9591-2fdf499ae2a3&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="the-challenge" tvg-logo="http://images.pluto.tv/channels/5d48685da7e9f476aa8a1888/colorLogoPNG.png" group-title="Game show em inglês",The Challenge | EUA 
+#EXTINF:-1 tvg-id="the-challenge" tvg-logo="http://images.pluto.tv/channels/5d48685da7e9f476aa8a1888/colorLogoPNG.png" group-title="Game shows em inglês",The Challenge | EUA 
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d48685da7e9f476aa8a1888/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc962ad4-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a7a65bb9-8ce5-4d1c-9548-06e3e2ddce7a&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="the-price-is-right-the-barker-era" tvg-logo="http://images.pluto.tv/channels/5f7791b8372da90007fd45e6/colorLogoPNG.png" group-title="Game show em inglês",The Price Is Right: The Barker Era | EUA
+#EXTINF:-1 tvg-id="the-price-is-right-the-barker-era" tvg-logo="http://images.pluto.tv/channels/5f7791b8372da90007fd45e6/colorLogoPNG.png" group-title="Game shows em inglês",The Price Is Right: The Barker Era | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f7791b8372da90007fd45e6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc9a4985-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b47894d7-228e-4dd6-9425-043e45b9eba0&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="wild-n-out" tvg-logo="http://images.pluto.tv/channels/5d48678d34ceb37d3c458a55/colorLogoPNG.png" group-title="Game show em inglês",Wild 'N Out | EUA
+#EXTINF:-1 tvg-id="wild-n-out" tvg-logo="http://images.pluto.tv/channels/5d48678d34ceb37d3c458a55/colorLogoPNG.png" group-title="Game shows em inglês",Wild 'N Out | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d48678d34ceb37d3c458a55/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc962ad3-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=00373f75-c9d1-420d-b676-e8005ef57762&userId=&serverSideAds=true
 
 #################### Humor em alemão ################### Humor em alemão ################### Humor em alemão ################### Humor em alemão ################### Humor em alemão ################### Humor em alemão ################### Humor em alemão ################### Humor em alemão ################### Humor em alemão ###################
@@ -1977,137 +1996,155 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5eb95c119
 #EXTINF:-1 tvg-id="5b4f5a07694c027be6ed1417" group-title="Humor em alemão" tvg-name="The Pet Collective" tvg-logo="https://images.pluto.tv/channels/5b4f5a07694c027be6ed1417/colorLogoPNG.png",The Pet Collective | Alemanha
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5b4f5a07694c027be6ed1417/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#################### Humor em espanhol ################### Humor em espanhol ################### Humor em espanhol ################### Humor em espanhol ################### Humor em espanhol ################### Humor em espanhol ################### Humor em espanhol ###################
+#################### Humor e pets em espanhol ################### Humor e pets em espanhol ################### Humor e pets em espanhol ################### Humor e pets em espanhol ################### Humor e pets em espanhol ################### Humor e pets em espanhol ################### Humor e pets em espanhol ###################
 
-#EXTINF:-1 tvg-id="comedia-made-in-spain-es" tvg-logo="http://images.pluto.tv/channels/5f1abce155a03d0007718834/colorLogoPNG.png" group-title="Humor em espanhol",Comedia made in Spain | Espanha
+#EXTINF:-1 tvg-id="comedia-made-in-spain-es" tvg-logo="http://images.pluto.tv/channels/5f1abce155a03d0007718834/colorLogoPNG.png" group-title="Humor e pets em espanhol",Comedia made in Spain | Espanha
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1abce155a03d0007718834/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a9a62630-8b68-11eb-b9cd-1bc319230674&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=43cceb72-f41a-4a2a-9f91-f7cc4241198c&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="comedia-made-in-spain-es-plus" tvg-logo="http://images.pluto.tv/channels/5f5a0a0109d930000711e610/colorLogoPNG.png" group-title="Humor em espanhol",Comedia Made in Spain+ | Espanha 
+#EXTINF:-1 tvg-id="comedia-made-in-spain-es-plus" tvg-logo="http://images.pluto.tv/channels/5f5a0a0109d930000711e610/colorLogoPNG.png" group-title="Humor e pets em espanhol",Comedia Made in Spain+ | Espanha 
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5a0a0109d930000711e610/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a9a7d3e0-8b68-11eb-b9cd-1bc319230674&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ae2e0c39-4097-4afa-af24-324a3a0879fb&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="comedy-central-latino" tvg-logo="http://images.pluto.tv/channels/5cf96dad1652631e36d43320/colorLogoPNG.png" group-title="Humor em espanhol",Comedy Central Latino | EUA 
+#EXTINF:-1 tvg-id="comedy-central-ptv2" tvg-logo="http://images.pluto.tv/channels/5ffcc21a432945000762d06b/colorLogoPNG.png" group-title="Humor e pets e espanhol",Comedy Central - Pluto TV | Argentina
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ffcc21a432945000762d06b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=79573c15-77dd-11eb-a61c-2f38487b60c0&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bd904709-6614-46f7-80bd-de128553e6f3&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="comedy-central-latino" tvg-logo="http://images.pluto.tv/channels/5cf96dad1652631e36d43320/colorLogoPNG.png" group-title="Humor e pets em espanhol",Comedy Central Latino | EUA 
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96dad1652631e36d43320/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc95dcb0-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f5e1624f-840d-4d70-bfeb-6add380369f5&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="failarmy-1" tvg-logo="https://imgur.com/EXYSndm.png" group-title="Humor em espanhol",FailArmy | Argentina
+#EXTINF:-1 tvg-id="failarmy-1" tvg-logo="https://imgur.com/EXYSndm.png" group-title="Humor e pets em espanhol",FailArmy | Argentina
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebaccf1734aaf0007142c86/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff24a62-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b9ea5930-45f6-4bd0-bca2-db4f4ca9fbc2&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="fail-army-es" tvg-logo="http://images.pluto.tv/channels/5f1abf5fafb5ee0007d4d0ca/colorLogoPNG.png" group-title="Humor em espanhol",FailArmy | Espanha 
+#EXTINF:-1 tvg-id="fail-army-es" tvg-logo="http://images.pluto.tv/channels/5f1abf5fafb5ee0007d4d0ca/colorLogoPNG.png" group-title="Humor e pets em espanhol",FailArmy | Espanha 
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1abf5fafb5ee0007d4d0ca/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a9a64d41-8b68-11eb-b9cd-1bc319230674&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0ca1c6ec-301d-4365-80fc-e2f942cd0ac4&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="5ebaccf1734aaf0007142c86" tvg-logo="https://images.pluto.tv/channels/5ebaccf1734aaf0007142c86/colorLogoPNG.png" group-title="Humor em espanhol",FailArmy | México
+#EXTINF:-1 tvg-id="5ebaccf1734aaf0007142c86" tvg-logo="https://images.pluto.tv/channels/5ebaccf1734aaf0007142c86/colorLogoPNG.png" group-title="Humor e pets em espanhol",FailArmy | México
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebaccf1734aaf0007142c86/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 
-#EXTINF:-1 tvg-id="oh-my-pet" tvg-logo="https://imgur.com/Id5HpA2.png" group-title="Humor em espanhol",Oh My Pet | Argentina
+#EXTINF:-1 tvg-id="pluto-tv-humor" tvg-logo="https://imgur.com/2u6IZHl.png" group-title="Humor e pets em espanhol",Humor - Pluto TV | Argentina
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8397936791b30007ebb5a7/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1fc45-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6125129c-5aac-4b90-ba29-7333c93545b2&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="mtv-animaciones" tvg-logo="https://imgur.com/fPPU3Xh.png" group-title="Humor e pets em espanhol",MTV Animaciones | Argentina
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5efb8ce2e426140007c78fd1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff27172-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=5ee82024-6fd5-4fd7-b68f-606316a1738b&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="mtv-pranks" tvg-logo="https://imgur.com/nzYxl95.png" group-title="Humor e pets em espanhol",MTV Pranks | Argentina
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e98a911c881310007d7aae2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff22352-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1ac7d946-bd48-4171-91bf-2030c4d3b690&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="oh-my-pet" tvg-logo="https://imgur.com/Id5HpA2.png" group-title="Humor e pets em espanhol",Oh My Pet | Argentina
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f2acdab16f5b3000721ae2c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff2e6a0-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=70472323-d152-4006-9a8e-9efe89b1730d&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="people-are-awesome-es" tvg-logo="http://images.pluto.tv/channels/5f1ac1780e94100007f94b3f/colorLogoPNG.png" group-title="Humor em espanhol",People are Awesome | Espanha 
+#EXTINF:-1 tvg-id="people-are-awesome-1" tvg-logo="https://imgur.com/v2TNHDt.png" group-title="Humor e pets em espanhol",People are Awesome | Argentina
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebac65911406400078b8993/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff24a60-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=5e3ab804-94bf-452f-889e-8f62cc0f6cce&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="people-are-awesome-es" tvg-logo="http://images.pluto.tv/channels/5f1ac1780e94100007f94b3f/colorLogoPNG.png" group-title="Humor e pets em espanhol",People are Awesome | Espanha 
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac1780e94100007f94b3f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a9a67450-8b68-11eb-b9cd-1bc319230674&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f724f6b8-8388-4bae-8401-069c1ef618dd&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="the-pet-collective-es" tvg-logo="http://images.pluto.tv/channels/5f1abf097eb06300079b30f7/colorLogoPNG.png" group-title="Humor em espanhol",(The) Pet Collective | Espanha 
+#EXTINF:-1 tvg-id="the-pet-collective-1" tvg-logo="https://imgur.com/ivpFJPw.png" group-title="Humor e pets em espanhol",The Pet Collective | Argentina
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebacbcae43a6d000787b88e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff24a61-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ad69ad2b-c3cd-4010-b69d-634cd5976ddd&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="the-pet-collective-es" tvg-logo="http://images.pluto.tv/channels/5f1abf097eb06300079b30f7/colorLogoPNG.png" group-title="Humor e pets em espanhol",The Pet Collective | Espanha 
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1abf097eb06300079b30f7/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a9a64d40-8b68-11eb-b9cd-1bc319230674&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=fa390e3d-de15-411f-90dd-0f12fc956bf7&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="trol-es" tvg-logo="http://images.pluto.tv/channels/5f1aae8c65727d0007d15a17/colorLogoPNG.png" group-title="Humor em espanhol",TROL | Espanha
+#EXTINF:-1 tvg-id="trol-es" tvg-logo="http://images.pluto.tv/channels/5f1aae8c65727d0007d15a17/colorLogoPNG.png" group-title="Humor e pets em espanhol",TROL | Espanha
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aae8c65727d0007d15a17/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a9a5b103-8b68-11eb-b9cd-1bc319230674&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f0dc6c3c-5756-4272-8cd4-d3c4f3156e62&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="wipeout-1" tvg-logo="https://imgur.com/TzeCHhn.png" group-title="Humor em espanhol",Wipeout | Argentina
+#EXTINF:-1 tvg-id="wipeout-1" tvg-logo="https://imgur.com/TzeCHhn.png" group-title="Humor e pets em espanhol",Wipeout | Argentina
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ed6828192e8b3000743ef61/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff24a63-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1f0d7540-0011-48c6-bbe6-b760ec556dff&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="5ed6828192e8b3000743ef61" tvg-logo="https://images.pluto.tv/channels/5ed6828192e8b3000743ef61/colorLogoPNG.png" group-title="Humor em espanhol",Wipeout | México
+#EXTINF:-1 tvg-id="5ed6828192e8b3000743ef61" tvg-logo="https://images.pluto.tv/channels/5ed6828192e8b3000743ef61/colorLogoPNG.png" group-title="Humor e pets em espanhol",Wipeout | México
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ed6828192e8b3000743ef61/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 
-#################### Humor em francês ################### Humor em francês ################### Humor em francês ################### Humor em francês ################### Humor em francês ################### Humor em francês ################### Humor em francês ###################
+#################### Humor e pets em francês ################### Humor e pets em francês ################### Humor e pets em francês ################### Humor e pets em francês ################### Humor e pets em francês ################### Humor e pets em francês ################### Humor e pets em francês ###################
 
-#EXTINF:-1 tvg-id="pluto-tv-comedie-fr" tvg-logo="http://images.pluto.tv/channels/5f8eb91bb9b9e7000817e67f/colorLogoPNG.png" group-title="Humor em francês",Comédie - Pluto TV | França
+#EXTINF:-1 tvg-id="pluto-tv-comedie-fr" tvg-logo="http://images.pluto.tv/channels/5f8eb91bb9b9e7000817e67f/colorLogoPNG.png" group-title="Humor e pets em francês",Comédie - Pluto TV | França
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8eb91bb9b9e7000817e67f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=dda40480-6a6f-11eb-8380-d53d31dd7908&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ce14fc7b-20bd-483e-9650-ad5aa07c58d7&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="fail-army-fr" tvg-logo="http://images.pluto.tv/channels/5f8ecd9169d2d4000864a974/colorLogoPNG.png" group-title="Humor em francês",FailArmy | França
+#EXTINF:-1 tvg-id="fail-army-fr" tvg-logo="http://images.pluto.tv/channels/5f8ecd9169d2d4000864a974/colorLogoPNG.png" group-title="Humor e pets em francês",FailArmy | França
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ecd9169d2d4000864a974/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=dda4c7d1-6a6f-11eb-8380-d53d31dd7908&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=775fc931-56b4-4c9f-aa01-73069122c7f5&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="people-are-awesome-fr" tvg-logo="http://images.pluto.tv/channels/5f8ed0720dc198000728f9d3/colorLogoPNG.png" group-title="Humor em francês",People are Awesome | França
+#EXTINF:-1 tvg-id="people-are-awesome-fr" tvg-logo="http://images.pluto.tv/channels/5f8ed0720dc198000728f9d3/colorLogoPNG.png" group-title="Humor e pets em francês",People are Awesome | França
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ed0720dc198000728f9d3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=dda4eee2-6a6f-11eb-8380-d53d31dd7908&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bf2685e5-6938-4c5d-94d6-83ee35b2232f&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="the-pet-collective-fr" tvg-logo="http://images.pluto.tv/channels/5f8ecd336d64c9000754cdf1/colorLogoPNG.png" group-title="Humor em francês",The Pet Collective | França
+#EXTINF:-1 tvg-id="the-pet-collective-fr" tvg-logo="http://images.pluto.tv/channels/5f8ecd336d64c9000754cdf1/colorLogoPNG.png" group-title="Humor e pets em francês",The Pet Collective | França
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ecd336d64c9000754cdf1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=dda4c7d0-6a6f-11eb-8380-d53d31dd7908&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=65d27040-284a-4348-8184-34e232a896af&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="troll-fr" tvg-logo="http://images.pluto.tv/channels/5f8eb8a8b2619a000710605c/colorLogoPNG.png" group-title="Humor em francês",TROLL TV | França
+#EXTINF:-1 tvg-id="troll-fr" tvg-logo="http://images.pluto.tv/channels/5f8eb8a8b2619a000710605c/colorLogoPNG.png" group-title="Humor e pets em francês",TROLL TV | França
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8eb8a8b2619a000710605c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=dda3dd71-6a6f-11eb-8380-d53d31dd7908&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8b2c396a-d4a1-4df1-9c2a-092719826a13&userId=&serverSideAds=true
 
 
-#################### Humor em inglês ################### Humor em inglês ################### Humor em inglês ################### Humor em inglês ################### Humor em inglês ################### Humor em inglês ################### Humor em inglês ###################
+#################### Humor e pets em inglês ################### Humor e pets em inglês ################### Humor e pets em inglês ################### Humor e pets em inglês ################### Humor e pets em inglês ################### Humor e pets em inglês ################### Humor e pets em inglês ###################
 
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5ef11486d33ab9004048a1cd" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/afv-family.png" group-title="Humor em inglês",AFV Family | EUA 
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5ef11486d33ab9004048a1cd" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/afv-family.png" group-title="Humor e pets em inglês",AFV Family | EUA 
 https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8?ads.plex_token=Tog8X6wK6iweuzGFsz6p&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
 
-#EXTINF:-1 tvg-id="afv-tv" tvg-logo="http://images.pluto.tv/channels/5e82b55ad0213e00079c509f/colorLogoPNG.png" group-title="Humor em inglês",AFV TV | EUA
+#EXTINF:-1 tvg-id="afv-tv" tvg-logo="http://images.pluto.tv/channels/5e82b55ad0213e00079c509f/colorLogoPNG.png" group-title="Humor e pets em inglês",AFV TV | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e82b55ad0213e00079c509f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc97ff93-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dbfdfaf4-0d28-40f9-ba3e-9084c724f1b6&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="cats-247" tvg-logo="http://images.pluto.tv/channels/599375885ceaac3cabccbed7/colorLogoPNG.png" group-title="Humor em inglês",Cats 24/7 | EUA
+#EXTINF:-1 tvg-id="cats-247" tvg-logo="http://images.pluto.tv/channels/599375885ceaac3cabccbed7/colorLogoPNG.png" group-title="Humor e pets em inglês",Cats 24/7 | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/599375885ceaac3cabccbed7/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc936bb5-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=109d2b15-65ce-41c6-abe9-175172809d60&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="5db044d7846b170009215ef0" tvg-logo="https://images.pluto.tv/channels/5db044d7846b170009215ef0/colorLogoPNG.png" group-title="Humor em inglês",Cats 24/7 | Reino Unido
+#EXTINF:-1 tvg-id="5db044d7846b170009215ef0" tvg-logo="https://images.pluto.tv/channels/5db044d7846b170009215ef0/colorLogoPNG.png" group-title="Humor e pets em inglês",Cats 24/7 | Reino Unido
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db044d7846b170009215ef0/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1 tvg-id="pluto-tv-comedy" tvg-logo="http://images.pluto.tv/channels/5a4d3a00ad95e4718ae8d8db/colorLogoPNG.png" group-title="Humor em inglês",Comedy - Pluto TV | EUA
+#EXTINF:-1 tvg-id="pluto-tv-comedy" tvg-logo="http://images.pluto.tv/channels/5a4d3a00ad95e4718ae8d8db/colorLogoPNG.png" group-title="Humor e pets em inglês",Comedy - Pluto TV | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a4d3a00ad95e4718ae8d8db/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc93b9d0-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6cff35d4-5aa6-42d2-8a62-5acfa825a1dd&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="5c363c2411c5ca053f198f97" tvg-logo="https://images.pluto.tv/channels/5c363c2411c5ca053f198f97/colorLogoPNG.png" group-title="Humor em inglês",Comedy - Pluto TV | Reino Unido
+#EXTINF:-1 tvg-id="5c363c2411c5ca053f198f97" tvg-logo="https://images.pluto.tv/channels/5c363c2411c5ca053f198f97/colorLogoPNG.png" group-title="Humor e pets em inglês",Comedy - Pluto TV | Reino Unido
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c363c2411c5ca053f198f97/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1 tvg-logo="pluto.tv/channels/5ca671f215a62078d2ec0abf/colorLogoPNG.png" group-title="Humor em inglês",Comedy Central Pluto | EUA
+#EXTINF:-1 tvg-logo="pluto.tv/channels/5ca671f215a62078d2ec0abf/colorLogoPNG.png" group-title="Humor e pets em inglês",Comedy Central Pluto | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc954073-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=111ea4e6-06a7-4be2-a37d-19b39c9f08fb&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-name="Dry Bar Comedy AU"  tvg-logo="https://i.imgur.com/XDqmN1R.png" group-title="Humor em inglês",Dry Bar Comedy | Austrália
+#EXTINF:-1 tvg-name="Dry Bar Comedy AU"  tvg-logo="https://i.imgur.com/XDqmN1R.png" group-title="Humor e pets em inglês",Dry Bar Comedy | Austrália
 https://drybar-drybarcomedy-1-au.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-id="dogs-247" tvg-logo="http://images.pluto.tv/channels/5b329e0a7b9d8872aeb49ceb/colorLogoPNG.png" group-title="Humor em inglês",Dogs 24/7 | EUA
+#EXTINF:-1 tvg-id="dogs-247" tvg-logo="http://images.pluto.tv/channels/5b329e0a7b9d8872aeb49ceb/colorLogoPNG.png" group-title="Humor e pets em inglês",Dogs 24/7 | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b329e0a7b9d8872aeb49ceb/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc9407f0-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=07a069e0-60de-45b3-9e96-ae431c7ce670&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="5d8dc0740e843c7812dcb8db" tvg-logo="https://images.pluto.tv/channels/5d8dc0740e843c7812dcb8db/colorLogoPNG.png" group-title="Humor em inglês",Dogs 24/7 - Pluto TV | Reino Unido
+#EXTINF:-1 tvg-id="5d8dc0740e843c7812dcb8db" tvg-logo="https://images.pluto.tv/channels/5d8dc0740e843c7812dcb8db/colorLogoPNG.png" group-title="Humor e pets em inglês",Dogs 24/7 - Pluto TV | Reino Unido
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8dc0740e843c7812dcb8db/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1 tvg-id="5ad8d883e738977e2c31096b" tvg-logo="https://images.pluto.tv/channels/5ad8d883e738977e2c31096b/colorLogoPNG.png" group-title="Humor em inglês",FailArmy | Reino Unido
+#EXTINF:-1 tvg-id="5ad8d883e738977e2c31096b" tvg-logo="https://images.pluto.tv/channels/5ad8d883e738977e2c31096b/colorLogoPNG.png" group-title="Humor e pets em inglês",FailArmy | Reino Unido
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad8d883e738977e2c31096b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1 tvg-id="funny-af" tvg-logo="http://images.pluto.tv/channels/580e87ff497c73ba2f321dd3/colorLogoPNG.png" group-title="Humor em inglês",Funny AF | EUA
+#EXTINF:-1 tvg-id="funny-af" tvg-logo="http://images.pluto.tv/channels/580e87ff497c73ba2f321dd3/colorLogoPNG.png" group-title="Humor e pets em inglês",Funny AF | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/580e87ff497c73ba2f321dd3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc92cf72-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=20c847f8-0a73-46f9-b84a-efee9935e9ba&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo="https://gvimage.zype.com/53c0457a69702d4d66040000/5f35c33fe18dac00012dbd44/custom_thumbnail/480.jpg" group-title="Humor em inglês",Johnny Carson TV | EUA
+#EXTINF:-1 tvg-logo="https://gvimage.zype.com/53c0457a69702d4d66040000/5f35c33fe18dac00012dbd44/custom_thumbnail/480.jpg" group-title="Humor e pets em inglês",Johnny Carson TV | EUA
 https://johnnycarson-zype.amagi.tv/playlistR288p.m3u8
 
-#EXTINF:-1 tvg-id="johnny-carson-tv" tvg-logo="http://images.pluto.tv/channels/5e66928133461100077dfd73/colorLogoPNG.png" group-title="Humor em inglês",Johnny Carson TV - Pluto TV | EUA
+#EXTINF:-1 tvg-id="johnny-carson-tv" tvg-logo="http://images.pluto.tv/channels/5e66928133461100077dfd73/colorLogoPNG.png" group-title="Humor e pets em inglês",Johnny Carson TV - Pluto TV | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e66928133461100077dfd73/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc97d881-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=cc29c511-7487-4699-a804-f6a604c49eb8&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="laughoutloud" tvg-logo="http://images.pluto.tv/channels/5af09e645126c2157123f9eb/colorLogoPNG.png" group-title="Humor em inglês",Kevin Hart Laugh Out Loud Network | EUA
+#EXTINF:-1 tvg-id="laughoutloud" tvg-logo="http://images.pluto.tv/channels/5af09e645126c2157123f9eb/colorLogoPNG.png" group-title="Humor e pets em inglês",Kevin Hart Laugh Out Loud Network | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5af09e645126c2157123f9eb/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc93e0e4-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a3a352c3-0bfb-4821-bea1-12645c03f41a&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="people-are-awesome" tvg-logo="http://images.pluto.tv/channels/5e54169f4b9b25000994a303/colorLogoPNG.png" group-title="Humor em inglês",People are Awesome | EUA
+#EXTINF:-1 tvg-id="people-are-awesome" tvg-logo="http://images.pluto.tv/channels/5e54169f4b9b25000994a303/colorLogoPNG.png" group-title="Humor e pets em inglês",People are Awesome | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e54169f4b9b25000994a303/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc97b175-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=58e5a524-7e81-41c6-b53c-07bb344eadd9&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="5eb95d63b270fc0007c465e6" tvg-logo="https://images.pluto.tv/channels/5eb95d63b270fc0007c465e6/colorLogoPNG.png" group-title="Humor em inglês",People are Awesome | Reino Unido
+#EXTINF:-1 tvg-id="5eb95d63b270fc0007c465e6" tvg-logo="https://images.pluto.tv/channels/5eb95d63b270fc0007c465e6/colorLogoPNG.png" group-title="Humor e pets em inglês",People are Awesome | Reino Unido
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5eb95d63b270fc0007c465e6/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1 tvg-id="stand-up-tv" tvg-logo="http://images.pluto.tv/channels/5637d31f319573e26b64040b/colorLogoPNG.png" group-title="Humor em inglês",Stand Up Pluto TV | EUA
+#EXTINF:-1 tvg-id="stand-up-tv" tvg-logo="http://images.pluto.tv/channels/5637d31f319573e26b64040b/colorLogoPNG.png" group-title="Humor e pets em inglês",Stand Up Pluto TV | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5637d31f319573e26b64040b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc92a862-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f99980fa-8b7b-4921-81a5-89a65494abb7&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="5d135e29a52c94dfe543c5d3" tvg-logo="https://images.pluto.tv/channels/5d135e29a52c94dfe543c5d3/colorLogoPNG.png" group-title="Humor em inglês",Stand Up Pluto TV | Reino Unido
+#EXTINF:-1 tvg-id="5d135e29a52c94dfe543c5d3" tvg-logo="https://images.pluto.tv/channels/5d135e29a52c94dfe543c5d3/colorLogoPNG.png" group-title="Humor e pets em inglês",Stand Up Pluto TV | Reino Unido
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d135e29a52c94dfe543c5d3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1 tvg-id="the-pet-collective" tvg-logo="http://images.pluto.tv/channels/5bb1ad55268cae539bcedb08/colorLogoPNG.png" group-title="Humor em inglês",The Pet Collective | EUA
+#EXTINF:-1 tvg-id="the-pet-collective" tvg-logo="http://images.pluto.tv/channels/5bb1ad55268cae539bcedb08/colorLogoPNG.png" group-title="Humor e pets em inglês",The Pet Collective | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bb1ad55268cae539bcedb08/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc94a432-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=eb637f94-5e2a-45bc-a542-0dac5b454fb7&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="5ad8d819e738977e2c31096a" tvg-logo="https://images.pluto.tv/channels/5ad8d819e738977e2c31096a/colorLogoPNG.png" group-title="Humor em inglês",The Pet Collective | Reino Unido
+#EXTINF:-1 tvg-id="5ad8d819e738977e2c31096a" tvg-logo="https://images.pluto.tv/channels/5ad8d819e738977e2c31096a/colorLogoPNG.png" group-title="Humor e pets em inglês",The Pet Collective | Reino Unido
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad8d819e738977e2c31096a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1 tvg-id="tosh-1" tvg-logo="http://images.pluto.tv/channels/5dae084727c8af0009fe40a4/colorLogoPNG.png" group-title="Humor em inglês",Tosh.0 | EUA 
+#EXTINF:-1 tvg-id="tosh-1" tvg-logo="http://images.pluto.tv/channels/5dae084727c8af0009fe40a4/colorLogoPNG.png" group-title="Humor e pets em inglês",Tosh.0 | EUA 
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dae084727c8af0009fe40a4/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc971533-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=11c0b0aa-5ad2-462b-a7dc-594545833e1f&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="wipeout" tvg-logo="http://images.pluto.tv/channels/5ab3e1242be690697279c75d/colorLogoPNG.png" group-title="Humor em inglês",Wipeout | EUA
+#EXTINF:-1 tvg-id="wipeout" tvg-logo="http://images.pluto.tv/channels/5ab3e1242be690697279c75d/colorLogoPNG.png" group-title="Humor e pets em inglês",Wipeout | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ab3e1242be690697279c75d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc93e0e0-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=14eef5cb-bf39-4a9c-9cb0-7901cb48c24e&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="5ea190ae85a26900075a80e9" tvg-logo="https://images.pluto.tv/channels/5ea190ae85a26900075a80e9/colorLogoPNG.png" group-title="Humor em inglês",Wipeout | Reino Unido
+#EXTINF:-1 tvg-id="5ea190ae85a26900075a80e9" tvg-logo="https://images.pluto.tv/channels/5ea190ae85a26900075a80e9/colorLogoPNG.png" group-title="Humor e pets em inglês",Wipeout | Reino Unido
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ea190ae85a26900075a80e9/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K1kJf1s.png" group-title="Humor em inglês" tvg-name="Wipeout Xtra | EUA",Wipeout Xtra | EUA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K1kJf1s.png" group-title="Humor e pets em inglês" tvg-name="Wipeout Xtra | EUA",Wipeout Xtra | EUA
 https://endemol-wipeoutxtra-1.roku.wurl.com/manifest/playlist.m3u8
 
 ################# Islamismo  ################# Islamismo ################# Islamismo ################# Islamismo ################# Islamismo ################# Islamismo ################# Islamismo ################# 
@@ -2189,10 +2226,10 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d6792bd6
 #EXTINF:-1 tvg-id="5e8b5e43f294f8000793c3d7" group-title="Kids em alemão" tvg-name="Victorious" tvg-logo="https://images.pluto.tv/channels/5e8b5e43f294f8000793c3d7/colorLogoPNG.png",Victorious | Alemanha
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e8b5e43f294f8000793c3d7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-################# Kids em espanhol ###################
-################# Kids em espanhol ###################
-################# Kids em espanhol ###################
-################# Kids em espanhol ###################
+################# Kids em espanhol ################### ################# Kids em espanhol ################### ################# Kids em espanhol ################### ################# Kids em espanhol ###################
+
+#EXTINF:-1 tvg-id="pluto-tv-anime-accion" tvg-logo="https://imgur.com/fK8rpcE.png" group-title="Kids em espanhol",Animé Acción - Pluto TV | Argentina
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6a4d875d7ccf0007cc2cf1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1fc43-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0102247d-6255-454b-b42a-4ed18335dc86&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-id="babar" tvg-logo="https://imgur.com/NinuO5y.png" group-title="Kids em espanhol",Babar | Argentina
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e67e20c93312100076f3ffe/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1fc42-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=4dd50492-4fb9-436b-9efe-56335cf7502f&userId=&serverSideAds=true
@@ -3211,6 +3248,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84dc59026b9b00076
 #EXTINF:-1 tvg-id="pluto-tv-sci-fi-es" tvg-logo="http://images.pluto.tv/channels/5f6a38eaa5b68b0007a00e7a/colorLogoPNG.png" group-title="Cinema em espanhol",Sci-Fi - Pluto TV | Espanha
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6a38eaa5b68b0007a00e7a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a9a7faf2-8b68-11eb-b9cd-1bc319230674&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=2584e551-0c4f-40ea-9e64-a79449401d6c&userId=&serverSideAds=true
 
+#EXTINF:-1 tvg-id="pluto-tv-series" tvg-logo="https://imgur.com/KB1hXsY.png" group-title="Novelas e séries em espanhol",Series - Pluto TV | Argentina
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde1317578340009b751d0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff04e90-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7937749a-cec8-47cd-b6d9-43b0c4fea6c8&userId=&serverSideAds=true
+
 #EXTINF:-1 tvg-id="pluto-tv-series-es" tvg-logo="http://images.pluto.tv/channels/5f1ac8f49205650007bc15f1/colorLogoPNG.png" group-title="Novelas e séries em espanhol",Series - Pluto TV | Espanha
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac8f49205650007bc15f1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a9a6c270-8b68-11eb-b9cd-1bc319230674&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1a37f16f-171d-4ad1-9041-1fc644ca0c6f&userId=&serverSideAds=true
 
@@ -3219,6 +3259,12 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5a2b4b1ad8fd00079
 
 #EXTINF:-1 tvg-id="pluto-tv-series-comedia-es" tvg-logo="http://images.pluto.tv/channels/5f9853138d19af0007104a8d/colorLogoPNG.png" group-title="Novelas e séries em espanhol",Series Comedia - Pluto TV | Espanha
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f9853138d19af0007104a8d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a9a8be41-8b68-11eb-b9cd-1bc319230674&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7cff0070-a6d8-4c49-8831-c2aaf89d9ab5&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="pluto-tv-series-latina" tvg-logo="https://imgur.com/xt0NeJN.png" group-title="Novelas e séries em espanhol",Series Latinas - Pluto TV | Argentinas
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd837642c6e9300098ad484/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff138f1-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=66035293-500c-4b3d-8f02-dc855d5f476d&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="pluto-tv-series-retro" tvg-logo="https://imgur.com/o6tQxVj.png" group-title="Novelas e séries em espanhol",Series Retro - Pluto TV | Argentina
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de802659167b10009e7deba/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1ae21-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=efb5479a-1735-4d57-9b8e-16487d9760c3&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-id="sin-tetas-no-hay-paraiso-es" tvg-logo="http://images.pluto.tv/channels/600ae52e34a3700007000534/colorLogoPNG.png" group-title="Novelas e séries em espanhol",Sin tetas no hay paraíso | Espanha
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/600ae52e34a3700007000534/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a9a8e552-8b68-11eb-b9cd-1bc319230674&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f7a1d9b1-1365-4889-bb27-c286960039b6&userId=&serverSideAds=true
@@ -3264,17 +3310,47 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f914f9dccb4de0007d
 
 ######### reality shows em espanhol  ############# reality shows em espanhol  ############# reality shows em espanhol  ############# reality shows em espanhol  ############# reality shows em espanhol  ############# reality shows em espanhol  ############# reality shows em espanhol  #############
 
+#EXTINF:-1 tvg-id="pluto-tv-aventura" tvg-logo="https://imgur.com/GaPVcF4.png" group-title="Reality shows em espanhol",Aventura - Pluto TV | Argentina
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddc266f80e3550009136843/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff16001-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=4420bd28-3750-4503-ab32-d76a0c1ec97d&userId=&serverSideAds=true
+
 #EXTINF:-1 tvg-id="el-conquistador-del-fin-del-mundo-es" tvg-logo="http://images.pluto.tv/channels/5f280149cec6be00072ab1fc/colorLogoPNG.png" group-title="Reality shows em espanhol",El Conquistador del Fin | Espanha
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f280149cec6be00072ab1fc/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a9a785c0-8b68-11eb-b9cd-1bc319230674&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a9724719-b20b-4eb8-8e72-2472f263380f&userId=&serverSideAds=true
 
+#EXTINF:-1 tvg-id="dog-el-cazarrecompensas-ptv1" tvg-logo="https://imgur.com/2At2CiW.png" group-title="Reality shows em espanhol",Dog el cazarrecompensas | Argentina
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f9992c685a2a80007fa414a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff46d40-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6ddce475-9d62-42eb-8968-a83385627fa5&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="pluto-tv-fashionbox" tvg-logo="https://imgur.com/RAJ0wVy.png" group-title="Reality shows em espanhol",FashionBox - Pluto TV | Argentina 
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ee8d84bfb286e0007285aad/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff24a64-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dcad69d9-cbe2-4e00-a9bc-3c865cdc4424&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="5ee8d84bfb286e0007285aad" tvg-logo="https://images.pluto.tv/channels/5ee8d84bfb286e0007285aad/colorLogoPNG.png" group-title="Reality shows em espanhol",FashionBox - Pluto TV | México
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ee8d84bfb286e0007285aad/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+
+#EXTINF:-1 tvg-id="historias-de-ultratumba" tvg-logo="https://imgur.com/o4saZ4W.png" group-title="Reality shows em espanhol",Historias de Ultratumba | Argentina
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d3696d938c900072679fd/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff30db1-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c9a4bbcb-a460-4abc-a314-b874b20030c5&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="5f4d3696d938c900072679fd" tvg-logo="https://images.pluto.tv/channels/5f4d3696d938c900072679fd/colorLogoPNG.png" group-title="Reality shows em espanhol",Historias de Ultratumba | México
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d3696d938c900072679fd/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+
+#EXTINF:-1 tvg-id="latin-angels" tvg-logo="https://imgur.com/8Z7fzym.png" group-title="Reality shows em espanhol",Latin Angels | Argentina
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df41355939756000921d15b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1d531-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6d5c5d50-ddbc-4ff9-a3aa-b7f30a1d3dfe&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="5df41355939756000921d15b" tvg-name="latinangels.mx" tvg-logo="https://images.pluto.tv/channels/5df41355939756000921d15b/colorLogoPNG.png" group-title="Reality shows em espanhol",Latin Angels | México
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df41355939756000921d15b/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+
 #EXTINF:-1 tvg-id="made-es" tvg-logo="http://images.pluto.tv/channels/5f1aaefb96f755000733c11a/colorLogoPNG.png" group-title="Reality shows em espanhol",MADE | Espanha
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aaefb96f755000733c11a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a9a5d810-8b68-11eb-b9cd-1bc319230674&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=59039cf7-ff80-4d3c-901c-8183900aa515&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="mtv-pluto-tv-ptv1" tvg-logo="http://images.pluto.tv/channels/5fab088b3279760007d4e4fd/colorLogoPNG.png" group-title="Reality shows em espanhol",MTV - Pluto TV | Argentina
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fab088b3279760007d4e4fd/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a7e64375-725e-11eb-8572-a154f88ef305&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1ae43b29-e0ce-4a28-90a5-107a512d1569&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-id="mtv-catfish-tv-show-es-plus" tvg-logo="https://i.imgur.com/Kn9Fsgq.png" group-title="Reality shows em espanhol",MTV Catfish+ | Espanha
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f59f661f68f9200078870d4/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a9a7acd1-8b68-11eb-b9cd-1bc319230674&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d8457467-155e-4e1b-81f2-044d07166db8&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-id="mtv-catfish-tv-show-es" tvg-logo="http://images.pluto.tv/channels/5f1ab3c7778230000735cf41/colorLogoPNG.png" group-title="Reality shows em espanhol",MTV Catfish TV Show | Espanha
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ab3c7778230000735cf41/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a9a5d811-8b68-11eb-b9cd-1bc319230674&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c7878aa0-15ea-41c8-8b53-56020d131f7d&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="mtv-classic" tvg-logo="https://imgur.com/zvm8kaR.png" group-title="Reality shows em espanhol",MTV Classic | Argentina
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de91b7ea86ee60009d89e75/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1ae22-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=660d0b2a-7fb6-45ce-9752-4b5be4f0e398&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-id="mtv-cribs-es" tvg-logo="https://i.imgur.com/q1rGV0m.png" group-title="Reality shows em espanhol",MTV Cribs | Espanha
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ab9c6d8f1300007f54e30/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a9a5ff20-8b68-11eb-b9cd-1bc319230674&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3255948e-7bce-42c9-9aa7-6be0cae7f104&userId=&serverSideAds=true
@@ -4049,79 +4125,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d767ab2b
 #EXTINF:-1 tvg-id="5cc81e793798650e4f7d9fd3" group-title="Alemanha: Pluto 🇩🇪" tvg-name="The Asylum Channel" tvg-logo="https://images.pluto.tv/channels/5cc81e793798650e4f7d9fd3/colorLogoPNG.png",The Asylum Channel | Alemanha
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cc81e793798650e4f7d9fd3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-##### Argentina: Pluto 🇦🇷 #####Argentina: Pluto 🇦🇷 #####Argentina: Pluto 🇦🇷 #####Argentina: Pluto 🇦🇷 #####Argentina: Pluto 🇦🇷 #####Argentina: Pluto 🇦🇷 #####Argentina: Pluto 🇦🇷 #####Argentina: Pluto 🇦🇷 #####Argentina: Pluto 🇦🇷 #####Argentina: Pluto 🇦🇷 #####Argentina: Pluto 🇦🇷 #####Argentina: Pluto 🇦🇷 #####Argentina: Pluto 🇦🇷 #####Argentina: Pluto 🇦🇷 #####Argentina: Pluto 🇦🇷 #####Argentina: Pluto 🇦🇷 #####Argentina: Pluto 🇦🇷 #####Argentina: Pluto 🇦🇷 #####Argentina: Pluto 🇦🇷 #####Argentina: Pluto 🇦🇷 #####Argentina: Pluto 🇦🇷 #####Argentina: Pluto 🇦🇷 #####Argentina: Pluto 🇦🇷 #####Argentina: Pluto 🇦🇷 #####Argentina: Pluto 🇦🇷 #####Argentina: Pluto 🇦🇷 #####
-
-#EXTINF:-1 tvg-id="pluto-tv-fashionbox" tvg-logo="https://imgur.com/RAJ0wVy.png" group-title="Argentina: Pluto 🇦🇷",Pluto TV FashionBox | Argentina 
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ee8d84bfb286e0007285aad/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff24a64-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dcad69d9-cbe2-4e00-a9bc-3c865cdc4424&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="pluto-tv-series" tvg-logo="https://imgur.com/KB1hXsY.png" group-title="Argentina: Pluto 🇦🇷",Pluto TV Series
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde1317578340009b751d0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff04e90-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7937749a-cec8-47cd-b6d9-43b0c4fea6c8&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="pluto-tv-competencias" tvg-logo="https://imgur.com/QE7tyFh.png" group-title="Argentina: Pluto 🇦🇷",Pluto TV  Competencias
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6d935d000120009bc1132/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff0ead0-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6c3600a0-cf5d-4708-b2b3-adcada18c483&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="pluto-tv-series-latina" tvg-logo="https://imgur.com/xt0NeJN.png" group-title="Argentina: Pluto 🇦🇷",Pluto TV Series Latinas
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd837642c6e9300098ad484/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff138f1-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=66035293-500c-4b3d-8f02-dc855d5f476d&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="pluto-tv-series-retro" tvg-logo="https://imgur.com/o6tQxVj.png" group-title="Argentina: Pluto 🇦🇷",Pluto TV Series Retro
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de802659167b10009e7deba/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1ae21-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=efb5479a-1735-4d57-9b8e-16487d9760c3&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="mtv-classic" tvg-logo="https://imgur.com/zvm8kaR.png" group-title="Argentina: Pluto 🇦🇷",MTV Classic
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de91b7ea86ee60009d89e75/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1ae22-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=660d0b2a-7fb6-45ce-9752-4b5be4f0e398&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="pluto-tv-anime-accion" tvg-logo="https://imgur.com/fK8rpcE.png" group-title="Argentina: Pluto 🇦🇷",Pluto TV Animé Acción
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6a4d875d7ccf0007cc2cf1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1fc43-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0102247d-6255-454b-b42a-4ed18335dc86&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="mtv-pranks" tvg-logo="https://imgur.com/nzYxl95.png" group-title="Argentina: Pluto 🇦🇷",MTV Pranks
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e98a911c881310007d7aae2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff22352-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1ac7d946-bd48-4171-91bf-2030c4d3b690&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="people-are-awesome-1" tvg-logo="https://imgur.com/v2TNHDt.png" group-title="Argentina: Pluto 🇦🇷",People are Awesome
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebac65911406400078b8993/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff24a60-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=5e3ab804-94bf-452f-889e-8f62cc0f6cce&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="mtv-animaciones" tvg-logo="https://imgur.com/fPPU3Xh.png" group-title="Argentina: Pluto 🇦🇷",MTV Animaciones
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5efb8ce2e426140007c78fd1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff27172-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=5ee82024-6fd5-4fd7-b68f-606316a1738b&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="pluto-tv-sci-fi-ptv1" tvg-logo="https://imgur.com/959gesF.png" group-title="Argentina: Pluto 🇦🇷",Pluto TV Sci-Fi
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f2817d3d7573a00080f9175/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff29881-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=69952490-17b7-4b2b-92ec-4525b187cbe6&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="mtv-pluto-tv-ptv1" tvg-logo="http://images.pluto.tv/channels/5fab088b3279760007d4e4fd/colorLogoPNG.png" group-title="Argentina: Pluto 🇦🇷",MTV Pluto TV
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fab088b3279760007d4e4fd/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a7e64375-725e-11eb-8572-a154f88ef305&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1ae43b29-e0ce-4a28-90a5-107a512d1569&userId=&serverSideAds=true
-
-
-######################################### Curiosidad ################################################
-
-
-#EXTINF:-1 tvg-id="pluto-tv-misterios" tvg-logo="https://imgur.com/kExdKzl.png" group-title="Argentina: Pluto 🇦🇷",Pluto TV Misterios
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde2f53449c50009b2b4dc/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff0c3c0-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=143bd56d-49f4-4f1d-af28-384df378b15d&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="pluto-tv-aventura" tvg-logo="https://imgur.com/GaPVcF4.png" group-title="Argentina: Pluto 🇦🇷",Pluto TV Aventura
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddc266f80e3550009136843/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff16001-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=4420bd28-3750-4503-ab32-d76a0c1ec97d&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="misterios-medicos" tvg-logo="https://imgur.com/8ao4Zey.png" group-title="Argentina: Pluto 🇦🇷",Misterios Medicos
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f230e416b68ff00075b0139/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff27173-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=25a22310-9312-4b9f-b9e9-92dac7411fe9&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="historias-de-ultratumba" tvg-logo="https://imgur.com/o4saZ4W.png" group-title="Argentina: Pluto 🇦🇷",Historias de Ultratumba
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d3696d938c900072679fd/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff30db1-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c9a4bbcb-a460-4abc-a314-b874b20030c5&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="latin-angels" tvg-logo="https://imgur.com/8Z7fzym.png" group-title="Argentina: Pluto 🇦🇷",Latin Angels
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df41355939756000921d15b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1d531-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6d5c5d50-ddbc-4ff9-a3aa-b7f30a1d3dfe&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="dog-el-cazarrecompensas-ptv1" tvg-logo="https://imgur.com/2At2CiW.png" group-title="Argentina: Pluto 🇦🇷",Dog el cazarrecompensas
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f9992c685a2a80007fa414a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff46d40-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6ddce475-9d62-42eb-8968-a83385627fa5&userId=&serverSideAds=true
-
-#### Comedia ####
-
-#EXTINF:-1 tvg-id="pluto-tv-humor" tvg-logo="https://imgur.com/2u6IZHl.png" group-title="Argentina: Pluto 🇦🇷",Pluto TV Humor
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8397936791b30007ebb5a7/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1fc45-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6125129c-5aac-4b90-ba29-7333c93545b2&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="comedy-central-ptv2" tvg-logo="http://images.pluto.tv/channels/5ffcc21a432945000762d06b/colorLogoPNG.png" group-title="Argentina: Pluto 🇦🇷",Comedy Central Pluto TV
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ffcc21a432945000762d06b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=79573c15-77dd-11eb-a61c-2f38487b60c0&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bd904709-6614-46f7-80bd-de128553e6f3&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="the-pet-collective-1" tvg-logo="https://imgur.com/ivpFJPw.png" group-title="Argentina: Pluto 🇦🇷",The Pet Collective
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebacbcae43a6d000787b88e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff24a61-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ad69ad2b-c3cd-4010-b69d-634cd5976ddd&userId=&serverSideAds=true
-
-
-#################################### MÉXICO ############ MÉXICO ############ MÉXICO ############ MÉXICO ############ MÉXICO ############ MÉXICO ############ MÉXICO ############ MÉXICO ############ MÉXICO ############ MÉXICO ############ MÉXICO ############ MÉXICO ############ MÉXICO ############ MÉXICO ############ MÉXICO ############ MÉXICO ############ MÉXICO ############ MÉXICO ############ MÉXICO ############ MÉXICO ############
+########## MÉXICO ############ MÉXICO ############ MÉXICO ############ MÉXICO ############ MÉXICO ############ MÉXICO ############ MÉXICO ############ MÉXICO ############ MÉXICO ############ MÉXICO ############ MÉXICO ############ MÉXICO ############ MÉXICO ############ MÉXICO ############ MÉXICO ############ MÉXICO ############ MÉXICO ############ MÉXICO ############ MÉXICO ############ MÉXICO ############
 
 #EXTINF:-1 tvg-id="5efb8c19b2678b000780d032" tvg-name="Archivos Forenses MX" tvg-logo="https://images.pluto.tv/channels/5efb8c19b2678b000780d032/colorLogoPNG.png" group-title="México: Pluto 🇲🇽",Archivos Forenses MX
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5efb8c19b2678b000780d032/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
@@ -4131,22 +4135,12 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f9992c685a2a80007
 
 #EXTINF:-1 tvg-id="5e793a7cfbdf780007f7eb75" tvg-logo="https://images.pluto.tv/channels/5e793a7cfbdf780007f7eb75/colorLogoPNG.png" group-title="México: Pluto 🇲🇽",Guía de canales MX
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e793a7cfbdf780007f7eb75/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-#EXTINF:-1 tvg-id="5f4d3696d938c900072679fd" tvg-logo="https://images.pluto.tv/channels/5f4d3696d938c900072679fd/colorLogoPNG.png" group-title="México: Pluto 🇲🇽",Historias de Ultratumba MX
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d3696d938c900072679fd/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 
 
-#EXTINF:-1 tvg-id="5df41355939756000921d15b" tvg-name="latinangels.mx" tvg-logo="https://images.pluto.tv/channels/5df41355939756000921d15b/colorLogoPNG.png" group-title="México: Pluto 🇲🇽",Latin Angels MX
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df41355939756000921d15b/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 #EXTINF:-1 tvg-id="5e67d41b93312100076f3fca" tvg-logo="https://images.pluto.tv/channels/5e67d41b93312100076f3fca/colorLogoPNG.png" group-title="México: Pluto 🇲🇽",Los archivos del FBI MX
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e67d41b93312100076f3fca/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 
 
-
-
-#EXTINF:-1 tvg-id="5f230e416b68ff00075b0139" tvg-logo="https://images.pluto.tv/channels/5f230e416b68ff00075b0139/colorLogoPNG.png" group-title="México: Pluto 🇲🇽",Misterios Medicos MX
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f230e416b68ff00075b0139/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-#EXTINF:-1 tvg-id="5f610042272f68000867685b" tvg-logo="https://images.pluto.tv/channels/5f610042272f68000867685b/colorLogoPNG.png" group-title="México: Pluto 🇲🇽",Misterios sin Resolver MX
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f610042272f68000867685b/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 #EXTINF:-1 tvg-id="5efb8ce2e426140007c78fd1" tvg-logo="https://images.pluto.tv/channels/5efb8ce2e426140007c78fd1/colorLogoPNG.png" group-title="México: Pluto 🇲🇽",MTV Animaciones MX
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5efb8ce2e426140007c78fd1/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 #EXTINF:-1 tvg-id="5de91b7ea86ee60009d89e75" tvg-logo="https://images.pluto.tv/channels/5de91b7ea86ee60009d89e75/colorLogoPNG.png" group-title="México: Pluto 🇲🇽",MTV Classic MX
@@ -4174,8 +4168,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddc266f80e3550009
 #EXTINF:-1 tvg-id="plutotvciencia.mx" tvg-name="Pluto TV Ciencia México" tvg-logo="https://images.pluto.tv/channels/5dd8364ea1d6780009929902/colorLogoPNG.png" group-title="México: Pluto 🇲🇽",Pluto TV Ciencia MX
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd8364ea1d6780009929902/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 
-#EXTINF:-1 tvg-id="5ee8d84bfb286e0007285aad" tvg-logo="https://images.pluto.tv/channels/5ee8d84bfb286e0007285aad/colorLogoPNG.png" group-title="México: Pluto 🇲🇽",Pluto TV FashionBox MX
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ee8d84bfb286e0007285aad/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 #EXTINF:-1 tvg-id="5de5758e1a30dc00094fcd6c" tvg-logo="https://images.pluto.tv/channels/5de5758e1a30dc00094fcd6c/colorLogoPNG.png" group-title="México: Pluto 🇲🇽",Pluto TV Historia MX
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de5758e1a30dc00094fcd6c/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 
