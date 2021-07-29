@@ -196,9 +196,6 @@ https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
 #EXTINF:-1 tvg-id="Cbn.br" tvg-name="CBN SP" tvg-shift="0" tvg-logo="https://m.cbn.globoradio.globo.com/estaticos/img/CBN_1024x1024.png" group-title="Brasil: notícias em português",CBN SP | Brasil
 https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
 
-#EXTINF:-1 tvg-id="CNNBrasil" tvg-name="CNN Brasil - longo" tvg-logo="https://i.imgur.com/5AK7gLc.png" tvg-shift="0" group-title="Brasil: notícias em português",CNN Brasil
-https://linkastream.co/headless?url=https://www.youtube.com/channel/UCvdwhh_fDyWccR42-rReZLw/live
-
 #EXTINF:-1 tvg-id="EuronewsPT.nws" tvg-name="Euronews Portugal" tvg-logo="https://i.imgur.com/kQ1EG3u.png" tvg-shift="0" group-title="Brasil: notícias em português",Euronews 1 | Portugal
 https://euronews-euronews-portugues-1-br.samsung.wurl.com/manifest/playlist.m3u8
 
@@ -371,9 +368,6 @@ https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u
 
 #EXTINF:-1 tvg-id="Terraviva.br" tvg-name="Terra Viva" tvg-logo="https://1.bp.blogspot.com/-1DYn7WAo9Xc/XyxDWmZ9aeI/AAAAAAABu4Y/yrSqKd72VG8fkB_l6Ti7hUMp-AZUuMMqQCLcBGAsYHQ/w300-c/Terraviva.png" group-title="Brasil: variedades em português",Terra Viva | Brasil
 https://evpp.mm.uol.com.br/band_live/terraviva/chunklist_w1942099493.m3u8
-
-#EXTINF:-1 tvg-name="TPA" tvg-logo="https://i.imgur.com/HiUiuDI.png" group-title="Brasil: variedades em português",TPA | Angola
-https://linkastream.co/headless?url=https://livestream.com/accounts/30360708/events/9496693/player
 
 #EXTINF:-1 tvg-name="TV Ado" tvg-logo="https://i.imgur.com/weOxAEx.png" group-title="Brasil: variedades em português",TV ADO | Brasil
 https://5c483b9d1019c.streamlock.net/tvado/tvado/chunklist_w1766917256.m3u8
@@ -1646,7 +1640,10 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f77884314396a00070
 #EXTINF:-1 tvg-id="xive-tv" tvg-logo="http://images.pluto.tv/channels/589aa03df9ba56a84197a560/colorLogoPNG.png" group-title="Documentários em inglês",Voyager Documentaries | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/589aa03df9ba56a84197a560/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc9344a3-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=125f613e-1ba2-484c-9430-237501c0b663&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="USBA430000220" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/04/60/USBA430000220_20210525T051550.png" group-title="Documentários em inglês",Xplore | EUA 
+#EXTINF:-1 tvg-id="USBA430000220" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/04/60/USBA430000220_20210525T051550.png" group-title="Documentários em inglês",Xplore | EUA 1
+http://xlpore-samsungus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="USBA430000220" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/04/60/USBA430000220_20210525T051550.png" group-title="Documentários em inglês",Xplore | EUA 2
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-xplore-samsungus/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
 ################# Documentários em outros idiomas ################# Documentários em outros idiomas ################# Documentários em outros idiomas ################# Documentários em outros idiomas ################# Documentários em outros idiomas ################# Documentários em outros idiomas 
@@ -3191,6 +3188,9 @@ https://static.france24.com/live/F24_FR_LO_HLS/live_web.m3u8
 #EXTINF:-1 tvg-name="LN24" tvg-logo="https://i.imgur.com/bp1Qp0d.png" group-title="Notícias em francês",LN24 em francês | Bélgica
 https://live.cdn.ln24.be/out/v1/b191621c8b9a436cad37bb36a82d2e1c/index_1.m3u8
 
+#EXTINF:-1 tvg-name="Press TV FR" tvg-logo="https://i.imgur.com/Qr14bSJ.png" group-title="Notícias em francês",Press TV em francês | Irã
+https://live1.presstv.ir/live/presstvfr/index.m3u8
+
 #EXTINF:-1 tvg-id="TV5MondeEurope.fr" tvg-name="TV5Monde" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/KWWszNH.png" group-title="Notícias em francês",TV5Monde 1
 http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/master.m3u8
 
@@ -3352,6 +3352,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/55b179af994403942f3
 #EXTINF:-1 tvg-id="pluto-tv-news" tvg-name="Pluto TV News EUA" tvg-logo="http://images.pluto.tv/channels/5268abcd0ce20a8472000114/colorLogoPNG.png" group-title="Notícias em inglês",Pluto TV News EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5268abcd0ce20a8472000114/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc9196f0-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bddf9cec-2e0c-479e-9cfb-2da0a50ab10b&userId=&serverSideAds=true
 
+#EXTINF:-1 tvg-name="Press TV" tvg-logo="https://i.imgur.com/Qr14bSJ.png" group-title="Notícias em inglês",Press TV | Irã
+https://live.presstv.ir/liveprs/smil:liveprs/playlist.m3u8
+
 #EXTINF:-1 group-title="Notícias em inglês" tvg-id="Reuters" tvg-name="Reuters" tvg-logo="https://media-exp1.licdn.com/dms/image/C510BAQEcIZOHYb20pQ/company-logo_200_200/0/1519862856588?e=2159024400&v=beta&t=MKQWRo4otgPSzFgKzeW5yteogNb55kSLi6trFbbZWdU",Reuters Now
 https://ajo.prod.reuters.tv/rest/v2/playlist/assets/58197,464695,464688,464478,57445,58156,464697,127706,464687,58089,464661,58117,464511,127694,464474,58090,464715,127785,464752,127680,464740,58118,464712,127800,464733,127800,464701,58061,464541,127710,464507,58048,464622,127681,464625,58147,464452,58061,464617,127711,464449,58018,464479,58058,464539,127679,464466,318501/master.m3u8
 
@@ -3445,6 +3448,9 @@ https://6e90edc1f58640ebadb0955758715502.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-id="France24Arabic.fr" tvg-name="France 24 Arabic" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="Notícias em outros idiomas",France 24 em árabe
 https://static.france24.com/live/F24_AR_HI_HLS/live_tv.m3u8
+
+#EXTINF:-1 tvg-name="Sky News Arabic" tvg-logo="https://i.imgur.com/T7LcUwf.png" group-title="Notícias em outros idiomas",Sky News Arabic
+https://linkastream.co/headless?url=https://www.youtube.com/c/SkyNewsArabia/live
 
 #EXTINF:-1 group-title="Notícias em outros idiomas" tvg-name="TR24" tvg-logo="https://i.imgur.com/WtUFMnB.png",TR24 | Itália
 http://livetr.teleromagna.it/mia/live/playlist.m3u8
