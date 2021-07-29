@@ -196,7 +196,7 @@ https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
 #EXTINF:-1 tvg-id="Cbn.br" tvg-name="CBN SP" tvg-shift="0" tvg-logo="https://m.cbn.globoradio.globo.com/estaticos/img/CBN_1024x1024.png" group-title="Brasil: notícias em português",CBN SP | Brasil
 https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
 
-#EXTINF:-1 tvg-id="CNNBrasil" tvg-name="CNN Brasil - longo" tvg-logo="https://i.imgur.com/5AK7gLc.png" tvg-shift="0" group-title="Brasil: notícias em português",CNN Brasil - link longo
+#EXTINF:-1 tvg-id="CNNBrasil" tvg-name="CNN Brasil - longo" tvg-logo="https://i.imgur.com/5AK7gLc.png" tvg-shift="0" group-title="Brasil: notícias em português",CNN Brasil
 https://linkastream.co/headless?url=https://www.youtube.com/channel/UCvdwhh_fDyWccR42-rReZLw/live
 
 #EXTINF:-1 tvg-id="EuronewsPT.nws" tvg-name="Euronews Portugal" tvg-logo="https://i.imgur.com/kQ1EG3u.png" tvg-shift="0" group-title="Brasil: notícias em português",Euronews 1 | Portugal
@@ -371,6 +371,9 @@ https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u
 
 #EXTINF:-1 tvg-id="Terraviva.br" tvg-name="Terra Viva" tvg-logo="https://1.bp.blogspot.com/-1DYn7WAo9Xc/XyxDWmZ9aeI/AAAAAAABu4Y/yrSqKd72VG8fkB_l6Ti7hUMp-AZUuMMqQCLcBGAsYHQ/w300-c/Terraviva.png" group-title="Brasil: variedades em português",Terra Viva | Brasil
 https://evpp.mm.uol.com.br/band_live/terraviva/chunklist_w1942099493.m3u8
+
+#EXTINF:-1 tvg-name="TPA" tvg-logo="https://i.imgur.com/HiUiuDI.png" group-title="Brasil: variedades em português",TPA | Angola
+https://linkastream.co/headless?url=https://livestream.com/accounts/30360708/events/9496693/player
 
 #EXTINF:-1 tvg-name="TV Ado" tvg-logo="https://i.imgur.com/weOxAEx.png" group-title="Brasil: variedades em português",TV ADO | Brasil
 https://5c483b9d1019c.streamlock.net/tvado/tvado/chunklist_w1766917256.m3u8
@@ -1028,7 +1031,8 @@ https://streamer-b02.videos.sapo.pt/live/santuario.stream/livestream.m3u8
 #EXTINF:-1 tvg-name="TV Maná 1" tvg-logo="https://i.imgur.com/ycTr2sk.png" group-title="Cristianismo",TV Maná 1 | Portugal
 http://195.22.11.11:1935/tvmana/tvmana2/playlist.m3u8
 
-
+#EXTINF:-1 tvg-name="Vatican News" tvg-logo="https://i.imgur.com/EumHaQC.png" group-title="Cristianismo",Vatican News | Vaticano
+https://linkastream.co/headless?url=https://www.youtube.com/channel/UC7E-LYc1wivk33iyt5bR5zQ/live
 
 ################################## Culinária em espanhol ###########################
 
@@ -3432,6 +3436,9 @@ https://3d48917864744271986248c38e797ee2.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-id="ITAJ4500023ZX" tvg-logo="https://i.imgur.com/TrC7TG6.png" group-title="Notícias em outros idiomas",Euronews | Itália - Rakuten
 https://rakuten-euronews-3-it.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Euronews Rússia" tvg-logo="https://i.imgur.com/TrC7TG6.png" group-title="Notícias em outros idiomas",Euronews | Rússia
+https://linkastream.co/headless?url=https://www.youtube.com/EuronewsRussia/live
 
 #EXTINF:-1 tvg-id="CHBA100000532" tvg-chno="4003" tvg-logo="https://i.imgur.com/TrC7TG6.png" group-title="Notícias em outros idiomas",Euronews | Suiça
 https://6e90edc1f58640ebadb0955758715502.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-ch_EuroNewsLive/playlist.m3u8?ads.wurl_channel=546&ads.wurl_name=EuroNewsLive&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
