@@ -4,7 +4,13 @@
 
 ######### Ao vivo no YouTube #####################
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hhvuBMc.png" group-title="Ao vivo no YouTube",Goiás X Operário | Sagres
+#EXTINF:-1 tvg-name="Bright Side" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSD8ewnWLbDOnGtbnygX55cRwM6LpT7z28MvUTRmQ=s400-c-k-c0x00ffffff-no-rj" group-title="Ao vivo no YouTube",Bright Side
+https://linkastream.co/headless?url=https://www.youtube.com/c/BRIGHTSIDEOFFICIAL/live
+
+#EXTINF:-1 tvg-name="Relax My Cat" tvg-logo="https://yt3.ggpht.com/J7jcUixlY9l1Sjc3kA2RphCKu1GuWPp7bRsPI3OFjVlxU2ojfWWFMlleRX5bd9Rjfe7G7cCStQ=s400-c-k-c0x00ffffff-no-rj" group-title="Ao vivo no YouTube",Relax My Cat
+https://linkastream.co/headless?url=https://www.youtube.com/channel/UC89zrYB2M6mj00nHdHWD-EA/live
+
+#EXTINF:-1 tvg-name="Sagres TV" tvg-logo="https://i.imgur.com/hhvuBMc.png" group-title="Ao vivo no YouTube",Sagres TV
 https://linkastream.co/headless?url=https://www.youtube.com/channel/UCf4Ez6ZNWZXFhgH-3eSZCjQ/live
 
 ####### Brasil: cinema #############################
@@ -702,7 +708,7 @@ https://dc87c2cd402c4403a3f577a2be3925fd.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="FRBA2200010VN" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/51/FRBA2200010VN_20210512T003422.png" group-title="Cinema em francês",MyTime Movie Network | França
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsunguk-appletree-mytimefrance-samsungfr/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
 
-#EXTINF:-1 tvg-id="FRBA10000039N" tvg-name="Movies Central" tvg-logo="https://i.imgur.com/dwOoEmE.jpg" group-title="Cinema em Francês",Movies Central | França
+#EXTINF:-1 tvg-id="FRBA10000039N" tvg-name="Movies Central" tvg-logo="https://i.imgur.com/dwOoEmE.jpg" group-title="Cinema em francês",Movies Central | França
 https://alchimie-movies-central-1-fr.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FRBA2200004J6" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/07/17/FRBA2200004J6_20210113T004315.png" group-title="Cinema em francês",Sofy.tv | França
