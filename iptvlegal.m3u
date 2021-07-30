@@ -16,7 +16,7 @@ https://linkastream.co/headless?url=https://www.youtube.com/channel/UChEKXfUm_mY
 #EXTINF:-1 tvg-name="Sagres TV" tvg-logo="https://i.imgur.com/hhvuBMc.png" group-title="Ao vivo no YouTube",Sagres TV
 https://linkastream.co/headless?url=https://www.youtube.com/channel/UCf4Ez6ZNWZXFhgH-3eSZCjQ/live
 
-#EXTINF:-1 tvg-name="Secult Goiás" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTfMGHKZd0UbS1IReJ5q_9KxtkjdXec1C7fGQ7oWQ=s400-c-k-c0x00ffffff-no-rj" group-title="Ao vivo no YouTube",Secult Goiás - às 19h tem sobre editais
+#EXTINF:-1 tvg-name="Secult Goiás" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTfMGHKZd0UbS1IReJ5q_9KxtkjdXec1C7fGQ7oWQ=s400-c-k-c0x00ffffff-no-rj" group-title="Ao vivo no YouTube",Secult Goiás
 https://linkastream.co/headless?url=https://www.youtube.com/channel/UC9-Fye26GXVKTVcSgkUDJvw/live
 
 ####### Brasil: cinema ############# Brasil: cinema ############# Brasil: cinema ############# Brasil: cinema ############# Brasil: cinema ############# Brasil: cinema ############# Brasil: cinema ############# Brasil: cinema ############# Brasil: cinema ######
@@ -784,6 +784,9 @@ https://linkastream.co/headless?url=https://www.distro.tv/live/cinepride
 #EXTINF:-1 tvg-id="classic-movies-channel" tvg-logo="http://images.pluto.tv/channels/561c5b0dada51f8004c4d855/colorLogoPNG.png" group-title="Cinema em inglês",Classic Movies Channel | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc928150-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e0e7c2c9-2c91-4084-9c20-f7a55e7fca1f&userId=&serverSideAds=true
 
+#EXTINF:-1 tvg-id="crackle.tv" tvg-name="Crackle" tvg-language="English" tvg-logo="https://i.imgur.com/XAQpMY6.png" group-title="Cinema em inglês",Crackle TV
+https://crackle-xumo.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="pluto-tv-crime-movies" tvg-logo="http://images.pluto.tv/channels/5f4d8594eb979c0007706de7/colorLogoPNG.png" group-title="Cinema em inglês",Crime Movies - Pluto TV | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d8594eb979c0007706de7/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc995f23-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1446c0aa-6b96-4d78-8b8a-ea701a9bb296&userId=&serverSideAds=true
 
@@ -1114,10 +1117,10 @@ https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/2915?p
 #EXTINF:-1  tvg-name="Eco Rico" tvg-logo="https://static.filmon.com/theme/images/logo/filmon_facebook.png" group-title="Culinária em inglês",Eco Rico
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/710?pprotocol=hls
 
-#EXTINF:-1 tvg-id="FoodNetwork.uk" tvg-name="Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Food_Network_-_Logo_2016.png" group-title="Culinária em inglês",Food Network | Reino Unido
+#EXTINF:-1 tvg-id="FoodNetwork.uk" tvg-name="Food Network" tvg-logo="https://i.imgur.com/3FtKnsF.png" group-title="Culinária em inglês",Food Network | Reino Unido
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/20?pprotocol=hls
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Food_Network_-_Logo_2016.png" tvg-id="FoodNetworkPlus1.uk" group-title="Culinária em inglês" tvg-name="Food Network+1",Food Network+1 | Reino Unido
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3FtKnsF.png" tvg-id="FoodNetworkPlus1.uk" group-title="Culinária em inglês" tvg-name="Food Network+1",Food Network+1 | Reino Unido
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/1829&pprotocol=hls
 
 #EXTINF:-1 tvg-id="food-tv" tvg-logo="http://images.pluto.tv/channels/5877ac8cb791f4eb4a140d81/colorLogoPNG.png" group-title="Culinária em inglês",Food TV | EUA
@@ -1200,7 +1203,8 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ed48146ba9e00078
 #EXTINF:-1 tvg-id="5dc280c9aa218c0009724b4b" group-title="Culinária em outros idiomas" tvg-name="Food" tvg-logo="https://images.pluto.tv/channels/5dc280c9aa218c0009724b4b/colorLogoPNG.png",Food | Alemanha
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dc280c9aa218c0009724b4b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-
+#EXTINF:-1 tvg-name="Food Network" tvg-logo="https://i.imgur.com/3FtKnsF.png" group-title="Culinária em outros idiomas",Food Network | Itália 
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_6@1000854/master.m3u8
 
 
 ################ Documentários em alemão ################ Documentários em alemão ################ Documentários em alemão ################ Documentários em alemão ################ Documentários em alemão ################ Documentários em alemão ################ Documentários em alemão ################ Documentários em alemão 
@@ -3114,6 +3118,21 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0d75e84830900098
 
 ## Música instrumental e som ambiente ############## Música instrumental e som ambiente ############## Música instrumental e som ambiente ############## Música instrumental e som ambiente ############## Música instrumental e som ambiente ############## Música instrumental e som ambiente ##############
 
+#EXTINF:-1 tvg-name="Aquário de corais com som de piano" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQEyJrT4Iab9_t64ImAlmAQxOTtxF3T5md3yMTtow=s400-c-k-c0x00ffffff-no-rj" group-title="Música instrumental e som ambiente",Aquário de corais com som de piano | YouTube
+https://linkastream.co/headless?url=https://www.youtube.com/watch?v=VEpGZeCVcsI
+
+#EXTINF:-1 tvg-name="Aquário de corais com som de água" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQEyJrT4Iab9_t64ImAlmAQxOTtxF3T5md3yMTtow=s400-c-k-c0x00ffffff-no-rj" group-title="Música instrumental e som ambiente",Aquário de corais com som de água | YouTube
+https://linkastream.co/headless?url=https://youtu.be/iY_zzKqoaMY
+
+#EXTINF:-1 tvg-name="Aquário de corais com som de água 2" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQEyJrT4Iab9_t64ImAlmAQxOTtxF3T5md3yMTtow=s400-c-k-c0x00ffffff-no-rj" group-title="Música instrumental e som ambiente",Aquário de corais com som de água 2 | YouTube
+https://linkastream.co/headless?url=https://youtu.be/y1cDdzNtWrA
+
+#EXTINF:-1 tvg-name="Aquário de corais com som de água 3" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQEyJrT4Iab9_t64ImAlmAQxOTtxF3T5md3yMTtow=s400-c-k-c0x00ffffff-no-rj" group-title="Música instrumental e som ambiente",Aquário de corais com som de água 3 | YouTube
+https://linkastream.co/headless?url=https://www.youtube.com/watch?v=RBjahOb8X-c
+
+#EXTINF:-1 tvg-name="Aquário de corais com som de água 4" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQEyJrT4Iab9_t64ImAlmAQxOTtxF3T5md3yMTtow=s400-c-k-c0x00ffffff-no-rj" group-title="Música instrumental e som ambiente",Aquário de corais com som de água 4 | YouTube
+https://linkastream.co/headless?url=https://www.youtube.com/watch?v=EoTrcNvDykY
+
 #EXTINF:-1 tvg-name="Brooks Falls Brown Bears Low" tvg-logo="https://i.imgur.com/Na4oLQP.png" group-title="Música instrumental e som ambiente",Brooks Falls Brown Bears Low | Explore.org
 https://linkastream.co/headless?url=https://www.youtube.com/watch?v=C0zf9I2XYrs
 
@@ -3274,6 +3293,9 @@ https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
 #EXTINF:-1 tvg-name="Negocios TV" group-title="Notícias em espanhol" tvg-logo="https://i.imgur.com/bg5hhn3.png",Negocios TV | Espanha
 https://play06.gooru.live/playnegocios/_definst_/5646-1603313320000/chunklist_w1698087186.m3u8
 
+#EXTINF:-1 tvg-name="RT España" group-title="Notícias em espanhol" tvg-logo="https://i.imgur.com/Rgdj3ia.png",Russia Today - RT em espanhol
+http://rt-esp.secure.footprint.net/1102_2500Kb.m3u8
+
 #EXTINF:-1 tvg-id="telefe-noticias" tvg-id="TelefeHD.ar" tvg-logo="https://imgur.com/tYW3AbT.png" group-title="Notícias em espanhol" tvg-name="Telefe Noticias",Telefe Noticias | Argentina
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f523aa5523ae000074745ec/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff334c2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dffc36b9-57c6-4973-9903-2f83d465ac40&userId=&serverSideAds=true
 
@@ -3284,6 +3306,9 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f523aa5523ae00007
 https://rtvelivestreamv3.akamaized.net/24h_main_dvr_720.m3u8
 
 ############## NOTÍCIAS em francês  ############## NOTÍCIAS em francês ############## NOTÍCIAS em francês ############## NOTÍCIAS em francês ############## NOTÍCIAS em francês ############## NOTÍCIAS em francês ############## NOTÍCIAS em francês ##########
+
+#EXTINF:-1 tvg-name="AfricaNews FR" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRSlrinF4YWAaMofs-rcuxbYGhTufB8HubZ9bhW3Q=s900-c-k-c0x00ffffff-no-rj" group-title="Notícias em inglês",AfricaNews em francês
+https://linkastream.co/headless?url=https://youtu.be/b6R9-7KZ8YM/live
 
 #EXTINF:-1 tvg-id="BFMTV.fr" tvg-logo="https://i.imgur.com/6vSFWfq.png" tvg-name="BFM TV" group-title="Notícias em francês",BFM | França
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/2765?pprotocol=hls
@@ -3348,7 +3373,7 @@ https://hls-origin01-focus-wtv.cdn01.rambla.be/main/adliveorigin-focus-wtv/_defi
 https://hls-origin01-focus-wtv.cdn01.rambla.be/main/adliveorigin-focus-wtv/_definst_/ARXpX7.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-name="Rob TV" tvg-logo="https://i.imgur.com/EV4NlTF.png" group-title="Notícias em holandês",Rob TV | Bélgica
-http://api.new.livestream.com/accounts/27755193/events/8462344/live.m3u8
+https://api.new.livestream.com/accounts/27755193/events/8462344/live.m3u8
 
 #EXTINF:-1 tvg-name="TVL" tvg-logo="https://i.imgur.com/xTyUJTs.jpg" group-title="Notícias em holandês",TV Limburg | Bélgica
 https://player-api.new.livestream.com/accounts/27755193/events/8452383/live.m3u8
@@ -3363,6 +3388,9 @@ https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea09
 
 #EXTINF:-1 tvg-name="ABC News 2 | Austrália 🇦🇺" tvg-id="abcnews.com.au" tvg-logo="https://i.imgur.com/rdkvOCh.png" group-title="Notícias em inglês",ABC News 2 | Austrália 🇦🇺
 https://c.mjh.nz/101002210220/
+
+#EXTINF:-1 tvg-name="AfricaNews" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRSlrinF4YWAaMofs-rcuxbYGhTufB8HubZ9bhW3Q=s900-c-k-c0x00ffffff-no-rj" group-title="Notícias em inglês",AfricaNews
+https://linkastream.co/headless?url=,https://youtu.be/NQjabLGdP5g/live
 
 #EXTINF:-1 tvg-name="Al Jazeera | English" tvg-id="Al-JazeeraEnglish.net" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Al-jazeera-logo.jpg" group-title="Notícias em inglês",Al Jazeera | Inglês
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
@@ -3514,7 +3542,7 @@ https://ajo.prod.reuters.tv/rest/v2/playlist/assets/58197,464695,464688,464478,5
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5eea71d65252710041e0ccbc" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/reuters_reutersnow_1.png" group-title="Notícias em inglês",Reuters TV
 https://32ce4aad1eed49b1ba2999fb68d119c8.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_ReutersNow/playlist.m3u8?ads.wurl_channel=481&ads.wurl_name=ReutersNow&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=Tog8X6wK6iweuzGFsz6p&ads.plex_id=5eea71d65252710041e0ccbc&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
 
-#EXTINF:-1 tvg-id="RussiaToday.uk" tvg-name="Russia Today" tvg-shift="0" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1024px-Russia-today-logo.svg.png" group-title="Notícias em inglês",Russia Today em inglês
+#EXTINF:-1 tvg-id="RussiaToday.uk" tvg-name="Russia Today" tvg-shift="0" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1024px-Russia-today-logo.svg.png" group-title="Notícias em inglês",Russia Today - RT em inglês
 https://rt-news-gd.secure2.footprint.net/1103_2500Kb.m3u8
 
 #EXTINF:-1 tvg-name="Sky News Austrália 🇦🇺" tvg-id="australiachannel.com.au" tvg-logo="https://i.imgur.com/1XiQezD.png" group-title="Notícias em inglês",Sky News | Austrália
@@ -4484,6 +4512,9 @@ https://klive.kaltura.com/env/cluster-1-a.live.nvp1/live/hls/p/1719221/e/1_obr1n
 
 #EXTINF:-1 tvg-name="Teleromagna" tvg-id="teleromagna" tvg-logo="https://i.imgur.com/T2cK6aE.png" group-title="Variedades em outros idiomas",Teleromagna | Itália
 http://livetr.teleromagna.it/teleromagna/live/playlist.m3u8
+
+#EXTINF:-1 tvg-name="VH1 Italia" tvg-logo="https://i.imgur.com/NRXoneo.png" group-title="Variedades em outros idiomas",VH1 | Itália
+https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 
 
 ################### Videogame ############### Videogame ###############  Videogame ###############  Videogame ###############  Videogame ###############  Videogame ###############  Videogame ###############  Videogame ###############  Videogame ############### 
