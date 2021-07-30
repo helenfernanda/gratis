@@ -2,11 +2,16 @@
 
 ### Contato e Pix da editora da lista: meutedio@mail.com ############
 
+######### Ao vivo no YouTube #####################
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hhvuBMc.png" group-title="Ao vivo no YouTube",Goiás X Operário | Sagres
+https://linkastream.co/headless?url=https://www.youtube.com/channel/UCf4Ez6ZNWZXFhgH-3eSZCjQ/live
+
 ####### Brasil: cinema #############################
 #EXTINF:-1 tvg-id="bet-pluto-tv-ptv1" tvg-logo="http://images.pluto.tv/channels/5ff768b6a4c8b80008498610/colorLogoPNG.png" group-title="Brasil: cinema em português",BET | Brasil 
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff768b6a4c8b80008498610/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b24c76a3-8dd8-11eb-83c3-1ff76e6e06e9&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=65d20d49-b2d8-4725-9f02-e688df67da0e&userId=&serverSideAds=true
 
-#EXTINF:-1  tvg-logo="https://i.imgur.com/gl4Ga75.png" group-title="Brasil: cinema em português",Bora Filmes | Brasil 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gl4Ga75.png" group-title="Brasil: cinema em português",Bora Filmes | Brasil 
 http://45.165.178.82:8000/play/a00y/index.m3u8
 
 #EXTINF:-1 tvg-id="pluto-tv-cine-classicos" tvg-logo="https://images.pluto.tv/channels/5fa1612a669ba0000702017b/featuredImage.jpg" group-title="Brasil: cinema em português",Cine Clássicos | Brasil
@@ -697,8 +702,8 @@ https://dc87c2cd402c4403a3f577a2be3925fd.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="FRBA2200010VN" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/51/FRBA2200010VN_20210512T003422.png" group-title="Cinema em francês",MyTime Movie Network | França
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsunguk-appletree-mytimefrance-samsungfr/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
 
-#EXTINF:-1 tvg-id="FRBA10000039N" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/40/FRBA10000039N_20200923T100424.png" group-title="Cinema em francês",Movies Central by TVPlayer | França
-https://61711202639b4050845a8a1f02ec4df8.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_MoviesCentralByTVPlayer/playlist.m3u8?ads.wurl_channel=522&ads.wurl_name=MoviesCentralByTVPlayer&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="FRBA10000039N" tvg-name="Movies Central" tvg-logo="https://i.imgur.com/dwOoEmE.jpg" group-title="Cinema em Francês",Movies Central | França
+https://alchimie-movies-central-1-fr.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FRBA2200004J6" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/07/17/FRBA2200004J6_20210113T004315.png" group-title="Cinema em francês",Sofy.tv | França
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsunguk-sofytv-samsung-fr/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
@@ -1170,14 +1175,19 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca1ddd10
 
 ################################## Culinária em outros idioma ########################### Culinária em outros idioma ########################### Culinária em outros idioma ########################### Culinária em outros idioma ########################### Culinária em outros idioma ########################### Culinária em outros idioma ########################### Culinária em outros idioma ########################### 
 
+#EXTINF:-1 tvg-name="Atelier des chefs" tvg-logo="https://i.imgur.com/laArg26.png" group-title="Culinária em outros idiomas",Atelier des chefs | França
+https://alchimie-atelier-des-chefs-1-fr.samsung.wurl.com/manifest/playlist.m3u8
+
 #EXTINF:-1 tvg-id="5e8c4c3f141f350007936f7d" group-title="Culinária em outros idiomas" tvg-name="Chefkoch" tvg-logo="https://images.pluto.tv/channels/5e8c4c3f141f350007936f7d/colorLogoPNG.png",Chefkoch | Alemanha
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e8c4c3f141f350007936f7d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-id="pluto-tv-cuisine-fr" tvg-logo="http://images.pluto.tv/channels/5f8ed48146ba9e00078424b6/colorLogoPNG.png" group-title="Culinária em outros idiomas",Cuisine | França - Pluto TV 
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ed48146ba9e00078424b6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=dda58b21-6a6f-11eb-8380-d53d31dd7908&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=85f2b0bc-b7b2-4f9b-9a64-c5dbab2a2280&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-id="5dc280c9aa218c0009724b4b" group-title="Culinária em outros idiomas" tvg-name="Food" tvg-logo="https://images.pluto.tv/channels/5dc280c9aa218c0009724b4b/colorLogoPNG.png",Food | Alemanha
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dc280c9aa218c0009724b4b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1 tvg-id="pluto-tv-cuisine-fr" tvg-logo="http://images.pluto.tv/channels/5f8ed48146ba9e00078424b6/colorLogoPNG.png" group-title="Culinária em outros idiomas",Pluto TV Cuisine | França
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ed48146ba9e00078424b6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=dda58b21-6a6f-11eb-8380-d53d31dd7908&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=85f2b0bc-b7b2-4f9b-9a64-c5dbab2a2280&userId=&serverSideAds=true
+
 
 
 ################ Documentários em alemão ################ Documentários em alemão ################ Documentários em alemão ################ Documentários em alemão ################ Documentários em alemão ################ Documentários em alemão ################ Documentários em alemão ################ Documentários em alemão 
@@ -1251,6 +1261,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f984f4a09e92d0007d
 #EXTINF:-1 tvg-id="5efb8c19b2678b000780d032" tvg-name="Archivos Forenses MX" tvg-logo="https://images.pluto.tv/channels/5efb8c19b2678b000780d032/colorLogoPNG.png" group-title="Documentários em espanhol",Archivos Forenses | México
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5efb8c19b2678b000780d032/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 
+#EXTINF:-1 tvg-name="Big Name Espanha" tvg-logo="https://i.imgur.com/7nXrR41.png" group-title="Documentários em espanhol",Big Name | Espanha
+https://alchimie-big-names-4-es.samsung.wurl.com/manifest/playlist.m3u8
+
 #EXTINF:-1 tvg-id="pluto-tv-science.ar" tvg-name="Pluto TV Ciencia Argentina" tvg-logo="https://imgur.com/Ywp0UyE.png" group-title="Documentários em espanhol",Ciencia | Argentina - Pluto TV
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd8364ea1d6780009929902/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff138f0-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1f0bad78-81a8-4ec0-bca7-e97463a2cc94&userId=&serverSideAds=true
 
@@ -1299,6 +1312,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1acbed25948a0007f
 #EXTINF:-1 tvg-id="los-nuevos-detectives-es" tvg-logo="http://images.pluto.tv/channels/5f1acba0d1f6340007db8843/colorLogoPNG.png" group-title="Documentários em espanhol",Los nuevos detectives | Espanha
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1acba0d1f6340007db8843/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a9a71090-8b68-11eb-b9cd-1bc319230674&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=4df637be-b9e1-4a0e-8f91-732d19352f35&userId=&serverSideAds=true
 
+#EXTINF:-1 tvg-name="Love Natura ES" tvg-logo="https://i.imgur.com/gHOnUfn.png" group-title="Documentários em espanhol",Love Nature em espanhol 
+https://bamus-spa-roku.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="pluto-tv-misterios" tvg-logo="https://imgur.com/kExdKzl.png" group-title="Documentários em espanhol",Misterios | Argentina - Pluto TV
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde2f53449c50009b2b4dc/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff0c3c0-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=143bd56d-49f4-4f1d-af28-384df378b15d&userId=&serverSideAds=true
 
@@ -1338,7 +1354,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ea71d48af1d0b0007d
 #EXTINF:-1 tvg-id="5ea71d48af1d0b0007d837f4" tvg-logo="https://images.pluto.tv/channels/5ea71d48af1d0b0007d837f4/colorLogoPNG.png" group-title="Documentários em espanhol",The New Detectives | México
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ea71d48af1d0b0007d837f4/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 
-#EXTINF:-1 tvg-id="UnearthSpain.fr" tvg-name="Unearth (Spain)" tvg-logo="https://i.imgur.com/PUacVoP.jpg" group-title="Documentários em espanhol",Unearth | Espanha
+#EXTINF:-1 tvg-id="UnearthSpain.fr" tvg-name="Unearth (Spain)" tvg-logo="https://i.imgur.com/kC9vaKL.png" group-title="Documentários em espanhol",Unearth | Espanha
 https://alchimie-unearth-3-es.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-id="unsolved-mysteries-en-espanol" tvg-logo="http://images.pluto.tv/channels/5f4d882d5233170007ee880e/colorLogoPNG.png" group-title="Documentários em espanhol",Unsovled Mysteries en Español | EUA
@@ -1396,7 +1412,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ed58b2db26f0007b
 #EXTINF:-1 tvg-id="hantise-fr" tvg-logo="http://images.pluto.tv/channels/5f8ed9461b35690007a0bc3a/colorLogoPNG.png" group-title="Documentários em francês",Paranormal | França - Pluto TV
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ed9461b35690007a0bc3a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=dda60051-6a6f-11eb-8380-d53d31dd7908&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8112e117-6c73-45db-b915-496452e45051&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="Unearth.fr" tvg-name="Unearth" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/PUacVoP.jpg" group-title="Documentários em francês",Unearth | França
+#EXTINF:-1 tvg-id="Unearth.fr" tvg-name="Unearth" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/kC9vaKL.png" group-title="Documentários em francês",Unearth | França
 https://alchimie-unearth-1-fr.samsung.wurl.com/manifest/playlist.m3u8
 
 ################################################################################################
@@ -1514,10 +1530,10 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8beeb39b5d5d5f8c6
 #EXTINF:-1 tvg-id="600acaff5f2d6e000745effb" tvg-logo="https://images.pluto.tv/channels/600acaff5f2d6e000745effb/colorLogoPNG.png" group-title="Documentários em inglês",Lives - Pluto TV | Reino Unido
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/600acaff5f2d6e000745effb/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60995eb136c72d002da7bbcb" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/LoveNature_Logo_Dark.png" group-title="Documentários em inglês",Love Nature | EUA 
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60995eb136c72d002da7bbcb" tvg-logo="https://i.imgur.com/gHOnUfn.png" group-title="Documentários em inglês",Love Nature | EUA 
 https://lovenatureus-eng-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-bamus-lovenature-eng-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=Tog8X6wK6iweuzGFsz6p&channelId=60995eb136c72d002da7bbcb
 
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60995eb136c72d002da7bbcb" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/81/USBA3400003IP_20210525T051505.png" group-title="Documentários em inglês",Love Nature 4K | EUA 
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60995eb136c72d002da7bbcb" tvg-logo="https://i.imgur.com/gHOnUfn.png" group-title="Documentários em inglês",Love Nature 4K | EUA 
 https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
 #EXTINF:-1 tvg-id="CAAJ3400017AE" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/17/CAAJ3400017AE_20210525T051443.png" group-title="Documentários em inglês",MagellanTV Now | EUA
@@ -1641,7 +1657,7 @@ https://travelxp-travelxp-1-au.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="5ebd0ff1e1a4770007479dc7" tvg-logo="https://images.pluto.tv/channels/5ebd0ff1e1a4770007479dc7/colorLogoPNG.png" group-title="Documentários em inglês",Truly | Reino Unido
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ebd0ff1e1a4770007479dc7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1 tvg-id="Unearth.fr" tvg-name="Unearth" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/PUacVoP.jpg" group-title="Documentários em inglês",Unearth | Reino Unido
+#EXTINF:-1 tvg-id="Unearth.fr" tvg-name="Unearth" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/kC9vaKL.jpg" group-title="Documentários em inglês",Unearth | Reino Unido
 https://alchimie-unearth-2-gb.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-id="unsolved-mysteries" tvg-logo="http://images.pluto.tv/channels/5b4e96a0423e067bd6df6901/colorLogoPNG.png" group-title="Documentários em inglês",Unsolved Mysteries | EUA
@@ -1660,6 +1676,9 @@ http://xlpore-samsungus.amagi.tv/playlist.m3u8
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-xplore-samsungus/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
 ################# Documentários em outros idiomas ################# Documentários em outros idiomas ################# Documentários em outros idiomas ################# Documentários em outros idiomas ################# Documentários em outros idiomas ################# Documentários em outros idiomas 
+
+#EXTINF:-1 tvg-name="Big Name" tvg-logo="https://i.imgur.com/7nXrR41.png" group-title="Documentários em outros idiomas",Big Name | Itália
+https://alchimie-big-names-3-it.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 group-title="Documentários em outros idiomas" tvg-name="Deutsche Welle Árabe" tvg-logo="https://i.imgur.com/CsHdYhG.png",Deutsche Welle - DW em árabe 
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/stream04/streamPlaylist.m3u8
@@ -1852,7 +1871,7 @@ https://6662c4e5ecf14e23b198830de4e1ddb7.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="USAK3508711A" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/05/13/USAK3508711A_20210525T051633.png" group-title="Esportes em inglês",Fuel TV da Samsung | EUA
 https://8f53b9a4334b4ef38d52270ecc7636ec.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_FuelTV/playlist.m3u8?ads.wurl_channel=568&ads.wurl_name=FuelTV&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-604bf68f499957002d574f47" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/FUELTV_logo_dark.png" group-title="Esportes em inglês",Fuel TV do Plex | EUA
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-604bf68f499957002d574f47" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/05/13/USAK3508711A_20210525T051633.png" group-title="Esportes em inglês",Fuel TV do Plex | EUA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=571&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=Tog8X6wK6iweuzGFsz6p&content_series=604bf68f499957002d574f47&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=Tog8X6wK6iweuzGFsz6p&custom_7=604bf68f499957002d574f47
 
 #EXTINF:-1 tvg-id="5d4af39510fd17b31a528eda" tvg-logo="https://images.pluto.tv/channels/5d4af39510fd17b31a528eda/colorLogoPNG.png" group-title="Esportes em inglês",Fishing - Pluto TV | Reino Unido
@@ -3130,13 +3149,16 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/600b248969c6580007e
 #EXTINF:-1 tvg-name="Loupe EUA" tvg-id="loupe-eua" tvg-logo="https://media-exp1.licdn.com/dms/image/C4D0BAQFyyXznCPCX5Q/company-logo_200_200/0/1519921044747?e=2159024400&v=beta&t=zG7sdc7PpRBdwxr00jP9ssNa_WfXxGLxPkvpeuKePlI" group-title="Música instrumental e som ambiente",Loupe EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f0cb39b4ae1f80007bad585/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc98e9f5-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=99bbe6a5-becc-4f1b-8af9-bb8f6923faf9&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="ESAJ4500014QG" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/06/31/ESAJ4500014QG_20200923T100320.png" group-title="Música instrumental e som ambiente",Moods | Espanha
+#EXTINF:-1 tvg-id="ESAJ4500014QG" tvg-logo="https://i.imgur.com/XHwdwPm.png" group-title="Música instrumental e som ambiente",Moods | Espanha
 https://3eb67767194d4a499cbc2bec04579e95.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_Moods/playlist.m3u8?ads.wurl_channel=374&ads.wurl_name=Moods&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
 
-#EXTINF:-1 tvg-id="FRAJ4500013AB" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/38/FRAJ4500013AB_20200923T100321.png" group-title="Música instrumental e som ambiente",Moods | França
+#EXTINF:-1 tvg-id="FRAJ4500013AB" tvg-name="Moods" tvg-logo="https://i.imgur.com/XHwdwPm.png" group-title="Música instrumental e som ambiente",Moods | França 1
+https://alchimie-moods-1-fr.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FRAJ4500013AB" tvg-name="Moods" tvg-logo="https://i.imgur.com/XHwdwPm.png" group-title="Música instrumental e som ambiente",Moods | França 2
 https://abeba3bd0b66481bb812f8c2610bb6d2.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_Moods/playlist.m3u8?ads.wurl_channel=332&ads.wurl_name=Moods&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
 
-#EXTINF:-1 tvg-id="ITAJ45000132J" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/68/ITAJ45000132J_20200923T100322.png" group-title="Música instrumental e som ambiente",Moods | Itália
+#EXTINF:-1 tvg-id="ITAJ45000132J" tvg-logo="https://i.imgur.com/XHwdwPm.png" group-title="Música instrumental e som ambiente",Moods | Itália
 https://84ebc56d880a4e7e8e7553e2b17f13a1.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-it_Moods/playlist.m3u8?ads.wurl_channel=359&ads.wurl_name=Moods&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
 
 #EXTINF:-1 tvg-id="naturescape" tvg-logo="http://images.pluto.tv/channels/5812bd9f249444e05d09cc4e/colorLogoPNG.png" group-title="Música instrumental e som ambiente",Naturescape by Stingray | EUA
@@ -3237,7 +3259,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f523aa5523ae000074
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f523aa5523ae000074745ec/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 
 #EXTINF:-1 tvg-name="TVE 24h" tvg-id="TVE24h.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2084px-Logo_TVE-24h.svg.png" group-title="Notícias em espanhol",TVE 24h | Espanha
-https://rtvelivestream.akamaized.net/24h_main_dvr_360.m3u8
+https://rtvelivestreamv3.akamaized.net/24h_main_dvr_720.m3u8
 
 ############## NOTÍCIAS em francês  ############## NOTÍCIAS em francês ############## NOTÍCIAS em francês ############## NOTÍCIAS em francês ############## NOTÍCIAS em francês ############## NOTÍCIAS em francês ############## NOTÍCIAS em francês ##########
 
@@ -3285,6 +3307,29 @@ https://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m
 
 #EXTINF:-1 tvg-id="ViaOccitanie.fr" tvg-name="Vià Occitanie" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/Mt6KvsF.png" group-title="Notícias em francês",ViàOccitanie | França
 https://streamer01.myvideoplace.tv/streamer02/hls/MDS_VIA_PAD_301117_medium/index.m3u8
+
+############## NOTÍCIAS em holandÊs ################## NOTÍCIAS em holandÊs ################## NOTÍCIAS em holandÊs ################## NOTÍCIAS em holandÊs ################## NOTÍCIAS em holandÊs ################## NOTÍCIAS em holandÊs ################## NOTÍCIAS em holandês ####
+
+#EXTINF:-1 tvg-name="Bruzz" tvg-logo="https://i.imgur.com/dA31yD6.png" group-title="Notícias em holandês",Bruzz 1 | Bélgica
+https://hls-origin01-bruzz.cdn02.rambla.be/main/adliveorigin-bruzz/_definst_/V3n5YY.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Bruzz" tvg-logo="https://i.imgur.com/dA31yD6.png" group-title="Notícias em holandês",Bruzz 2 | Bélgica
+https://hls-origin01-bruzz.cdn02.rambla.be/main/adliveorigin-bruzz/_definst_/V3n5YY.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="Focus" tvg-logo="https://i.imgur.com/aGORIN8.png" group-title="Notícias em holandês",Focus | Bélgica 
+https://hls-origin01-focus-wtv.cdn01.rambla.be/main/adliveorigin-focus-wtv/_definst_/AG1G1l.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="Focus" tvg-logo="https://i.imgur.com/aGORIN8.png" group-title="Notícias em holandês",Focus en WTV | Bélgica
+https://hls-origin01-focus-wtv.cdn01.rambla.be/main/adliveorigin-focus-wtv/_definst_/ARXpX7.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="Rob TV" tvg-logo="https://i.imgur.com/EV4NlTF.png" group-title="Notícias em holandês",Rob TV | Bélgica
+http://api.new.livestream.com/accounts/27755193/events/8462344/live.m3u8
+
+#EXTINF:-1 tvg-name="TVL" tvg-logo="https://i.imgur.com/xTyUJTs.jpg" group-title="Notícias em holandês",TV Limburg | Bélgica
+https://player-api.new.livestream.com/accounts/27755193/events/8452383/live.m3u8
+
+#EXTINF:-1 tvg-name="TV Oost" tvg-logo="https://i.imgur.com/xAITEOQ.png" group-title="Notícias em holandês",TV Oost | Bélgica 
+https://player-api.new.livestream.com/accounts/27755193/events/8511193/live.m3u8
 
 ############## NOTÍCIAS em INGLÊS ############## NOTÍCIAS em INGLÊS ############## NOTÍCIAS em INGLÊS ############## NOTÍCIAS em INGLÊS ############## NOTÍCIAS em INGLÊS ############## NOTÍCIAS em INGLÊS ############## NOTÍCIAS em INGLÊS ##############
 
@@ -3529,6 +3574,9 @@ https://6e90edc1f58640ebadb0955758715502.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="France24Arabic.fr" tvg-name="France 24 Arabic" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="Notícias em outros idiomas",France 24 em árabe
 https://static.france24.com/live/F24_AR_HI_HLS/live_tv.m3u8
 
+#EXTINF:-1 tvg-id="IonianTVGR" tvg-name="Ionian TV" tvg-logo="https://i.imgur.com/zuXu5tQ.png" group-title="Notícias em outros idiomas",Ionian TV | Grécia
+https://stream.ioniantv.gr/ionian/live_abr/playlist.m3u8
+
 #EXTINF:-1 tvg-name="Sky News Arabic" tvg-logo="https://i.imgur.com/T7LcUwf.png" group-title="Notícias em outros idiomas",Sky News Arabic
 https://linkastream.co/headless?url=https://www.youtube.com/c/SkyNewsArabia/live
 
@@ -3653,6 +3701,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ed6d569d2d400086
 
 #EXTINF:-1 tvg-id="plus-belle-la-vie-fr" tvg-logo="http://images.pluto.tv/channels/5f8ed5fba4ffb8000764ea01/colorLogoPNG.png" group-title="Novelas e séries em francês",Plus Belle La Vie | França
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ed5fba4ffb8000764ea01/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=dda5d940-6a6f-11eb-8380-d53d31dd7908&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=83dc9f37-681e-4c1e-85b6-a6e0771583fa&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-name="Stormcast Novelas TV" tvg-logo="https://i.imgur.com/WpQ3N82.png" group-title="Novelas e séries em francês",Stormcast Novelas TV | França
+https://stormcast-telenovelatv-1-fr.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-id="pluto-tv-telenovela-fr" tvg-logo="http://images.pluto.tv/channels/5f914f9dccb4de0007df8bc4/colorLogoPNG.png" group-title="Novelas e séries em francês",Telenovela - Pluto TV | França
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f914f9dccb4de0007df8bc4/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=dda62761-6a6f-11eb-8380-d53d31dd7908&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=5672b9c0-2841-4fd4-ad79-89a6c5fe9134&userId=&serverSideAds=true
@@ -4227,32 +4278,6 @@ https://streaming01.divercom.be/notele_live/_definst_/direct.stream/chunklist_w1
 #EXTINF:-1 tvg-name="VoxAfrica FR" tvg-logo="https://i.imgur.com/qjcUn49.png" group-title="Variedades em francês",VoxAfrica em francês
 https://1927901613.rsc.cdn77.org/1927901613/tracks-v1a1/mono.m3u8
 
-######### variedades em holandês (neerlandês) ######### variedades em holandês ######### variedades em holandês ######### variedades em holandês ######### variedades em holandês ######### variedades em holandês ######### variedades em holandês ########
-
-#EXTINF:-1 tvg-name="ATV" tvg-logo="https://i.imgur.com/600QxyO.png" group-title="Variedades em holandês",ATV | Bélgica
-http://api.new.livestream.com/accounts/27755193/events/8452381/live.m3u8
-
-#EXTINF:-1 tvg-name="Bruzz" tvg-logo="https://i.imgur.com/dA31yD6.png" group-title="Variedades em holandês",Bruzz 1 | Bélgica
-https://hls-origin01-bruzz.cdn02.rambla.be/main/adliveorigin-bruzz/_definst_/V3n5YY.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Bruzz" tvg-logo="https://i.imgur.com/dA31yD6.png" group-title="Variedades em holandês",Bruzz 2 | Bélgica
-https://hls-origin01-bruzz.cdn02.rambla.be/main/adliveorigin-bruzz/_definst_/V3n5YY.smil/chunklist.m3u8
-
-#EXTINF:-1 tvg-name="Focus" tvg-logo="https://i.imgur.com/aGORIN8.png" group-title="Variedades em holandês",Focus 1 | Bélgica 
-https://hls-origin01-focus-wtv.cdn01.rambla.be/main/adliveorigin-focus-wtv/_definst_/AG1G1l.smil/chunklist.m3u8
-
-#EXTINF:-1 tvg-name="Focus" tvg-logo="https://i.imgur.com/aGORIN8.png" group-title="Variedades em holandês",Focus 2 | Bélgica
-https://hls-origin01-focus-wtv.cdn01.rambla.be/main/adliveorigin-focus-wtv/_definst_/ARXpX7.smil/chunklist.m3u8
-
-#EXTINF:-1 tvg-name="Rob TV" tvg-logo="https://i.imgur.com/EV4NlTF.png" group-title="Variedades em holandês",Rob TV | Bélgica
-http://api.new.livestream.com/accounts/27755193/events/8462344/live.m3u8
-
-#EXTINF:-1 tvg-name="TVL" tvg-logo="https://i.imgur.com/xTyUJTs.jpg" group-title="Variedades em holandês",TV Limburg | Bélgica
-http://player-api.new.livestream.com/accounts/27755193/events/8452383/live.m3u8
-
-#EXTINF:-1 tvg-name="TV Oost" tvg-logo="https://i.imgur.com/xAITEOQ.png" group-title="Variedades em holandês",TV Oost | Bélgica 
-http://player-api.new.livestream.com/accounts/27755193/events/8511193/live.m3u8
-
 ######### variedades em inglês  ############# ######### variedades em inglês  ############# ######### variedades em inglês  ############# ######### variedades em inglês  #############
 
 #EXTINF:-1 tvg-name="ABC Adelaide AU"  tvg-logo="https://i.imgur.com/rLCHYCs.png" group-title="Variedades em inglês",ABC Adelaide | Austrália
@@ -4402,11 +4427,17 @@ https://1494836162.rsc.cdn77.org/LS-PRG-59570-1/tracks-v1a1/mono.m3u8
 
 ######### variedades em outros idiomas  ###################### variedades em outros idiomas  ###################### variedades em outros idiomas  ###################### variedades em outros idiomas  ###################### variedades em outros idiomas  ###################### variedades em outros idiomas  ###################### variedades em outros idiomas  #############
 
+#EXTINF:-1 tvg-name="ATV" tvg-logo="https://i.imgur.com/600QxyO.png" group-title="Variedades em outros idiomas",ATV | Bélgica, em holandês
+http://api.new.livestream.com/accounts/27755193/events/8452381/live.m3u8
+
 #EXTINF:-1 tvg-name="Blue Sky" tvg-logo="https://i.imgur.com/QMtGErp.png" group-title="Variedades em outros idiomas",Blue Sky TV | Grécia
 https://stream-03.nyc.dailymotion.com/sec(EWe07LaLICe6ZTgKrFaKW1WbYaL94LIy6BVNUSiDRfI)/dm/3/x7z731p/s/live-3.m3u8
 
 #EXTINF:-1 tvg-id="Channel20.il" tvg-logo="https://i.imgur.com/vxGmKFv.png" group-title="Variedades em outros idiomas" tvg-name="Channel 20",Channel 20 | Israel
 https://dvr.ch20-cdnwiz.com/hls/live_360/index.m3u8
+
+#EXTINF:-1 tvg-name="Irida TV" tvg-logo="https://i.imgur.com/c8gZ2W4.png" group-title="Variedades em outros idiomas",Irida TV | Grécia
+https://www.hellasnet.tv/rest.live.hn/ws.iri/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Channel11.il" tvg-logo="https://i.imgur.com/NLbnUz3.png" group-title="Variedades em outros idiomas" tvg-name="Kan 11",Kan 11 Jerusalém | Israel
 https://stream-03.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl9VEUxHPci9Zzif2aQ5-OY0)/dm/3/x7wjmog/d/live-2.m3u8
@@ -4470,9 +4501,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5bd7fb15c9a300077
 
 #EXTINF:-1 tvg-id="gamespot" tvg-logo="http://images.pluto.tv/channels/5f186626dcd00d0007936443/colorLogoPNG.png" group-title="Videogame",GameSpot | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f186626dcd00d0007936443/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc991102-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6ecb36e8-d680-49e3-a904-14ec1e90c75b&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-605cc6ca6858f7002ca38f92" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/GameToon_logo_dark.png" group-title="Videogame",Gametoon
-https://gametoon-plex.amagi.tv/hls/amagi_hls_data_xumo-host-gametoon-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=Tog8X6wK6iweuzGFsz6p&channelId=605cc6ca6858f7002ca38f92
 
 #EXTINF:-1 tvg-id="gaming-tv-fr" tvg-logo="http://images.pluto.tv/channels/5f8eccd81062c300078a11df/colorLogoPNG.png" group-title="Videogame",Gaming TV | França
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8eccd81062c300078a11df/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=dda4a0c2-6a6f-11eb-8380-d53d31dd7908&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e162ea5a-ce97-4c8c-81c3-64c901aacc1a&userId=&serverSideAds=true
