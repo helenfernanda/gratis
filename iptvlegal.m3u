@@ -424,8 +424,14 @@ https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m
 #EXTINF:-1 tvg-id="Tvmon.br" group-title="Brasil: variedades em português" tvg-logo="https://2net.com.br/Repositorio/3106/Logo/ee19d371-e.png",TV Mon | Montenegro (RS)
 https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvpantanal.png" group-title="Brasil: variedades em português", TV Pantanal (MS)
+#EXTINF:-1 tvg-name="TV Pantanal" tvg-logo="https://listaiptv.gratis/logos/imagens/tvpantanal.png" group-title="Brasil: variedades em português", TV Pantanal (MS)
 https://5e837408ea907.streamlock.net:1936/tvpantanalms/tvpantanalms/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TVM" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSrHjp6Kw-MTOl5RxThdiuAsYL-xrzsJlK9RhbP8g=s400-c-k-c0x00ffffff-no-rj" group-title="Brasil: variedades em português", TVM | Moçambique
+http://online.tvm.co.mz:1935/live/smil:Channel1.smil/chunklist_w138848732_b214000_slpor.m3u8
+
+#EXTINF:-1 tvg-name="TVM Internacional" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSrHjp6Kw-MTOl5RxThdiuAsYL-xrzsJlK9RhbP8g=s400-c-k-c0x00ffffff-no-rj" group-title="Brasil: variedades em português", TVM Internacional | Moçambique
+http://online.tvm.co.mz:1935/live/smil:Channel2.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-name="Up Channel" group-title="Brasil: variedades em português" tvg-logo="https://i.imgur.com/IIztLyO.png",Up Channel | Brasil
 http://45.165.178.82:8000/play/a00x/index.m3u8
@@ -556,7 +562,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e1efdbf9
 
 ############################## CINEMA EM ESPANHOL ################## CINEMA EM ESPANHOL ################## CINEMA EM ESPANHOL ################## CINEMA EM ESPANHOL ################## CINEMA EM ESPANHOL ################## CINEMA EM ESPANHOL ################## CINEMA EM ESPANHOL ################## CINEMA EM ESPANHOL ################## CINEMA EM ESPANHOL ################## CINEMA EM ESPANHOL ##################
 
-#EXTINF:-1  tvg-logo="https://i.imgur.com/aZf5fSH.png" group-title="Cinema em espanhol",Canal Mas | Uruguai
+#EXTINF:-1 tvg-name="Canal Mas" tvg-logo="https://i.imgur.com/aZf5fSH.png" group-title="Cinema em espanhol",Canal Mas | Uruguai
 https://tv.tvcontrolcp.com:1936/8136/8136/chunklist_w2013328020.m3u8
 
 #EXTINF:-1 tvg-id="pluto-tv-cine-2" tvg-logo="https://imgur.com/hcBeLVR.png" group-title="Cinema em espanhol",Cine - Pluto TV | Argentina 
@@ -3263,6 +3269,9 @@ https://e4bd492634cb45a8b5f007639f01ba3a.mediatailor.us-east-1.amazonaws.com/v1/
 
 ############## NOTÍCIAS em ESPANHOL ##############
 
+#EXTINF:-1 tvg-name="A 24" tvg-id="A24.ar" tvg-logo="https://yt3.ggpht.com/Ehgzljg8T8lsiCG4M6CjOp-G1P7nizvlRKNaDd_rqEnAYn3nG5jbNHXQ7ljcjvDvXjojGC6Lyw=s400-c-k-c0x00ffffff-no-rj" group-title="Notícias em espanhol",A24 | Argentina
+https://linkastream.co/headless?url=https://www.youtube.com/channel/UCR9120YBAqMfntqgRTKmkjQ/live
+
 #EXTINF:-1 tvg-name="C5N" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTqGg2bWg02R5un1pFAeuYDMGAVCmna52i__wapvw=s400-c-k-c0x00ffffff-no-rj" group-title="Notícias em espanhol",C5N | Argentina
 https://linkastream.co/headless?url=https://www.youtube.com/user/c5n/live
 
@@ -3295,6 +3304,15 @@ https://static.france24.com/live/F24_ES_HI_HLS/live_web.m3u8
 
 #EXTINF:-1 tvg-id="FRANCE24.es" tvg-name="France 24 | Espanhol" tvg-logo="https://imgur.com/Tj0KCYI.png" tvg-shift="0" group-title="Notícias em espanhol",France 24 em espanhol 3
 https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
+
+#EXTINF:-1 tvg-name="HCH" group-title="Notícias em espanhol" tvg-logo="https://i.imgur.com/EiwKVQb.png",HCH | Honduras
+https://linkastream.co/headless?url=https://www.dailymotion.com/video/x81za5c
+
+#EXTINF:-1 tvg-name="La Nacion" tvg-id="LaNacion.ar" group-title="Notícias em espanhol" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQCYzVaISEPA4RkAdtiTW26Ag2k9NVZJ2GyeLxSjg=s400-c-k-c0x00ffffff-no-rj",La Nacion+ | Argentina
+https://linkastream.co/headless?url=https://www.youtube.com/channel/UCba3hpU7EFBSk817y9qZkiA/live
+
+#EXTINF:-1 tvg-name="Milenio TV" tvg-id="MilenioTV.mx" group-title="Notícias em espanhol" tvg-logo="",Milenio | México
+https://linkastream.co/headless?url=https://www.youtube.com/channel/UCFxHplbcoJK9m70c4VyTIxg/live
 
 #EXTINF:-1 tvg-name="Negocios TV" group-title="Notícias em espanhol" tvg-logo="https://i.imgur.com/bg5hhn3.png",Negocios TV | Espanha
 https://play06.gooru.live/playnegocios/_definst_/5646-1603313320000/chunklist_w1698087186.m3u8
@@ -3581,6 +3599,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d2cb7ac552e3773bc4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K1kJf1s.png" group-title="Notícias em inglês" tvg-id="weather-nation" tvg-name="Weather Nation",Weather Nation Roku | EUA
 https://weathernationtv.roku.wurl.com/manifest/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WaYkV6L.png" group-title="Notícias em inglês"  tvg-name="WFTV 9",WFTV 9, ABC Orlando | EUA
+https://d3qm7vzp07vxse.cloudfront.net/v1/manifest/77872db67918a151b697b5fbc23151e5765767dc/cmg_PROD_cmg-tv-10070_fe1f5f6c-cd0b-4993-a4a4-6db66be4f313_LE/a58ec8fd-0a59-4547-95cf-104501e90fcd/1.m3u8
+
 ######## Notícias em inglês: dinheiro ######## Notícias em inglês: dinheiro ######## Notícias em inglês: dinheiro ######## Notícias em inglês: dinheiro ######## Notícias em inglês: dinheiro ######## Notícias em inglês: dinheiro ########
 
 #EXTINF:-1 tvg-name="Ameritrade" tvg-logo="https://i.imgur.com/Ay5jSQn.png" group-title="Notícias em inglês: dinheiro",Ameritrade | EUA
@@ -3609,6 +3630,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f161c0a8ba90f0007d
 
 ########### notícias em outros idiomas ############## notícias em outros idiomas ############## notícias em outros idiomas ############## notícias em outros idiomas ############## notícias em outros idiomas ############## notícias em outros idiomas ############## notícias em outros idiomas ##############
 
+#EXTINF:-1 tvg-name="ABC News" tvg-id="ABCNews.al" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQppoJvg5Inz_5KVl8gzhD8ydrZqta2qffqDLgaag=s400-c-k-c0x00ffffff-no-rj" group-title="Notícias em outros idiomas",ABC News | Albânia
+https://tv2.abcnews.al/live/abcnews/chunks.m3u8
+
 #EXTINF:-1 tvg-name="Al Jazeera Arabe" tvg-id="AlJazeeraArabe.nws" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Al-jazeera-logo.jpg" group-title="Notícias em outros idiomas",Al Jazeera | Árabe
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3035?pprotocol=hls
 
@@ -3617,6 +3641,12 @@ https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3032?p
 
 #EXTINF:-1 tvg-name="ANN News" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTGoSKrMq683BNzRv30jf4G5mpb9oBhwlxZej5a5g=s400-c-k-c0x00ffffff-no-rj" group-title="Notícias em outros idiomas",ANN News | Japão
 https://linkastream.co/headless?url=https://www.youtube.com/watch?v=coYw-eVU0Ks
+
+#EXTINF:-1 tvg-name="Bol News" tvg-logo="https://i.imgur.com/C7ppeJk.png" group-title="Notícias em outros idiomas",Bol News | Paquistão
+https://linkastream.co/headless?url=http://www.youtube.com/channel/UCz2yxQJZgiB_5elTzqV7FiQ/live
+
+#EXTINF:-1 tvg-name="EBC 東森電視" tvg-logo="https://i.imgur.com/FA9ppCa.png" group-title="Notícias em outros idiomas",EBC | Taiwan
+https://linkastream.co/headless?url=https://www.youtube.com/channel/UCR3asjvr_WAaxwJYEDV_Bfw/live
 
 #EXTINF:-1 tvg-id="DEBA1000003IM" tvg-logo="https://i.imgur.com/TrC7TG6.png" group-title="Notícias em outros idiomas",Euronews | Alemanha - Samsung 
 https://64ae17e353a144d38d09cb7530008fb7.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_EuroNewsLive/playlist.m3u8?ads.wurl_channel=545&ads.wurl_name=EuroNewsLive&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
@@ -3645,6 +3675,12 @@ https://static.france24.com/live/F24_AR_HI_HLS/live_tv.m3u8
 #EXTINF:-1 tvg-id="IonianTVGR" tvg-name="Ionian TV" tvg-logo="https://i.imgur.com/zuXu5tQ.png" group-title="Notícias em outros idiomas",Ionian TV | Grécia
 https://stream.ioniantv.gr/ionian/live_abr/playlist.m3u8
 
+#EXTINF:-1 tvg-id="IBN7.in" tvg-name="News18 India" tvg-logo="https://i.imgur.com/KSy58v5.png" group-title="Notícias em outros idiomas",News 18 | Índia
+https://linkastream.co/headless?url=https://www.youtube.com/channel/UCPP3etACgdUWvizcES1dJ8Q/live
+
+#EXTINF:-1 tvg-id="News24.al" tvg-name="News 24" tvg-logo="https://i.imgur.com/EpND0EO.png" group-title="Notícias em outros idiomas",News 24 | Albânia
+http://tv.balkanweb.com:8081/news24/livestream/chunks.m3u8
+
 #EXTINF:-1 tvg-name="Sky News Arabic" tvg-logo="https://i.imgur.com/T7LcUwf.png" group-title="Notícias em outros idiomas",Sky News Arabic
 https://linkastream.co/headless?url=https://www.youtube.com/c/SkyNewsArabia/live
 
@@ -3653,6 +3689,12 @@ http://livetr.teleromagna.it/mia/live/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Ülke TV" tvg-id="ulketv" tvg-logo="https://i.imgur.com/PRgSM2Y.png" group-title="Notícias em outros idiomas",Ülke TV | Turquia
 https://stream-01.nyc.dailymotion.com/sec(8lOMYwOWJB0kD-8STcdDUHgqhulIXEZtfjzKdKviBcQ)/dm/3/x7yb4xm/s/live-1.m3u8
+
+#EXTINF:-1 tvg-name="Yonhap News TV" tvg-logo="https://i.imgur.com/MO4ABDK.png" group-title="Notícias em outros idiomas",Yonhap News TV | Coreia do Sul
+https://linkastream.co/headless?url=https://www.youtube.com/channel/UCTHCOPwqNfZ0uiKOvFyhGwg/live
+
+#EXTINF:-1 tvg-name="YNT News" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQ8LchUayKeEOUSvNNQLc9CpMrU4GC5FFxGhqs18A=s400-c-k-c0x00ffffff-no-rj" group-title="Notícias em outros idiomas",YNT News | Coreia do Sul
+https://linkastream.co/headless?url=https://www.youtube.com/channel/UChlgI3UHCOnwUGzWzbJ3H5w/live
 
 ########## Novelas e séries em espanhol ########### Novelas e séries em espanhol ########### Novelas e séries em espanhol ########### Novelas e séries em espanhol ########### Novelas e séries em espanhol ###########
 
@@ -4293,8 +4335,14 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f7792f6e093980007e
 ######### variedades em espanhol  ############# ######### variedades em espanhol  #############
 ######### variedades em espanhol  ############# ######### variedades em espanhol  #############
 
+#EXTINF:-1 tvg-name="3/24" tvg-id="324.es" tvg-logo="https://i.imgur.com/D552JHe.png" group-title="Variedades em espanhol",3/24 | Espanha
+https://directes-tv-int.ccma.cat/int/ngrp:324_web/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60089d98f682a3002c34829f" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/estrellatv_logo_dark.png" group-title="Variedades em espanhol",Estrella TV | México
 https://estrellatv-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-estrellatv-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=Tog8X6wK6iweuzGFsz6p&channelId=60089d98f682a3002c34829f
+
+#EXTINF:-1 tvg-name="NPY" tvg-id="npy.py" tvg-logo="https://i.imgur.com/C6ut5Yn.png" group-title="Variedades em espanhol",NPY | Paraguai
+https://rds3.desdeparaguay.net/npy/npy_int_baja/chunklist.m3u8?k=47f72d1de54efebe1f5eb540fd33b8fa8c52f2d8980ff86860139aa7091836e5&exp=1627726231
 
 #EXTINF:-1 tvg-id="nuestra-vision" tvg-logo="http://images.pluto.tv/channels/5e6690befbdf780007f78158/colorLogoPNG.png" group-title="Variedades em espanhol",Nuestra Vision | EUA | Idioma espanhol
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6690befbdf780007f78158/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc97d880-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=26dab85a-c1e2-4023-9cde-864e1c0d5f94&userId=&serverSideAds=true
@@ -4307,7 +4355,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d11baeb31c5a43b7
 
 #EXTINF:-1 tvg-id="telefe-clasico" tvg-logo="https://imgur.com/ZgNZm70.png" group-title="Variedades em espanhol",Telefe Clásico | Argentina
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de91cf02fc07c0009910465/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1ae23-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a367d0d9-b23d-4bb5-8d48-55f0cbeac4fb&userId=&serverSideAds=true
-
 
 #EXTINF:-1 tvg-id="5de91cf02fc07c0009910465" tvg-logo="https://images.pluto.tv/channels/5de91cf02fc07c0009910465/colorLogoPNG.png" group-title="Variedades em espanhol",Telefe Clásico | México
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de91cf02fc07c0009910465/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
@@ -4502,6 +4549,9 @@ http://api.new.livestream.com/accounts/27755193/events/8452381/live.m3u8
 #EXTINF:-1 tvg-name="Blue Sky" tvg-logo="https://i.imgur.com/QMtGErp.png" group-title="Variedades em outros idiomas",Blue Sky TV | Grécia
 https://stream-03.nyc.dailymotion.com/sec(EWe07LaLICe6ZTgKrFaKW1WbYaL94LIy6BVNUSiDRfI)/dm/3/x7z731p/s/live-3.m3u8
 
+#EXTINF:-1 tvg-id="cctv" tvg-logo="https://i.imgur.com/p3ziJhZ.png" group-title="Variedades em outros idiomas" tvg-name="CCTV",CCTV | China
+https://linkastream.co/headless?url=https://www.youtube.com/channel/UC4K_LI-Tn3-LshNgG0-YypQ/live
+
 #EXTINF:-1 tvg-id="Channel20.il" tvg-logo="https://i.imgur.com/vxGmKFv.png" group-title="Variedades em outros idiomas" tvg-name="Channel 20",Channel 20 | Israel
 https://dvr.ch20-cdnwiz.com/hls/live_360/index.m3u8
 
@@ -4511,11 +4561,17 @@ https://www.hellasnet.tv/rest.live.hn/ws.iri/playlist.m3u8
 #EXTINF:-1 tvg-id="Channel11.il" tvg-logo="https://i.imgur.com/NLbnUz3.png" group-title="Variedades em outros idiomas" tvg-name="Kan 11",Kan 11 Jerusalém | Israel
 https://stream-03.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl9VEUxHPci9Zzif2aQ5-OY0)/dm/3/x7wjmog/d/live-2.m3u8
 
+#EXTINF:-1 tvg-id="KBSWorld.kr" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQ_34jNUOPlbqCQ4A5cr_mvjLfg6GEaN_mj0IAjYCc=s400-c-k-c0x00ffffff-no-rj" group-title="Variedades em outros idiomas" tvg-name="KBS World",KBS World | Coreia do Sul
+https://linkastream.co/headless?url=https://www.youtube.com/watch?v=dbw4EbTEbe0
+
 #EXTINF:-1 tvg-id="Channel33.il" tvg-logo="https://i.imgur.com/w4hvmTv.png" group-title="Variedades em outros idiomas" tvg-name="Makan 33",Makan 33 | Israel
 https://stream-01.nyc.dailymotion.com/sec(8lOMYwOWJB0kD-8STcdDUEIWsDuDaQT588Jq3Vh0fmU)/dm/3/x7ymw2l/d/live-1.m3u8
 
 #EXTINF:-1 tvg-name="MIS Televizija" tvg-id="mis.au" tvg-logo="https://i.imgur.com/XaXRbxj.png" group-title="Variedades em outros idiomas",MIS Televizija | Idioma sérvio
 https://5afd52b55ff79.streamlock.net/MISTV/_definst_/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Москва-24" tvg-id="moskva24" tvg-logo="https://i.imgur.com/YyV6wW5.png" group-title="Variedades em outros idiomas",Moscow 24 | Rússia
+https://radio-live-mg.rtr-vesti.ru/hls/moscow_24/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWeckfObfyFWhe5JuPFGqaZgCiFyBSZXjg4RqleTMoxnlpG_wSOg3gOaRJjYdxQHUbZa0&usqp=CAU" tvg-id="Nollywood.ng" group-title="Variedades em outros idiomas" tvg-name="Nollywood",Nollywood | Nigéria
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3617&pprotocol=hls
@@ -4636,5 +4692,5 @@ http://oneamericanews-roku-us.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="the-first" tvg-logo="http://images.pluto.tv/channels/5d486acc34ceb37d3c458a64/colorLogoPNG.png" group-title="☢️☣️ Extrema direita | EUA" tvg-name="The First",The First | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d486acc34ceb37d3c458a64/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc9651e0-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=485e6f6b-8aa0-42dc-ae6d-c4a527fc2eca&userId=&serverSideAds=true
 
-######## Esta lista não seria possível sem todos os voluntários do GitHub; CxTV; Distro TV; Plex TV; Roku TV; Samsung TV; todos os canais abertos e públicos que disponibilizam a transmissão de graça pela internet ##########
+######## Esta lista não seria possível sem todos os voluntários do GitHub; do CXTV e todos os canais abertos e públicos que disponibilizam a transmissão de graça pela internet Distro TV; Plex TV; Roku TV; Samsung TV;  ##########
 
