@@ -483,9 +483,6 @@ https://4f2d358e390a41cd8e87e74a954d9624.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="tiny-house-nation" tvg-logo="https://images.pluto.tv/channels/601a0342dcf4370007566891/featuredImage.jpg" group-title="Casa e decoração em inglês",Tiny House Nation do Pluto TV | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/601a0342dcf4370007566891/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc9678f2-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=cec3474e-9d21-4955-8b61-315f126c29ba&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-name="Travel & Food TV" tvg-logo="https://i.imgur.com/iOWemCR.png" group-title="Casa e decoração em inglês",Travel & Food TV | Airy TV
-https://playout4multirtmp.tulix.tv/live19/Stream1/playlist.m3u8
-
 ########### casa e decoração em outros idiomas ############################
 
 #EXTINF:-1 tvg-id="5eb96303f5bb020008e7e44f" group-title="Casa e decoração em outros idiomas" tvg-name="Home" tvg-logo="https://images.pluto.tv/channels/5eb96303f5bb020008e7e44f/colorLogoPNG.png",Pluto TV Home | Alemanha
@@ -865,6 +862,9 @@ https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLi
 #EXTINF:-1 tvg-id="pluto-tv-horror" tvg-logo="http://images.pluto.tv/channels/569546031a619b8f07ce6e25/colorLogoPNG.png" group-title="Cinema em inglês",Horror - Pluto TV  | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc92cf70-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7b956d24-f95c-4ca4-8c8b-5c8062b01933&userId=&serverSideAds=true
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZTdKpLg.png" group-title="Cinema em outros idiomas" tvg-name="iFilm English",iFilm em inglês | Irã
+https://streaming.spbtv.com/eyJtYXhoZWlnaHQiOiI2NDAiLCJvc19uYW1lIjoiV2luZG93cyIsInVzZXJfdWlkIjoiYW5vbnltb3VzXzYxMDU0NjY1LWNjNzktNDU1OC04YWQyLTBmNjQ5NGMxMmU3MiIsInByb3RvY29sIjoiZGFzaCIsImRybSI6InNwYnR2Y2FzIiwic2Vzc2lvbl9pZCI6IjY4YWY4YmJlLWYxY2QtNDU5MC1iZTA2LWExZjg2ZDllZTBkOSIsImRvbWFpbl9uYW1lIjoic3RyZWFtaW5nLnNwYnR2LmNvbSIsImlwX2FkZHJlc3MiOiIxNzcuMjAzLjE2Mi45OSIsImV4cGlyYXRpb25fZGF0ZSI6IjIwMjEtMDgtMDNUMTk6MzI6MDdaIiwic3RyZWFtX25hbWUiOiIyODMiLCJzdHJlYW1fcGF0aCI6Ii9pcF92NSIsImRhdGFjZW50ZXIiOiJtc2sifQ%3D%3D/MCwCFAdSpCOF2gTG77GOnbJeYIO_elmjAhR9jJ3rzEZISe5gWVzjHLqtJ_q5kA%3D%3D/ip_v5/283.mpd?b_app_channel_id=2dc965bc-6b63-437a-9d62-39549aa71a43&b_app_id=spbtv_world_production&b_device_platform=Windows&b_device_uid=02ee6ab1-d95f-26e5-2ece-bac15249b697&b_stream_sid=68af8bbe-f1cd-4590-be06-a1f86d9ee0d9&b_strmr_channel_id=283
+
 #EXTINF:-1 tvg-id="5c542e03044f5604b11cf808" tvg-logo="https://images.pluto.tv/channels/5c542e03044f5604b11cf808/colorLogoPNG.png" group-title="Cinema em inglês",Indies - Pluto TV | Reino Unido
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c542e03044f5604b11cf808/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
@@ -966,7 +966,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e2f290606fb7600091
 https://streaming.spbtv.com/eyJtYXhoZWlnaHQiOiI2NDAiLCJvc19uYW1lIjoiV2luZG93cyIsInVzZXJfdWlkIjoiYW5vbnltb3VzXzYxMDU0NjY1LWNjNzktNDU1OC04YWQyLTBmNjQ5NGMxMmU3MiIsInByb3RvY29sIjoiZGFzaCIsImRybSI6InNwYnR2Y2FzIiwic2Vzc2lvbl9pZCI6IjNiNDliYjYwLWNlNWQtNDFjMC1iZTc0LWY0OGI4MTIzNmUzOCIsImRvbWFpbl9uYW1lIjoic3RyZWFtaW5nLnNwYnR2LmNvbSIsImlwX2FkZHJlc3MiOiIxNzcuMjAzLjE2Mi45OSIsImV4cGlyYXRpb25fZGF0ZSI6IjIwMjEtMDgtMDNUMTk6MzY6MjdaIiwic3RyZWFtX25hbWUiOiI2OCIsInN0cmVhbV9wYXRoIjoiL2lwX3Y1IiwiZGF0YWNlbnRlciI6Im1zayJ9/MC0CFBCteKKZArNtNmeBsHUfkHqLGUCWAhUAlGdCv7xMQWemnRmVYfBWmkeUStA%3D/ip_v5/68.mpd?b_app_channel_id=5a81b435-6f0d-48c3-8b76-019530bc3a77&b_app_id=spbtv_world_production&b_device_platform=Windows&b_device_uid=02ee6ab1-d95f-26e5-2ece-bac15249b697&b_stream_sid=3b49bb60-ce5d-41c0-be74-f48b81236e38&b_strmr_channel_id=68
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZTdKpLg.png" tvg-id="ifilm" group-title="Cinema em outros idiomas" tvg-name="iFilm Farsi",iFilm Farsi | Irã
-https://streaming.spbtv.com/eyJtYXhoZWlnaHQiOiI2NDAiLCJvc19uYW1lIjoiV2luZG93cyIsInVzZXJfdWlkIjoiYW5vbnltb3VzXzYxMDU0NjY1LWNjNzktNDU1OC04YWQyLTBmNjQ5NGMxMmU3MiIsInByb3RvY29sIjoiZGFzaCIsImRybSI6InNwYnR2Y2FzIiwic2Vzc2lvbl9pZCI6IjY4YWY4YmJlLWYxY2QtNDU5MC1iZTA2LWExZjg2ZDllZTBkOSIsImRvbWFpbl9uYW1lIjoic3RyZWFtaW5nLnNwYnR2LmNvbSIsImlwX2FkZHJlc3MiOiIxNzcuMjAzLjE2Mi45OSIsImV4cGlyYXRpb25fZGF0ZSI6IjIwMjEtMDgtMDNUMTk6MzI6MDdaIiwic3RyZWFtX25hbWUiOiIyODMiLCJzdHJlYW1fcGF0aCI6Ii9pcF92NSIsImRhdGFjZW50ZXIiOiJtc2sifQ%3D%3D/MCwCFAdSpCOF2gTG77GOnbJeYIO_elmjAhR9jJ3rzEZISe5gWVzjHLqtJ_q5kA%3D%3D/ip_v5/283.mpd?b_app_channel_id=2dc965bc-6b63-437a-9d62-39549aa71a43&b_app_id=spbtv_world_production&b_device_platform=Windows&b_device_uid=02ee6ab1-d95f-26e5-2ece-bac15249b697&b_stream_sid=68af8bbe-f1cd-4590-be06-a1f86d9ee0d9&b_strmr_channel_id=283
+https://streaming.spbtv.com/eyJtYXhoZWlnaHQiOiI2NDAiLCJvc19uYW1lIjoiV2luZG93cyIsInVzZXJfdWlkIjoiYW5vbnltb3VzXzYxMDU0NjY1LWNjNzktNDU1OC04YWQyLTBmNjQ5NGMxMmU3MiIsInByb3RvY29sIjoiZGFzaCIsImRybSI6InNwYnR2Y2FzIiwic2Vzc2lvbl9pZCI6ImQ0Mjg2MWEyLTcwOTktNGY0YS1iZDI1LWJhZjE0YjJlNWUyNSIsImRvbWFpbl9uYW1lIjoic3RyZWFtaW5nLnNwYnR2LmNvbSIsImlwX2FkZHJlc3MiOiIxNzcuMjAzLjE2Mi45OSIsImV4cGlyYXRpb25fZGF0ZSI6IjIwMjEtMDgtMDNUMjA6Mjc6NDlaIiwic3RyZWFtX25hbWUiOiI1MTIiLCJzdHJlYW1fcGF0aCI6Ii9pcF92NSIsImRhdGFjZW50ZXIiOiJtc2sifQ%3D%3D/MCwCFEtW_YrQM5JTsuuuWi3tyC8nMQd2AhRqHZikhwUmEBBbM2WBkXMl0Itm6Q%3D%3D/ip_v5/512.mpd?b_app_channel_id=7f5d1eee-d026-4736-a8e8-8490ba18ac7b&b_app_id=spbtv_world_production&b_device_platform=Windows&b_device_uid=02ee6ab1-d95f-26e5-2ece-bac15249b697&b_stream_sid=d42861a2-7099-4f4a-bd25-baf14b2e5e25&b_strmr_channel_id=512
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWeckfObfyFWhe5JuPFGqaZgCiFyBSZXjg4RqleTMoxnlpG_wSOg3gOaRJjYdxQHUbZa0&usqp=CAU" tvg-id="igborotv.ng" group-title="Cinema em outros idiomas" tvg-name="Igboro TV",Igboro TV | Nigéria
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3449&pprotocol=hls
@@ -1212,6 +1212,9 @@ https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/4673?p
 
 #EXTINF:-1 tvg-id="5ca1ddd108ee5378be82db3a" tvg-logo="https://images.pluto.tv/channels/5ca1ddd108ee5378be82db3a/colorLogoPNG.png" group-title="Culinária em inglês",Worst Cooks in America
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca1ddd108ee5378be82db3a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-name="Travel & Food TV" tvg-logo="https://i.imgur.com/iOWemCR.png" group-title="Culinária em inglês",Travel & Food TV | Airy TV
+https://playout4multirtmp.tulix.tv/live19/Stream1/playlist.m3u8
 
 ################################## Culinária em outros idioma ########################### Culinária em outros idioma ########################### Culinária em outros idioma ########################### Culinária em outros idioma ########################### Culinária em outros idioma ########################### Culinária em outros idioma ########################### Culinária em outros idioma ########################### 
 
@@ -3262,6 +3265,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5317bfebff98025b320
 #EXTINF:-1 tvg-name="Tranquil Thunderstorms" tvg-logo="https://i.imgur.com/1Siw1Fy.png" group-title="Música instrumental e som ambiente",Tranquil Thunderstorms | Distro TV
 https://linkastream.co/headless?url=https://www.distro.tv/live/tranquil-thunderstorms
 
+#EXTINF:-1 tvg-name="Waves" tvg-logo="https://s3.spbtv.com/spbtv-world-production/e6091afc8895bc18dbf0_256x256c.png" group-title="Música instrumental e som ambiente",Waves
+https://streaming.spbtv.com/eyJtYXhoZWlnaHQiOiI2NDAiLCJvc19uYW1lIjoiV2luZG93cyIsInVzZXJfdWlkIjoiYW5vbnltb3VzXzYxMDU0NjY1LWNjNzktNDU1OC04YWQyLTBmNjQ5NGMxMmU3MiIsInByb3RvY29sIjoiZGFzaCIsImRybSI6InNwYnR2Y2FzIiwic2Vzc2lvbl9pZCI6ImI3NDJlMDZkLTFjOWEtNDdmMS1hNjQ4LTg0NjU5OTU1NjZiZSIsImRvbWFpbl9uYW1lIjoic3RyZWFtaW5nLnNwYnR2LmNvbSIsImlwX2FkZHJlc3MiOiIxNzcuMjAzLjE2Mi45OSIsImV4cGlyYXRpb25fZGF0ZSI6IjIwMjEtMDgtMDNUMjA6Mjk6NTJaIiwic3RyZWFtX25hbWUiOiI0NTUiLCJzdHJlYW1fcGF0aCI6Ii9pcF92NSIsImRhdGFjZW50ZXIiOiJtc2sifQ%3D%3D/MCwCFGugyirE0AWnpytAH43CdAtjEbXvAhQicX_jUspaaR_Uuxe7zbrZ95gu3Q%3D%3D/ip_v5/455.mpd?b_app_channel_id=8a07d6b4-1c98-4e7f-bcf8-dc1233c4e16d&b_app_id=spbtv_world_production&b_device_platform=Windows&b_device_uid=02ee6ab1-d95f-26e5-2ece-bac15249b697&b_stream_sid=b742e06d-1c9a-47f1-a648-8465995566be&b_strmr_channel_id=455
+
 ############## Música: karaokê ############## Música: karaokê ############## Música: karaokê ############## Música: karaokê ############## Música: karaokê ############## Música: karaokê ##############
 
 #EXTINF:-1 tvg-id="pluto-tv-karaoke-por-stingray" tvg-logo="https://images.pluto.tv/channels/604b99d633a72b00078e05ad/featuredImage.jpg" group-title="Música: karaokê",Karaokê por Stingray | Brasil
@@ -3692,6 +3698,9 @@ https://linkastream.co/headless?url=https://www.youtube.com/channel/UCPP3etACgdU
 
 #EXTINF:-1 tvg-id="News24.al" tvg-name="News 24" tvg-logo="https://i.imgur.com/EpND0EO.png" group-title="Notícias em outros idiomas",News 24 | Albânia
 http://tv.balkanweb.com:8081/news24/livestream/chunks.m3u8
+
+#EXTINF:-1 tvg-name="РБК" tvg-logo="https://i.imgur.com/A7PCY1R.png" group-title="Notícias em outros idiomas",RBC - РБК | Rússia
+https://streaming.spbtv.com/eyJtYXhoZWlnaHQiOiI2NDAiLCJvc19uYW1lIjoiV2luZG93cyIsInVzZXJfdWlkIjoiYW5vbnltb3VzXzYxMDU0NjY1LWNjNzktNDU1OC04YWQyLTBmNjQ5NGMxMmU3MiIsInByb3RvY29sIjoiZGFzaCIsImRybSI6InNwYnR2Y2FzIiwic2Vzc2lvbl9pZCI6ImIxOTcyYTg5LTdkZjAtNDM5NS04MjBjLTM5ZWE1MmI2OWVkNiIsImRvbWFpbl9uYW1lIjoic3RyZWFtaW5nLnNwYnR2LmNvbSIsImlwX2FkZHJlc3MiOiIxNzcuMjAzLjE2Mi45OSIsImV4cGlyYXRpb25fZGF0ZSI6IjIwMjEtMDgtMDNUMjA6Mzg6MjdaIiwic3RyZWFtX25hbWUiOiIzMSIsInN0cmVhbV9wYXRoIjoiL2lwX3Y1IiwiZGF0YWNlbnRlciI6Im1zayJ9/MCwCFD_Gorfii1PkzcNxE85R7gCHPwTxAhQtLRJwTN7oA9oAuE7BLxwpxnLMZw%3D%3D/ip_v5/31.mpd?b_app_channel_id=03e0193d-d6ee-4d20-a28f-7e0969049dfe&b_app_id=spbtv_world_production&b_device_platform=Windows&b_device_uid=02ee6ab1-d95f-26e5-2ece-bac15249b697&b_stream_sid=b1972a89-7df0-4395-820c-39ea52b69ed6&b_strmr_channel_id=31&stream_dvr_window=7200000000
 
 #EXTINF:-1 tvg-name="Sky News Arabic" tvg-logo="https://i.imgur.com/T7LcUwf.png" group-title="Notícias em outros idiomas",Sky News Arabic
 https://linkastream.co/headless?url=https://www.youtube.com/c/SkyNewsArabia/live
@@ -4560,6 +4569,9 @@ https://streaming.spbtv.com/eyJtYXhoZWlnaHQiOiI2NDAiLCJvc19uYW1lIjoiV2luZG93cyIs
 
 #EXTINF:-1 tvg-name="ATV" tvg-logo="https://i.imgur.com/600QxyO.png" group-title="Variedades em outros idiomas",ATV | Bélgica, em holandês
 http://api.new.livestream.com/accounts/27755193/events/8452381/live.m3u8
+
+#EXTINF:-1 tvg-name="Bel Ros" tvg-logo="https://i.imgur.com/sz9L37n.png" group-title="Variedades em outros idiomas",Bel Ros | Belarus
+https://streaming.spbtv.com/eyJtYXhoZWlnaHQiOiI2NDAiLCJvc19uYW1lIjoiV2luZG93cyIsInVzZXJfdWlkIjoiYW5vbnltb3VzXzYxMDU0NjY1LWNjNzktNDU1OC04YWQyLTBmNjQ5NGMxMmU3MiIsInByb3RvY29sIjoiZGFzaCIsImRybSI6InNwYnR2Y2FzIiwic2Vzc2lvbl9pZCI6IjQzZDM1N2JmLTM2MDYtNDhiMC1iZDIzLWI4ODNiYzgxMTM2MSIsImRvbWFpbl9uYW1lIjoic3RyZWFtaW5nLnNwYnR2LmNvbSIsImlwX2FkZHJlc3MiOiIxNzcuMjAzLjE2Mi45OSIsImV4cGlyYXRpb25fZGF0ZSI6IjIwMjEtMDgtMDNUMjA6MzI6MDhaIiwic3RyZWFtX25hbWUiOiIxNzIiLCJzdHJlYW1fcGF0aCI6Ii9pcF92NSIsImRhdGFjZW50ZXIiOiJtc2sifQ%3D%3D/MCwCFD272E-mo1BJ-p7RnWn1MBYcGc0hAhR_g9vm-MOEQsMX7wcpiFNuRfvZ6w%3D%3D/ip_v5/172.mpd?b_app_channel_id=206c4e2c-b9b0-4977-9c58-27d6ae29270f&b_app_id=spbtv_world_production&b_device_platform=Windows&b_device_uid=02ee6ab1-d95f-26e5-2ece-bac15249b697&b_stream_sid=43d357bf-3606-48b0-bd23-b883bc811361&b_strmr_channel_id=172
 
 #EXTINF:-1 tvg-name="Blue Sky" tvg-logo="https://i.imgur.com/QMtGErp.png" group-title="Variedades em outros idiomas",Blue Sky TV | Grécia
 https://stream-03.nyc.dailymotion.com/sec(EWe07LaLICe6ZTgKrFaKW1WbYaL94LIy6BVNUSiDRfI)/dm/3/x7z731p/s/live-3.m3u8
