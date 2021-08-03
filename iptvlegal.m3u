@@ -33,7 +33,7 @@ http://45.165.178.82:8000/play/a00y/index.m3u8
 #EXTINF:-1 tvg-id="pluto-tv-cine-classicos" tvg-logo="https://images.pluto.tv/channels/5fa1612a669ba0000702017b/featuredImage.jpg" group-title="Brasil: cinema em português",Cine Clássicos | Brasil
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fa1612a669ba0000702017b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=e61e81d1-c6d5-4eea-a605-2651410462b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d6cc25d6-e662-11eb-8628-0242ac110003&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="pluto-tv-cine-comedia-1" tvg-logo="https://imgur.com/fUCGYqp.png" group-title="Brasil: cinema em português",Cine Comédia | Brasil
+#EXTINF:-1 tvg-name="Cine Comédia" tvg-id="5f12101f0b12f00007844c7c" tvg-logo="https://images.pluto.tv/channels/5f12101f0b12f00007844c7c/featuredImage.jpg" group-title="Brasil: cinema em português",Cine Comédia | Brasil
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12101f0b12f00007844c7c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977ebad0-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=07b16472-d071-4d2e-ad98-ab98754a4428&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-id="pluto-tv-cine-drama-1" tvg-logo="https://imgur.com/q17ntdH.png" group-title="Brasil: cinema em português",Cine Drama | Brasil
@@ -54,7 +54,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12111c9e6c2c00078
 #EXTINF:-1 tvg-name="Classique" tvg-logo="https://i.imgur.com/WjlfX7x.png" group-title="Brasil: cinema em português",Classique | Brasil
 https://stmv1.srvstm.com/classique/classique/chunklist.m3u8
 
-#EXTINF:-1 tvg-name="Classique Western" tvg-logo="https://imgur.com/gLQwAtL" group-title="Brasil: cinema em português",Classique Western | Brasil
+#EXTINF:-1 tvg-name="Classique Western" tvg-logo="https://imgur.com/gLQwAtL.png" group-title="Brasil: cinema em português",Classique Western | Brasil
 https://stmv1.srvstm.com/classique2/classique2/chunklist.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/wRrUge7.png" group-title="Brasil: cinema em português",Entretendo | Brasil
@@ -63,10 +63,10 @@ http://45.165.178.82:8000/play/a010/index.m3u8
 #EXTINF:-1 tvg-id="pluto-tv-filmes-acao" tvg-logo="https://imgur.com/8Vr6580.png" group-title="Brasil: cinema em português",Filmes Ação | Brasil
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977e93c0-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=860dbb8f-a84f-4853-b147-60207c674abf&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="pluto-tv-filmes-nacionais" tvg-logo="https://images.pluto.tv/channels/5f5a545d0dbf7f0007c09408/featuredImage.jpg" group-title="Brasil: cinema em português",Filmes Nacionais | Brasil
+#EXTINF:-1 tvg-name="Filmes Nacionais" tvg-id="5f5a545d0dbf7f0007c09408" tvg-logo="https://images.pluto.tv/channels/5f5a545d0dbf7f0007c09408/featuredImage.jpg" group-title="Brasil: cinema em português",Filmes Nacionais | Brasil
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5a545d0dbf7f0007c09408/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a5762a61-77db-11eb-bfcd-e755c619a901&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8784fb7f-5209-406d-b66a-2fe035ee1a18&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="pluto-tv-filmes-suspense" tvg-logo="https://imgur.com/K9gHNmZ.png" group-title="Brasil: cinema em português",Filmes Suspense | Brasil 
+#EXTINF:-1 tvg-name="Filmes Suspense" tvg-id="5f171d3442a0500007362f22" tvg-logo="https://images.pluto.tv/channels/5f171d3442a0500007362f22/featuredImage.jpg" group-title="Brasil: cinema em português",Filmes Suspense | Brasil 
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f171d3442a0500007362f22/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781c810-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=34b16d8e-8dce-4632-ba87-dabc2e07988f&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-name="Gospel Movies" tvg-logo="https://i.imgur.com/qqhdkym.png" group-title="Brasil: cinema em português",Gospel Movies | Brasil
