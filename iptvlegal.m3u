@@ -51,6 +51,12 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f120e94a5714d00074
 #EXTINF:-1 tvg-id="pluto-tv-cine-terror-1" tvg-logo="https://imgur.com/CaNAHVg.png" group-title="Brasil: cinema em português",Cine Terror | Brasil
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12111c9e6c2c00078ef3bb/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977ee1e0-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3ff7f4f3-233d-4e09-bbf7-e36a061d79f7&userId=&serverSideAds=true
 
+#EXTINF:-1 tvg-name="Classique" tvg-logo="https://i.imgur.com/WjlfX7x.png" group-title="Brasil: cinema em português",Classique | Brasil
+https://stmv1.srvstm.com/classique/classique/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="Classique Western" tvg-logo="https://imgur.com/gLQwAtL" group-title="Brasil: cinema em português",Classique Western | Brasil
+https://stmv1.srvstm.com/classique2/classique2/chunklist.m3u8
+
 #EXTINF:-1  tvg-logo="https://i.imgur.com/wRrUge7.png" group-title="Brasil: cinema em português",Entretendo | Brasil
 http://45.165.178.82:8000/play/a010/index.m3u8
 
@@ -63,8 +69,14 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5a545d0dbf7f0007c
 #EXTINF:-1 tvg-id="pluto-tv-filmes-suspense" tvg-logo="https://imgur.com/K9gHNmZ.png" group-title="Brasil: cinema em português",Filmes Suspense | Brasil 
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f171d3442a0500007362f22/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781c810-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=34b16d8e-8dce-4632-ba87-dabc2e07988f&userId=&serverSideAds=true
 
+#EXTINF:-1 tvg-name="Gospel Movies" tvg-logo="https://i.imgur.com/qqhdkym.png" group-title="Brasil: cinema em português",Gospel Movies | Brasil
+https://stmv1.srvif.com/gospelf/gospelf/chunklist_w1321445886.m3u8
+
 #EXTINF:-1 tvg-name="Kuriakos Cine" tvg-logo="https://i.imgur.com/GbQuvWG.png" group-title="Brasil: cinema em português",Kuriakos Cine 
 https://c2.manasat.com:1935/kcine/kcine3/master.m3u8
+
+#EXTINF:-1 tvg-name="RunTime" tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Brasil: cinema em português",RunTime | Brasil
+https://stream-us-east-1.getpublica.com/cl/7e811df5-8b7c-4645-b7f7-e55dfb625ae8/1920x1080_4716800_3_false.m3u8
 
 ######################### Brasil: educativos e documentários ############## Brasil: educativos e documentários ############## Brasil: educativos e documentários ############## Brasil: educativos e documentários ############## Brasil: educativos e documentários ########
 
@@ -130,11 +142,23 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32d4d9ec194100070
 #EXTINF:-1 tvg-id="bet-being-mary-jane" tvg-logo="https://images.pluto.tv/channels/60a8126a0ac3970007f850fe/featuredImage.jpg" group-title="Brasil: humor e seriados",Being Mary Jane | Brasil 
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60a8126a0ac3970007f850fe/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=e61e81d1-c6d5-4eea-a605-2651410462b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=357672e9-e58c-11eb-b36a-0242ac110002&userId=&serverSideAds=true
 
+#EXTINF:-1 tvg-name="CHiPs" tvg-logo="https://i.imgur.com/OzhlJvq.png" group-title="Brasil: humor e seriados",CHiPs | Brasil
+https://stmv1.srvstm.com/tvserie4/tvserie4/chunklist_w1196851353.m3u8
+
 #EXTINF:-1 tvg-id="pluto-tv-comedia" tvg-name="Pluto TV Comédia" group-title="Brasil: humor e seriados" tvg-logo="https://images.pluto.tv/channels/6001f3018502100007f528ac/featuredImage.jpg",Comédia | Brasil
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6001f3018502100007f528ac/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=97821633-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d1b9e931-6816-41d0-878e-e83836fbe919&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-id="failarmy-ptv1" tvg-logo="https://imgur.com/zkifc9i.png" group-title="Brasil: humor e seriados",FailArmy | Brasil 
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5141c1605ddf000748eb1b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781ef23-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=06a388de-3b13-4ca7-8144-9c9d538f436c&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-name="Hogan's Heroes" tvg-logo="https://i.imgur.com/ZER6vsV.png" group-title="Brasil: humor e seriados",Guerra, sombra e água fresca - Hogan's Heroes | Brasil
+https://stmv1.srvif.com/tvserie5/tvserie5/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="A Mulher Biônica" tvg-logo="https://i.imgur.com/fKs0QN3.png" group-title="Brasil: humor e seriados",(A) Mulher Biônica | Brasil
+https://stmv1.srvstm.com/tvserie2/tvserie2/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="As Panteras" tvg-logo="https://i.imgur.com/5OyoFlg.png" group-title="Brasil: humor e seriados",(As) Panteras (1976 - 1981) | Brasil
+https://stmv1.srvstm.com/tvserie/tvserie/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="people-are-awesome-ptv1" tvg-logo="https://imgur.com/y0Kdqtm.png" group-title="Brasil: humor e seriados",People are Awesome | Brasil
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f515d080e738d000739e19c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=e61e81d1-c6d5-4eea-a605-2651410462b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d6cc25d6-e662-11eb-8628-0242ac110003&userId=&serverSideAds=true
@@ -142,7 +166,10 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f515d080e738d00073
 #EXTINF:-1 tvg-id="porta-dos-fundos" tvg-logo="https://imgur.com/Xb0RMoR.png" group-title="Brasil: humor e seriados",Porta dos Fundos | Brasil 
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f36f2346ede750007332d11/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781ef22-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a4be72ee-4337-4176-a253-be6d837c977f&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="south-park-ptv1" tvg-logo="images.pluto.tv/channels/5f99ac4fded33000078f29ab/featuredImage.jpg" group-title="Brasil: humor e seriados",Star Trek | Brasil
+#EXTINF:-1 tvg-name="Star Trek" tvg-logo="https://i.imgur.com/6Rp5u64.png" group-title="Brasil: humor e seriados",Star Trek | Brasil
+https://stmv1.srvstm.com/tvserie3/tvserie3/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="Star Trek Pluto TV" tvg-id="pluto-tv-star-trek-ptv1" tvg-logo="https://images.pluto.tv/channels/5f99ac4fded33000078f29ab/featuredImage.jpg" group-title="Brasil: humor e seriados",Star Trek | Brasil - Pluto TV
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f99ac4fded33000078f29ab/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=e61e81d1-c6d5-4eea-a605-2651410462b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3bf99bf4-e584-11eb-a5e5-0242ac110002&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-id="south-park-ptv1" tvg-logo="https://i.imgur.com/6ycpYth.jpg" group-title="Brasil: humor e seriados",South Park | Brasil
@@ -213,8 +240,11 @@ http://45.165.178.82:8000/play/a011/index.m3u8
 #EXTINF:-1 tvg-name="Desenhos antigos 1" tvg-logo="https://i.pinimg.com/originals/f5/1d/08/f51d08be05919290355ac004cdd5c2d6.png" tvg-shift="0" group-title="Brasil: Infantis",Desenhos antigos 1 | Brasil
 https://srv5.zcast.com.br/tvmanchete/tvmanchete/playlist.m3u8
 
+#EXTINF:-1 tvg-name="Gospel Cartoon" tvg-logo="https://i.imgur.com/kprdrBT.png" group-title="Brasil: Infantis",Gospel Cartoon | Brasil
+https://stmv1.srvstm.com/gospelcartoon2/gospelcartoon2/chunklist.m3u8
+
 #EXTINF:-1 tvg-name="Os Jetsons" tvg-logo="https://i.imgur.com/sqUlcaY.png" group-title="Brasil: Infantis",Os Jetsons | Brasil
-https://stmv1.srvif.com/jetsontv/jetsontv/chunklist_w570003448.m3u8
+https://stmv1.srvif.com/jetsontv/jetsontv/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="pluto-tv-junior-1" tvg-logo="https://imgur.com/4a5RFCU.png" group-title="Brasil: Infantis",Junior | Brasil 
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12141b146d760007934ea7/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=978179f0-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bc2b3e9d-2c6a-4239-b56d-b64e1afa1902&userId=&serverSideAds=true
@@ -307,9 +337,6 @@ https://evpp.mm.uol.com.br/geob_band/agromais/chunklist_w290965376.m3u8
 #EXTINF:-1 tvg-id="allsports.br" tvg-name="All Sports" tvg-logo="https://pbs.twimg.com/profile_images/1212859696383696896/ljdBfeUQ_400x400.jpg" group-title="Brasil: variedades em português",All Sports 1 | Brasil
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="allsports.br" tvg-name="All Sports" tvg-logo="https://pbs.twimg.com/profile_images/1212859696383696896/ljdBfeUQ_400x400.jpg" group-title="Brasil: variedades em português",All Sports 2 | Brasil
-https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w2128065062.m3u8
-
 #EXTINF:-1 tvg-id="BandRede.br" tvg-name="Band" tvg-logo="https://imgur.com/HnL2uBA.png" tvg-shift="0" group-title="Brasil: variedades em português",Band | Brasil
 http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
 
@@ -320,7 +347,7 @@ https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/playlist.m3u8
 http://live4.tdm.com.mo:80/ch2/_definst_/ch2.live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="combrasil.br" tvg-name="Com Brasil" tvg-logo="https://combrasiltv.com.br/wp-content/uploads/2020/02/logo_site.png" tvg-shift="0" group-title="Brasil: variedades em português",Com Brasil
-https://596639ebdd89b.streamlock.net/8032/8032/chunklist_w866856436.m3u8
+https://596639ebdd89b.streamlock.net/8032/8032/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="demaistv.br" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5a0ca2ab1c68adcde7bf577af87071b8.jpg" group-title="Brasil: variedades em português",D+ TV | Brasil
 https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
@@ -362,7 +389,7 @@ http://200.194.238.229:8383/live/primer/playlist.m3u8
 https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
 
 #EXTINF:-1 tvg-id="Redebrasil.br" tvg-name="Rede Brasil" tvg-logo="https://imgur.com/ZgnRZ47.png" group-title="Brasil: variedades em português",Rede Brasil
-https://video01.logicahost.com.br/redebrasil/redebrasil/chunklist_w1839344534.m3u8
+https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="Redemetropole.br" tvg-name="Rede Metrópole" group-title="Brasil: variedades em português" tvg-logo="https://play-lh.googleusercontent.com/yAp592JJ2UwfANsFzndnqQDnwbx9EcVo1lbikgbxz3mgR0V7Fp6Jtif0EFFl0CrDNbM",Rede Metrópole | Brasil
 http://187.33.200.235:9000/hls/redemetropole.m3u8
@@ -382,8 +409,14 @@ https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u
 #EXTINF:-1 tvg-id="Sbt.br" tvg-name="TV Cidade Verde PI" tvg-logo="https://i.imgur.com/7knMSz7.png" tvg-shift="0" group-title="Brasil: variedades em português",SBT | TV Cidade Verde (PI)
 https://stmv1.transmissaodigital.com/cidadeverde/cidadeverde/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT Maranhão" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b4/Logotipo_da_TV_Difusora.png" group-title="Brasil: variedades em português",SBT | TV Difusora (MA)
-http://difusorama.zoeweb.tv:1935/z437-live/stream/chunklist_w1260675550.m3u8
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="TV Difusora Leste" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b4/Logotipo_da_TV_Difusora.png" group-title="Brasil: variedades em português",SBT | TV Difusora Leste (MA)
+https://stream.amsolution.net.br:8443/live/60d0a8ea6b884/index.m3u8
+
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="TV Difusora SLZ" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b4/Logotipo_da_TV_Difusora.png" group-title="Brasil: variedades em português",SBT | TV Difusora SLZ (MA)
+https://stream.amsolution.net.br:8443/live/60eef66583c80/index.m3u8
+
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="TV Difusora Sul" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b4/Logotipo_da_TV_Difusora.png" group-title="Brasil: variedades em português",SBT | TV Difusora Sul (MA)
+https://stream.amsolution.net.br:8443/live/60eed7da2cf4d/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imagens.ne10.uol.com.br/img/imagens/2020/10/22/a38a58f118_design-sem-nome5.jpg" group-title="Brasil: variedades em português",SBT | TV Jornal (PE)
 http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8
@@ -2982,6 +3015,9 @@ https://linkastream.co/headless?url=https://www.distro.tv/live/friday-feels
 #EXTINF:-1 tvg-id="DEAK0500445A" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/07/DEAK0500445A_20200923T100523.png" group-title="Música",GoldStar TV | Alemanha
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/4d36a94b-6fb0-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
 
+#EXTINF:-1 tvg-name="Gospel Music" tvg-logo="https://i.imgur.com/fJmJ44y.jpg" group-title="Música",Gospel Music | Brasil
+https://stmv1.srvstm.com/gmusic/gmusic/chunklist_w637142895.m3u8
+
 #EXTINF:-1  group-title="Música" tvg-name="Hot Rock" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWeckfObfyFWhe5JuPFGqaZgCiFyBSZXjg4RqleTMoxnlpG_wSOg3gOaRJjYdxQHUbZa0&usqp=CAU",Hot Rock
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/4667&pprotocol=hls
 
@@ -3249,6 +3285,9 @@ https://abeba3bd0b66481bb812f8c2610bb6d2.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-id="ITAJ45000132J" tvg-logo="https://i.imgur.com/XHwdwPm.png" group-title="Música instrumental e som ambiente",Moods | Itália
 https://84ebc56d880a4e7e8e7553e2b17f13a1.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-it_Moods/playlist.m3u8?ads.wurl_channel=359&ads.wurl_name=Moods&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
+
+#EXTINF:-1 tvg-name="Nature TV" tvg-logo="https://imgur.com/YKcj09n" group-title="Música instrumental e som ambiente",Nature TV
+https://stmv1.srvif.com/nattv/nattv/chunklist_w267529618.m3u8
 
 #EXTINF:-1 tvg-id="naturescape" tvg-logo="http://images.pluto.tv/channels/5812bd9f249444e05d09cc4e/colorLogoPNG.png" group-title="Música instrumental e som ambiente",Naturescape by Stingray | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812bd9f249444e05d09cc4e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc931d90-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e4bbfd7a-3f22-4871-93e7-24aafee63cae&userId=&serverSideAds=true
