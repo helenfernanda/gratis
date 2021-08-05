@@ -1,4 +1,4 @@
-#EXTM3U refresh="3600" url-tvg="http://epg.liveiptv.net/epg.xml" x-tvg-url="https://i.mjh.nz/PlutoTV/all.xml" url-tvg="https://i.mjh.nz/Plex/all.xml" x-tvg-url="https://i.mjh.nz/SamsungTVPlus/all.xml"
+#EXTM3U refresh="3600" url-tvg="http://epg.liveiptv.net/epg.xml" x-tvg-url="https://i.mjh.nz/PlutoTV/all.xml" url-tvg="https://i.mjh.nz/Plex/all.xml" x-tvg-url="https://i.mjh.nz/SamsungTVPlus/all.xml" x-tvg-url="http://195.154.221.171/epg/guideiran.xml"
 
 ### Editora: Helen Fernanda ### www.meutedio.com.br ## Contato e Pix: meutedio@mail.com ############
 
@@ -279,24 +279,24 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f997e44949bc70007a
 #EXTINF:-1 tvg-ID="Tvratimbum.br" tvg-name="TV RA TIM BUM!" tvg-logo="https://i.imgur.com/Totek7s.png" group-title="Brasil: infantis",TV Ra Tim Bum! | Brasil
 http://168.205.87.198:8555/live/viniciusvieira/vieira123/84.m3u8
 
-############## BRASIL e portugal: legislativos ############## BRASIL e portugal: legislativos ############## BRASIL e portugal: legislativos ############## BRASIL e portugal: legislativos ############## BRASIL e portugal: legislativos ############## BRASIL e portugal: legislativos ###
+############## Brasil: legislativos em português ############## Brasil: legislativos em português ############## Brasil: legislativos em português ############## Brasil: legislativos em português ############## Brasil: legislativos em português ############## Brasil: legislativos em português ###
 
-#EXTINF:-1 tvg-id="Tvsenado.br" tvg-name="TV SENADO" tvg-logo="https://i.imgur.com/ZrkyYuc.png" group-title="Brasil e Portugal: legislativos",CPI da Pandemia na TV Senado | Brasil
+#EXTINF:-1 tvg-id="Tvsenado.br" tvg-name="TV SENADO" tvg-logo="https://i.imgur.com/ZrkyYuc.png" group-title="Brasil: legislativos em português",CPI da Pandemia na TV Senado | Brasil
 https://linkastream.co/headless?url=https://www.youtube.com/channel/UCLgti7NuK0RuW9wty-fxPjQ/live
 
-#EXTINF:-1 tvg-id="Assembleia.go" tvg-name="TV Alego" tvg-logo="https://i.imgur.com/UyRDotD.png" group-title="Brasil e Portugal: legislativos",TV Alego | Brasil
+#EXTINF:-1 tvg-id="Assembleia.go" tvg-name="TV Alego" tvg-logo="https://i.imgur.com/UyRDotD.png" group-title="Brasil: legislativos em português",TV Alego | Brasil
 https://ngbvqmbygn.zoeweb.tv/alegolive/smil:alegolive.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ARTV.pt" tvg-name="ARTV" tvg-logo="https://i.imgur.com/UaQXbL1.png" group-title="Brasil e Portugal: legislativos",ARTV | Portugal
+#EXTINF:-1 tvg-id="ARTV.pt" tvg-name="ARTV" tvg-logo="https://i.imgur.com/UaQXbL1.png" group-title="Brasil: legislativos em português",ARTV | Portugal
 https://playout175.livextend.cloud/livenlin4/2liveartvpub/playlist.m3u8
 
-#EXTINF:-1  tvg-name="TV Câmara" tvg-logo="https://logodownload.org/wp-content/uploads/2019/01/tv-camara-logo.png" group-title="Brasil e Portugal: legislativos",TV Câmara | Brasil
+#EXTINF:-1  tvg-name="TV Câmara" tvg-logo="https://logodownload.org/wp-content/uploads/2019/01/tv-camara-logo.png" group-title="Brasil: legislativos em português",TV Câmara | Brasil
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 
-#EXTINF:-1  tvg-name="TV Câmara" tvg-logo="https://logodownload.org/wp-content/uploads/2019/01/tv-camara-logo.png" group-title="Brasil e Portugal: legislativos",TV Câmara 2 | Brasil
+#EXTINF:-1  tvg-name="TV Câmara" tvg-logo="https://logodownload.org/wp-content/uploads/2019/01/tv-camara-logo.png" group-title="Brasil: legislativos em português",TV Câmara 2 | Brasil
 https://stream3.camara.gov.br/tv2/manifest.m3u8
 
-#EXTINF:-1  tvg-name="TV Câmara" tvg-logo="https://logodownload.org/wp-content/uploads/2019/01/tv-camara-logo.png" group-title="Brasil e Portugal: legislativos",TV Câmara 3 | Brasil
+#EXTINF:-1  tvg-name="TV Câmara" tvg-logo="https://logodownload.org/wp-content/uploads/2019/01/tv-camara-logo.png" group-title="Brasil: legislativos em português",TV Câmara 3 | Brasil
 https://stream3.camara.gov.br/tv2/manifest.m3u8
 
 ############## BRASIL NOTÍCIAS ############## BRASIL NOTÍCIAS ############## BRASIL NOTÍCIAS ############## BRASIL NOTÍCIAS ############## BRASIL NOTÍCIAS ############## BRASIL NOTÍCIAS ############## BRASIL NOTÍCIAS ############## BRASIL NOTÍCIAS ##############
@@ -777,6 +777,12 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e1edac39
 #EXTINF:-1 tvg-id="58af4c093a41ca9d4ecabe96" tvg-logo="http://images.pluto.tv/channels/58af4c093a41ca9d4ecabe96/colorLogoPNG.png" group-title="Cinema em inglês",Black Cinema | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58af4c093a41ca9d4ecabe96/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc9344a4-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d9d026f3-2a1f-4b92-a0c2-fbc14e98bd09&userId=&serverSideAds=true
 
+#EXTINF:-1 tvg-name="Chillings" group-title="Cinema em inglês" tvg-logo="https://static.filmon.com/assets/channels/2699/extra_big_logo.png",Chillings
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/2699&pprotocol=hls
+
+#EXTINF:-1 tvg-id="CBSAction.uk" tvg-name="CBS Action" tvg-logo="https://i.imgur.com/N9CFklT.png" group-title="Seriados em inglês",CBS Action | Filmon 🇺🇸
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/1952?pprotocol=hls
+
 #EXTINF:-1 tvg-name="Bounty Plus AU" tvg-id="bountyplus.au" tvg-logo="https://pbs.twimg.com/profile_images/1216707439128727552/Dot2ZRzJ_400x400.jpg" group-title="Cinema em inglês",Bounty Plus | Austrália
 https://bountyfilms-bounty-1-au.samsung.wurl.com/manifest/playlist.m3u8
 
@@ -864,8 +870,8 @@ https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLi
 #EXTINF:-1 tvg-id="569546031a619b8f07ce6e25" tvg-logo="http://images.pluto.tv/channels/569546031a619b8f07ce6e25/colorLogoPNG.png" group-title="Cinema em inglês",Horror - Pluto TV  | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc92cf70-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7b956d24-f95c-4ca4-8c8b-5c8062b01933&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZTdKpLg.png" group-title="Cinema em inglês" tvg-name="iFilm English",iFilm com legenda ou dublagem em inglês | Irã
-https://live1.presstv.ir/live/ifilmen_360p/index.m3u8
+#EXTINF:-1 tvg-id="IRIB iFilm English IR" tvg-logo="https://i.imgur.com/ZTdKpLg.png" group-title="Cinema em inglês" tvg-name="iFilm English",iFilm com legenda ou dublagem em inglês | Irã
+https://live1.presstv.ir/live/ifilmen_360p/index.m3u8 
 
 #EXTINF:-1 tvg-id="5c542e03044f5604b11cf808" tvg-logo="https://images.pluto.tv/channels/5c542e03044f5604b11cf808/colorLogoPNG.png" group-title="Cinema em inglês",Indies - Pluto TV | Reino Unido
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c542e03044f5604b11cf808/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
@@ -982,7 +988,7 @@ https://d2e40kvaojifd6.cloudfront.net/stream/gem_series/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ZTdKpLg.png" group-title="Cinema em outros idiomas" tvg-name="iFilm Árabe",iFilm em árabe | Irã
 https://live.presstv.ir/ifilmlive/smil:ifilmar.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="7f5d1eee-d026-4736-a8e8-8490ba18ac7b" tvg-logo="https://i.imgur.com/ZTdKpLg.png" group-title="Cinema em outros idiomas" tvg-name="iFilm Farsi",iFilm em farsi | Irã
+#EXTINF:-1 tvg-id="IRIB iFilm IR" tvg-logo="https://i.imgur.com/ZTdKpLg.png" group-title="Cinema em outros idiomas" tvg-name="iFilm Farsi",iFilm em farsi | Irã
 https://live.presstv.ir/ifilmlive/smil:ifilmtv.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWeckfObfyFWhe5JuPFGqaZgCiFyBSZXjg4RqleTMoxnlpG_wSOg3gOaRJjYdxQHUbZa0&usqp=CAU" tvg-id="igborotv.ng" group-title="Cinema em outros idiomas" tvg-name="Igboro TV",Igboro TV | Nigéria
@@ -3301,7 +3307,7 @@ https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-name="Arise News" group-title="Notícias em inglês" tvg-logo="https://i.imgur.com/vvO3Fes.png",Arise News | Reino Unido
 http://news.ashttp9.visionip.tv/live/visiontvuk-news-arise-tv-hsslive-25f-16x9-SD/chunklist.m3u8
 
-#EXTINF:-1  tvg-name="Austrália 🇦🇺 Channel" tvg-logo="https://i.imgur.com/mdNV8tQ.jpg" group-title="Notícias em inglês",Austrália 🇦🇺 Channel
+#EXTINF:-1  tvg-name="Austrália Channel" tvg-logo="https://i.imgur.com/mdNV8tQ.jpg" group-title="Notícias em inglês",Austrália Channel
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8
 
 #EXTINF:-1 tvg-id="BBCNews.nws" tvg-name="BBC News | UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/BBC_News_2019.svg/1200px-BBC_News_2019.svg.png" group-title="Notícias em inglês",BBC News | Reino Unido
@@ -3430,7 +3436,7 @@ https://mn-nl.mncdn.com/ezcdn_icc/icc_1/chunklist.m3u8
 #EXTINF:-1 tvg-id="5268abcd0ce20a8472000114" tvg-name="Pluto TV News EUA" tvg-logo="http://images.pluto.tv/channels/5268abcd0ce20a8472000114/colorLogoPNG.png" group-title="Notícias em inglês",Pluto TV News | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5268abcd0ce20a8472000114/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc9196f0-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bddf9cec-2e0c-479e-9cfb-2da0a50ab10b&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-name="Press TV" tvg-logo="https://i.imgur.com/Qr14bSJ.png" group-title="Notícias em inglês",Press TV | Irã
+#EXTINF:-1 tvg-id="IRIB Press TV IR" tvg-name="Press TV" tvg-logo="https://i.imgur.com/Qr14bSJ.png" group-title="Notícias em inglês",Press TV | Irã
 https://live.presstv.ir/liveprs/smil:liveprs/playlist.m3u8
 
 #EXTINF:-1 tvg-id="INBA4900020A5" tvg-chno="1013" x-tvg-url="https://i.mjh.nz/SamsungTVPlus/all.xml" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/62/INBA4900020A5_20210330T012116.png" group-title="Notícias em inglês",Republic TV | Índia
@@ -3533,7 +3539,7 @@ https://static.france24.com/live/F24_AR_HI_HLS/live_tv.m3u8
 #EXTINF:-1 tvg-id="IonianTVGR" tvg-name="Ionian TV" tvg-logo="https://i.imgur.com/zuXu5tQ.png" group-title="Notícias em outros idiomas",Ionian TV | Grécia
 https://stream.ioniantv.gr/ionian/live_abr/playlist.m3u8
 
-#EXTINF:-1 tvg-id="IranIntl.uk" tvg-name="Iran Intl HD" tvg-language="Persian" tvg-logo="https://i.imgur.com/oeiaea6.png" group-title="News",Iran International | Irã
+#EXTINF:-1 tvg-id="IranIntl.uk" tvg-name="Iran Intl HD" tvg-language="Persian" tvg-logo="https://i.imgur.com/oeiaea6.png" group-title="Notícias em outros idiomas",Iran International | Irã
 https://live.playstop.me/LS-63503-4/index.m3u8
 
 #EXTINF:-1 tvg-name="KNews India" tvg-logo="https://i.imgur.com/BLkJTgh.png" group-title="Notícias em outros idiomas",KNews | Índia
@@ -3996,7 +4002,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ef396d1be50a300072
 #EXTINF:-1 group-title="Seriados em inglês" tvg-logo="https://static.filmon.com/assets/channels/3866/extra_big_logo.png",Catwalk (1992 - 1994) | Filmon 🇺🇸
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3866&pprotocol=hls
 
-#EXTINF:-1 tvg-id="CBSAction.uk" tvg-name="CBS Action" tvg-logo="https://presentationarchive.com/cbsaction2017/left-c.jpg" group-title="Seriados em inglês",CBS Action | Filmon 🇺🇸
+#EXTINF:-1 tvg-id="CBSAction.uk" tvg-name="CBS Action" tvg-logo="https://i.imgur.com/N9CFklT.png" group-title="Seriados em inglês",CBS Action | Filmon 🇺🇸
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/1952?pprotocol=hls
 
 #EXTINF:-1 group-title="Seriados em inglês" tvg-logo="https://imgur.com/nIsatGr",Cisco Kid TV (1950 - 1956) 🇺🇸
