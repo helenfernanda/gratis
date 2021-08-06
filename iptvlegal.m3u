@@ -3204,7 +3204,7 @@ https://livelist01.yowi.tv/lista/eb2fa68a058a701fa5bd2c80f6c8a6075896f71d/master
 #EXTINF:-1 tvg-id="dc1b71c6fda2e687050facaa7242062cbf5a7f2a" group-title="Música: HQM - só PC" tvg-logo="https://statics.yowi.tv/files/961f5fd08b37fceb794a18ad662d3f420fa5f7e1" tvg-name="HQM Relax",HQM Relax - só PC
 https://livelist01.yowi.tv/lista/dc1b71c6fda2e687050facaa7242062cbf5a7f2a/master.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Música: HQM - só PC" tvg-logo="https://statics.yowi.tv/files/22b879b8e06cc29689254625cd52b362719aacc3" tvg-name="HQM Remember",HQM Remember - só PC
+#EXTINF:-1 tvg-id="57c98e2e295a0b69b52dc5f84edc4b1b68783ba2" group-title="Música: HQM - só PC" tvg-logo="https://statics.yowi.tv/files/22b879b8e06cc29689254625cd52b362719aacc3" tvg-name="HQM Remember",HQM Remember - só PC
 http://livelist01.yowi.tv/lista/57c98e2e295a0b69b52dc5f84edc4b1b68783ba2/master.m3u8
 
 #EXTINF:-1 tvg-id="0d6c7ccfac89946bfd41ae34c527e8d94734065c" group-title="Música: HQM - só PC" tvg-logo="https://statics.yowi.tv/files/402e054f5c92c72fd948fee55a4f1acb29147746" tvg-name="HQM Rock",HQM Rock - só PC
@@ -4303,7 +4303,36 @@ https://streaming01.divercom.be/notele_live/_definst_/direct.stream/chunklist_w1
 #EXTINF:-1 tvg-name="VoxAfrica FR" tvg-logo="https://i.imgur.com/qjcUn49.png" group-title="Variedades em francês",VoxAfrica em francês
 https://1927901613.rsc.cdn77.org/1927901613/tracks-v1a1/mono.m3u8
 
-######### variedades em inglês  ############# ######### variedades em inglês  ############# ######### variedades em inglês  ############# ######### variedades em inglês  #############
+######### variedades em grego ############# variedades em grego ############# variedades em grego ############# variedades em grego ############# variedades em grego ############# variedades em grego ############# variedades em grego ############# variedades em grego ####
+
+#EXTINF:-1 tvg-name="Blue Sky" tvg-logo="https://i.imgur.com/QMtGErp.png" group-title="Variedades em grego",Blue Sky TV | Grécia
+https://stream-02.nyc.dailymotion.com/sec(EWe07LaLICe6ZTgKrFaKW-q3CygOXuLmur3qGJ-vpSs)/dm/3/x7z731p/s/live-3.m3u8
+
+#EXTINF:-1 tvg-id="ERTWorld.gr" tvg-logo="https://i.imgur.com/hhzd5CG.png" group-title="Variedades em grego" tvg-name="ERT World",ERT World | Grécia
+https://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_worldmedium.m3u8
+
+#EXTINF:-1 tvg-name="Irida TV" tvg-logo="https://i.imgur.com/c8gZ2W4.png" group-title="Variedades em grego",Irida TV | Grécia
+https://www.hellasnet.tv/rest.live.hn/ws.iri/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Κρητη TV" tvg-id="ΚreteTV.gr" tvg-logo="https://i.imgur.com/LJ5oL6j.png" group-title="Variedades em grego",KPHTH TV, Krete, Crete | Grécia
+http://live.cretetv.gr:1935/cretetv/myStream/chunklist_w1733220557.m3u8
+
+#EXTINF:-1 tvg-name="Κρητη TV" tvg-id="ΚreteTV.gr" tvg-logo="https://i.imgur.com/LJ5oL6j.png" group-title="Variedades em grego",KPHTH TV, Krete, Crete  | Grécia - Filmon
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/6091&pprotocol=hls
+
+#EXTINF:-1 tvg-name="Montreal Greek" tvg-id="" tvg-logo="https://i.imgur.com/7X5CKar.png" group-title="Variedades em grego",Montreal Greek | Grécia
+http://94.130.180.175:8081/live/greektv/chunks.m3u8?nimblesessionid=9548359
+
+#EXTINF:-1 tvg-name="Montreal Greek" tvg-id="" tvg-logo="https://i.imgur.com/7X5CKar.png" group-title="Variedades em grego",Montreal Greek | Grécia - Filmon
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/5783&pprotocol=hls
+
+#EXTINF:-1 tvg-name="Νεα Τηλεοραση Κρητης" tvg-id="NeaTeleoraseKretes.gr" tvg-logo="https://i.imgur.com/kQvhyL4.png" group-title="Variedades em grego",NEA TV | Grécia
+https://live.neatv.gr:8888/hls/neatv_mid/index.m3u8
+
+#EXTINF:-1 tvg-name="Νεα Τηλεοραση Κρητης" tvg-id="NeaTeleoraseKretes.gr" tvg-logo="https://i.imgur.com/kQvhyL4.png" group-title="Variedades em grego",NEA TV | Grécia - Filmon
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/6085&pprotocol=hls
+
+######### variedades em inglês ############# ######### variedades em inglês  ############# ######### variedades em inglês  ############# ######### variedades em inglês  #############
 
 #EXTINF:-1 tvg-name="ABC Adelaide AU"  tvg-logo="https://i.imgur.com/rLCHYCs.png" group-title="Variedades em inglês",ABC Adelaide | Austrália
 https://c.mjh.nz/101002510251/
@@ -4455,19 +4484,16 @@ https://d3qm7vzp07vxse.cloudfront.net/v1/manifest/77872db67918a151b697b5fbc23151
 
 ######### variedades em outros idiomas  ###################### variedades em outros idiomas  ###################### variedades em outros idiomas  ###################### variedades em outros idiomas  ###################### variedades em outros idiomas  ###################### variedades em outros idiomas  ###################### variedades em outros idiomas  #############
 
-#EXTINF:-1 tvg-name="1 TV" tvg-logo="https://i.imgur.com/soKUFs5.png" group-title="Variedades em outros idiomas",1 TV | Armênia
+#EXTINF:-1 tvg-name="1 TV Armênia" tvg-logo="https://i.imgur.com/soKUFs5.png" group-title="Variedades em outros idiomas",1 TV | Armênia
 https://amtvusdvr.tulix.tv/am2abr/tracks-v1a1/mono.m3u8 
 
-#EXTINF:-1 tvg-name="ATV" tvg-logo="https://i.imgur.com/600QxyO.png" group-title="Variedades em outros idiomas",ATV | Bélgica, em holandês
+#EXTINF:-1 tvg-name="ATV Bélgica" tvg-logo="https://i.imgur.com/600QxyO.png" group-title="Variedades em outros idiomas",ATV | Bélgica, em holandês
 http://api.new.livestream.com/accounts/27755193/events/8452381/live.m3u8
 
 #EXTINF:-1 tvg-name="Bel Ros" tvg-logo="https://i.imgur.com/sz9L37n.png" group-title="Variedades em outros idiomas",Bel Ros | Belarus
 https://live3.mediacdn.ru/sr1/tro/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Blue Sky" tvg-logo="https://i.imgur.com/QMtGErp.png" group-title="Variedades em outros idiomas",Blue Sky TV | Grécia
-https://stream-03.nyc.dailymotion.com/sec(EWe07LaLICe6ZTgKrFaKW1WbYaL94LIy6BVNUSiDRfI)/dm/3/x7z731p/s/live-3.m3u8
-
-#EXTINF:-1 tvg-id="cctv" tvg-logo="https://i.imgur.com/p3ziJhZ.png" group-title="Variedades em outros idiomas" tvg-name="CCTV",CCTV 4 | China
+#EXTINF:-1 tvg-id="cctv.cn" tvg-logo="https://i.imgur.com/p3ziJhZ.png" group-title="Variedades em outros idiomas" tvg-name="CCTV 4 - China",CCTV 4 | China
 https://linkastream.co/headless?url=https://www.youtube.com/channel/UC4K_LI-Tn3-LshNgG0-YypQ/live
 
 #EXTINF:-1 tvg-id="Channel20.il" tvg-logo="https://i.imgur.com/vxGmKFv.png" group-title="Variedades em outros idiomas" tvg-name="Channel 20",Channel 20 | Israel
@@ -4479,7 +4505,7 @@ https://d2e40kvaojifd6.cloudfront.net/stream/gem_tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Gem Arábia" tvg-logo="https://i.imgur.com/ms2l9Jc.png" group-title="Variedades em outros idiomas",GEM Arábia
 https://d2e40kvaojifd6.cloudfront.net/stream/gem_arabia/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Gem Life" tvg-logo="https://i.imgur.com/NahkH0k.png" group-title="Variedades em outros idiomas",GEM Life
+#EXTINF:-1 tvg-name="Gem Life" tvg-logo="https://i.imgur.com/NahkH0k.png" group-title="Variedades em outros idiomas",GEM Life em farsi
 https://stream-cdn.gemonline.tv/live/gemlife/index.m3u8
 
 #EXTINF:-1 tvg-name="Gem Modern Economy" tvg-logo="https://i.imgur.com/26gXFRG.png" group-title="Variedades em outros idiomas",GEM Modern Economy em farsi
@@ -4491,19 +4517,16 @@ https://stream-cdn.gemonline.tv/live/river/index.m3u8
 #EXTINF:-1 tvg-name="Gem Rubix" tvg-language="Persian" tvg-logo="https://i.imgur.com/GNQAVUx.png" group-title="Variedades em outros idiomas",GEM Rubix em farsi
 https://stream-cdn.gemonline.tv/live/rubix/index.m3u8
 
-#EXTINF:-1 tvg-name="Irida TV" tvg-logo="https://i.imgur.com/c8gZ2W4.png" group-title="Variedades em outros idiomas",Irida TV | Grécia
-https://www.hellasnet.tv/rest.live.hn/ws.iri/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Channel11.il" tvg-logo="https://i.imgur.com/NLbnUz3.png" group-title="Variedades em outros idiomas" tvg-name="Kan 11",Kan 11 Jerusalém | Israel
 https://stream-03.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl9VEUxHPci9Zzif2aQ5-OY0)/dm/3/x7wjmog/d/live-2.m3u8
 
 #EXTINF:-1 tvg-id="Channel33.il" tvg-logo="https://i.imgur.com/w4hvmTv.png" group-title="Variedades em outros idiomas" tvg-name="Makan 33",Makan 33 | Israel
 https://stream-01.nyc.dailymotion.com/sec(8lOMYwOWJB0kD-8STcdDUEIWsDuDaQT588Jq3Vh0fmU)/dm/3/x7ymw2l/d/live-1.m3u8
 
-#EXTINF:-1 tvg-id="manoto" tvg-language="Persian" tvg-logo="https://i.imgur.com/Bh8aX4c.png" group-title="Variedades em outros idiomas" tvg-name="Manoto",Manoto em farsi
+#EXTINF:-1 tvg-id="" tvg-language="Persian" tvg-logo="https://i.imgur.com/Bh8aX4c.png" group-title="Variedades em outros idiomas" tvg-name="Manoto",Manoto em farsi
 https://d2rwmwucnr0d10.cloudfront.net/live.m3u8
 
-#EXTINF:-1 tvg-name="MIS Televizija" tvg-id="mis.au" tvg-logo="https://i.imgur.com/XaXRbxj.png" group-title="Variedades em outros idiomas",MIS Televizija | Idioma sérvio
+#EXTINF:-1 tvg-name="MIS Televizija" tvg-id="" tvg-logo="https://i.imgur.com/XaXRbxj.png" group-title="Variedades em outros idiomas",MIS Televizija | Idioma sérvio
 https://5afd52b55ff79.streamlock.net/MISTV/_definst_/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Москва-24" tvg-id="moskva24" tvg-logo="https://i.imgur.com/YyV6wW5.png" group-title="Variedades em outros idiomas",Moscow 24 | Rússia
@@ -4512,7 +4535,13 @@ https://radio-live-mg.rtr-vesti.ru/hls/moscow_24/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWeckfObfyFWhe5JuPFGqaZgCiFyBSZXjg4RqleTMoxnlpG_wSOg3gOaRJjYdxQHUbZa0&usqp=CAU" tvg-id="Nollywood.ng" group-title="Variedades em outros idiomas" tvg-name="Nollywood",Nollywood | Nigéria
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3617&pprotocol=hls
 
-#EXTINF:-1 tvg-name="Rai 3" group-title="Variedades em outros idiomas" tvg-logo="https://i.imgur.com/jm1Rwon.png",Rai 3 | Itália 
+#EXTINF:-1 tvg-name="QS 24" tvg-id="qs24.ch" group-title="Variedades em outros idiomas" tvg-logo="https://i.imgur.com/cyMYUgp.png",QS24 | Suiça - em alemão
+https://h030.video-stream-hosting.de/quantisana-live/_definst_/smil:livestream.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="QS 24" tvg-id="qs24.ch" group-title="Variedades em outros idiomas" tvg-logo="https://i.imgur.com/cyMYUgp.png",QS24 | Suiça - em alemão, Filmon
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/5935&pprotocol=hls
+
+#EXTINF:-1 tvg-name="Rai 3 - Itália" group-title="Variedades em outros idiomas" tvg-logo="https://i.imgur.com/jm1Rwon.png",Rai 3 | Itália 
 http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
 
 #EXTINF:-1 tvg-name="TeleBärn" tvg-id="telebarn" tvg-logo="https://i.imgur.com/j1Pkdfe.png" group-title="Variedades em outros idiomas",TeleBärn | Suiça - em alemão
@@ -4526,6 +4555,9 @@ https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3359&p
 
 #EXTINF:-1 tvg-name="VH1 Italia" tvg-logo="https://i.imgur.com/NRXoneo.png" group-title="Variedades em outros idiomas",VH1 | Itália
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
+
+#EXTINF:-1 tvg-name="Vox Schweiz" tvg-logo="https://i.imgur.com/RTh2fhq.png" group-title="Variedades em outros idiomas",Vox Schweiz | Suiça - em alemão
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/5929&pprotocol=hls
 
 
 ################### Videogame ############### Videogame ###############  Videogame ###############  Videogame ###############  Videogame ###############  Videogame ###############  Videogame ###############  Videogame ###############  Videogame ############### 
