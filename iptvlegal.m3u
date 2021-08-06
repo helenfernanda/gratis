@@ -134,9 +134,6 @@ https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2
 #EXTINF:-1 tvg-id="unisctv" tvg-name="Unisc TV" group-title="Brasil: educativos e documentários" tvg-logo="http://radiosantacruz.com.br/online/wp-content/uploads/2018/01/Unisc-1.jpg",Unisc TV | Brasil
 https://tv.unisc.br/hls/test.m3u8
 
-#EXTINF:-1 tvg-id="5f32d4d9ec194100070c7449" tvg-logo="https://imgur.com/YuTPeFV.png" group-title="Brasil: educativos e documentários",Vida Real | Brasil 
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32d4d9ec194100070c7449/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781ef21-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=29b136d2-3f75-488b-9ace-35ab0ac5684e&userId=&serverSideAds=true
-
 ############################### Brasil: humor e seriados ############################### Brasil: humor e seriados ############################### Brasil: humor e seriados ############################### Brasil: humor e seriados ############################### Brasil: humor e seriados ############################### Brasil: humor e seriados 
 
 #EXTINF:-1 tvg-id="60a8126a0ac3970007f850fe" tvg-logo="https://images.pluto.tv/channels/60a8126a0ac3970007f850fe/featuredImage.jpg" group-title="Brasil: humor e seriados",Being Mary Jane | Brasil 
@@ -209,6 +206,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f9b05a99547eb00076
 
 #EXTINF:-1 tvg-id="5fd1419a3b4f4b000773ba85" tvg-logo="https://imgur.com/JnHVIgo.png" group-title="Brasil: jovens e reality shows",Tastemade | Brasil
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fd1419a3b4f4b000773ba85livestitch/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=e61e81d1-c6d5-4eea-a605-2651410462b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d6cc25d6-e662-11eb-8628-0242ac110003&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="5f32d4d9ec194100070c7449" tvg-logo="https://imgur.com/YuTPeFV.png" group-title="Brasil: jovens e reality shows",Vida Real | Brasil 
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32d4d9ec194100070c7449/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781ef21-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=29b136d2-3f75-488b-9ace-35ab0ac5684e&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-ID="Woohoo.br" tvg-name="Woohoo" tvg-logo="http://168.205.87.198/logocanais/woohoo.png" group-title="Brasil: jovens e reality shows",Woohoo | Brasil 
 http://168.205.87.198:8555/live/viniciusvieira/vieira123/141.m3u8
@@ -708,9 +708,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ed1ff5c39700007e
 #EXTINF:-1 tvg-id="5ff5eb810e2996000768c0e2" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/54/FRAJ3800002W5_20210209T093407.png" group-title="Cinema em francês",Ciné - Pluto TV | França
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff5eb810e2996000768c0e2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-id="5ff5eb810e2996000768c0e2" tvg-logo="http://images.pluto.tv/channels/5ff5eb810e2996000768c0e2/colorLogoPNG.png" group-title="Cinema em francês",Ciné+ - Pluto TV | Francês
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff5eb810e2996000768c0e2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=dda62765-6a6f-11eb-8380-d53d31dd7908&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=4784db9f-feab-4920-a142-f8157c887fe0&userId=&serverSideAds=true
-
 #EXTINF:-1 tvg-id="5f8ed168f72fcd0007e56269" tvg-logo="http://images.pluto.tv/channels/5f8ed168f72fcd0007e56269/colorLogoPNG.png" group-title="Cinema em francês",Ciné Rétro - Pluto TV | França
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ed168f72fcd0007e56269/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=dda515f0-6a6f-11eb-8380-d53d31dd7908&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=828b5b96-882a-4c13-8140-b3dd75ce6a11&userId=&serverSideAds=true
 
@@ -779,9 +776,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58af4c093a41ca9d4ec
 
 #EXTINF:-1 tvg-name="Chillings" group-title="Cinema em inglês" tvg-logo="https://static.filmon.com/assets/channels/2699/extra_big_logo.png",Chillings
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/2699&pprotocol=hls
-
-#EXTINF:-1 tvg-id="CBSAction.uk" tvg-name="CBS Action" tvg-logo="https://i.imgur.com/N9CFklT.png" group-title="Seriados em inglês",CBS Action | Filmon 🇺🇸
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/1952?pprotocol=hls
 
 #EXTINF:-1 tvg-name="Bounty Plus AU" tvg-id="bountyplus.au" tvg-logo="https://pbs.twimg.com/profile_images/1216707439128727552/Dot2ZRzJ_400x400.jpg" group-title="Cinema em inglês",Bounty Plus | Austrália
 https://bountyfilms-bounty-1-au.samsung.wurl.com/manifest/playlist.m3u8
@@ -981,6 +975,9 @@ http://d2e40kvaojifd6.cloudfront.net/stream/gem_drama/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Gem Film" tvg-language="Persian" tvg-logo="https://i.imgur.com/3DF3dEQ.png" group-title="Cinema em outros idiomas",GEM Film em farsi
 https://stream-cdn.gemonline.tv/live/gemfilm/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Gem Film" tvg-language="Persian" tvg-logo="https://i.imgur.com/3DF3dEQ.png" group-title="Cinema em outros idiomas",GEM Film em farsi 2
+http://stream-cdn.gemonline.tv/live/gemfilm/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Gem Series" tvg-language="Persian" tvg-logo="https://i.imgur.com/qh8aPwv.png" group-title="Cinema em outros idiomas",GEM Series em farsi
 https://d2e40kvaojifd6.cloudfront.net/stream/gem_series/playlist.m3u8
@@ -3598,7 +3595,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1abe3ffcd65900077
 #EXTINF:-1 tvg-id="5f1acb4eebe0f0000767b40f" tvg-logo="http://images.pluto.tv/channels/5f1acb4eebe0f0000767b40f/colorLogoPNG.png" group-title="Novelas e séries em espanhol",Las reglas del juego | Espanha
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1acb4eebe0f0000767b40f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a9a6e982-8b68-11eb-b9cd-1bc319230674&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=01de0218-69a9-4fe6-9e2b-f4245bac690c&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="604125ef4b0285000720271e" tvg-logo="http://images.pluto.tv/channels/604125ef4b0285000720271e/colorLogoPNG.png" group-title="Novelas e séries em espanhol",Las Reglas Del Juego+ | Espanha
+#EXTINF:-1 tvg-id="604125ef4b0285000720271e" tvg-logo="http://images.pluto.tv/channels/5f1acb4eebe0f0000767b40f/colorLogoPNG.png" group-title="Novelas e séries em espanhol",Las Reglas Del Juego+ | Espanha
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/604125ef4b0285000720271e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a9a93371-8b68-11eb-b9cd-1bc319230674&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6ec79e93-03d7-4a79-9b55-10a5cab11631&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-id="5f1acc91cc9e1b000711ff21" tvg-logo="http://images.pluto.tv/channels/5f1acc91cc9e1b000711ff21/colorLogoPNG.png" group-title="Novelas e séries em espanhol",Mutante X | Espanha
@@ -3619,19 +3616,19 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84db2db3851800077
 #EXTINF:-1 tvg-id="5e84dc59026b9b000766f9a2" tvg-logo="http://images.pluto.tv/channels/5e84dc59026b9b000766f9a2/colorLogoPNG.png" group-title="Novelas e séries em espanhol",Novelas Suspense | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84dc59026b9b000766f9a2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc9826a0-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ccbab69c-ca70-449b-b556-2d78f157d377&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="5dcde1317578340009b751d0" tvg-logo="https://imgur.com/KB1hXsY.png" group-title="Novelas e séries em espanhol",Series - Pluto TV | Argentina
+#EXTINF:-1 tvg-id="5dcde1317578340009b751d0" tvg-logo="https://imgur.com/KB1hXsY.png" group-title="Novelas e séries em espanhol",Series | Argentina - Pluto TV
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde1317578340009b751d0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff04e90-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7937749a-cec8-47cd-b6d9-43b0c4fea6c8&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="5f1ac8f49205650007bc15f1" tvg-logo="http://images.pluto.tv/channels/5f1ac8f49205650007bc15f1/colorLogoPNG.png" group-title="Novelas e séries em espanhol",Series - Pluto TV | Espanha
+#EXTINF:-1 tvg-id="5f1ac8f49205650007bc15f1" tvg-logo="https://imgur.com/KB1hXsY.png" group-title="Novelas e séries em espanhol",Series | Espanha - Pluto TV
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac8f49205650007bc15f1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a9a6c270-8b68-11eb-b9cd-1bc319230674&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1a37f16f-171d-4ad1-9041-1fc644ca0c6f&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="5f5a2b4b1ad8fd000795ac87" tvg-logo="http://images.pluto.tv/channels/5f5a2b4b1ad8fd000795ac87/colorLogoPNG.png" group-title="Novelas e séries em espanhol",Series+ - Pluto TV | Espanha
+#EXTINF:-1 tvg-id="5f5a2b4b1ad8fd000795ac87" tvg-logo="https://imgur.com/KB1hXsY.png" group-title="Novelas e séries em espanhol",Series+ | Espanha - Pluto TV
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5a2b4b1ad8fd000795ac87/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a9a7faf1-8b68-11eb-b9cd-1bc319230674&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=46ba161e-0464-4325-8dc1-c54e860d4542&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="5f9853138d19af0007104a8d" tvg-logo="http://images.pluto.tv/channels/5f9853138d19af0007104a8d/colorLogoPNG.png" group-title="Novelas e séries em espanhol",Series Comedia - Pluto TV | Espanha
+#EXTINF:-1 tvg-id="5f9853138d19af0007104a8d" tvg-logo="http://images.pluto.tv/channels/5f9853138d19af0007104a8d/colorLogoPNG.png" group-title="Novelas e séries em espanhol",Series Comedia | Espanha - Pluto TV
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f9853138d19af0007104a8d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a9a8be41-8b68-11eb-b9cd-1bc319230674&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7cff0070-a6d8-4c49-8831-c2aaf89d9ab5&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="5dd837642c6e9300098ad484" tvg-logo="https://imgur.com/xt0NeJN.png" group-title="Novelas e séries em espanhol",Series Latinas - Pluto TV | Argentinas
+#EXTINF:-1 tvg-id="5dd837642c6e9300098ad484" tvg-logo="https://imgur.com/xt0NeJN.png" group-title="Novelas e séries em espanhol",Series Latinas | Argentinas - Pluto TV
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd837642c6e9300098ad484/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff138f1-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=66035293-500c-4b3d-8f02-dc855d5f476d&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-id="5de802659167b10009e7deba" tvg-logo="https://imgur.com/o6tQxVj.png" group-title="Novelas e séries em espanhol",Series Retro - Pluto TV | Argentina
@@ -3657,7 +3654,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f28009b150b2500077
 #EXTINF:-1 tvg-id="5f92b5ba040eaa0007074d0a" tvg-logo="http://images.pluto.tv/channels/5f92b5ba040eaa0007074d0a/colorLogoPNG.png" group-title="Novelas e séries em francês",BET Classics - Pluto TV | França
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f92b5ba040eaa0007074d0a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=dda62763-6a6f-11eb-8380-d53d31dd7908&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6efb7d17-45f4-41f2-bf67-4e4e3a10af87&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="5e46ae801f347500099d461a" tvg-logo="http://images.pluto.tv/channels/5e46ae801f347500099d461a/colorLogoPNG.png" group-title="Novelas e séries em francês",Classic TV - Pluto TV | França
+#EXTINF:-1 tvg-id="5e46ae801f347500099d461a" tvg-logo="https://images.pluto.tv/channels/5d134a74ca91eedee1630faa/colorLogoPNG.png" group-title="Novelas e séries em francês",Classic TV | França - Pluto TV
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e46ae801f347500099d461a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=dda36840-6a6f-11eb-8380-d53d31dd7908&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=38509659-ad65-44c6-bac0-3c50d7fb710a&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-id="5f8ed2d1c34c2300073bf02c" tvg-logo="http://images.pluto.tv/channels/5f8ed2d1c34c2300073bf02c/colorLogoPNG.png" group-title="Novelas e séries em francês",Drama - Pluto TV | França
@@ -3780,7 +3777,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96d351652631e36d
 #EXTINF:-1 tvg-id="5f1aadf373bed3000794d1d7" tvg-logo="http://images.pluto.tv/channels/5f1aadf373bed3000794d1d7/colorLogoPNG.png" group-title="Reality e game shows em espanhol",MTV Originals | Espanha
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aadf373bed3000794d1d7/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a9a5b102-8b68-11eb-b9cd-1bc319230674&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=79f557c7-ca6b-4f2a-8fc5-ae4552689610&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="5f59f5b7cc331900075e7767" tvg-logo="http://images.pluto.tv/channels/5f59f5b7cc331900075e7767/colorLogoPNG.png" group-title="Reality e game shows em espanhol",MTV Originals+ | Espanha
+#EXTINF:-1 tvg-id="5f59f5b7cc331900075e7767" tvg-logo="http://images.pluto.tv/channels/5f1aadf373bed3000794d1d7/colorLogoPNG.png" group-title="Reality e game shows em espanhol",MTV Originals+ | Espanha
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f59f5b7cc331900075e7767/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a9a7acd0-8b68-11eb-b9cd-1bc319230674&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6508be6a-8f09-4226-be6a-0ddddd88f460&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-id="5d8d103f031154a4172d262b" tvg-logo="http://images.pluto.tv/channels/5d8d103f031154a4172d262b/colorLogoPNG.png" group-title="Reality e game shows em espanhol",Mundo - Pluto TV | EUA 
