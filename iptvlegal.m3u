@@ -976,8 +976,9 @@ http://d2e40kvaojifd6.cloudfront.net/stream/gem_drama/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Gem Film" tvg-language="Persian" tvg-logo="https://i.imgur.com/3DF3dEQ.png" group-title="Cinema em outros idiomas",GEM Film em farsi
 https://stream-cdn.gemonline.tv/live/gemfilm/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Gem Film" tvg-language="Persian" tvg-logo="https://i.imgur.com/3DF3dEQ.png" group-title="Cinema em outros idiomas",GEM Film em farsi 2
-http://stream-cdn.gemonline.tv/live/gemfilm/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Gem Film" tvg-language="Persian" tvg-logo="https://i.imgur.com/3DF3dEQ.png" group-title="Cinema em outros idiomas",GEM Film em farsi 3
+http://stream-cdn.gemonline.tv/live/gemfilm/index.m3u8&pprotocol=hls
+http://stream-cdn.gemonline.tv/live/gemfilm/index.m3u8&hls
 
 #EXTINF:-1 tvg-id="" tvg-name="Gem Series" tvg-language="Persian" tvg-logo="https://i.imgur.com/qh8aPwv.png" group-title="Cinema em outros idiomas",GEM Series em farsi
 https://d2e40kvaojifd6.cloudfront.net/stream/gem_series/playlist.m3u8
@@ -4411,6 +4412,12 @@ https://linkastream.co/headless?url=https://www.youtube.com/channel/UC4K_LI-Tn3-
 
 #EXTINF:-1 tvg-id="Channel20.il" tvg-logo="https://i.imgur.com/vxGmKFv.png" group-title="Variedades em outros idiomas" tvg-name="Channel 20",Channel 20 | Israel
 https://dvr.ch20-cdnwiz.com/hls/live_360/index.m3u8
+
+#EXTINF:-1 tvg-name="Gem Arábia" tvg-logo="https://i.imgur.com/ms2l9Jc.png" group-title="Variedades em outros idiomas",GEM Arábia
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_arabia/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Gem Arábia" tvg-logo="https://i.imgur.com/ms2l9Jc.png" group-title="Variedades em outros idiomas",GEM Arábia 2
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_arabia/playlist_960x540_2000k.m3u8
 
 #EXTINF:-1 tvg-name="Gem Modern Economy" tvg-logo="https://i.imgur.com/26gXFRG.png" group-title="Variedades em outros idiomas",GEM Modern Economy em farsi
 https://d2e40kvaojifd6.cloudfront.net/stream/modern_economy/playlist.m3u8
