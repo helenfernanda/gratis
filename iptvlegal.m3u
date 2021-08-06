@@ -483,9 +483,6 @@ https://5ad482a77183d.streamlock.net/urbantvbrasilgmail.com/urbantvbrasilgmail.c
 #EXTINF:-1 tvg-id="5fb5836fe745b600070fc743" tvg-logo="http://images.pluto.tv/channels/5fb5836fe745b600070fc743/colorLogoPNG.png" group-title="Casa e decoração em inglês",BBC Home | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fb5836fe745b600070fc743/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc9a97a4-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=5b7c9793-ad84-4c3b-8e13-8d6db3946f59&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-name="Gem Property" tvg-logo="https://i.imgur.com/7slcYQB.png" group-title="Casa e decoração em inglês",GEM Property
-https://d2e40kvaojifd6.cloudfront.net/stream/gem_property/playlist.m3u8
-
 #EXTINF:-1 tvg-id="5c5c2e9d8002db3c3e0b1c72" tvg-logo="https://images.pluto.tv/channels/5c5c2e9d8002db3c3e0b1c72/colorLogoPNG.png" group-title="Casa e decoração em inglês",Homes Under Hammer | Reino Unido
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c5c2e9d8002db3c3e0b1c72/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
@@ -524,11 +521,15 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/601a0342dcf43700075
 
 ########### casa e decoração em outros idiomas ############################
 
-#EXTINF:-1 tvg-id="5eb96303f5bb020008e7e44f" group-title="Casa e decoração em outros idiomas" tvg-name="Home" tvg-logo="https://images.pluto.tv/channels/5eb96303f5bb020008e7e44f/colorLogoPNG.png",Pluto TV Home | Alemanha
+#EXTINF:-1 tvg-name="Gem Property" tvg-logo="https://i.imgur.com/7slcYQB.png" group-title="Casa e decoração em outros idiomas",GEM Property em farsi e inglês
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_property/playlist.m3u8
+
+#EXTINF:-1 tvg-id="5dd6ab8056beb000091fc6b6" tvg-logo="https://imgur.com/qiekvJw.png" group-title="Casa e decoração em outros idiomas",Hogar | Argentina - Pluto TV 
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6ab8056beb000091fc6b6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff0c3c2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=83815638-64f0-4bf4-8cd2-92feb27f8740&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="5eb96303f5bb020008e7e44f" group-title="Casa e decoração em outros idiomas" tvg-name="Home" tvg-logo="https://images.pluto.tv/channels/5eb96303f5bb020008e7e44f/colorLogoPNG.png",Home | Alemanha - Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5eb96303f5bb020008e7e44f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1 tvg-id="5dd6ab8056beb000091fc6b6" tvg-logo="https://imgur.com/qiekvJw.png" group-title="Casa e decoração em outros idiomas",Pluto TV Hogar | Argentina 
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6ab8056beb000091fc6b6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff0c3c2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=83815638-64f0-4bf4-8cd2-92feb27f8740&userId=&serverSideAds=true
 
 
 
@@ -975,10 +976,6 @@ http://d2e40kvaojifd6.cloudfront.net/stream/gem_drama/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Gem Film" tvg-language="Persian" tvg-logo="https://i.imgur.com/3DF3dEQ.png" group-title="Cinema em outros idiomas",GEM Film em farsi
 https://stream-cdn.gemonline.tv/live/gemfilm/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Gem Film" tvg-language="Persian" tvg-logo="https://i.imgur.com/3DF3dEQ.png" group-title="Cinema em outros idiomas",GEM Film em farsi 3
-http://stream-cdn.gemonline.tv/live/gemfilm/index.m3u8&pprotocol=hls
-http://stream-cdn.gemonline.tv/live/gemfilm/index.m3u8&hls
 
 #EXTINF:-1 tvg-id="" tvg-name="Gem Series" tvg-language="Persian" tvg-logo="https://i.imgur.com/qh8aPwv.png" group-title="Cinema em outros idiomas",GEM Series em farsi
 https://d2e40kvaojifd6.cloudfront.net/stream/gem_series/playlist.m3u8
@@ -1684,6 +1681,12 @@ https://alchimie-euronews-2-it.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Euronews Doc Italia" tvg-id="ITAJ45000141D" tvg-logo="https://i.imgur.com/ahMtMsf.png" group-title="Documentários em outros idiomas",Euronews Doc | Itália - 2
 https://e4a5a147cb5e4aa38ecb8b703171308c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-it_Euronews/playlist.m3u8?ads.wurl_channel=375&ads.wurl_name=Euronews&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
+
+#EXTINF:-1 tvg-id="" tvg-name="Gem Nature" tvg-language="Persian" tvg-logo="https://i.imgur.com/NahkH0k.png" group-title="Cinema em outros idiomas",GEM Nature em farsi
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_nature/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Gem Travel" tvg-language="Persian" tvg-logo="https://i.imgur.com/NahkH0k.png" group-title="Cinema em outros idiomas",GEM Travel em farsi
+https://stream-cdn.gemonline.tv/live/gemtravel/index.m3u8
 
 #EXTINF:-1  tvg-name="History Lab" tvg-logo="https://i.imgur.com/Hf8RtBU.png" tvg-shift="0" group-title="Documentários em outros idiomas",History Lab | Itália
 https://5929b138b139d.streamlock.net/HistoryLab/livestream/chunklist_w442798614.m3u8
@@ -2831,7 +2834,61 @@ https://stmv1.srvstm.com/gmusic/gmusic/chunklist_w637142895.m3u8
 #EXTINF:-1  group-title="Música" tvg-name="Hot Rock" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWeckfObfyFWhe5JuPFGqaZgCiFyBSZXjg4RqleTMoxnlpG_wSOg3gOaRJjYdxQHUbZa0&usqp=CAU",Hot Rock
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/4667&pprotocol=hls
 
-#EXTINF:-1  group-title="Música" tvg-name="JBTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWeckfObfyFWhe5JuPFGqaZgCiFyBSZXjg4RqleTMoxnlpG_wSOg3gOaRJjYdxQHUbZa0&usqp=CAU",JBTV
+#EXTINF:-1 tvg-id="" group-name="Música" tvg-logo="https://statics.yowi.tv/files/9ca47a796a3a78ccab8c0ee65df88f87b1a6be18" tvg-name="HQM Arabic",HQM Arabic - só PC
+https://livelist01.yowi.tv/lista/39596c72840d27b213caf4e58c39599a6f2ed203/master.m3u8
+
+#EXTINF:-1 tvg-id="" group-name="Música" tvg-logo="https://statics.yowi.tv/files/1abd8b81fc6ff13a8093f8af52af36e351429895" tvg-name="HQM Baladas",HQM Baladas - só PC
+https://livelist01.yowi.tv/lista/5d7d2c21e0ec7a8a99fd1fdbc52cbdc0782f77fc/master.m3u8
+
+#EXTINF:-1 tvg-id="" group-name="Música" tvg-logo="https://statics.yowi.tv/files/72ca2eeb697bef62901fd272d528df7ac8d5cc48" tvg-name="HQM Blues",HQM Blues - só PC
+https://livelist01.yowi.tv/lista/81c601f370e44dc566113fd752204be5f5f53b61/master.m3u8
+
+#EXTINF:-1 tvg-id="" group-name="Música" tvg-logo="https://statics.yowi.tv/files/7efb6dad83e3fa171f4265eec9a5ab2c1d4d5bd4" tvg-name="HQM Chill Out",HQM Chill Out - só PC
+https://livelist01.yowi.tv/lista/183a351ddb0e57af6d735256226e6033c32219ab/master.m3u8
+
+#EXTINF:-1 tvg-id="" group-name="Música" tvg-logo="https://statics.yowi.tv/files/68e0b26ca4f7b085560ed873c13cf0ee09a549c3" tvg-name="HQM Classic",HQM Classic - só PC
+https://livelist01.yowi.tv/lista/f04129475945936b248aa723de56519ea2ff10fc/master.m3u8 
+
+#EXTINF:-1 tvg-id="" group-name="Música" tvg-logo="https://statics.yowi.tv/files/cb2b44e0f7fb98f4cae80bb452f166f764c2c8c2" tvg-name="HQM Dance",HQM Dance - só PC
+https://livelist01.yowi.tv/lista/57cf2f51b07ff21988a7a6f0270a66d41086d4a4/master.m3u8
+
+#EXTINF:-1 tvg-id="" group-name="Música" tvg-logo="https://statics.yowi.tv/files/62f5e3df94dc181ef022c5d430823a3f97690ffd" tvg-name="HQM Folk",HQM Folk - só PC
+https://livelist01.yowi.tv/lista/9f5310c179e8e840188d183be235f755b18cf703/master.m3u8 
+
+#EXTINF:-1 tvg-id="" group-name="Música" tvg-logo="https://statics.yowi.tv/files/51387639e8e1a6f998ab94d2fabcadc63df76262" tvg-name="HQM Gym",HQM Gym - só PC
+https://livelist01.yowi.tv/lista/abb87f329d0ed03072b1930e9636a53e8076c8d5/master.m3u8 
+
+#EXTINF:-1 tvg-id="" group-name="Música" tvg-logo="https://statics.yowi.tv/files/c56e2bd963790c573bab04bd8a752beb83efafad" tvg-name="HQM Hip Hop",HQM Hip Hop - só PC
+https://livelist01.yowi.tv/lista/8327abc87895df4c76db1155435fdca6a3607bbd/master.m3u8 
+
+#EXTINF:-1 tvg-id="" group-name="Música" tvg-logo="https://statics.yowi.tv/files/73aab7905b1561178b40f69820f11986207cb394" tvg-name="HQM Hits",HQM Hits - só PC
+https://livelist01.yowi.tv/lista/5e2db2017a8fd03f73b40ede363d1a586db4e9a6/master.m3u8 
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://statics.yowi.tv/files/bef71c2b4b99be9a83c69483e4e679222826a28c" tvg-name="HQM Jazz",HQM Jazz - só PC
+https://livelist01.yowi.tv/lista/f204aa5b3f0691e69851b54b7746ef09ede26f6a/master.m3u8
+
+#EXTINF:-1 tvg-id="" group-name="Música" tvg-logo="https://statics.yowi.tv/files/c397988fd977682a1ae822290f20f69b0554dfea" tvg-name="HQM Latin",HQM Latin - só PC
+https://livelist01.yowi.tv/lista/9a4da7871ec57b4b63ed49597a13d09869172be0/master.m3u8
+
+#EXTINF:-1 tvg-id="" group-name="Música" tvg-logo="https://statics.yowi.tv/files/74530e0066bb2b1179bc3d1852abf035f5a2ad54" tvg-name="HQM Pop",HQM Pop - só PC
+https://livelist01.yowi.tv/lista/eb2fa68a058a701fa5bd2c80f6c8a6075896f71d/master.m3u8
+
+#EXTINF:-1 tvg-id="" group-name="Música" tvg-logo="https://statics.yowi.tv/files/961f5fd08b37fceb794a18ad662d3f420fa5f7e1" tvg-name="HQM Relax",HQM Relax - só PC
+https://livelist01.yowi.tv/lista/dc1b71c6fda2e687050facaa7242062cbf5a7f2a/master.m3u8
+
+#EXTINF:-1 tvg-id="" group-name="Música" tvg-logo="https://statics.yowi.tv/files/22b879b8e06cc29689254625cd52b362719aacc3" tvg-name="HQM Remember",HQM Remember - só PC
+http://livelist01.yowi.tv/lista/57c98e2e295a0b69b52dc5f84edc4b1b68783ba2/master.m3u8
+
+#EXTINF:-1 tvg-id="" group-name="Música" tvg-logo="https://statics.yowi.tv/files/402e054f5c92c72fd948fee55a4f1acb29147746" tvg-name="HQM Rock",HQM Rock - só PC
+https://livelist01.yowi.tv/lista/0d6c7ccfac89946bfd41ae34c527e8d94734065c/master.m3u8
+
+#EXTINF:-1 tvg-id="" group-name="Música" tvg-logo="https://statics.yowi.tv/files/402e054f5c92c72fd948fee55a4f1acb29147746" tvg-name="HQM Rock",HQM Rock - só PC
+https://livelist01.yowi.tv/lista/0d6c7ccfac89946bfd41ae34c527e8d94734065c/index-f1-v1-a1.m3u8?pprotocol=hls
+
+#EXTINF:-1 tvg-id="" group-name="Música" tvg-logo="https://statics.yowi.tv/files/f8584df7f64546f70a346ef301ec2e49c6e91d92" tvg-name="HQM Spanish",HQM Spanish - só PC
+https://livelist01.yowi.tv/lista/8635ae40f8d1a32eccd63d1f58b55662c9c98f9f/master.m3u8
+
+#EXTINF:-1 group-title="Música" tvg-name="JBTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWeckfObfyFWhe5JuPFGqaZgCiFyBSZXjg4RqleTMoxnlpG_wSOg3gOaRJjYdxQHUbZa0&usqp=CAU",JBTV
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/2999&pprotocol=hls
 
 #EXTINF:-1 tvg-name="Juice TV" tvg-id="juice.au" tvg-logo="https://i.mjh.nz/.images/tv.juice.png" group-title="Música",Juice TV | Austrália 🇦🇺
@@ -4413,11 +4470,14 @@ https://linkastream.co/headless?url=https://www.youtube.com/channel/UC4K_LI-Tn3-
 #EXTINF:-1 tvg-id="Channel20.il" tvg-logo="https://i.imgur.com/vxGmKFv.png" group-title="Variedades em outros idiomas" tvg-name="Channel 20",Channel 20 | Israel
 https://dvr.ch20-cdnwiz.com/hls/live_360/index.m3u8
 
+#EXTINF:-1 tvg-name="Gem TV" tvg-logo="https://i.imgur.com/NahkH0k.png" group-title="Variedades em outros idiomas",GEM TV em farsi
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_tv/playlist.m3u8
+
 #EXTINF:-1 tvg-name="Gem Arábia" tvg-logo="https://i.imgur.com/ms2l9Jc.png" group-title="Variedades em outros idiomas",GEM Arábia
 https://d2e40kvaojifd6.cloudfront.net/stream/gem_arabia/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Gem Arábia" tvg-logo="https://i.imgur.com/ms2l9Jc.png" group-title="Variedades em outros idiomas",GEM Arábia 2
-https://d2e40kvaojifd6.cloudfront.net/stream/gem_arabia/playlist_960x540_2000k.m3u8
+#EXTINF:-1 tvg-name="Gem Life" tvg-logo="https://i.imgur.com/NahkH0k.png" group-title="Variedades em outros idiomas",GEM Life
+https://stream-cdn.gemonline.tv/live/gemlife/index.m3u8
 
 #EXTINF:-1 tvg-name="Gem Modern Economy" tvg-logo="https://i.imgur.com/26gXFRG.png" group-title="Variedades em outros idiomas",GEM Modern Economy em farsi
 https://d2e40kvaojifd6.cloudfront.net/stream/modern_economy/playlist.m3u8
