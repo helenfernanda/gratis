@@ -24,9 +24,6 @@ https://linkastream.co/headless?url=https://www.youtube.com/channel/UC9-Fye26GXV
 
 ####### Brasil: cinema ############# Brasil: cinema ############# Brasil: cinema ############# Brasil: cinema ############# Brasil: cinema ############# Brasil: cinema ############# Brasil: cinema ############# Brasil: cinema ############# Brasil: cinema ######
 
-#EXTINF:-1 tvg-id="5ff768b6a4c8b80008498610" tvg-logo="http://images.pluto.tv/channels/5ff768b6a4c8b80008498610/colorLogoPNG.png" group-title="Brasil: cinema em português",BET | Brasil 
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff768b6a4c8b80008498610/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b24c76a3-8dd8-11eb-83c3-1ff76e6e06e9&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=65d20d49-b2d8-4725-9f02-e688df67da0e&userId=&serverSideAds=true
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gl4Ga75.png" group-title="Brasil: cinema em português",Bora Filmes | Brasil 
 http://45.165.178.82:8000/play/a00y/index.m3u8
 
@@ -69,22 +66,34 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5a545d0dbf7f0007c
 #EXTINF:-1 tvg-name="Filmes Suspense" tvg-id="5f171d3442a0500007362f22" tvg-logo="https://images.pluto.tv/channels/5f171d3442a0500007362f22/featuredImage.jpg" group-title="Brasil: cinema em português",Filmes Suspense | Brasil 
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f171d3442a0500007362f22/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781c810-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=34b16d8e-8dce-4632-ba87-dabc2e07988f&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-name="Gospel Movies" tvg-logo="https://i.imgur.com/qqhdkym.png" group-title="Brasil: cinema em português",Gospel Movies | Brasil
-https://stmv1.srvif.com/gospelf/gospelf/chunklist_w1321445886.m3u8
-
-#EXTINF:-1 tvg-name="Kuriakos Cine" tvg-logo="https://i.imgur.com/GbQuvWG.png" group-title="Brasil: cinema em português",Kuriakos Cine 
-https://c2.manasat.com:1935/kcine/kcine3/master.m3u8
-
 #EXTINF:-1 tvg-name="RunTime Brasil" tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Brasil: cinema em português",RunTime | Brasil
 https://runtimebrazil-samsungbrazil.amagi.tv/playlist.m3u8
 
 #### Brasil: cristianismo em português ######## Brasil: cristianismo em português ######## Brasil: cristianismo em português ######## Brasil: cristianismo em português ######## Brasil: cristianismo em português ######## Brasil: cristianismo em português ######## Brasil: cristianismo em português ######## Brasil: cristianismo em português ####
 
+#EXTINF:-1 tvg-id="TVaparecida.br" tvg-name="TV APARECIDA" tvg-logo="https://i.imgur.com/NJCEHbQ.png" tvg-shift="0" group-title="Brasil: cristianismo em português",TV Aparecida | Brasil
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="PUCTV.br" tvg-name="PUC TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3c/Logo_puctv.png" tvg-shift="0" group-title="Brasil: cristianismo em português",TV Aparecida | PUC TV (GO)
+https://59fb88a1b1108.streamlock.net/pucgoias/aovivo/chunklist_w897014956.m3u8
+
 #EXTINF:-1 tvg-name="TV Fátima" tvg-logo="https://i.imgur.com/hCFVc5S.jpg" group-title="Brasil: cristianismo em português",TV Fátima | Portugal
 https://streamer-b02.videos.sapo.pt/live/santuario.stream/livestream.m3u8
 
+#EXTINF:-1 tvg-name="Gospel Cartoon" tvg-logo="https://i.imgur.com/kprdrBT.png" group-title="Brasil: cristianismo em português",Gospel Cartoon | Brasil
+https://stmv1.srvstm.com/gospelcartoon2/gospelcartoon2/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="Gospel Movies" tvg-logo="https://i.imgur.com/qqhdkym.png" group-title="Brasil: cristianismo em português",Gospel Movies | Brasil
+https://stmv1.srvif.com/gospelf/gospelf/chunklist_w1321445886.m3u8
+
 #EXTINF:-1 tvg-name="Igreja Online" tvg-logo="http://www.igreja-online.tv/img/logo.png" group-title="Brasil: cristianismo em português",Igreja Online | Portugal 
 http://195.22.11.11:1935/igronline/igronline2/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Kuriakos Cine" tvg-logo="https://i.imgur.com/GbQuvWG.png" group-title="Brasil: cristianismo em português",Kuriakos Cine | Portugal 
+https://c2.manasat.com:1935/kcine/kcine3/master.m3u8
+
+#EXTINF:-1 tvg-name="Kuriakos TV" tvg-logo="https://cdn.teleon.tv/logo/kuriakos_tv_pt.png" group-title="Brasil: cristianismo em português",Kuriakos TV | Portugal 
+http://195.22.11.11:1935/ktv/ktv2/playlist.m3u8
 
 #EXTINF:-1 tvg-name="TV Maná 1" tvg-logo="https://i.imgur.com/ycTr2sk.png" group-title="Brasil: cristianismo em português",TV Maná 1 | Portugal
 http://195.22.11.11:1935/tvmana/tvmana2/playlist.m3u8
@@ -108,6 +117,9 @@ https://tvbrasil-stream.ebc.com.br/STsEBCLIVE_720/index.m3u8
 
 #EXTINF:-1 tvg-id="Tvbrasil.br" tvg-name="TV Brasil" tvg-logo="https://www.fenaert.org.br/images/Novatvbrasil.jpg" group-title="Brasil: educativos e documentários",TV Brasil HD
 https://origin-02.nxplay.com.br/TV_BRASIL_NX/index.m3u8
+
+#EXTINF:-1 tvg-name="TVE Bahia" tvg-id="" tvg-logo="https://i.imgur.com/ewJjke2.jpg" group-title="Brasil: educativos e documentários",TV Brasil | TVE Bahia
+http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
 
 #EXTINF:-1 tvg-name="TVE" tvg-logo="https://pbs.twimg.com/profile_images/927523078690787328/cY2qU7jK_400x400.jpg" group-title="Brasil: educativos e documentários",TV Brasil | TVE (RS)
 http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
@@ -155,6 +167,9 @@ https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2
 
 #EXTINF:-1 tvg-id="60a8126a0ac3970007f850fe" tvg-logo="https://images.pluto.tv/channels/60a8126a0ac3970007f850fe/featuredImage.jpg" group-title="Brasil: humor e seriados",Being Mary Jane | Brasil 
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60a8126a0ac3970007f850fe/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=e61e81d1-c6d5-4eea-a605-2651410462b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=357672e9-e58c-11eb-b36a-0242ac110002&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="5ff768b6a4c8b80008498610" tvg-logo="http://images.pluto.tv/channels/5ff768b6a4c8b80008498610/colorLogoPNG.png" group-title="Brasil: humor e seriados",BET | Brasil 
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff768b6a4c8b80008498610/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b24c76a3-8dd8-11eb-83c3-1ff76e6e06e9&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=65d20d49-b2d8-4725-9f02-e688df67da0e&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-name="CHiPs" tvg-logo="https://i.imgur.com/OzhlJvq.png" group-title="Brasil: humor e seriados",CHiPs | Brasil
 https://stmv1.srvstm.com/tvserie4/tvserie4/chunklist_w1196851353.m3u8
@@ -257,9 +272,6 @@ http://45.165.178.82:8000/play/a011/index.m3u8
 #EXTINF:-1 tvg-name="Desenhos antigos 1" tvg-logo="https://i.pinimg.com/originals/f5/1d/08/f51d08be05919290355ac004cdd5c2d6.png" tvg-shift="0" group-title="Brasil: infantis",Desenhos antigos 1 | Brasil
 https://srv5.zcast.com.br/tvmanchete/tvmanchete/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Gospel Cartoon" tvg-logo="https://i.imgur.com/kprdrBT.png" group-title="Brasil: infantis",Gospel Cartoon | Brasil
-https://stmv1.srvstm.com/gospelcartoon2/gospelcartoon2/chunklist.m3u8
-
 #EXTINF:-1 tvg-name="Os Jetsons" tvg-logo="https://i.imgur.com/sqUlcaY.png" group-title="Brasil: infantis",Os Jetsons | Brasil
 https://stmv1.srvif.com/jetsontv/jetsontv/chunklist.m3u8
 
@@ -351,7 +363,6 @@ https://video-auth2.iol.pt/live_tvi24/live_tvi24/edge_servers/tvi24-480p/chunks.
 #EXTINF:-1  tvg-name="1001 Noites" tvg-logo="https://i.imgur.com/WrXXeRO.png" group-title="Brasil: variedades em português",1001 Noites (PR)
 https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/chunklist_b1155072.m3u8
 
-
 #EXTINF:-1 tvg-name="TV Ado Brasil" tvg-logo="https://i.imgur.com/weOxAEx.png" group-title="Brasil: variedades em português",TV ADO | Brasil
 https://5c483b9d1019c.streamlock.net/tvado/tvado/chunklist_w1766917256.m3u8
 
@@ -366,13 +377,6 @@ https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
 
 #EXTINF:-1 tvg-name="Araguaia TV" tvg-id="" tvg-logo="https://i.imgur.com/w6nWiVv.png" group-title="Brasil: variedades em português",Araguaia TV
 https://video01.kshost.com.br/mayra5349/mayra5349/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TVaparecida.br" tvg-name="TV APARECIDA" tvg-logo="https://i.imgur.com/NJCEHbQ.png" tvg-shift="0" group-title="Brasil: variedades em português",TV Aparecida | Brasil
-https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/chunklist.m3u8
-
-
-#EXTINF:-1 tvg-id="PUCTV.br" tvg-name="PUC TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3c/Logo_puctv.png" tvg-shift="0" group-title="Brasil: variedades em português",TV Aparecida | PUC TV (GO)
-https://59fb88a1b1108.streamlock.net/pucgoias/aovivo/chunklist_w897014956.m3u8
 
 #EXTINF:-1 tvg-name="TV Balcão" tvg-logo="https://i.imgur.com/GbPiWi0.png" group-title="Brasil: variedades em português",TV Balcão (MG)
 https://cdn.jmvstream.com/w/AVJ-9028/playlist/chunklist.m3u8
@@ -389,7 +393,6 @@ https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0eGv67Q.png" group-title="Brasil: variedades em português",Canal Macau | China
 http://live4.tdm.com.mo:80/ch2/_definst_/ch2.live/playlist.m3u8
 
-
 #EXTINF:-1  tvg-name="TV Carioca" tvg-logo="https://pbr-str.srvsite.com/arquivos/7051/cabecalho-7051-20200320104612.png" group-title="Brasil: variedades em português",TV Carioca | Brasil
 https://srv5.zcast.com.br/tvcarioca/tvcarioca/chunklist_w1896676795.m3u8
 
@@ -398,6 +401,9 @@ https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e
 
 #EXTINF:-1 tvg-id="combrasil.br" tvg-name="Com Brasil" tvg-logo="https://combrasiltv.com.br/wp-content/uploads/2020/02/logo_site.png" tvg-shift="0" group-title="Brasil: variedades em português",Com Brasil
 https://596639ebdd89b.streamlock.net/8032/8032/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="CTV HD Brasil" tvg-id="" tvg-logo="https://i.imgur.com/RQZEcbT.png" group-title="Brasil: variedades em português",CTV | Brasil 
+https://5d2c98775bafe.streamlock.net/8020/8020/playlist.m3u8
 
 #EXTINF:-1 tvg-id="demaistv.br" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5a0ca2ab1c68adcde7bf577af87071b8.jpg" group-title="Brasil: variedades em português",D+ TV | Brasil
 https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
@@ -410,6 +416,9 @@ https://novo.bitstreaming.info:1936/tvdestaquenacional/tvdestaquenacional/chunkl
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/diariodosertao.png" group-title="Brasil: variedades em português", TV Diário do Sertão (PB)
 https://5a2b083e9f360.streamlock.net/pdsertaotv/pdsertaotv.sdp/chunklist_w1456507595.m3u8
+
+#EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="TV Alternativa MA" tvg-logo="https://imgur.com/lAXbfuU.png" tvg-shift="0" group-title="Brasil: variedades em português",TV Gazeta | Alternativa (MA)
+http://stmv8.conectastm.com/wagner1168/wagner1168/playlist.m3u8
 
 #EXTINF:-1 tvg-ID="Globominas.br" tvg-name="Globo Minas" tvg-logo="http://168.205.87.198/logocanais/globominas.png" group-title="Brasil: variedades em português",Globo Minas
 http://168.205.87.198:8555/live/viniciusvieira/vieira123/70.m3u8
@@ -426,14 +435,20 @@ http://45.165.178.82:8000/play/a00w/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/5KbMwQm.png" group-title="Brasil: variedades em português",Inspire | Brasil
 http://45.165.178.82:8000/play/a01a/index.m3u8
 
-#EXTINF:-1 tvg-name="Kuriakos TV" tvg-logo="https://cdn.teleon.tv/logo/kuriakos_tv_pt.png" group-title="Brasil: variedades em português",Kuriakos TV | Portugal 
-http://195.22.11.11:1935/ktv/ktv2/playlist.m3u8
-
 #EXTINF:-1 tvg-id="lifechannelbrasil" tvg-name="Life Channel Brasil" tvg-logo="https://i.imgur.com/M8Boksv.png" group-title="Brasil: variedades em português",Life Channel Brasil
 https://hls.brasilstream.com.br/live/lifechannel/lifechannel/tracks-v1a1/mono.m3u8?token=4886437652103395000 
 
+#EXTINF:-1 tvg-id="Tvmetropole.br" group-title="Brasil: variedades em português" tvg-logo="https://imgur.com/EhJNGIy.png",TV Metrópole | Caucaia (CE)
+https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tvmon.br" group-title="Brasil: variedades em português" tvg-logo="https://2net.com.br/Repositorio/3106/Logo/ee19d371-e.png",TV Mon | Montenegro (RS)
+https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jl1IZn6.png" group-title="Brasil: variedades em português",Mosaico | Brasil
 http://45.165.178.82:8000/play/a00v/index.m3u8
+
+#EXTINF:-1 tvg-name="TV Pantanal" tvg-logo="https://listaiptv.gratis/logos/imagens/tvpantanal.png" group-title="Brasil: variedades em português", TV Pantanal (MS)
+https://5e837408ea907.streamlock.net:1936/tvpantanalms/tvpantanalms/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PortoCanal.pt" tvg-name="Porto Canal" tvg-logo="https://i.imgur.com/xLyv1oL.png" group-title="Brasil: variedades em português",Porto TV 1 | Portugal
 https://streamer-a01.videos.sapo.pt/live/portocanal/playlist.m3u8
@@ -452,6 +467,9 @@ https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="Redemetropole.br" tvg-name="Rede Metrópole" group-title="Brasil: variedades em português" tvg-logo="https://play-lh.googleusercontent.com/yAp592JJ2UwfANsFzndnqQDnwbx9EcVo1lbikgbxz3mgR0V7Fp6Jtif0EFFl0CrDNbM",Rede Metrópole | Brasil
 http://187.33.200.235:9000/hls/redemetropole.m3u8
+
+#EXTINF:-1 tvg-name="Rede Premium TV" tvg-id="" tvg-logo="https://i.imgur.com/vbG3enm.png" group-title="Brasil: variedades em português",Rede Premium TV, Osasco (SP)
+https://5c483b9d1019c.streamlock.net/8066/8066/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Redetv.br" tvg-name="Rede TV" tvg-logo="https://i.imgur.com/hd76Jt4.png" tvg-shift="0" group-title="Brasil: variedades em português",Rede TV (RJ)
 https://hls.brasilstream.com.br/live/redetves/redetves/mono.m3u8?token=6410329353875642000
@@ -492,26 +510,14 @@ https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u
 #EXTINF:-1 tvg-id="Terraviva.br" tvg-name="Terra Viva" tvg-logo="https://1.bp.blogspot.com/-1DYn7WAo9Xc/XyxDWmZ9aeI/AAAAAAABu4Y/yrSqKd72VG8fkB_l6Ti7hUMp-AZUuMMqQCLcBGAsYHQ/w300-c/Terraviva.png" group-title="Brasil: variedades em português",Terra Viva | Brasil
 https://evpp.mm.uol.com.br/band_live/terraviva/chunklist_w1942099493.m3u8
 
-#EXTINF:-1 tvg-name="TV União Brasilia" tvg-id="" tvg-logo="https://i.imgur.com/2Dsd75b.png" group-title="Brasil: variedades em português",TV União Brasília (DF)
-https://596639ebdd89b.streamlock.net/tvuniao/tvuniao/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="TV Alternativa MA" tvg-logo="https://imgur.com/lAXbfuU.png" tvg-shift="0" group-title="Brasil: variedades em português",TV Gazeta | Alternativa (MA)
-http://stmv8.conectastm.com/wagner1168/wagner1168/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Tvmetropole.br" group-title="Brasil: variedades em português" tvg-logo="https://imgur.com/EhJNGIy.png",TV Metrópole | Caucaia (CE)
-https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Tvmon.br" group-title="Brasil: variedades em português" tvg-logo="https://2net.com.br/Repositorio/3106/Logo/ee19d371-e.png",TV Mon | Montenegro (RS)
-https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8
-
-#EXTINF:-1 tvg-name="TV Pantanal" tvg-logo="https://listaiptv.gratis/logos/imagens/tvpantanal.png" group-title="Brasil: variedades em português", TV Pantanal (MS)
-https://5e837408ea907.streamlock.net:1936/tvpantanalms/tvpantanalms/playlist.m3u8
-
-#EXTINF:-1 tvg-name="TVM" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSrHjp6Kw-MTOl5RxThdiuAsYL-xrzsJlK9RhbP8g=s400-c-k-c0x00ffffff-no-rj" group-title="Brasil: variedades em português", TVM | Moçambique
+#EXTINF:-1 tvg-name="TVM" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSrHjp6Kw-MTOl5RxThdiuAsYL-xrzsJlK9RhbP8g=s400-c-k-c0x00ffffff-no-rj" group-title="Brasil: variedades em português",TVM | Moçambique
 http://online.tvm.co.mz:1935/live/smil:Channel1.smil/chunklist_w138848732_b214000_slpor.m3u8
 
-#EXTINF:-1 tvg-name="TVM Internacional" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSrHjp6Kw-MTOl5RxThdiuAsYL-xrzsJlK9RhbP8g=s400-c-k-c0x00ffffff-no-rj" group-title="Brasil: variedades em português", TVM Internacional | Moçambique
+#EXTINF:-1 tvg-name="TVM Internacional" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSrHjp6Kw-MTOl5RxThdiuAsYL-xrzsJlK9RhbP8g=s400-c-k-c0x00ffffff-no-rj" group-title="Brasil: variedades em português",TVM Internacional | Moçambique
 http://online.tvm.co.mz:1935/live/smil:Channel2.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="TV União Brasilia" tvg-id="" tvg-logo="https://i.imgur.com/2Dsd75b.png" group-title="Brasil: variedades em português",TV União Brasília (DF)
+https://596639ebdd89b.streamlock.net/tvuniao/tvuniao/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Up Channel" group-title="Brasil: variedades em português" tvg-logo="https://i.imgur.com/IIztLyO.png",Up Channel | Brasil
 http://45.165.178.82:8000/play/a00x/index.m3u8
@@ -1085,22 +1091,22 @@ https://tvsn-i.akamaihd.net/hls/live/261837/tvsn/tvsn_750.m3u8
 
 
 #################### Cristianismo #################### Cristianismo #################### Cristianismo #################### Cristianismo #################### Cristianismo #################### Cristianismo 
-#EXTINF:-1 tvg-id="5c58a539fae3812612f33ca3" tvg-logo="http://images.pluto.tv/channels/5c58a539fae3812612f33ca3/colorLogoPNG.png" group-title="Cristianismo",Faith TV | EUA
+#EXTINF:-1 tvg-id="5c58a539fae3812612f33ca3" tvg-logo="http://images.pluto.tv/channels/5c58a539fae3812612f33ca3/colorLogoPNG.png" group-title="Cristianismo em outros idiomas",Faith TV | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c58a539fae3812612f33ca3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc951961-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=43f48bc9-d834-49e8-ad08-1e24e2a4afa3&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="5d486b87428fe37d8cadba44" tvg-logo="http://images.pluto.tv/channels/5d486b87428fe37d8cadba44/colorLogoPNG.png" group-title="Cristianismo",Hillsong Channel | EUA
+#EXTINF:-1 tvg-id="5d486b87428fe37d8cadba44" tvg-logo="http://images.pluto.tv/channels/5d486b87428fe37d8cadba44/colorLogoPNG.png" group-title="Cristianismo em outros idiomas",Hillsong Channel | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d486b87428fe37d8cadba44/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7f3021-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=21744e45-9ad4-4bd4-a0af-1581ea5b1813&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="Sonlife.uk" tvg-name="Sonlife" group-title="Cristianismo" tvg-logo="https://i.imgur.com/p6og1yz.png",Sonlife | Reino Unido
+#EXTINF:-1 tvg-id="Sonlife.uk" tvg-name="Sonlife" group-title="Cristianismo em outros idiomas" tvg-logo="https://i.imgur.com/p6og1yz.png",Sonlife | Reino Unido
 https://sonlife7-i.akamaihd.net/hls/live/585011/ch7/master.m3u8
 
-#EXTINF:-1 tvg-id="5d486b2eeddd9576d66f9066" tvg-logo="http://images.pluto.tv/channels/5d486b2eeddd9576d66f9066/colorLogoPNG.png" group-title="Cristianismo",TBN | EUA 
+#EXTINF:-1 tvg-id="5d486b2eeddd9576d66f9066" tvg-logo="http://images.pluto.tv/channels/5d486b2eeddd9576d66f9066/colorLogoPNG.png" group-title="Cristianismo em outros idiomas",TBN | EUA 
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d486b2eeddd9576d66f9066/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc9651e1-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9aeae7ff-1282-42b8-a00b-0aed4b4f13cd&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-name="TV 2000" tvg-id="tv2000" tvg-logo="https://i.imgur.com/E5F7dVE.png" group-title="Cristianismo",TV 2000 | Itália
+#EXTINF:-1 tvg-name="TV 2000" tvg-id="tv2000" tvg-logo="https://i.imgur.com/E5F7dVE.png" group-title="Cristianismo em outros idiomas",TV 2000 | Itália
 https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/hls_1_1500/chunklist.m3u8
 
-#EXTINF:-1 tvg-name="Vatican News" tvg-logo="https://i.imgur.com/EumHaQC.png" group-title="Cristianismo",Vatican News | Vaticano
+#EXTINF:-1 tvg-name="Vatican News" tvg-logo="https://i.imgur.com/EumHaQC.png" group-title="Cristianismo em outros idiomas",Vatican News | Vaticano
 https://linkastream.co/headless?url=https://www.youtube.com/channel/UC7E-LYc1wivk33iyt5bR5zQ/live
 
 ################################## Culinária em espanhol ###########################
@@ -1543,6 +1549,9 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-litton-jackhannah-samsungus/
 
 #EXTINF:-1 tvg-id="USBB1000003HL" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/04/USBB1000003HL_20210525T051451.png" group-title="Documentários em inglês",Journy | EUA 
 https://d3lzjtrf5mvf3p.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Journy-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+
+#EXTINF:-1 tvg-name="Loco-Motion" tvg-logo="https://i.imgur.com/tW75M7v.png" group-title="Documentários em inglês",Loco-Motion - Filmon
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3608&pprotocol=hls
 
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60995eb136c72d002da7bbcb" tvg-logo="https://i.imgur.com/gHOnUfn.png" group-title="Documentários em inglês",Love Nature | EUA 
 https://lovenatureus-eng-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-bamus-lovenature-eng-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=Tog8X6wK6iweuzGFsz6p&channelId=60995eb136c72d002da7bbcb
@@ -2962,6 +2971,9 @@ https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3347&p
 #EXTINF:-1 tvg-id="101700" tvg-name="Rewind TV Chile" tvg-logo="https://imgur.com/fssx3Gh.png" group-title="Música",Rewind TV Chile
 https://tls.cdnz.cl/rewindtv/rewindtv/playlist.m3u8
 
+#EXTINF:-1 tvg-name="Sexy Kpop TV" tvg-id="" tvg-logo="https://i.imgur.com/jsQmxyV.jpg" group-title="Música",Sexy Kpop TV
+https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="604b91e0692f770007d9f33f" tvg-logo="https://images.pluto.tv/channels/604b91e0692f770007d9f33f/featuredImage.jpg" group-title="Música",Shows por Stingray | Brasil
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/604b91e0692f770007d9f33flivestitch/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=e61e81d1-c6d5-4eea-a605-2651410462b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3bf99bf4-e584-11eb-a5e5-0242ac110002&userId=&serverSideAds=true
 
@@ -3103,9 +3115,6 @@ https://linkastream.co/headless?url=https://www.distro.tv/live/fish-tank
 
 #EXTINF:-1 tvg-name="Island Scape" tvg-logo="https://i.imgur.com/qvo7zo4.png" group-title="Música instrumental e som ambiente",Island Scape | Distro TV
 https://linkastream.co/headless?url=https://www.distro.tv/live/island-escape
-
-#EXTINF:-1 tvg-name="Loco-Motion" tvg-logo="https://i.imgur.com/tW75M7v.png" group-title="Música instrumental e som ambiente",Loco-Motion - Filmon
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3608&pprotocol=hls
 
 #EXTINF:-1 tvg-name="Loupe Argentina" tvg-id="5ffcc38adbc38100073511f2" tvg-logo="https://media-exp1.licdn.com/dms/image/C4D0BAQFyyXznCPCX5Q/company-logo_200_200/0/1519921044747?e=2159024400&v=beta&t=zG7sdc7PpRBdwxr00jP9ssNa_WfXxGLxPkvpeuKePlI" group-title="Música instrumental e som ambiente",Loupe Argentina
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ffcc38adbc38100073511f2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=98a3fd62-8e3f-11eb-9619-637dcb8e0f08&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a35b3c8a-7da4-45c8-99f2-06811ca4c06d&userId=&serverSideAds=true
