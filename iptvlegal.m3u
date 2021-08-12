@@ -1744,8 +1744,11 @@ https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
 #EXTINF:-1 tvg-id="5e9f2c05172a0f0007db4786" tvg-logo="http://images.pluto.tv/channels/5e9f2c05172a0f0007db4786/colorLogoPNG.png" group-title="Esportes em inglês",CBS Sports HQ | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc984db0-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0d3094e7-116a-4bea-901a-e34b64f466b8&userId=&serverSideAds=true
 
-#EXTINF:-1  tvg-logo="https://www.desifree.tv/wp-content/uploads/DUBAI-SPORTS.jpg" tvg-name="Dubai Sports" group-title="Esportes em inglês",Dubai Sports | Emirados Árabes Unidos 
+#EXTINF:-1 tvg-logo="https://www.desifree.tv/wp-content/uploads/DUBAI-SPORTS.jpg" tvg-name="Dubai Sports" group-title="Esportes em inglês",Dubai Sports | Emirados Árabes Unidos 
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/79?pprotocol=hls
+
+#EXTINF:-1 tvg-logo="https://imgcdn.powr-media.com/extend:1:ce/enlarge:1/resize:fit/w:400/gravity:ce/czM6Ly91bnJlZWxtZWRpYS9saXZlL3doaXRlL0VwaWMtTWFrZXMtTWlzc2VzLWFuZC1NYXloZW0ucG5n" tvg-name="Epic M" group-title="Esportes em inglês",Epic M
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22225d5eeee0f5a40941d/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60aeb5cd87f9b1002ce12321" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/Extreme_logo_dark.png" group-title="Esportes em inglês",Extreme Plus
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=729&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=Tog8X6wK6iweuzGFsz6p&content_series=60aeb5cd87f9b1002ce12321&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=Tog8X6wK6iweuzGFsz6p&custom_7=60aeb5cd87f9b1002ce12321
@@ -2723,6 +2726,9 @@ https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/
 #EXTINF:-1 tvg-id="CHAJ0500432A" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/08/CHAJ0500432A_20200923T100452.png" group-title="Música",Bachstiftung | Suiça
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/b169516d-72bd-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=CH&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
 
+#EXTINF:-1 tvg-name="Bedroom Beats" tvg-id="3bbe22c035b4409d80f997adc8ad33ee" tvg-logo="https://i.imgur.com/E7PRQOc.png" group-title="Música",Bedroom Beats
+https://3bbe22c035b4409d80f997adc8ad33ee.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/bedroom_beats_littlstar/master.m3u8
+
 #EXTINF:-1 tvg-id="BoxHits.uk" tvg-name="Box Hits" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Box_hits.svg/1280px-Box_hits.svg.png" group-title="Música",Box Hits | Reino Unido
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/5947?pprotocol=hls
 
@@ -2762,11 +2768,14 @@ https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3056&p
 #EXTINF:-1  group-title="Música" tvg-name="EDM TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWeckfObfyFWhe5JuPFGqaZgCiFyBSZXjg4RqleTMoxnlpG_wSOg3gOaRJjYdxQHUbZa0&usqp=CAU",EDM TV
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3863&pprotocol=hls
 
-#EXTINF:-1  group-title="Música" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWeckfObfyFWhe5JuPFGqaZgCiFyBSZXjg4RqleTMoxnlpG_wSOg3gOaRJjYdxQHUbZa0&usqp=CAU" tvg-name="Filmon Jazz and Blues",Filmon Jazz and Blues
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/530&pprotocol=hls
+#EXTINF:-1 tvg-name="Electro Anthems" tvg-id="57490d2f4ea646bbae56a1a816617a5f" tvg-logo="https://i.imgur.com/hKruqwx.png" group-title="Música",Electro Anthems
+https://57490d2f4ea646bbae56a1a816617a5f.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/electro_anthems_plex/master.m3u8
 
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6018913ea15130002b284191" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/flash_logo_light.png" group-title="Música",Flash
 https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-flash-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=Tog8X6wK6iweuzGFsz6p&channelId=6018913ea15130002b284191
+
+#EXTINF:-1 tvg-name="Friday Feels" tvg-logo="https://i.imgur.com/DYMtPuJ.png" group-title="Música",Friday Feels
+https://7d6f1eaab26244879085a9c647097af7.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/friday_feels_plex/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Gem 24B" tvg-logo="https://i.imgur.com/qrGyoAi.png" group-title="Música",GEM 24B
 https://d2e40kvaojifd6.cloudfront.net/stream/24b/playlist_1920x1080_4500k.m3u8
@@ -2783,8 +2792,11 @@ https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/
 #EXTINF:-1 tvg-name="Gospel Music" tvg-logo="https://i.imgur.com/fJmJ44y.jpg" group-title="Música",Gospel Music | Brasil
 https://stmv1.srvstm.com/gmusic/gmusic/chunklist_w637142895.m3u8
 
-#EXTINF:-1  group-title="Música" tvg-name="Hot Rock" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWeckfObfyFWhe5JuPFGqaZgCiFyBSZXjg4RqleTMoxnlpG_wSOg3gOaRJjYdxQHUbZa0&usqp=CAU",Hot Rock
+#EXTINF:-1 group-title="Música" tvg-name="Hot Rock" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWeckfObfyFWhe5JuPFGqaZgCiFyBSZXjg4RqleTMoxnlpG_wSOg3gOaRJjYdxQHUbZa0&usqp=CAU",Hot Rock
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/4667&pprotocol=hls
+
+#EXTINF:-1 group-title="Música" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWeckfObfyFWhe5JuPFGqaZgCiFyBSZXjg4RqleTMoxnlpG_wSOg3gOaRJjYdxQHUbZa0&usqp=CAU" tvg-name="Filmon Jazz and Blues",Jazz and Blues - Filmon
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/530&pprotocol=hls
 
 #EXTINF:-1 group-title="Música" tvg-name="JBTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWeckfObfyFWhe5JuPFGqaZgCiFyBSZXjg4RqleTMoxnlpG_wSOg3gOaRJjYdxQHUbZa0&usqp=CAU",JBTV
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/2999&pprotocol=hls
@@ -2843,11 +2855,11 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f9847111
 #EXTINF:-1 tvg-name="MTV Yo! EUA" tvg-id="5d14fc31252d35decbc4080b" tvg-logo="http://images.pluto.tv/channels/5d14fc31252d35decbc4080b/colorLogoPNG.png" group-title="Música",MTV Yo! EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fc31252d35decbc4080b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7e45c2-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dfeb1d80-be28-4be3-b669-23fa79a8aec7&userId=&serverSideAds=true
 
+#EXTINF:-1 tvg-name="Neural Focused" tvg-logo="https://i.imgur.com/MsAr9Ik.png" group-title="Música",Neural Focused
+https://1d75125ffd43490eb970a2f3f575e96c.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/neural_focused_plex/master.m3u8
+
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWeckfObfyFWhe5JuPFGqaZgCiFyBSZXjg4RqleTMoxnlpG_wSOg3gOaRJjYdxQHUbZa0&usqp=CAU" group-title="Música" tvg-name="New Star TV",New Star TV
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3065&pprotocol=hls
-
-#EXTINF:-1 tvg-id="5f779951372da90007fd45e8" tvg-name="Pluto Clássica EUA" tvg-logo="http://images.pluto.tv/channels/5f779951372da90007fd45e8/colorLogoPNG.png" group-title="Música",Pluto Clássica EUA
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f779951372da90007fd45e8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c8a2ca3-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d0c6b789-884d-4edf-bde4-b9619b8ad48c&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-id="DEBA1000001ZC" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/78/DEBA1000001ZC_20200923T100341.png" group-title="Música",Qello Concerts by Stingray | Alemanha
 https://9af4a7b2b48b452494d36d45e6cffab9.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_StingrayQelloConcerts/playlist.m3u8?ads.wurl_channel=453&ads.wurl_name=StingrayQelloConcerts&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
@@ -2860,9 +2872,6 @@ https://e519030a8f41424983e1037a02b3db88.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-id="CHBA1000003VJ" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/48/CHBA1000003VJ_20200923T100342.png" group-title="Música",Qello Concerts by Stingray | Suiça
 https://519d20588ad849bda45d854b29c2e471.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-ch_StingrayQelloConcerts/playlist.m3u8?ads.wurl_channel=453&ads.wurl_name=StingrayQelloConcerts&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
-
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60aeb06487f9b1002ce1231b" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/qwesttv-classical_channel_logo_dark.png" group-title="Música",QwestTV Classical
-https://qwest-classic-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-qwest-classic-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=Tog8X6wK6iweuzGFsz6p&channelId=60aeb06487f9b1002ce1231b
 
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60b0f65c0c8ffb002c821a75" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/qwesttv-jazz&beyond_channel_logo_dark.png" group-title="Música",QwestTV Jazz & Beyond
 https://qwest-jazz-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-qwest-jazz-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=Tog8X6wK6iweuzGFsz6p&channelId=60b0f65c0c8ffb002c821a75
@@ -2952,6 +2961,12 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0d75e84830900098
 
 ## Música instrumental e som ambiente ############## Música instrumental e som ambiente ############## Música instrumental e som ambiente ############## Música instrumental e som ambiente ############## Música instrumental e som ambiente ############## Música instrumental e som ambiente ##############
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rtZWruX.png" group-title="Música instrumental e som ambiente",Aurora Live
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953819932c837b49397345/playlist.m3u8
+
+#EXTINF:-1 tvg-id="5f779951372da90007fd45e8" tvg-name="Pluto Clássica EUA" tvg-logo="http://images.pluto.tv/channels/5f779951372da90007fd45e8/colorLogoPNG.png" group-title="Música instrumental e som ambiente",Clássica | EUA - Pluto TV
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f779951372da90007fd45e8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c8a2ca3-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d0c6b789-884d-4edf-bde4-b9619b8ad48c&userId=&serverSideAds=true
+
 #EXTINF:-1 tvg-id="ClassicalHarmony.fr" tvg-name="Classical Harmony" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/35quIYe.png" group-title="Música instrumental e som ambiente",Classical Harmony | França
 https://alchimie-classical-harmony-1-fr.samsung.wurl.com/manifest/playlist.m3u8
 
@@ -2985,6 +3000,12 @@ https://f610a312b4ae4c22bf14771a4a5cfd2d.mediatailor.us-west-2.amazonaws.com/v1/
 #EXTINF:-1 tvg-name="Fireplace Lounge" tvg-logo="https://i.imgur.com/hqBag1J.png" group-title="Música instrumental e som ambiente",Fireplace Lounge
 https://a.jsrdn.com/broadcast/aee08372e5/+0000/c.m3u8
 
+#EXTINF:-1 tvg-name="Fish Tank" tvg-logo="https://i.imgur.com/pj63FMU.png" group-title="Música instrumental e som ambiente",Fish Tank
+https://a.jsrdn.com/broadcast/8b43a16c1e/+0000/c.m3u8
+
+#EXTINF:-1 tvg-name="Forest Live" tvg-logo="https://i.imgur.com/kC9vaKL.jpg" group-title="Música instrumental e som ambiente",Forest Live
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953836932c837b49397355/playlist.m3u8
+
 #EXTINF:-1 tvg-name="Loupe Argentina" tvg-id="5ffcc38adbc38100073511f2" tvg-logo="https://media-exp1.licdn.com/dms/image/C4D0BAQFyyXznCPCX5Q/company-logo_200_200/0/1519921044747?e=2159024400&v=beta&t=zG7sdc7PpRBdwxr00jP9ssNa_WfXxGLxPkvpeuKePlI" group-title="Música instrumental e som ambiente",Loupe Argentina
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ffcc38adbc38100073511f2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=98a3fd62-8e3f-11eb-9619-637dcb8e0f08&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a35b3c8a-7da4-45c8-99f2-06811ca4c06d&userId=&serverSideAds=true
 
@@ -3006,6 +3027,9 @@ https://abeba3bd0b66481bb812f8c2610bb6d2.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="ITAJ45000132J" tvg-logo="https://i.imgur.com/XHwdwPm.png" group-title="Música instrumental e som ambiente",Moods | Itália
 https://84ebc56d880a4e7e8e7553e2b17f13a1.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-it_Moods/playlist.m3u8?ads.wurl_channel=359&ads.wurl_name=Moods&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
 
+#EXTINF:-1 tvg-name="Mountain Live" tvg-logo="https://i.imgur.com/Nubk9vB.png" group-title="Música instrumental e som ambiente",Mountain Live
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95387b932c837b49397357/playlist.m3u8
+
 #EXTINF:-1 tvg-name="Nature TV" tvg-logo="https://imgur.com/YKcj09n.png" group-title="Música instrumental e som ambiente",Nature TV
 https://stmv1.srvif.com/nattv/nattv/chunklist_w267529618.m3u8
 
@@ -3024,6 +3048,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/604a8dedbca75b0007b
 #EXTINF:-1 tvg-id="5f4fed840a2764000720d966" tvg-logo="https://i.imgur.com/BqNaQcQ.png" group-title="Música instrumental e som ambiente",Paisajes por Stingray | Argentina
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4fed840a2764000720d966/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff334c1-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7da60f3a-2872-4293-967d-858198519837&userId=&serverSideAds=true
 
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60aeb06487f9b1002ce1231b" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/qwesttv-classical_channel_logo_dark.png" group-title="Música instrumental e som ambiente",QwestTV Classical
+https://qwest-classic-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-qwest-classic-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=Tog8X6wK6iweuzGFsz6p&channelId=60aeb06487f9b1002ce1231b
+
 #EXTINF:-1 tvg-name="Quietude 4K" tvg-logo="https://i.imgur.com/13vyZaJ.png" group-title="Música instrumental e som ambiente",Quietude 4K
 https://linear-81.frequency.stream/dist/localnow/81/hls/master/playlist.m3u8
 
@@ -3033,6 +3060,8 @@ https://content.uplynk.com/channel/3e4b9cada2b74cf18977298804134a36.m3u8
 #EXTINF:-1 tvg-id="5317bfebff98025b3200ff99" tvg-logo="http://images.pluto.tv/channels/5317bfebff98025b3200ff99/colorLogoPNG.png" group-title="Música instrumental e som ambiente",Slow TV | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5317bfebff98025b3200ff99/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc91be00-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=de52e7eb-384f-4927-ae68-f6b16863e23b&userId=&serverSideAds=true
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PlOQ6sI.png" group-title="Música instrumental e som ambiente",Sunset Live
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538a5932c837b4939735b/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E9r23h4.png" channel-id="13888" radio="false" tvg-chno="252" group-title="Música instrumental e som ambiente",WeatherSpy 1
 https://jukin-weatherspy-1.samsung.wurl.com/manifest/playlist.m3u8
@@ -3142,16 +3171,16 @@ https://d2e40kvaojifd6.cloudfront.net/stream/gem_nature/playlist.m3u8
 https://inwild-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60995eb136c72d002da7bbcb" tvg-logo="https://i.imgur.com/gHOnUfn.png" group-title="Natureza em inglês: documentários e programas",Love Nature | EUA 
-https://lovenatureus-eng-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-bamus-lovenature-eng-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=Tog8X6wK6iweuzGFsz6p&channelId=60995eb136c72d002da7bbcb
+https://bamus-eng-roku.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60995eb136c72d002da7bbcb" tvg-logo="https://i.imgur.com/gHOnUfn.png" group-title="Natureza em inglês: documentários e programas",Love Nature 4K | EUA 
-https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+https://bamus-eng-roku.amagi.tv/playlist2840p.m3u8
 
 #EXTINF:-1 tvg-id="5db050444f3c52000984c72a" tvg-logo="https://images.pluto.tv/channels/5db050444f3c52000984c72a/colorLogoPNG.png" group-title="Natureza em inglês: documentários e programas",Nature - Pluto TV | Reino Unido
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db050444f3c52000984c72a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-id="USBA3000043LH" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/32/USBA3000043LH_20210525T051504.png" group-title="Natureza em inglês: documentários e programas",Samsung Wild Life | EUA 
-https://d1vp12yk4i8ou5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/WildLife2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+https://d1vp12yk4i8ou5.cloudfront.net/playlist.m3u8 
 
 #EXTINF:-1 tvg-id="5f21e7b24744c60007c1f6fc" tvg-logo="http://images.pluto.tv/channels/5f21e7b24744c60007c1f6fc/colorLogoPNG.png" group-title="Natureza em inglês: documentários e programas",Survivor | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f21e7b24744c60007c1f6fc/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc991104-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=4681ee23-dfd2-48ca-85b1-61b9176826e1&userId=&serverSideAds=true
@@ -3168,8 +3197,8 @@ https://waypointtv.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="WildEarth" tvg-id="5e20b730f2f8d5003d739db7-60d4edddb2fdec002c141135"  tvg-logo="https://i.imgur.com/ssxtGlH.png" group-title="Natureza em inglês: documentários e programas",WildEarth | África do Sul - Rakuten
 https://wildearth-rakuten.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="WildEarth" tvg-id="5e20b730f2f8d5003d739db7-60d4edddb2fdec002c141135"  tvg-logo="https://i.imgur.com/ssxtGlH.png" group-title="Natureza em inglês: documentários e programas",WildEarth | África do Sul - Rakuten
-https://wildearth-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-wildearth-plex/CDN/playlist.m3u8
+#EXTINF:-1 tvg-name="WildEarth" tvg-id="5e20b730f2f8d5003d739db7-60d4edddb2fdec002c141135"  tvg-logo="https://i.imgur.com/ssxtGlH.png" group-title="Natureza em inglês: documentários e programas",WildEarth | África do Sul - Plex
+https://wildearth-plex.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="USBA430000220" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/04/60/USBA430000220_20210525T051550.png" group-title="Natureza em inglês: documentários e programas",Xplore | EUA 1
 http://xlpore-samsungus.amagi.tv/playlist.m3u8
@@ -3383,6 +3412,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af4228394
 
 #EXTINF:-1 tvg-name="CNN Int. UK" tvg-logo="https://i.imgur.com/bD9jUgK.png" group-title="Notícias em inglês",CNN Internacional | Reino Unido
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Coronavírus" tvg-logo="https://i.imgur.com/V6lVa4l.png" group-title="Notícias em inglês",Coronavírus 
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e7559e8a46b495a2283c5e8/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="euronews.au" tvg-name="Euronews" tvg-logo="https://i.imgur.com/szYOy8S.jpg" group-title="Notícias em inglês",Euronews | Austrália
 https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
