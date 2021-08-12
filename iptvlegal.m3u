@@ -519,15 +519,17 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c5c2e9d8
 #EXTINF:-1 tvg-id="6a66a7" tvg-logo="http://images.pluto.tv/channels/5dc1cb279c91420009db261d/colorLogoPNG.png" group-title="Casa e decoração em inglês",Lively Place | EUA 
 http://aenetworks-ae-1.roku.wurl.com/manifest/playlist.m3u8
 
-
 #EXTINF:-1 tvg-id="5dc1cb279c91420009db261d" tvg-logo="http://images.pluto.tv/channels/5dc1cb279c91420009db261d/colorLogoPNG.png" group-title="Casa e decoração em inglês",Lively Place | EUA - Pluto TV
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dc1cb279c91420009db261d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc976350-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=42dd4f77-3c76-4083-bfca-bbfcd54de42a&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="6022bd17849c620007f43ae0" tvg-logo="https://images.pluto.tv/channels/6022bd17849c620007f43ae0/featuredImage.jpg" group-title="Casa e decoração em inglês",Pluto TV Home | EUA
+#EXTINF:-1 tvg-id="6022bd17849c620007f43ae0" tvg-logo="https://images.pluto.tv/channels/6022bd17849c620007f43ae0/colorLogoPNG.png" group-title="Casa e decoração em inglês",Pluto TV Home | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6022bd17849c620007f43ae0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=e61e81d1-c6d5-4eea-a605-2651410462b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3bf99bf4-e584-11eb-a5e5-0242ac110002&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="5db04c9eedc89300090d2884" tvg-logo="https://images.pluto.tv/channels/5db04c9eedc89300090d2884/featuredImage.png" group-title="Casa e decoração em inglês",Pluto TV Home | Reino Unido 
+#EXTINF:-1 tvg-id="5db04c9eedc89300090d2884" tvg-logo="https://images.pluto.tv/channels/6022bd17849c620007f43ae0/colorLogoPNG.png" group-title="Casa e decoração em inglês",Pluto TV Home | Reino Unido 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db04c9eedc89300090d2884/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-id="5e8dc0af6784d10007d8ad42" tvg-logo="https://images.pluto.tv/channels/5e8dc0af6784d10007d8ad42/colorLogoPNG.png" group-title="Casa e decoração em inglês",Secret Dealers | Reino Unido
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e8dc0af6784d10007d8ad42/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-id="USAJ3400005BA" tvg-logo="https://i.imgur.com/ceUXLGp.png" group-title="Casa e decoração em inglês",The Design Network da Samsung | EUA 
 https://e60c9a5d763348c6a86c6d98fce3c52a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_TheDesignNetwork/playlist.m3u8?ads.wurl_channel=295&ads.wurl_name=TheDesignNetwork&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
@@ -541,7 +543,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4ff8c8bcf3d600078
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ceUXLGp.png" group-title="Casa e decoração em inglês" tvg-name="The Design Network | EUA",The Design Network do Roku | EUA
 https://thedesignnetwork-tdn-2.roku.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-id="USAK3508701A" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/03/USAK3508701A_20210525T051658.png" group-title="Casa e decoração em inglês",This Old House da Samsung | EUA
+#EXTINF:-1 tvg-id="USAK3508701A" tvg-logo="http://images.pluto.tv/channels/5d51e791b7dba3b2ae990ab2/colorLogoPNG.png" group-title="Casa e decoração em inglês",This Old House da Samsung | EUA
 https://26487f8be0614420a64b6f5964563a75.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_ThisOldHouse/playlist.m3u8?ads.wurl_channel=180&ads.wurl_name=ThisOldHouse&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 
 #EXTINF:-1 tvg-id="5d51e791b7dba3b2ae990ab2" tvg-logo="http://images.pluto.tv/channels/5d51e791b7dba3b2ae990ab2/colorLogoPNG.png" group-title="Casa e decoração em inglês",This Old House do Pluto TV | EUA
@@ -1225,6 +1227,9 @@ https://dwamdstream105.akamaized.net/hls/live/2015531/dwstream105/stream04/strea
 #EXTINF:-1 tvg-id="5db048f9447d6c0009b8f29d" group-title="Documentários em alemão" tvg-name="Documentaries" tvg-logo="https://images.pluto.tv/channels/5db048f9447d6c0009b8f29d/colorLogoPNG.png",Documentaries | Alemanha
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db048f9447d6c0009b8f29d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
+#EXTINF:-1 tvg-id="5ad9b8551b95267e225e59c1" group-title="Documentários em alemão" tvg-name="Explore" tvg-logo="https://images.pluto.tv/channels/5ad9b8551b95267e225e59c1/colorLogoPNG.png",Explore | Alemanha - em alemão e inglês
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad9b8551b95267e225e59c1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
 #EXTINF:-1 tvg-id="5f3bd0e63f793300071574cd" group-title="Documentários em alemão" tvg-name="Focus TV" tvg-logo="https://images.pluto.tv/channels/5f3bd0e63f793300071574cd/colorLogoPNG.png",Focus TV | Alemanha
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f3bd0e63f793300071574cd/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
@@ -1404,20 +1409,11 @@ https://alchimie-unearth-1-fr.samsung.wurl.com/manifest/playlist.m3u8
 ################################################################################################
 ############ documentários em inglês ##############
 
-#EXTINF:-1 tvg-id="56b27f85ff3037045055037e" tvg-logo="http://images.pluto.tv/channels/56b27f85ff3037045055037e/colorLogoPNG.png" group-title="Documentários em inglês",Animals - Pluto TV | EUA
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56b27f85ff3037045055037e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc92cf71-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=4d627d8b-6cd1-44e8-818b-65b83fbcd88d&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="5ddf8ea0d000120009bcad83" tvg-logo="https://images.pluto.tv/channels/5ddf8ea0d000120009bcad83/colorLogoPNG.png" group-title="Documentários em inglês",Animals - Pluto TV | Reino Unido 
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ddf8ea0d000120009bcad83/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-
 #EXTINF:-1 tvg-id="5c37d6712de254456f7ec340" tvg-logo="http://images.pluto.tv/channels/5c37d6712de254456f7ec340/colorLogoPNG.png" group-title="Documentários em inglês",Cold Case Files | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c37d6712de254456f7ec340/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc94f253-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6b8d7d70-8515-4daf-83d8-19bc083407ab&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-id="5d4ae94ef1a1bbb350ca41bb" tvg-logo="https://images.pluto.tv/channels/5d4ae94ef1a1bbb350ca41bb/colorLogoPNG.png" group-title="Documentários em inglês",Conspiracy - Pluto TV | Reino Unido
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d4ae94ef1a1bbb350ca41bb/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-
-#EXTINF:-1 tvg-id="USBA3800005NI" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/10/USBA3800005NI_20210323T125532.png" group-title="Documentários em inglês",Clarity 4K | EUA 
-https://d3thiix3tzne5u.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/ClarityTV4K2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
 #EXTINF:-1 tvg-id="6000a5a9e767980007b497ca" tvg-logo="https://images.pluto.tv/channels/6000a5a9e767980007b497ca/featuredImage.jpg" group-title="Documentários em inglês",Crime 360 | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6000a5a9e767980007b497ca/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=e61e81d1-c6d5-4eea-a605-2651410462b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3bf99bf4-e584-11eb-a5e5-0242ac110002&userId=&serverSideAds=true
@@ -1425,8 +1421,14 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6000a5a9e767980007b
 #EXTINF:-1 tvg-id="5ea18cd42ee5410007e349dc" tvg-logo="https://images.pluto.tv/channels/5ea18cd42ee5410007e349dc/colorLogoPNG.png" group-title="Documentários em inglês",Crime Investigation | Reino Unido
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ea18cd42ee5410007e349dc/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1 tvg-id="5d767790d0438aceb41d03ae" tvg-logo="https://images.pluto.tv/channels/5d767790d0438aceb41d03ae/colorLogoPNG.png" group-title="Documentários em inglês",Crime - Pluto TV | Reino Unido
+#EXTINF:-1 tvg-id="5d767790d0438aceb41d03ae" tvg-logo="https://images.pluto.tv/channels/5d767790d0438aceb41d03ae/colorLogoPNG.png" group-title="Documentários em inglês",Crime | Reino Unido - Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d767790d0438aceb41d03ae/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-id="5ca1df0d50be2571e393ad31" tvg-logo="https://images.pluto.tv/channels/5ca1df0d50be2571e393ad31/colorLogoPNG.png" group-title="Documentários em inglês",Deadly Women | Reino Unido
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca1df0d50be2571e393ad31/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-id="DeutscheWelleEN.de" group-title="Documentários em inglês" tvg-name="DW English" tvg-logo="https://i.imgur.com/CsHdYhG.png",Deutsche Welle - DW em inglês
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream04/streamPlaylist.m3u8
 
 #EXTINF:-1 tvg-id="5b85a7582921777994caea63" tvg-logo="http://images.pluto.tv/channels/5b85a7582921777994caea63/colorLogoPNG.png" group-title="Documentários em inglês",Documentaries - Pluto TV | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b85a7582921777994caea63/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc947d23-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e86ddb07-4355-4d49-b304-f7a544ab273e&userId=&serverSideAds=true
@@ -1440,14 +1442,8 @@ https://alchimie-euronews-4-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="GBAJ2400002Y8" tvg-logo="https://i.imgur.com/ahMtMsf.png" group-title="Documentários em inglês",Euronews Doc | Reino Unido
 https://fb35ecd0cc074cb88b4d0e4ff5c03593.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_Euronews/playlist.m3u8?ads.wurl_channel=377&ads.wurl_name=Euronews&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
 
-#EXTINF:-1 tvg-id="5ad9b8551b95267e225e59c1" group-title="Documentários em inglês" tvg-name="Explore" tvg-logo="https://images.pluto.tv/channels/5ad9b8551b95267e225e59c1/colorLogoPNG.png",Explore | Alemanha
+#EXTINF:-1 tvg-id="5ad9b8551b95267e225e59c1" group-title="Documentários em inglês" tvg-name="Explore" tvg-logo="https://images.pluto.tv/channels/5ad9b8551b95267e225e59c1/colorLogoPNG.png",Explore | Alemanha - em alemão e inglês
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad9b8551b95267e225e59c1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-
-#EXTINF:-1 tvg-id="5ca1df0d50be2571e393ad31" tvg-logo="https://images.pluto.tv/channels/5ca1df0d50be2571e393ad31/colorLogoPNG.png" group-title="Documentários em inglês",Deadly Women | Reino Unido
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca1df0d50be2571e393ad31/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-
-#EXTINF:-1 tvg-id="DeutscheWelleEN.de" group-title="Documentários em inglês" tvg-name="DW English" tvg-logo="https://i.imgur.com/CsHdYhG.png",Deutsche Welle - DW em inglês
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream04/streamPlaylist.m3u8
 
 #EXTINF:-1 tvg-id="5cb6f6f9a461406ffe4022cf" tvg-logo="https://images.pluto.tv/channels/5cb6f6f9a461406ffe4022cf/colorLogoPNG.png" group-title="Documentários em inglês",FBI Files | Reino Unido
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cb6f6f9a461406ffe4022cf/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
@@ -1457,9 +1453,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bb1af6a268cae539bc
 
 #EXTINF:-1 tvg-id="5f62dc3a71bc8b0007572fb0" tvg-logo="http://images.pluto.tv/channels/5f62dc3a71bc8b0007572fb0/colorLogoPNG.png" group-title="Documentários em inglês",Forensic Files 2 | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f62dc3a71bc8b0007572fb0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc9a2271-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6d17ab17-0e2e-4f86-ae08-e8886109a5de&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="" tvg-name="Gem Nature" tvg-language="Persian" tvg-logo="https://i.imgur.com/1NnCUHi.png" group-title="Documentários em inglês",GEM Nature em inglês e farsi
-https://d2e40kvaojifd6.cloudfront.net/stream/gem_nature/playlist.m3u8
 
 #EXTINF:-1 tvg-id="5dc2a69bc928a600093a7976" tvg-logo="https://images.pluto.tv/channels/5dc2a69bc928a600093a7976/colorLogoPNG.png" group-title="Documentários em inglês",Get.factual | Reino Unido
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dc2a69bc928a600093a7976/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
@@ -1472,9 +1465,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f27bbe47
 
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60a53634126de9002e694bc2" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/GoTraveler_logo_dark.png" group-title="Documentários em inglês",GoTraveler - Plex 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=703&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=Tog8X6wK6iweuzGFsz6p&content_series=60a53634126de9002e694bc2&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=Tog8X6wK6iweuzGFsz6p&custom_7=60a53634126de9002e694bc2
-
-#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-60a9d105d162b9002d05a60c" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/GoUSA_logo_dark_v3.png" group-title="Documentários em inglês",GoUSA TV
-https://a7ea429b0854458daac9f78715c8093f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_GoUSATV/playlist.m3u8?ads.wurl_channel=535&ads.wurl_name=GoUSATV&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=Tog8X6wK6iweuzGFsz6p&ads.plex_id=60a9d105d162b9002d05a60c&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
 
 #EXTINF:-1 tvg-id="5c5c2d7ae59bf23c192c411c" tvg-logo="https://images.pluto.tv/channels/5c5c2d7ae59bf23c192c411c/colorLogoPNG.png" group-title="Documentários em inglês",Health - Pluto TV | Reino Unido
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c5c2d7ae59bf23c192c411c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
@@ -1503,26 +1493,17 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f042bf02
 #EXTINF:-1 tvg-name="Introuble TV AU" tvg-id="introuble.au" tvg-logo="https://i.imgur.com/iVw55kC.png" group-title="Documentários em inglês",Introuble TV | Austrália
 https://introuble-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Inwild TV AU" tvg-id="inwild.au" tvg-logo="https://i.imgur.com/VSiG39E.png" group-title="Documentários em inglês",Inwild TV | Austrália
-https://inwild-samsungau.amagi.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-name="Inwonder TV AU" tvg-id="inwonder.au" tvg-logo="https://i.imgur.com/d3LshRd.png" group-title="Documentários em inglês",Inwonder TV | Austrália
 https://inwonder-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="USBB600003MK" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/76/USBB600003MK_20210525T051552.png" group-title="Documentários em inglês",(The) Jack Hanna Channel | EUA 
+#EXTINF:-1 tvg-id="USBB600003MK" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/76/USBB600003MK_20210525T051552.png" group-title="Documentários em inglês",The Jack Hanna Channel | EUA 
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-litton-jackhannah-samsungus/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
 #EXTINF:-1 tvg-id="USBB1000003HL" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/04/USBB1000003HL_20210525T051451.png" group-title="Documentários em inglês",Journy | EUA 
-https://d3lzjtrf5mvf3p.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Journy-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+https://vcnplex.teleosmedia.com/linear/ovation/journy/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Loco-Motion" tvg-logo="https://i.imgur.com/tW75M7v.png" group-title="Documentários em inglês",Loco-Motion - Filmon
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3608&pprotocol=hls
-
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60995eb136c72d002da7bbcb" tvg-logo="https://i.imgur.com/gHOnUfn.png" group-title="Documentários em inglês",Love Nature | EUA 
-https://lovenatureus-eng-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-bamus-lovenature-eng-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=Tog8X6wK6iweuzGFsz6p&channelId=60995eb136c72d002da7bbcb
-
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60995eb136c72d002da7bbcb" tvg-logo="https://i.imgur.com/gHOnUfn.png" group-title="Documentários em inglês",Love Nature 4K | EUA 
-https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
 #EXTINF:-1 tvg-id="LuxeTV.gb" tvg-name="Luxe TV" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/8tWhfap.png" group-title="Documentários em inglês",Luxe.TV | Reino Unido 1
 https://alchimie-luxe-2-gb.samsung.wurl.com/manifest/playlist.m3u8
@@ -1539,7 +1520,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bb3fea0f711fd76340
 #EXTINF:-1 tvg-id="GBBA15000044L" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/04/55/GBBA15000044L_20210609T004711.png" group-title="Documentários em inglês",Monarda Arts | Reino Unido
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/6951065f-7cd4-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=GB&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
 
-
 #EXTINF:-1 tvg-id="5d2c571faeb3e2738ae27933" tvg-logo="https://images.pluto.tv/channels/5d2c571faeb3e2738ae27933/colorLogoPNG.png" group-title="Documentários em inglês",My5 Crime | Reino Unido
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d2c571faeb3e2738ae27933/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
@@ -1551,9 +1531,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d2c57ee4
 
 #EXTINF:-1 tvg-id="5bd833b41843b56328bac189" tvg-logo="https://images.pluto.tv/channels/5bd833b41843b56328bac189/colorLogoPNG.png" group-title="Documentários em inglês",Mythbusters | Reino Unido
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5bd833b41843b56328bac189/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-
-#EXTINF:-1 tvg-id="5db050444f3c52000984c72a" tvg-logo="https://images.pluto.tv/channels/5db050444f3c52000984c72a/colorLogoPNG.png" group-title="Documentários em inglês",Nature - Pluto TV | Reino Unido
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db050444f3c52000984c72a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-id="5aea40b35126c2157123aa64" tvg-logo="http://images.pluto.tv/channels/5aea40b35126c2157123aa64/colorLogoPNG.png" group-title="Documentários em inglês",(The) New Detectives | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5aea40b35126c2157123aa64/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc93e0e2-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dede5167-7232-4cf2-9b79-27f8154d81da&userId=&serverSideAds=true
@@ -1577,10 +1554,7 @@ https://pbs-samsunguk.amagi.tv/playlist.m3u8
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-samsungtvplus-pbs/CDN/playlist.m3u8?p=samsung&device_id=%7BPSID%7D&is_lat=%7BTARGETOPT%7D&us_privacy=1YNY&coppa=0&app_name=%7BAPP_NAME%7D
 
 #EXTINF:-1 tvg-id="GBAJ4900004ZY" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/47/GBAJ4900004ZY_20200923T100801.png" group-title="Documentários em inglês",Planet Knowledge
-https://5591df34695b4451a3a21e0fecb11830.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_PlanetKnowledge/playlist.m3u8?ads.wurl_channel=392&ads.wurl_name=PlanetKnowledge&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
-
-#EXTINF:-1 tvg-id="5efb61e2a876670007ac2233" tvg-logo="http://images.pluto.tv/channels/5efb61e2a876670007ac2233/colorLogoPNG.png" group-title="Documentários em inglês",Real Life on Verizon | EUA
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5efb61e2a876670007ac2233/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc98e9f1-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9c86089a-df0f-4283-aea7-6e4f5ae51c73&userId=&serverSideAds=true
+https://vod365-planet-knowledge-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Real Stories AU" tvg-id="realstories.au" tvg-logo="https://i.imgur.com/KOkWP6i.jpg" group-title="Documentários em inglês",Real Stories | Austrália
 https://lds-realstories-samsungau.amagi.tv/playlist.m3u8
@@ -1597,15 +1571,8 @@ https://dai2-ipv4.xumo.com/amagi_hls_data_xumo1212A-samsungtvplus-reelzchannel/C
 #EXTINF:-1 tvg-id="5f21e831e9fe730007706acb" tvg-logo="http://images.pluto.tv/channels/5f21e831e9fe730007706acb/colorLogoPNG.png" group-title="Documentários em inglês",Rescue 911: Emergência 911 | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f21e831e9fe730007706acb/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc993810-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=5920fffa-acd3-494f-bba7-c0b6533bd3a6&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-name="Roopstigo" tvg-logo="https://static.filmon.com/assets/channels/2737/extra_big_logo.png" tvg-id="Roopstigo" group-title="Documentários em inglês",Roopstigo | EUA - Filmon
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/2737&pprotocol=hls
-
 #EXTINF:-1 tvg-id="rtdoc" tvg-logo="https://i.imgur.com/TYoMkWn.png" group-title="Documentários em inglês",RT Documentary Channel | Rússia
 https://rt-doc.secure.footprint.net/1101_1600Kb.m3u8
-
-
-#EXTINF:-1 tvg-id="USBA3000043LH" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/32/USBA3000043LH_20210525T051504.png" group-title="Documentários em inglês",Samsung Wild Life | EUA 
-https://d1vp12yk4i8ou5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/WildLife2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
 #EXTINF:-1 tvg-id="563a970aa1a1f7fe7c9daad7" tvg-logo="http://images.pluto.tv/channels/563a970aa1a1f7fe7c9daad7/colorLogoPNG.png" group-title="Documentários em inglês",Science - Pluto TV | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/563a970aa1a1f7fe7c9daad7/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc92a863-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f01617d2-e11c-4f72-a81d-5dd34bd84fc0&userId=&serverSideAds=true
@@ -1615,15 +1582,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d9492c77
 
 #EXTINF:-1 tvg-id="5c12bde1314e3461d43a8e2b" tvg-logo="http://images.pluto.tv/channels/5c12bde1314e3461d43a8e2b/colorLogoPNG.png" group-title="Documentários em inglês",Science 2 - Pluto TV | EUA 
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c12bde1314e3461d43a8e2b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc94f251-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b234b8bd-1ea9-456e-b9a1-0e3f792b9043&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kFJ3Qa4.png" group-title="Documentários em inglês" tvg-name="Skills + Thrills Channel 1 | EUA",Skills + Thrills Channel 1 | EUA
-https://aenetworks-skills-thrills-1.plex.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kFJ3Qa4.png" group-title="Documentários em inglês" tvg-name="Skills + Thrills Channel 2 | EUA",Skills + Thrills Channel 2 | EUA
-https://aenetworks-skills-thrills-1.roku.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kFJ3Qa4.png" group-title="Documentários em inglês" tvg-name="Skills + Thrills Channel 3 | EUA",Skills + Thrills Channel 3 | EUA
-https://aenetworks-skills-thrills-1.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-id="5d765a05f65029ce2385aa30" group-title="Documentários em inglês" tvg-name="Slow TV" tvg-logo="https://images.pluto.tv/channels/5d765a05f65029ce2385aa30/colorLogoPNG.png",Slow TV | Alemanha - alemão e inglês
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d765a05f65029ce2385aa30/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
@@ -1661,9 +1619,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812be1c249444e05d0
 #EXTINF:-1 tvg-id="5ebd0ff1e1a4770007479dc7" tvg-logo="https://images.pluto.tv/channels/5ebd0ff1e1a4770007479dc7/colorLogoPNG.png" group-title="Documentários em inglês",Truly | Reino Unido
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ebd0ff1e1a4770007479dc7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1 tvg-id="Unearth.fr" tvg-name="Unearth" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/kC9vaKL.jpg" group-title="Documentários em inglês",Unearth | Reino Unido
-https://alchimie-unearth-2-gb.samsung.wurl.com/manifest/playlist.m3u8
-
 #EXTINF:-1 tvg-id="5b4e96a0423e067bd6df6901" tvg-logo="http://images.pluto.tv/channels/5b4e96a0423e067bd6df6901/colorLogoPNG.png" group-title="Documentários em inglês",Unsolved Mysteries | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e96a0423e067bd6df6901/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc945611-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=43f03ee2-61d5-46af-8b98-1c5b76b43322&userId=&serverSideAds=true
 
@@ -1672,12 +1627,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f77884314396a00070
 
 #EXTINF:-1 tvg-id="589aa03df9ba56a84197a560" tvg-logo="http://images.pluto.tv/channels/589aa03df9ba56a84197a560/colorLogoPNG.png" group-title="Documentários em inglês",Voyager Documentaries | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/589aa03df9ba56a84197a560/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc9344a3-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=125f613e-1ba2-484c-9430-237501c0b663&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="USBA430000220" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/04/60/USBA430000220_20210525T051550.png" group-title="Documentários em inglês",Xplore | EUA 1
-http://xlpore-samsungus.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="USBA430000220" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/04/60/USBA430000220_20210525T051550.png" group-title="Documentários em inglês",Xplore | EUA 2
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-xplore-samsungus/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
 ################# Documentários em outros idiomas ################# Documentários em outros idiomas ################# Documentários em outros idiomas ################# Documentários em outros idiomas ################# Documentários em outros idiomas ################# Documentários em outros idiomas 
 
@@ -2019,11 +1968,14 @@ https://edgesport-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="5ca1de9208ee5378be82db3b" tvg-logo="https://images.pluto.tv/channels/5ca1de9208ee5378be82db3b/colorLogoPNG.png" group-title="Esportes em inglês: automobilismo",Fifth Gear | Reino Unido
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca1de9208ee5378be82db3b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1 tvg-id="5e78faa05a0e200007a6f487" tvg-logo="https://images.pluto.tv/channels/5e78faa05a0e200007a6f487/colorLogoPNG.png" group-title="Esportes em inglês: automobilismo",Full Custom Garage 🇬🇧
+#EXTINF:-1 tvg-id="5e78faa05a0e200007a6f487" tvg-logo="https://images.pluto.tv/channels/5e78faa05a0e200007a6f487/colorLogoPNG.png" group-title="Esportes em inglês: automobilismo",Full Custom Garage
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e78faa05a0e200007a6f487/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1 tvg-name="MAVTV Motor Sports AU" tvg-id="matv.au" tvg-logo="https://i.imgur.com/CqAhL91.png" group-title="Esportes em inglês: automobilismo",MAVTV Motor Sports | Austrália 🇦🇺
+#EXTINF:-1 tvg-name="MAVTV Select" tvg-logo="https://i.imgur.com/CqAhL91.png" group-title="Esportes em inglês: automobilismo",MAVTV Motor Sports | Austrália
 https://mavtv-mavtvglobal-1-au.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-name="MAVTV Motor Sports" tvg-id="matv.au" tvg-logo="https://i.imgur.com/CqAhL91.png" group-title="Esportes em inglês: automobilismo",MAVTV Select | EUA
+https://mavtv-1.plex.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-id="5db0510962948d000961d3c6" tvg-logo="https://images.pluto.tv/channels/5db0510962948d000961d3c6/colorLogoPNG.png" group-title="Esportes em inglês: automobilismo",Motor - Pluto TV | Reino Unido
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0510962948d000961d3c6/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
@@ -2082,6 +2034,10 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ed327f9e9b000076
 
 
 ################### Game shows em INGLÊS #################### Game shows em INGLÊS #################### Game shows em INGLÊS #################### Game shows em INGLÊS #################### Game shows em INGLÊS #################### Game shows em INGLÊS #################### Game shows em INGLÊS #################### Game shows em INGLÊS ####################
+
+#EXTINF:-1 tvg-id="5f21e8a6e2f12b000755afdb" tvg-logo="http://images.pluto.tv/channels/5f21e8a6e2f12b000755afdb/colorLogoPNG.png" group-title="Game shows em inglês",The Amazing Race | EUA
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f21e8a6e2f12b000755afdb/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc993811-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e8b8360b-9877-441a-bb84-9e2d4ff2a618&userId=&serverSideAds=true
+
 #EXTINF:-1 tvg-id="5812bfbe4ced4f7b601b12e6" tvg-logo="http://images.pluto.tv/channels/5812bfbe4ced4f7b601b12e6/colorLogoPNG.png" group-title="Game shows em inglês",Buzzr | EUA - Pluto
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812bfbe4ced4f7b601b12e6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc931d92-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1d161653-86c5-4291-9280-1ac45c9be1ab&userId=&serverSideAds=true
 
@@ -2228,9 +2184,6 @@ https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8?ads.ple
 
 #EXTINF:-1 tvg-id="5e82b55ad0213e00079c509f" tvg-logo="http://images.pluto.tv/channels/5e82b55ad0213e00079c509f/colorLogoPNG.png" group-title="Humor e pets em inglês",AFV TV | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e82b55ad0213e00079c509f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc97ff93-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dbfdfaf4-0d28-40f9-ba3e-9084c724f1b6&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-name="Beano TV" group-title="Humor e pets em inglês" tvg-logo="https://i.imgur.com/d0sRlbS.png",Beano TV | Reino Unido
-https://beanostudios-beanotv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-id="599375885ceaac3cabccbed7" tvg-logo="http://images.pluto.tv/channels/599375885ceaac3cabccbed7/colorLogoPNG.png" group-title="Humor e pets em inglês",Cats 24/7 | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/599375885ceaac3cabccbed7/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc936bb5-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=109d2b15-65ce-41c6-abe9-175172809d60&userId=&serverSideAds=true
@@ -3171,7 +3124,61 @@ https://livelist01.yowi.tv/lista/0d6c7ccfac89946bfd41ae34c527e8d94734065c/index-
 #EXTINF:-1 tvg-id="8635ae40f8d1a32eccd63d1f58b55662c9c98f9f" group-title="Música: HQM - só PC" tvg-logo="https://statics.yowi.tv/files/f8584df7f64546f70a346ef301ec2e49c6e91d92" tvg-name="HQM Spanish",HQM Spanish - só PC
 https://livelist01.yowi.tv/lista/8635ae40f8d1a32eccd63d1f58b55662c9c98f9f/master.m3u8
 
-############## NOTÍCIAS em ESPANHOL ##############
+#### Natureza em inglês: documentários e programas ###### Natureza em inglês: documentários e programas ###### Natureza em inglês: documentários e programas ###### Natureza em inglês: documentários e programas ###### Natureza em inglês: documentários e programas ###### Natureza em inglês: documentários e programas ###### Natureza em inglês: documentários e programas ###### Natureza em inglês: documentários e programas ###### Natureza em inglês: documentários e programas #####
+
+#EXTINF:-1 tvg-id="56b27f85ff3037045055037e" tvg-logo="http://images.pluto.tv/channels/56b27f85ff3037045055037e/colorLogoPNG.png" group-title="Natureza em inglês: documentários e programas",Animals | EUA - Pluto TV
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56b27f85ff3037045055037e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc92cf71-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=4d627d8b-6cd1-44e8-818b-65b83fbcd88d&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="5ddf8ea0d000120009bcad83" tvg-logo="https://images.pluto.tv/channels/5ddf8ea0d000120009bcad83/colorLogoPNG.png" group-title="Natureza em inglês: documentários e programas",Animals | Reino Unido - Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ddf8ea0d000120009bcad83/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-id="USBA3800005NI" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/10/USBA3800005NI_20210323T125532.png" group-title="Natureza em inglês: documentários e programas",Clarity 4K | EUA
+https://d3thiix3tzne5u.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Gem Nature" tvg-language="Persian" tvg-logo="https://i.imgur.com/1NnCUHi.png" group-title="Natureza em inglês: documentários e programas",GEM Nature em inglês e farsi
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_nature/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Inwild TV AU" tvg-id="inwild.au" tvg-logo="https://i.imgur.com/VSiG39E.png" group-title="Natureza em inglês: documentários e programas",Inwild TV | Austrália
+https://inwild-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60995eb136c72d002da7bbcb" tvg-logo="https://i.imgur.com/gHOnUfn.png" group-title="Natureza em inglês: documentários e programas",Love Nature | EUA 
+https://lovenatureus-eng-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-bamus-lovenature-eng-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=Tog8X6wK6iweuzGFsz6p&channelId=60995eb136c72d002da7bbcb
+
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60995eb136c72d002da7bbcb" tvg-logo="https://i.imgur.com/gHOnUfn.png" group-title="Natureza em inglês: documentários e programas",Love Nature 4K | EUA 
+https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+
+#EXTINF:-1 tvg-id="5db050444f3c52000984c72a" tvg-logo="https://images.pluto.tv/channels/5db050444f3c52000984c72a/colorLogoPNG.png" group-title="Natureza em inglês: documentários e programas",Nature - Pluto TV | Reino Unido
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db050444f3c52000984c72a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-id="USBA3000043LH" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/32/USBA3000043LH_20210525T051504.png" group-title="Natureza em inglês: documentários e programas",Samsung Wild Life | EUA 
+https://d1vp12yk4i8ou5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/WildLife2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+
+#EXTINF:-1 tvg-id="5f21e7b24744c60007c1f6fc" tvg-logo="http://images.pluto.tv/channels/5f21e7b24744c60007c1f6fc/colorLogoPNG.png" group-title="Natureza em inglês: documentários e programas",Survivor | EUA
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f21e7b24744c60007c1f6fc/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc991104-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=4681ee23-dfd2-48ca-85b1-61b9176826e1&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="Unearth.fr" tvg-name="Unearth" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/kC9vaKL.jpg" group-title="Natureza em inglês: documentários e programas",Unearth | Reino Unido
+https://alchimie-unearth-2-gb.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Waypoint" tvg-logo="https://i.imgur.com/Ks6qGAd.png" tvg-id="13885" channel-id="13885" radio="false" tvg-chno="249" group-title="Natureza em inglês: documentários e programas",Waypoint TV | Canadá
+https://waypointtv-samsung-ca.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Waypoint" tvg-logo="https://i.imgur.com/Ks6qGAd.png" tvg-id="13885" channel-id="13884" radio="false" tvg-chno="248" group-title="Natureza em inglês: documentários e programas",Waypoint TV | EUA 
+https://waypointtv.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-name="WildEarth" tvg-id="5e20b730f2f8d5003d739db7-60d4edddb2fdec002c141135"  tvg-logo="https://i.imgur.com/ssxtGlH.png" group-title="Natureza em inglês: documentários e programas",WildEarth | África do Sul - Rakuten
+https://wildearth-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="WildEarth" tvg-id="5e20b730f2f8d5003d739db7-60d4edddb2fdec002c141135"  tvg-logo="https://i.imgur.com/ssxtGlH.png" group-title="Natureza em inglês: documentários e programas",WildEarth | África do Sul - Rakuten
+https://wildearth-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-wildearth-plex/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="USBA430000220" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/04/60/USBA430000220_20210525T051550.png" group-title="Natureza em inglês: documentários e programas",Xplore | EUA 1
+http://xlpore-samsungus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="USBA430000220" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/04/60/USBA430000220_20210525T051550.png" group-title="Natureza em inglês: documentários e programas",Xplore | EUA 2
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-xplore-samsungus/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+
+
+############## NOTÍCIAS em ESPANHOL ################# NOTÍCIAS em ESPANHOL ################# NOTÍCIAS em ESPANHOL ################# NOTÍCIAS em ESPANHOL ################# NOTÍCIAS em ESPANHOL ################# NOTÍCIAS em ESPANHOL ################# NOTÍCIAS em ESPANHOL ################# NOTÍCIAS em ESPANHOL ###########
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ICe2M8J.png" group-title="Notícias em espanhol",Estrella News | EUA 
 https://estrellanews-plex.amagi.tv/amRdirect/us_privacy=1---&did=83cf59f7-dc7f-5753-8faa-ab958f6c33e3&dnt=0&X-Plex-Token=jePnUaVx_dJ5XWHmG6ob&channelId=60089d97f682a3002c34829b/hls/amagi_hls_data_plexAAAAA-estrellanews-plex/CDN/384x216_435600/index.m3u8
@@ -3835,14 +3842,8 @@ https://4da04a4f31844ed2a2b1a4dceaf60e86.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="USAJ340001380" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/02/USAJ340001380_20210525T051706.png" group-title="Reality shows em inglês",All Weddings by We TV | EUA
 https://301e8447395c4f99835aec6b98ed9acd.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_AllWeddingsbyWEtv/playlist.m3u8?ads.wurl_channel=695&ads.wurl_name=AllWeddingsbyWEtv&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
-#EXTINF:-1 tvg-id="5f21e8a6e2f12b000755afdb" tvg-logo="http://images.pluto.tv/channels/5f21e8a6e2f12b000755afdb/colorLogoPNG.png" group-title="Reality shows em inglês",(The) Amazing Race | EUA
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f21e8a6e2f12b000755afdb/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc993811-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e8b8360b-9877-441a-bb84-9e2d4ff2a618&userId=&serverSideAds=true
-
 #EXTINF:-1 tvg-id="5ce44810b421747ae467b7cd" tvg-logo="http://images.pluto.tv/channels/5ce44810b421747ae467b7cd/colorLogoPNG.png" group-title="Reality shows em inglês",Antiques Roadshow | Reino Unido
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ce44810b421747ae467b7cd/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc958e92-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=43f8fc30-39de-4276-aa43-96073e7869e4&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="5e4bba36e4644300098cd0bb" tvg-logo="https://images.pluto.tv/channels/5e4bba36e4644300098cd0bb/colorLogoPNG.png" group-title="Reality shows em inglês",Auction Kings | Reino Unido
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e4bba36e4644300098cd0bb/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-id="5595e43c66ace1652e63c6a2" tvg-logo="http://images.pluto.tv/channels/5595e43c66ace1652e63c6a2/colorLogoPNG.png" group-title="Reality shows em inglês",Awesomeness TV | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5595e43c66ace1652e63c6a2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=e71ebf20-6a72-11eb-87d7-6fba7c7cde7d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=48e1b74d-3766-420b-b62d-cfeb0039db22&userId=&serverSideAds=true
@@ -3882,6 +3883,9 @@ https://lds-donttellbride-rakuten.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="5f6b54b9e67cf60007d4cef1" tvg-logo="https://images.pluto.tv/channels/5f6b54b9e67cf60007d4cef1/colorLogoPNG.png" group-title="Reality shows em inglês",Duck Dynasty | Reino Unido
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f6b54b9e67cf60007d4cef1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-60a9d105d162b9002d05a60c" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/GoUSA_logo_dark_v3.png" group-title="Reality shows em inglês",GoUSA TV
+https://a7ea429b0854458daac9f78715c8093f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_GoUSATV/playlist.m3u8?ads.wurl_channel=535&ads.wurl_name=GoUSATV&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=Tog8X6wK6iweuzGFsz6p&ads.plex_id=60a9d105d162b9002d05a60c&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
 
 #EXTINF:-1 tvg-id="5e4bf0db50560a000948ce52" tvg-logo="https://images.pluto.tv/channels/5e4bf0db50560a000948ce52/colorLogoPNG.png" group-title="Reality shows em inglês",Her | Reino Unido - Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e4bf0db50560a000948ce52/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
@@ -3946,29 +3950,26 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/600acdc43
 #EXTINF:-1 tvg-id="5e79c2f280389000077242a8" tvg-logo="https://images.pluto.tv/channels/5e79c2f280389000077242a8/colorLogoPNG.png" group-title="Reality shows em inglês",Police Women | Reino Unido
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e79c2f280389000077242a8/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
+#EXTINF:-1 tvg-id="5efb61e2a876670007ac2233" tvg-logo="http://images.pluto.tv/channels/5efb61e2a876670007ac2233/colorLogoPNG.png" group-title="Reality shows em inglês",Real Life on Verizon | EUA
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5efb61e2a876670007ac2233/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc98e9f1-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9c86089a-df0f-4283-aea7-6e4f5ae51c73&userId=&serverSideAds=true
+
 #EXTINF:-1 tvg-id="5d8bf0b06d2d855ee15115e3" tvg-logo="http://images.pluto.tv/channels/5d8bf0b06d2d855ee15115e3/colorLogoPNG.png" group-title="Reality shows em inglês",Reality - Pluto TV | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8bf0b06d2d855ee15115e3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc96a003-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8c9e6e7d-d4d7-4fdf-8019-ba0addbe669e&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-id="5bd8186d53ed2c6334ea0855" tvg-logo="https://images.pluto.tv/channels/5bd8186d53ed2c6334ea0855/colorLogoPNG.png" group-title="Reality shows em inglês",Reality - Pluto TV | Reino Unido
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5bd8186d53ed2c6334ea0855/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1 tvg-id="5e8dc0af6784d10007d8ad42" tvg-logo="https://images.pluto.tv/channels/5e8dc0af6784d10007d8ad42/colorLogoPNG.png" group-title="Reality shows em inglês",Secret Dealers | Reino Unido
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e8dc0af6784d10007d8ad42/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-
 #EXTINF:-1 tvg-id="5e9ed47c26ebb000074af566" tvg-logo="https://images.pluto.tv/channels/5e9ed47c26ebb000074af566/colorLogoPNG.png" group-title="Reality shows em inglês",Sensing Murder | Reino Unido
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e9ed47c26ebb000074af566/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kFJ3Qa4.png" group-title="Reality shows em inglês" tvg-name="Skills + Thrills Channel 1 | EUA",Skills + Thrills Channel 1 | EUA
+#EXTINF:-1 tvg-id="SkillsPlusThrills.us" tvg-logo="https://i.imgur.com/kFJ3Qa4.png" group-title="Reality shows em inglês" tvg-name="Skills + Thrills Channel 1 | EUA",Skills + Thrills Channel 1 | EUA
 https://aenetworks-skills-thrills-1.plex.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kFJ3Qa4.png" group-title="Reality shows em inglês" tvg-name="Skills + Thrills Channel 2 | EUA",Skills + Thrills Channel 2 | EUA
+#EXTINF:-1 tvg-id="SkillsPlusThrills.us" tvg-logo="https://i.imgur.com/kFJ3Qa4.png" group-title="Reality shows em inglês" tvg-name="Skills + Thrills Channel 2 | EUA",Skills + Thrills Channel 2 | EUA
 https://aenetworks-skills-thrills-1.roku.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kFJ3Qa4.png" group-title="Reality shows em inglês" tvg-name="Skills + Thrills Channel 3 | EUA",Skills + Thrills Channel 3 | EUA
+#EXTINF:-1 tvg-id="SkillsPlusThrills.us" tvg-logo="https://i.imgur.com/kFJ3Qa4.png" group-title="Reality shows em inglês" tvg-name="Skills + Thrills Channel 3 | EUA",Skills + Thrills Channel 3 | EUA
 https://aenetworks-skills-thrills-1.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-id="5f21e7b24744c60007c1f6fc" tvg-logo="http://images.pluto.tv/channels/5f21e7b24744c60007c1f6fc/colorLogoPNG.png" group-title="Reality shows em inglês",Survivor | EUA
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f21e7b24744c60007c1f6fc/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc991104-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=4681ee23-dfd2-48ca-85b1-61b9176826e1&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-id="5ea18f35ae8f730007465915" tvg-logo="https://images.pluto.tv/channels/5ea18f35ae8f730007465915/colorLogoPNG.png" group-title="Reality shows em inglês",The Simple Life | Reino Unido
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ea18f35ae8f730007465915/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
@@ -3976,23 +3977,13 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ea18f35a
 #EXTINF:-1 tvg-id="5f0dc00b15eef10007726ef7" tvg-logo="https://images.pluto.tv/channels/5f0dc00b15eef10007726ef7/colorLogoPNG.png" group-title="Reality shows em inglês",Undercover Boss Global | Reino Unido
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f0dc00b15eef10007726ef7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1 tvg-name="Waypoint" tvg-logo="https://i.imgur.com/Ks6qGAd.png" tvg-id="13885" channel-id="13885" radio="false" tvg-chno="249" group-title="Reality shows em inglês",Waypoint TV | Canadá
-https://waypointtv-samsung-ca.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Waypoint" tvg-logo="https://i.imgur.com/Ks6qGAd.png" tvg-id="13885" channel-id="13884" radio="false" tvg-chno="248" group-title="Reality shows em inglês",Waypoint TV | EUA 
-https://waypointtv.samsung.wurl.com/manifest/playlist.m3u8
-
 #EXTINF:-1 tvg-id="5877acecb16bb1e042ee453f" tvg-logo="http://images.pluto.tv/channels/5877acecb16bb1e042ee453f/colorLogoPNG.png" group-title="Reality shows em inglês",Weddings - Pluto TV | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5877acecb16bb1e042ee453f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc9344a0-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b0584934-ea2f-4185-acc7-40ddd16efbf4&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-id="5d49455dfd09fd7d4c0daf26" tvg-logo="https://images.pluto.tv/channels/5d49455dfd09fd7d4c0daf26/colorLogoPNG.png" group-title="Reality shows em inglês",Weddings - Pluto TV | Reino Unido
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d49455dfd09fd7d4c0daf26/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1 tvg-name="WildEarth" tvg-id="5e20b730f2f8d5003d739db7-60d4edddb2fdec002c141135"  tvg-logo="https://i.imgur.com/ssxtGlH.png" group-title="Reality shows em inglês",WildEarth | África do Sul - Rakuten
-https://wildearth-rakuten.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="WildEarth" tvg-id="5e20b730f2f8d5003d739db7-60d4edddb2fdec002c141135"  tvg-logo="https://i.imgur.com/ssxtGlH.png" group-title="Reality shows em inglês",WildEarth | África do Sul - Rakuten
-https://wildearth-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-wildearth-plex/CDN/playlist.m3u8
 
 ######## Seriados em alemão ######## Seriados em alemão ######## Seriados em alemão ######## Seriados em alemão ######## Seriados em alemão ######## Seriados em alemão ######## Seriados em alemão ######## Seriados em alemão #######
 
