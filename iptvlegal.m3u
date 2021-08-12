@@ -317,7 +317,7 @@ https://stream3.camara.gov.br/tv2/manifest.m3u8
 ############## BRASIL NOTÍCIAS ############## BRASIL NOTÍCIAS ############## BRASIL NOTÍCIAS ############## BRASIL NOTÍCIAS ############## BRASIL NOTÍCIAS ############## BRASIL NOTÍCIAS ############## BRASIL NOTÍCIAS ############## BRASIL NOTÍCIAS ##############
 
 #EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News" tvg-logo="https://imgur.com/WwSAtkh.png" group-title="Brasil: notícias em português",Band News | Brasil
-http://evpp.mm.uol.com.br:1935/geob_band/bandnewstv/playlist.m3u8
+http://origin-02.nxplay.com.br/BAND_NEWS_NXPLAY_1/index.m3u8 
 
 #EXTINF:-1 tvg-id="Cbn.br" tvg-name="CBN RJ" tvg-shift="0" tvg-logo="https://m.cbn.globoradio.globo.com/estaticos/img/CBN_1024x1024.png" group-title="Brasil: notícias em português",CBN RJ | Brasil
 https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
@@ -338,7 +338,7 @@ http://live.video.globo.com/h/1402196702324012345678915746223249876543210St7g4OJ
 https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
 
 #EXTINF:-1 tvg-id="TVI24.pt" tvg-name="TVI 24" tvg-logo="https://cdn.iol.pt/img/logostvi/branco/tvi24.png" group-title="Brasil: notícias em português",TVI 24 | Portugal
-https://video-auth2.iol.pt/live_tvi24/live_tvi24/edge_servers/tvi24-480p/chunks.m3u8?nimblesessionid=105682513&wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMS8yMDIxIDEyOjM1OjQzIEFNJmhhc2hfdmFsdWU9WjVxellZZStzUWZjcVRXN3U0Qmx3UT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTY3MGNiMjY3LTQyYmYtNDNkYi05YmFjLTEzNmMwYjU4OWI5Zg==
+https://noscdne.entrprise.tv:1935/cvo/tvi24.stream/live.m3u8 
 
 
 ############################### BRASIL: variedades em português ############################### BRASIL: variedades em português ############################### antes: BRASIL TV ABERTA ############################### BRASIL: variedades em português ############################### BRASIL TV ABERTA ############################### BRASIL: variedades em português ############################### antes: BRASIL TV ABERTA ############################### 
