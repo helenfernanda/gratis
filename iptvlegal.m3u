@@ -563,9 +563,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/601a0342dcf43700075
 
 ########### casa e decoração em outros idiomas ############################
 
-#EXTINF:-1 tvg-name="Gem Property" tvg-logo="https://i.imgur.com/7slcYQB.png" group-title="Casa e decoração em outros idiomas",GEM Property em farsi e inglês
-https://d2e40kvaojifd6.cloudfront.net/stream/gem_property/playlist.m3u8
-
 #EXTINF:-1 tvg-id="5dd6ab8056beb000091fc6b6" tvg-logo="https://imgur.com/qiekvJw.png" group-title="Casa e decoração em outros idiomas",Hogar | Argentina - Pluto TV 
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6ab8056beb000091fc6b6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff0c3c2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=83815638-64f0-4bf4-8cd2-92feb27f8740&userId=&serverSideAds=true
 
@@ -1020,17 +1017,14 @@ https://stream-cdn.gemonline.tv/live/gembollywood/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Gem Classic" tvg-language="Persian" tvg-logo="https://i.imgur.com/CJfG3hy.png" group-title="Cinema em outros idiomas",GEM Classic em farsi
 https://stream-cdn.gemonline.tv/live/gemclassic/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Gem Comedy" tvg-language="Persian" tvg-logo="https://i.imgur.com/c4eYuHo.png" group-title="Cinema em outros idiomas",GEM Comedy em farsi
-https://d2e40kvaojifd6.cloudfront.net/stream/gem_comedy/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="Gem Drama" tvg-language="Persian" tvg-logo="https://i.imgur.com/tHkwfFQ.png" group-title="Cinema em outros idiomas",GEM Drama em farsi
-http://d2e40kvaojifd6.cloudfront.net/stream/gem_drama/playlist.m3u8
+https://stream-cdn.gemonline.tv/live/gemdrama/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Gem Film" tvg-language="Persian" tvg-logo="https://i.imgur.com/3DF3dEQ.png" group-title="Cinema em outros idiomas",GEM Film em farsi
 https://stream-cdn.gemonline.tv/live/gemfilm/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Gem Series" tvg-language="Persian" tvg-logo="https://i.imgur.com/qh8aPwv.png" group-title="Cinema em outros idiomas",GEM Series em farsi
-https://d2e40kvaojifd6.cloudfront.net/stream/gem_series/playlist.m3u8
+https://stream-cdn.gemonline.tv/live/gemseries/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ZTdKpLg.png" group-title="Cinema em outros idiomas" tvg-name="iFilm Árabe",iFilm em árabe | Irã
 https://live.presstv.ir/ifilmlive/smil:ifilmar.smil/chunklist.m3u8
@@ -1648,10 +1642,7 @@ https://alchimie-euronews-2-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="Euronews Doc Italia" tvg-id="ITAJ45000141D" tvg-logo="https://i.imgur.com/ahMtMsf.png" group-title="Documentários em outros idiomas",Euronews Doc | Itália - 2
 https://e4a5a147cb5e4aa38ecb8b703171308c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-it_Euronews/playlist.m3u8?ads.wurl_channel=375&ads.wurl_name=Euronews&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
 
-#EXTINF:-1 tvg-id="" tvg-name="Gem Nature" tvg-language="Persian" tvg-logo="https://i.imgur.com/NahkH0k.png" group-title="Cinema em outros idiomas",GEM Nature em farsi
-https://d2e40kvaojifd6.cloudfront.net/stream/gem_nature/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Gem Travel" tvg-language="Persian" tvg-logo="https://i.imgur.com/NahkH0k.png" group-title="Cinema em outros idiomas",GEM Travel em farsi
+#EXTINF:-1 tvg-id="" tvg-name="Gem Travel" tvg-language="Persian" tvg-logo="https://i.imgur.com/NahkH0k.png" group-title="Documentários em outros idiomas",GEM Travel em farsi
 https://stream-cdn.gemonline.tv/live/gemtravel/index.m3u8
 
 #EXTINF:-1  tvg-name="History Lab" tvg-logo="https://i.imgur.com/Hf8RtBU.png" tvg-shift="0" group-title="Documentários em outros idiomas",History Lab | Itália
@@ -2783,15 +2774,6 @@ https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-flash-plex/CDN/playli
 #EXTINF:-1 tvg-name="Friday Feels" tvg-logo="https://i.imgur.com/DYMtPuJ.png" group-title="Música",Friday Feels
 https://7d6f1eaab26244879085a9c647097af7.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/friday_feels_plex/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Gem 24B" tvg-logo="https://i.imgur.com/qrGyoAi.png" group-title="Música",GEM 24B
-https://d2e40kvaojifd6.cloudfront.net/stream/24b/playlist_1920x1080_4500k.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Gem Latino" tvg-logo="https://i.imgur.com/JT48OdV.png" group-title="Música",GEM Latino
-https://d2e40kvaojifd6.cloudfront.net/stream/gem_latino/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Gem Mifa" tvg-logo="https://i.imgur.com/Kfu4u2u.png" group-title="Música",GEM Mifa em farsi
-https://d2e40kvaojifd6.cloudfront.net/stream/mifa/playlist.m3u8
-
 #EXTINF:-1 tvg-id="DEAK0500445A" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/07/DEAK0500445A_20200923T100523.png" group-title="Música",GoldStar TV | Alemanha
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/4d36a94b-6fb0-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
 
@@ -3543,6 +3525,9 @@ https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Business Rockstars" tvg-logo="https://i.imgur.com/5UDyshA.png" group-title="Notícias em inglês: dinheiro",Business Rockstars | EUA 
 https://content.uplynk.com/channel/7ad2b600b40b4a89933ab6981757f8b3.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NahkH0k.png" group-title="Notícias em inglês: dinheiro",Gem Crypto
+https://stream-cdn.gemonline.tv/live/gemcrypto/index.m3u8
 
 #EXTINF:-1 tvg-id="5f161c0a8ba90f0007d5bd0b" tvg-name="Yahoo Finance | EUA" tvg-logo="http://images.pluto.tv/channels/5f161c0a8ba90f0007d5bd0b/colorLogoPNG.png" group-title="Notícias em inglês: dinheiro",Yahoo Finance | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f161c0a8ba90f0007d5bd0b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc991101-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=5405d8e5-1f39-4ff4-8b85-bce9c635d926&userId=&serverSideAds=true
@@ -4598,16 +4583,13 @@ https://live3.mediacdn.ru/sr1/tro/playlist.m3u8
 https://dvr.ch20-cdnwiz.com/hls/live_360/index.m3u8
 
 #EXTINF:-1 tvg-name="Gem TV" tvg-logo="https://i.imgur.com/NahkH0k.png" group-title="Variedades em outros idiomas",GEM TV em farsi
-https://d2e40kvaojifd6.cloudfront.net/stream/gem_tv/playlist.m3u8
+https://stream-cdn.gemonline.tv/live/gem/index.m3u8
 
-#EXTINF:-1 tvg-name="Gem Arábia" tvg-logo="https://i.imgur.com/ms2l9Jc.png" group-title="Variedades em outros idiomas",GEM Arábia
-https://d2e40kvaojifd6.cloudfront.net/stream/gem_arabia/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Gem Life" tvg-logo="https://i.imgur.com/NahkH0k.png" group-title="Variedades em outros idiomas",GEM Life em farsi
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NahkH0k.png" group-title="Variedades em outros idiomas",GEM Life em farsi
 https://stream-cdn.gemonline.tv/live/gemlife/index.m3u8
 
-#EXTINF:-1 tvg-name="Gem Modern Economy" tvg-logo="https://i.imgur.com/26gXFRG.png" group-title="Variedades em outros idiomas",GEM Modern Economy em farsi
-https://d2e40kvaojifd6.cloudfront.net/stream/modern_economy/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q6N1eDO.png" group-title="Variedades em outros idiomas",GEM Maxx em farsi e inglês 
+https://stream-cdn.gemonline.tv/live/gemmaxx/index.m3u8
 
 #EXTINF:-1 tvg-name="Gem River" tvg-language="Persian" tvg-logo="https://i.imgur.com/6RZj1Vy.png" group-title="Variedades em outros idiomas",GEM River em farsi
 https://stream-cdn.gemonline.tv/live/river/index.m3u8 
