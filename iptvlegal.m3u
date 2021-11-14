@@ -86,6 +86,33 @@ http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8
 
 ######################### Brasil: educativos e documentários ############## Brasil: educativos e documentários ############## Brasil: educativos e documentários ############## Brasil: educativos e documentários ############## Brasil: educativos e documentários ########
 
+#EXTINF:-1 tvg-id="canalsaude.br" tvg-name="Canal Saúde" tvg-logo="https://i.imgur.com/CGQhh0s.png" tvg-shift="0" group-title="Brasil: educativos e documentários",Canal Saúde | Brasil
+https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/playlist.m3u8
+
+#EXTINF:-1 tvg-id="culturapara" tvg-logo="https://listaiptv.gratis/logos/imagens/culturapara.png" group-title="Brasil: educativos e documentários",Cultura do Pará | Brasil
+http://str.portalcultura.com.br/funtelpa/tv_funtelpa/live.m3u8
+
+#EXTINF:-1 tvg-id="unisctv" tvg-name="Unisc TV" group-title="Brasil: educativos e documentários" tvg-logo="http://radiosantacruz.com.br/online/wp-content/uploads/2018/01/Unisc-1.jpg",Futura | Unisc TV (RS)
+https://tv.unisc.br/hls/test.m3u8
+
+#EXTINF:-1 tvg-id="5f32cf37c9ff2b00082adbc8" tvg-logo="https://imgur.com/JfLHsbj.png" group-title="Brasil: educativos e documentários",Investigação | Brasil 
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32cf37c9ff2b00082adbc8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781ef20-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c6910880-42dc-4cb1-99bb-7227886a27ba&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="5fac52f142044f00078e2a51" tvg-logo="https://images.pluto.tv/channels/5fac52f142044f00078e2a51/featuredImage.jpg" group-title="Brasil: educativos e documentários",Mistérios | Brasil
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fac52f142044f00078e2a51/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=e61e81d1-c6d5-4eea-a605-2651410462b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=357672e9-e58c-11eb-b36a-0242ac110002&userId=&serverSideAds=true 
+
+#EXTINF:-1 tvg-id="5f1213ba0ecebc00070e170f" tvg-logo="https://imgur.com/oAarMpL.png" group-title="Brasil: educativos e documentários",Natureza | Brasil 
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977f3000-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=5bf5881e-ff8d-45df-a6a2-db61d0e625a0&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="Redeminas.br" tvg-name="Rede Minas" group-title="Brasil: educativos e documentários" tvg-logo="https://pbs.twimg.com/profile_images/1151111400615550976/MQW6Uj8p.png",Rede Minas | Brasil
+https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_.m3u8
+
+#EXTINF:-1 tvg-id="SESCTV.br" group-title="Brasil: educativos e documentários" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCQlj4F0w8sO6hAPUKpnxfh5GOGxG9XEzi9obcZVtYWwuDRf3otJWvZ_YQF_xbnaovDaY&usqp=CAU",Sesc TV - 1080 | Brasil
+https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2c3e9324497d5ff/video/0c884f97-4264-446f-abcd-03aa46089a96_index1080p.m3u8
+
+#EXTINF:-1 tvg-id="SESCTV.br" group-title="Brasil: educativos e documentários" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCQlj4F0w8sO6hAPUKpnxfh5GOGxG9XEzi9obcZVtYWwuDRf3otJWvZ_YQF_xbnaovDaY&usqp=CAU",Sesc TV - 720 | Brasil
+https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2c3e9324497d5ff/video/0c884f97-4264-446f-abcd-03aa46089a96_index720p.m3u8
+
 #EXTINF:-1 tvg-id="Tvbrasil.br" tvg-logo="https://www.fenaert.org.br/images/Novatvbrasil.jpg" group-title="Brasil: educativos e documentários",TV Brasil 480
 https://tvbrasil-stream.ebc.com.br/STsEBCLIVE_480/index.m3u8
 
@@ -105,15 +132,12 @@ http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
 http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
 
 #EXTINF:-1 tvg-name="TV UFG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Avatar_-_Quadrado_02.png" group-title="Brasil: educativos e documentários",TV Brasil | TV UFG (GO)
-http://wowza.softhost.com.br:1935/ufg/smil:tvufgweb/playlist.m3u8
+http://wowza.softhost.com.br:1935/ufg/smil:tvufgweb/playlist.
 
 #EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="TV Cultura" tvg-logo="https://listaiptv.gratis/logos/imagens/1180px-cultura_logo_2013.svg_.png" group-title="Brasil: educativos e documentários",TV Cultura | TV Futuro (RJ) | Brasil
 https://streaming03.zas.media/tvfuturo/tvfuturo/playlist.m3u8
 
-#EXTINF:-1 tvg-id="culturapara" tvg-logo="https://listaiptv.gratis/logos/imagens/culturapara.png" group-title="Brasil: educativos e documentários",Cultura do Pará | Brasil
-http://str.portalcultura.com.br/funtelpa/tv_funtelpa/live.m3u8
-
-#EXTINF:-1 tvg-id="Tvescola.br" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjMchEFtSE24KRWXsviP6GZD2KLdE_PHlvNvK_c0Q=s900-c-k-c0x00ffffff-no-rj" group-title="Brasil: educativos e documentários",TV Escola 2 | Brasil
+#EXTINF:-1 tvg-id="Tvescola.br" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjMchEFtSE24KRWXsviP6GZD2KLdE_PHlvNvK_c0Q=s900-c-k-c0x00ffffff-no-rj" group-title="Brasil: educativos e documentários",TV Escola 1 | Brasil
 https://edge-sp-01.eduplay.rnp.br/media/ocp(r(SOtSyQ)t(AAAAAAAAAAA)p(d(ADo)k(EBE)m(YGZMV3kiOs8Ell07oQb28A)n(a(kLbutb9FljfAzjoWmXgS8Rnp6_GUlkq0)s(rRg)'a(T-aZqqGWVQBm6ZHJp3tHyyjZ)s(fvc)))s(t(eT8)b(6P9w9Nu8wcNIUaKqkTKqXRWNHWIhMz8mxUoA4mgo1tqnqVYwaZMCmldOaMbaZB0n33FR3ttihZ1JvOivSGdZIuAfecBVa16Et9eMjlLC13Rq6Cwwi8mycU0Iwr-66QiAe98vgBCT-AiPs61W_9bjrtb8ATEJw-JsxpVNlotY)'t(wDM)b(pbCqvGJQQWqY9cAtI-9-O9bngy67xc2Xu8ug)))/live_540_index.m3u8
 
 #EXTINF:-1 tvg-id="Tvescola.br" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjMchEFtSE24KRWXsviP6GZD2KLdE_PHlvNvK_c0Q=s900-c-k-c0x00ffffff-no-rj" group-title="Brasil: educativos e documentários",TV Escola 2 | Brasil
@@ -122,29 +146,55 @@ https://bit.ly/3FbL360
 #EXTINF:-1 tvg-name="TV Faap" tvg-logo="https://listaiptv.gratis/logos/imagens/tvfaap.png" group-title="Brasil: educativos e documentários",TV Faap | Brasil
 http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8
 
-#EXTINF:-1 tvg-id="unisctv" tvg-name="Unisc TV" group-title="Brasil: educativos e documentários" tvg-logo="http://radiosantacruz.com.br/online/wp-content/uploads/2018/01/Unisc-1.jpg",Futura | Unisc TV (RS)
-https://tv.unisc.br/hls/test.m3u8
-
-#EXTINF:-1 tvg-id="5f32cf37c9ff2b00082adbc8" tvg-logo="https://imgur.com/JfLHsbj.png" group-title="Brasil: educativos e documentários",Investigação | Brasil 
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32cf37c9ff2b00082adbc8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781ef20-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c6910880-42dc-4cb1-99bb-7227886a27ba&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="5fac52f142044f00078e2a51" tvg-logo="https://images.pluto.tv/channels/5fac52f142044f00078e2a51/featuredImage.jpg" group-title="Brasil: educativos e documentários",Mistérios | Brasil
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fac52f142044f00078e2a51/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=e61e81d1-c6d5-4eea-a605-2651410462b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=357672e9-e58c-11eb-b36a-0242ac110002&userId=&serverSideAds=true 
-
-#EXTINF:-1 tvg-id="5f1213ba0ecebc00070e170f" tvg-logo="https://imgur.com/oAarMpL.png" group-title="Brasil: educativos e documentários",Natureza | Brasil 
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977f3000-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=5bf5881e-ff8d-45df-a6a2-db61d0e625a0&userId=&serverSideAds=true
-
 #EXTINF:-1 tvg-id="TVparanaturismo.br" group-title="Brasil: educativos e documentários" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjjKFPE1dR10rEbyAE2fus0Mu0iQ0mEwehWdlf6uQ=s250-c-k-c0x00ffffff-no-rj" tvg-name="TV Paraná Turismo",TV Paraná Turismo | Brasil
 http://200.189.113.201/hls/tve.m3u8
 
-#EXTINF:-1 tvg-id="Redeminas.br" tvg-name="Rede Minas" group-title="Brasil: educativos e documentários" tvg-logo="https://pbs.twimg.com/profile_images/1151111400615550976/MQW6Uj8p.png",Rede Minas | Brasil
-https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_.m3u8
+############## Brasil: esportes lifestyle realities ############## ############## Brasil: realities ############## ############## Brasil: realities ############## ############## Brasil: realities ############## ############## Brasil: realities ############## ############## Brasil: realities ############## 
 
-#EXTINF:-1 tvg-id="canalsaude.br" tvg-name="Canal Saúde" tvg-logo="https://i.imgur.com/CGQhh0s.png" tvg-shift="0" group-title="Brasil: educativos e documentários",Canal Saúde | Brasil
-https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/playlist.m3u8
+#EXTINF:-1 tvg-id="allsports.br" tvg-name="All Sports" tvg-logo="https://pbs.twimg.com/profile_images/1212859696383696896/ljdBfeUQ_400x400.jpg" group-title="Brasil: esportes, lifestyle e realities",All Sports | Brasil
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="SESCTV.br" tvg-name="SESC TV" group-title="Brasil: educativos e documentários" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCQlj4F0w8sO6hAPUKpnxfh5GOGxG9XEzi9obcZVtYWwuDRf3otJWvZ_YQF_xbnaovDaY&usqp=CAU",Sesc TV | Brasil
-https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2c3e9324497d5ff/video/0c884f97-4264-446f-abcd-03aa46089a96_index1080p.m3u8
+#EXTINF:-1 tvg-id="5f516730b78b7600079294f5" tvg-logo="https://imgur.com/dSGszHV.png" group-title="Brasil: esportes, lifestyle e realities",Fashionbox | Brasil 
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f516730b78b7600079294f5/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=97821632-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3a1c0715-7e54-4c98-b40d-facafa1841d1&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="Fishtv.br" tvg-logo="https://imgur.com/THcQpeQ.png" group-title="Brasil: esportes, lifestyle e realities",Fish TV | Brasil
+https://origin-02.nxplay.com.br/FISH_TV_NX/index.m3u8
+
+#EXTINF:-1 tvg-id="6144d088516ea8000739076a" tvg-logo="https://images.pluto.tv/channels/6144d088516ea8000739076a/featuredImage.jpg" group-title="Brasil: esportes, lifestyle e realities",Fuel TV - Pluto TV | Brasil
+https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/channel/6144d088516ea8000739076alivestitch/2977158/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=731464e0-52dc-4c3b-9f02-9afc0488dc1a&deviceVersion=80.0.4170&appVersion=5.105.0-b62a54a1ce532c9291b0579779f0b19221e6d9fc&deviceType=web&deviceMake=opera&sid=6aab98ea-4545-11ec-b675-0242ac110003&advertisingId=&deviceLat=-16.6391&deviceLon=-49.2622&deviceDNT=0&deviceModel=web&userId=&appName=web&e2eBeacons=false&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjEyYjNiMzkxLWFjODAtNDkxOC1iMmIzLWEyNzllNTg3YmUxZSIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiI2YWFiOThlYS00NTQ1LTExZWMtYjY3NS0wMjQyYWMxMTAwMDMiLCJjbGllbnRJUCI6IjI4MDQ6ZDU5OjgwMGI6ZmEwMDphNGNmOjVhOGI6ZGE0Njo0MWRjIiwiY2l0eSI6IkdvacOibmlhIiwicG9zdGFsQ29kZSI6Ijc0MDAwIiwiY291bnRyeSI6IkJSIiwiZG1hIjowLCJhY3RpdmVSZWdpb24iOiJCUiIsImRldmljZUxhdCI6LTE2LjYzOTEsImRldmljZUxvbiI6LTQ5LjI2MjIsInByZWZlcnJlZExhbmd1YWdlIjoicHQiLCJkZXZpY2VUeXBlIjoid2ViIiwiZGV2aWNlVmVyc2lvbiI6IjgwLjAuNDE3MCIsImRldmljZU1ha2UiOiJvcGVyYSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI1LjEwNS4wLWI2MmE1NGExY2U1MzJjOTI5MWIwNTc5Nzc5ZjBiMTkyMjFlNmQ5ZmMiLCJjbGllbnRJRCI6IjczMTQ2NGUwLTUyZGMtNGMzYi05ZjAyLTlhZmMwNDg4ZGMxYSIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJBbWVyaWNhL1Nhb19QYXVsbyIsInNlcnZlclNpZGVBZHMiOnRydWUsImUyZUJlYWNvbnMiOmZhbHNlLCJmZWF0dXJlcyI6e30sImF1ZCI6IioucGx1dG8udHYiLCJleHAiOjE2MzY5MjEyOTksImp0aSI6ImYzNjBhYTdhLWFiOTMtNGE4Yy1hODM5LTg3NzI2NGZjMWI4YiIsImlhdCI6MTYzNjg5MjQ5OSwiaXNzIjoiYm9vdC5wbHV0by50diIsInN1YiI6InByaTp2MTpwbHV0bzpkZXZpY2VzOkJSOk56TXhORFkwWlRBdE5USmtZeTAwWXpOaUxUbG1NREl0T1dGbVl6QTBPRGhrWXpGaCJ9.1lIJ9HfPTrwV42AlFyozHJaBl8fHirIqYumokd1K29Q 
+
+#EXTINF:-1 tvg-id="6077045b6031bd00078de127" tvg-logo="https://images.pluto.tv/channels/6077045b6031bd00078de127/featuredImage.jpg" group-title="Brasil: esportes, lifestyle e realities",MasterChef | Brasil
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6077045b6031bd00078de127/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=e61e81d1-c6d5-4eea-a605-2651410462b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3bf99bf4-e584-11eb-a5e5-0242ac110002&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="5f1212fb81e85c00077ae9ef" tvg-logo="https://imgur.com/Of1yJaj.png" group-title="Brasil: esportes, lifestyle e realities",MTV do Pluto | Brasil 
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1212fb81e85c00077ae9ef/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977f08f0-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3887c04b-bb4b-49b8-8511-47613f5cadbb&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="5f6108d8cc331900075e98e4" tvg-logo="https://imgur.com/u6zAeKw.png" group-title="Brasil: esportes, lifestyle e realities",MTV: Are you the One? | Brasil 
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6108d8cc331900075e98e4/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=97821633-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d1b9e931-6816-41d0-878e-e83836fbe919&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="5f9b096236af340008da3779" tvg-logo="https://images.pluto.tv/channels/5f9b096236af340008da3779/featuredImage.jpg?w=300" group-title="Brasil: esportes, lifestyle e realities" tvg-name="Nosey Casos",Nosey Casos | Brasil 
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f9b096236af340008da3779/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0651cfd7-3dba-4a55-99ce-263e1c29297a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3e6e9843-96e5-11eb-b1b4-0242ac110002&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="5f9b05a99547eb0007676b02" tvg-logo="https://images.pluto.tv/channels/5f9b05a99547eb0007676b02/featuredImage.jpg?w=300" group-title="Brasil: esportes, lifestyle e realities" tvg-name="Nosey Escândalos",Nosey Escândalos | Brasil 
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f9b05a99547eb0007676b02/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=0651cfd7-3dba-4a55-99ce-263e1c29297a&clientModelNumber=na&deviceDNT=false&deviceId=0651cfd7-3dba-4a55-99ce-263e1c29297a&deviceLat=-16.6391&deviceLon=-49.2622&deviceMake=Opera&deviceModel=web&deviceType=web&deviceVersion=73.0.3856.421&marketingRegion=BR&serverSideAds=true&sessionID=f913e75f-9703-11eb-8cd8-0242ac110002&sid=f913e75f-9703-11eb-8cd8-0242ac110002&userId= 
+
+#EXTINF:-1 tvg-id="61099df8cee03b00074b2ecf" tvg-logo="https://images.pluto.tv/channels/61099df8cee03b00074b2ecf/featuredImage.jpg" group-title="Brasil: esportes, lifestyle e realities",O encantador de cães | Brasil
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/61099df8cee03b00074b2ecf/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=e61e81d1-c6d5-4eea-a605-2651410462b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d6cc25d6-e662-11eb-8628-0242ac110003&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="60f8841a4865da0007421177" tvg-logo="https://images.pluto.tv/channels/60f8841a4865da0007421177/featuredImage.jpg?w=300" group-title="Brasil: esportes, lifestyle e realities" tvg-name="Pluto Estilo de Vida",Pluto Estilo de Vida | Brasil 
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60f8841a4865da0007421177/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=0651cfd7-3dba-4a55-99ce-263e1c29297a&clientModelNumber=na&deviceDNT=false&deviceId=0651cfd7-3dba-4a55-99ce-263e1c29297a&deviceLat=-16.6391&deviceLon=-49.2622&deviceMake=Opera&deviceModel=web&deviceType=web&deviceVersion=73.0.3856.421&marketingRegion=BR&serverSideAds=true&sessionID=f913e75f-9703-11eb-8cd8-0242ac110002&sid=f913e75f-9703-11eb-8cd8-0242ac110002&userId= 
+
+#EXTINF:-1 tvg-id="5fd1419a3b4f4b000773ba85" tvg-logo="https://imgur.com/JnHVIgo.png" group-title="Brasil: esportes, lifestyle e realities",Tastemade | Brasil
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fd1419a3b4f4b000773ba85livestitch/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=e61e81d1-c6d5-4eea-a605-2651410462b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d6cc25d6-e662-11eb-8628-0242ac110003&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="5f32d4d9ec194100070c7449" tvg-logo="https://imgur.com/YuTPeFV.png" group-title="Brasil: esportes, lifestyle e realities",Vida Real | Brasil 
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32d4d9ec194100070c7449/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781ef21-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=29b136d2-3f75-488b-9ace-35ab0ac5684e&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-ID="Woohoo.br" tvg-name="Woohoo" tvg-logo="http://168.205.87.198/logocanais/woohoo.png" group-title="Brasil: esportes, lifestyle e realities",Woohoo | Brasil 
+http://origin-02.nxplay.com.br/WOOHOO_NXPLAY/tracks-v1a1/mono.m3u8 
+
+#EXTINF:-1 tvg-id="Yeeaah.br" tvg-name="Yeeaah" tvg-logo="http://canalyeeah.com.br/wp-content/uploads/2021/01/YEEAAHTV-2021_SITE.png" group-title="Brasil: esportes, lifestyle e realities",Yeeaah | Brasil
+https://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
 
 ############################### Brasil: humor e seriados ############################### Brasil: humor e seriados ############################### Brasil: humor e seriados ############################### Brasil: humor e seriados ############################### Brasil: humor e seriados ############################### Brasil: humor e seriados 
 
@@ -205,53 +255,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1212ad1728050007a
 #EXTINF:-1 tvg-id="5f121262a189a800076b9386" tvg-logo="https://imgur.com/SIUu1eO.png" group-title="Brasil: humor e seriados",Séries | Brasil
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f121262a189a800076b9386/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977ee1e1-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d54d8e7b-d3f3-44cd-ac61-95ff7aa498d3&userId=&serverSideAds=true
 
-############## Brasil: realities ############## ############## Brasil: realities ############## ############## Brasil: realities ############## ############## Brasil: realities ############## ############## Brasil: realities ############## ############## Brasil: realities ############## 
-
-#EXTINF:-1 tvg-id="allsports.br" tvg-name="All Sports" tvg-logo="https://pbs.twimg.com/profile_images/1212859696383696896/ljdBfeUQ_400x400.jpg" group-title="Brasil: variedades em português",All Sports | Brasil
-https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="5f516730b78b7600079294f5" tvg-logo="https://imgur.com/dSGszHV.png" group-title="Brasil: esportes, lifestyle e realities",Fashionbox | Brasil 
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f516730b78b7600079294f5/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=97821632-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3a1c0715-7e54-4c98-b40d-facafa1841d1&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="Fishtv.br" tvg-logo="https://imgur.com/THcQpeQ.png" group-title="Brasil: esportes, lifestyle e realities",Fish TV | Brasil
-https://origin-02.nxplay.com.br/FISH_TV_NX/index.m3u8
-
-#EXTINF:-1 tvg-id="6144d088516ea8000739076a" tvg-logo="https://images.pluto.tv/channels/6144d088516ea8000739076a/featuredImage.jpg" group-title="Brasil: esportes, lifestyle e realities",Fuel TV - Pluto TV | Brasil
-https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/channel/6144d088516ea8000739076alivestitch/2977158/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=731464e0-52dc-4c3b-9f02-9afc0488dc1a&deviceVersion=80.0.4170&appVersion=5.105.0-b62a54a1ce532c9291b0579779f0b19221e6d9fc&deviceType=web&deviceMake=opera&sid=6aab98ea-4545-11ec-b675-0242ac110003&advertisingId=&deviceLat=-16.6391&deviceLon=-49.2622&deviceDNT=0&deviceModel=web&userId=&appName=web&e2eBeacons=false&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjEyYjNiMzkxLWFjODAtNDkxOC1iMmIzLWEyNzllNTg3YmUxZSIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiI2YWFiOThlYS00NTQ1LTExZWMtYjY3NS0wMjQyYWMxMTAwMDMiLCJjbGllbnRJUCI6IjI4MDQ6ZDU5OjgwMGI6ZmEwMDphNGNmOjVhOGI6ZGE0Njo0MWRjIiwiY2l0eSI6IkdvacOibmlhIiwicG9zdGFsQ29kZSI6Ijc0MDAwIiwiY291bnRyeSI6IkJSIiwiZG1hIjowLCJhY3RpdmVSZWdpb24iOiJCUiIsImRldmljZUxhdCI6LTE2LjYzOTEsImRldmljZUxvbiI6LTQ5LjI2MjIsInByZWZlcnJlZExhbmd1YWdlIjoicHQiLCJkZXZpY2VUeXBlIjoid2ViIiwiZGV2aWNlVmVyc2lvbiI6IjgwLjAuNDE3MCIsImRldmljZU1ha2UiOiJvcGVyYSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI1LjEwNS4wLWI2MmE1NGExY2U1MzJjOTI5MWIwNTc5Nzc5ZjBiMTkyMjFlNmQ5ZmMiLCJjbGllbnRJRCI6IjczMTQ2NGUwLTUyZGMtNGMzYi05ZjAyLTlhZmMwNDg4ZGMxYSIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJBbWVyaWNhL1Nhb19QYXVsbyIsInNlcnZlclNpZGVBZHMiOnRydWUsImUyZUJlYWNvbnMiOmZhbHNlLCJmZWF0dXJlcyI6e30sImF1ZCI6IioucGx1dG8udHYiLCJleHAiOjE2MzY5MjEyOTksImp0aSI6ImYzNjBhYTdhLWFiOTMtNGE4Yy1hODM5LTg3NzI2NGZjMWI4YiIsImlhdCI6MTYzNjg5MjQ5OSwiaXNzIjoiYm9vdC5wbHV0by50diIsInN1YiI6InByaTp2MTpwbHV0bzpkZXZpY2VzOkJSOk56TXhORFkwWlRBdE5USmtZeTAwWXpOaUxUbG1NREl0T1dGbVl6QTBPRGhrWXpGaCJ9.1lIJ9HfPTrwV42AlFyozHJaBl8fHirIqYumokd1K29Q 
-
-#EXTINF:-1 tvg-id="6077045b6031bd00078de127" tvg-logo="https://images.pluto.tv/channels/6077045b6031bd00078de127/featuredImage.jpg" group-title="Brasil: esportes, lifestyle e realities",MasterChef | Brasil
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6077045b6031bd00078de127/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=e61e81d1-c6d5-4eea-a605-2651410462b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3bf99bf4-e584-11eb-a5e5-0242ac110002&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="5f1212fb81e85c00077ae9ef" tvg-logo="https://imgur.com/Of1yJaj.png" group-title="Brasil: esportes, lifestyle e realities",MTV do Pluto | Brasil 
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1212fb81e85c00077ae9ef/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977f08f0-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3887c04b-bb4b-49b8-8511-47613f5cadbb&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="5f6108d8cc331900075e98e4" tvg-logo="https://imgur.com/u6zAeKw.png" group-title="Brasil: esportes, lifestyle e realities",MTV: Are you the One? | Brasil 
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6108d8cc331900075e98e4/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=97821633-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d1b9e931-6816-41d0-878e-e83836fbe919&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="5f9b096236af340008da3779" tvg-logo="https://images.pluto.tv/channels/5f9b096236af340008da3779/featuredImage.jpg?w=300" group-title="Brasil: esportes, lifestyle e realities" tvg-name="Nosey Casos",Nosey Casos | Brasil 
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f9b096236af340008da3779/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0651cfd7-3dba-4a55-99ce-263e1c29297a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3e6e9843-96e5-11eb-b1b4-0242ac110002&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="5f9b05a99547eb0007676b02" tvg-logo="https://images.pluto.tv/channels/5f9b05a99547eb0007676b02/featuredImage.jpg?w=300" group-title="Brasil: esportes, lifestyle e realities" tvg-name="Nosey Escândalos",Nosey Escândalos | Brasil 
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f9b05a99547eb0007676b02/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=0651cfd7-3dba-4a55-99ce-263e1c29297a&clientModelNumber=na&deviceDNT=false&deviceId=0651cfd7-3dba-4a55-99ce-263e1c29297a&deviceLat=-16.6391&deviceLon=-49.2622&deviceMake=Opera&deviceModel=web&deviceType=web&deviceVersion=73.0.3856.421&marketingRegion=BR&serverSideAds=true&sessionID=f913e75f-9703-11eb-8cd8-0242ac110002&sid=f913e75f-9703-11eb-8cd8-0242ac110002&userId= 
-
-#EXTINF:-1 tvg-id="61099df8cee03b00074b2ecf" tvg-logo="https://images.pluto.tv/channels/61099df8cee03b00074b2ecf/featuredImage.jpg" group-title="Brasil: esportes, lifestyle e realities",O encantador de cães | Brasil
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/61099df8cee03b00074b2ecf/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=e61e81d1-c6d5-4eea-a605-2651410462b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d6cc25d6-e662-11eb-8628-0242ac110003&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="60f8841a4865da0007421177" tvg-logo="https://images.pluto.tv/channels/60f8841a4865da0007421177/featuredImage.jpg?w=300" group-title="Brasil: esportes, lifestyle e realities" tvg-name="Pluto Estilo de Vida",Pluto Estilo de Vida | Brasil 
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60f8841a4865da0007421177/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=0651cfd7-3dba-4a55-99ce-263e1c29297a&clientModelNumber=na&deviceDNT=false&deviceId=0651cfd7-3dba-4a55-99ce-263e1c29297a&deviceLat=-16.6391&deviceLon=-49.2622&deviceMake=Opera&deviceModel=web&deviceType=web&deviceVersion=73.0.3856.421&marketingRegion=BR&serverSideAds=true&sessionID=f913e75f-9703-11eb-8cd8-0242ac110002&sid=f913e75f-9703-11eb-8cd8-0242ac110002&userId= 
-
-#EXTINF:-1 tvg-id="5fd1419a3b4f4b000773ba85" tvg-logo="https://imgur.com/JnHVIgo.png" group-title="Brasil: esportes, lifestyle e realities",Tastemade | Brasil
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fd1419a3b4f4b000773ba85livestitch/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=e61e81d1-c6d5-4eea-a605-2651410462b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d6cc25d6-e662-11eb-8628-0242ac110003&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="5f32d4d9ec194100070c7449" tvg-logo="https://imgur.com/YuTPeFV.png" group-title="Brasil: esportes, lifestyle e realities",Vida Real | Brasil 
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32d4d9ec194100070c7449/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781ef21-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=29b136d2-3f75-488b-9ace-35ab0ac5684e&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-ID="Woohoo.br" tvg-name="Woohoo" tvg-logo="http://168.205.87.198/logocanais/woohoo.png" group-title="Brasil: esportes, lifestyle e realities",Woohoo | Brasil 
-http://origin-02.nxplay.com.br/WOOHOO_NXPLAY/tracks-v1a1/mono.m3u8 
-
-#EXTINF:-1 tvg-id="Yeeaah.br" tvg-name="Yeeaah" tvg-logo="http://canalyeeah.com.br/wp-content/uploads/2021/01/YEEAAHTV-2021_SITE.png" group-title="Brasil: esportes, lifestyle e realities",Yeeaah | Brasil
-https://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
-
 
 ####################### Brasil Infantis ##################### Brasil: infantis ##################### Brasil: infantis ##################### Brasil: infantis ##################### Brasil: infantis ##################### Brasil: infantis #####################
 
@@ -306,8 +309,11 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12151794c1800007a
 #EXTINF:-1 tvg-id="5f121460b73ac6000719fbaf" tvg-logo="https://imgur.com/j9CMGyU.png" group-title="Brasil: infantis",Nick Jr. Club | Brasil 
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781a100-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c002e3af-c4af-4a44-867e-55e324587507&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="60f5fabf0721880007cd50e3" tvg-logo="http://images.pluto.tv/channels/60f5fabf0721880007cd50e3/colorLogoPNG.png" group-title="Brasil: infantis",Nick Teen | Brasil 
+#EXTINF:-1 tvg-id="60f5fabf0721880007cd50e3" tvg-logo="http://images.pluto.tv/channels/60f5fabf0721880007cd50e3/colorLogoPNG.png" group-title="Brasil: infantis",Nick Teen 1 | Brasil 
 https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/channel/60f5fabf0721880007cd50e3/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=731464e0-52dc-4c3b-9f02-9afc0488dc1a&deviceVersion=80.0.4170&appVersion=5.105.0-b62a54a1ce532c9291b0579779f0b19221e6d9fc&deviceType=web&deviceMake=opera&sid=6aab98ea-4545-11ec-b675-0242ac110003&advertisingId=&deviceLat=-16.6391&deviceLon=-49.2622&deviceDNT=0&deviceModel=web&userId=&appName=web&e2eBeacons=false&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjEyYjNiMzkxLWFjODAtNDkxOC1iMmIzLWEyNzllNTg3YmUxZSIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiI2YWFiOThlYS00NTQ1LTExZWMtYjY3NS0wMjQyYWMxMTAwMDMiLCJjbGllbnRJUCI6IjI4MDQ6ZDU5OjgwMGI6ZmEwMDphNGNmOjVhOGI6ZGE0Njo0MWRjIiwiY2l0eSI6IkdvacOibmlhIiwicG9zdGFsQ29kZSI6Ijc0MDAwIiwiY291bnRyeSI6IkJSIiwiZG1hIjowLCJhY3RpdmVSZWdpb24iOiJCUiIsImRldmljZUxhdCI6LTE2LjYzOTEsImRldmljZUxvbiI6LTQ5LjI2MjIsInByZWZlcnJlZExhbmd1YWdlIjoicHQiLCJkZXZpY2VUeXBlIjoid2ViIiwiZGV2aWNlVmVyc2lvbiI6IjgwLjAuNDE3MCIsImRldmljZU1ha2UiOiJvcGVyYSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI1LjEwNS4wLWI2MmE1NGExY2U1MzJjOTI5MWIwNTc5Nzc5ZjBiMTkyMjFlNmQ5ZmMiLCJjbGllbnRJRCI6IjczMTQ2NGUwLTUyZGMtNGMzYi05ZjAyLTlhZmMwNDg4ZGMxYSIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJBbWVyaWNhL1Nhb19QYXVsbyIsInNlcnZlclNpZGVBZHMiOnRydWUsImUyZUJlYWNvbnMiOmZhbHNlLCJmZWF0dXJlcyI6e30sImF1ZCI6IioucGx1dG8udHYiLCJleHAiOjE2MzY5MjEyOTksImp0aSI6ImYzNjBhYTdhLWFiOTMtNGE4Yy1hODM5LTg3NzI2NGZjMWI4YiIsImlhdCI6MTYzNjg5MjQ5OSwiaXNzIjoiYm9vdC5wbHV0by50diIsInN1YiI6InByaTp2MTpwbHV0bzpkZXZpY2VzOkJSOk56TXhORFkwWlRBdE5USmtZeTAwWXpOaUxUbG1NREl0T1dGbVl6QTBPRGhrWXpGaCJ9.1lIJ9HfPTrwV42AlFyozHJaBl8fHirIqYumokd1K29Q
+
+#EXTINF:-1 tvg-id="60f5fabf0721880007cd50e3" tvg-logo="http://images.pluto.tv/channels/60f5fabf0721880007cd50e3/colorLogoPNG.png" group-title="Brasil: infantis",Nick Teen 2 | Brasil 
+https://bit.ly/3qDyvAi
 
 #EXTINF:-1 tvg-id="5f5c216df68f920007888315" tvg-logo="http://images.pluto.tv/channels/5f5c216df68f920007888315/colorLogoPNG.png" group-title="Brasil: infantis",O Reino Infantil | Brasil 
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5c216df68f920007888315/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a5765170-77db-11eb-bfcd-e755c619a901&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b976462f-c9ea-4e8b-bbf6-df21635438ff&userId=&serverSideAds=true
