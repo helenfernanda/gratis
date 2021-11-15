@@ -4,9 +4,6 @@
 
 ####### Brasil: cinema ############# Brasil: cinema ############# Brasil: cinema ############# Brasil: cinema ############# Brasil: cinema ############# Brasil: cinema ############# Brasil: cinema ############# Brasil: cinema ############# Brasil: cinema ######
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gl4Ga75.png" group-title="Brasil: cinema em português",Bora Filmes | Brasil 
-http://45.165.178.82:8000/play/a00y/index.m3u8
-
 #EXTINF:-1 tvg-id="5fa1612a669ba0000702017b" tvg-logo="https://images.pluto.tv/channels/5fa1612a669ba0000702017b/featuredImage.jpg" group-title="Brasil: cinema em português",Cine Clássicos | Brasil
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fa1612a669ba0000702017b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=e61e81d1-c6d5-4eea-a605-2651410462b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d6cc25d6-e662-11eb-8628-0242ac110003&userId=&serverSideAds=true
 
@@ -37,9 +34,6 @@ https://stmv1.srvstm.com/classique2/classique2/chunklist.m3u8
 #EXTINF:-1 tvg-id="DarkFlix" tvg-logo="https://i.imgur.com/XKMFQRl.png" group-title="Brasil: cinema em português",DarkFlix HD | Brasil
 https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.imgur.com/wRrUge7.png" group-title="Brasil: cinema em português",Entretendo | Brasil
-http://45.165.178.82:8000/play/a010/index.m3u8
-
 #EXTINF:-1 tvg-id="5f120f41b7d403000783a6d6" tvg-logo="https://imgur.com/8Vr6580.png" group-title="Brasil: cinema em português",Filmes Ação | Brasil
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977e93c0-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=860dbb8f-a84f-4853-b147-60207c674abf&userId=&serverSideAds=true
 
@@ -60,14 +54,8 @@ https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
 
 #### Brasil: cristianismo em português ######## Brasil: cristianismo em português ######## Brasil: cristianismo em português ######## Brasil: cristianismo em português ######## Brasil: cristianismo em português ######## Brasil: cristianismo em português ######## Brasil: cristianismo em português ######## Brasil: cristianismo em português ####
 
-#EXTINF:-1 tvg-id="TVaparecida.br" tvg-name="TV APARECIDA" tvg-logo="https://i.imgur.com/NJCEHbQ.png" tvg-shift="0" group-title="Brasil: cristianismo em português",TV Aparecida | Brasil
-https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="PUCTV.br" tvg-name="PUC TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3c/Logo_puctv.png" tvg-shift="0" group-title="Brasil: cristianismo em português",TV Aparecida | PUC TV (GO)
-https://59fb88a1b1108.streamlock.net/pucgoias/aovivo/chunklist_w897014956.m3u8
-
-#EXTINF:-1 tvg-name="TV Fátima" tvg-logo="https://i.imgur.com/hCFVc5S.jpg" group-title="Brasil: cristianismo em português",TV Fátima | Portugal
-https://streamer-b02.videos.sapo.pt/live/santuario.stream/livestream.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/pj5PtkO.png" group-title="Brasil: cristianismo em português",Feliz7Play - Igreja Adventista | Brasil
+https://video01.soultv.com.br/feliz7play/feliz7play/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Gospel Cartoon" tvg-logo="https://i.imgur.com/kprdrBT.png" group-title="Brasil: cristianismo em português",Gospel Cartoon | Brasil
 https://stmv1.srvstm.com/gospelcartoon2/gospelcartoon2/chunklist.m3u8
@@ -84,14 +72,24 @@ https://c2.manasat.com:1935/kcine/kcine3/master.m3u8
 #EXTINF:-1 tvg-name="Kuriakos TV" tvg-logo="https://cdn.teleon.tv/logo/kuriakos_tv_pt.png" group-title="Brasil: cristianismo em português",Kuriakos TV | Portugal 
 http://195.22.11.11:1935/ktv/ktv2/playlist.m3u8
 
+#EXTINF:-1 tvg-name="Sobrenatural TV" tvg-logo="https://i.imgur.com/jYIf7Mz.png" group-title="Brasil: cristianismo em português",Sobrenatural TV | Portugal
+http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8
+
+#EXTINF:-1 tvg-id="TVaparecida.br" tvg-name="TV APARECIDA" tvg-logo="https://i.imgur.com/NJCEHbQ.png" tvg-shift="0" group-title="Brasil: cristianismo em português",TV Aparecida | Brasil
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="PUCTV.br" tvg-name="PUC TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3c/Logo_puctv.png" tvg-shift="0" group-title="Brasil: cristianismo em português",TV Aparecida | PUC TV (GO)
+https://59fb88a1b1108.streamlock.net/pucgoias/aovivo/chunklist_w897014956.m3u8
+
+#EXTINF:-1 tvg-name="TV Fátima" tvg-logo="https://i.imgur.com/hCFVc5S.jpg" group-title="Brasil: cristianismo em português",TV Fátima | Portugal
+https://streamer-b02.videos.sapo.pt/live/santuario.stream/livestream.m3u8
+
 #EXTINF:-1 tvg-name="TV Maná 1" tvg-logo="https://i.imgur.com/ycTr2sk.png" group-title="Brasil: cristianismo em português",TV Maná 1 | Portugal
 http://195.22.11.11:1935/tvmana/tvmana2/playlist.m3u8
 
 #EXTINF:-1 tvg-name="TV Pai Eterno" tvg-id="" tvg-logo="https://i.imgur.com/H5zWaCa.png" group-title="Brasil: cristianismo em português",TV Pai Eterno | Brasil
 https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/chunklist.m3u8
 
-#EXTINF:-1 tvg-name="Sobrenatural TV" tvg-logo="https://i.imgur.com/jYIf7Mz.png" group-title="Brasil: cristianismo em português",Sobrenatural TV | Portugal
-http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8
 
 ######################### Brasil: educativos e documentários ############## Brasil: educativos e documentários ############## Brasil: educativos e documentários ############## Brasil: educativos e documentários ############## Brasil: educativos e documentários ########
 
@@ -104,6 +102,9 @@ http://str.portalcultura.com.br/funtelpa/tv_funtelpa/live.m3u8
 #EXTINF:-1 tvg-id="unisctv" tvg-name="Unisc TV" group-title="Brasil: educativos e documentários" tvg-logo="http://radiosantacruz.com.br/online/wp-content/uploads/2018/01/Unisc-1.jpg",Futura | Unisc TV (RS)
 https://tv.unisc.br/hls/test.m3u8
 
+#EXTINF:1 tvg-logo="https://imgur.com/ZWmklLZ.png" group-title="Brasil: educativos e documentários",Hackathon Brasil TV
+https://video01.kshost.com.br/richard5546/richard5546/playlist.m3u8
+
 #EXTINF:-1 tvg-id="5f32cf37c9ff2b00082adbc8" tvg-logo="https://imgur.com/JfLHsbj.png" group-title="Brasil: educativos e documentários",Investigação | Brasil 
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32cf37c9ff2b00082adbc8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781ef20-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c6910880-42dc-4cb1-99bb-7227886a27ba&userId=&serverSideAds=true
 
@@ -113,7 +114,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fac52f142044f00078
 #EXTINF:-1 tvg-id="5f1213ba0ecebc00070e170f" tvg-logo="https://imgur.com/oAarMpL.png" group-title="Brasil: educativos e documentários",Natureza | Brasil 
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977f3000-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=5bf5881e-ff8d-45df-a6a2-db61d0e625a0&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo="https://imgur.com/dUdZVhT.png" group-title="Brasil: educativos e documentários", Phoenix TV | Brasil
+#EXTINF:-1 tvg-logo="https://imgur.com/dUdZVhT.png" group-title="Brasil: educativos e documentários",Phoenix TV | Brasil
 https://video01.soultv.com.br/phoenixtv/phoenixtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Redeminas.br" tvg-name="Rede Minas" group-title="Brasil: educativos e documentários" tvg-logo="https://pbs.twimg.com/profile_images/1151111400615550976/MQW6Uj8p.png",Rede Minas | Brasil
@@ -124,15 +125,6 @@ https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2
 
 #EXTINF:-1 tvg-id="SESCTV.br" group-title="Brasil: educativos e documentários" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCQlj4F0w8sO6hAPUKpnxfh5GOGxG9XEzi9obcZVtYWwuDRf3otJWvZ_YQF_xbnaovDaY&usqp=CAU",Sesc TV - 720 | Brasil
 https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2c3e9324497d5ff/video/0c884f97-4264-446f-abcd-03aa46089a96_index720p.m3u8
-
-#EXTINF:-1 tvg-id="Tvbrasil.br" tvg-logo="https://www.fenaert.org.br/images/Novatvbrasil.jpg" group-title="Brasil: educativos e documentários",TV Brasil 480
-https://tvbrasil-stream.ebc.com.br/STsEBCLIVE_480/index.m3u8
-
-#EXTINF:-1 tvg-id="Tvbrasil.br" tvg-logo="https://www.fenaert.org.br/images/Novatvbrasil.jpg" group-title="Brasil: educativos e documentários",TV Brasil 720
-https://tvbrasil-stream.ebc.com.br/STsEBCLIVE_720/index.m3u8
-
-#EXTINF:-1 tvg-id="Tvbrasil.br" tvg-logo="https://www.fenaert.org.br/images/Novatvbrasil.jpg" group-title="Brasil: educativos e documentários",TV Brasil HD
-https://origin-02.nxplay.com.br/TV_BRASIL_NX/index.m3u8
 
 #EXTINF:-1 tvg-id="Tvbrasil.br" tvg-logo="https://www.fenaert.org.br/images/Novatvbrasil.jpg" group-title="Brasil: educativos e documentários",TV Brasil Web
 https://stream-02.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLqGlgVNkOVl4eF9mK_tJJfQ)/dm/3/x82pp99/d/live-3.m3u8
@@ -161,6 +153,12 @@ http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8
 #EXTINF:-1 tvg-id="TVparanaturismo.br" group-title="Brasil: educativos e documentários" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjjKFPE1dR10rEbyAE2fus0Mu0iQ0mEwehWdlf6uQ=s250-c-k-c0x00ffffff-no-rj" tvg-name="TV Paraná Turismo",TV Paraná Turismo | Brasil
 http://200.189.113.201/hls/tve.m3u8
 
+#EXTINF:-1 group-title="Brasil: educativos e documentários" tvg-logo="https://imgur.com/cJdj9OP.png",Universidade da Pessoa | Brasil 
+https://video01.soultv.com.br/universidadedapessoa/universidadedapessoa/playlist.m3u8
+
+#EXTINF:1 tvg-id-"https://imgur.com/x5HC6wy.png" group-title="Brasil: educativos e documentários",Viajando pelo Brasil
+https://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/0oUtwJz.png" group-title="Brasil: educativos e documentários",XR Health Brasil
 https://video01.soultv.com.br/xrhealth/xrhealth/playlist.m3u8
 
@@ -175,6 +173,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f516730b78b7600079
 
 #EXTINF:-1 tvg-id="Fishtv.br" tvg-logo="https://imgur.com/THcQpeQ.png" group-title="Brasil: esportes - lifestyle - realities",Fish TV | Brasil
 https://origin-02.nxplay.com.br/FISH_TV_NX/index.m3u8
+
+#EXTINF:-1 tvg-id="5f32cf37c9ff2b00082adbc8" tvg-logo="https://imgur.com/JfLHsbj.png" group-title="Brasil: educativos e documentários",Investigação | Brasil 
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32cf37c9ff2b00082adbc8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781ef20-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c6910880-42dc-4cb1-99bb-7227886a27ba&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-id="6077045b6031bd00078de127" tvg-logo="https://images.pluto.tv/channels/6077045b6031bd00078de127/featuredImage.jpg" group-title="Brasil: esportes - lifestyle - realities",MasterChef | Brasil
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6077045b6031bd00078de127/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=e61e81d1-c6d5-4eea-a605-2651410462b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3bf99bf4-e584-11eb-a5e5-0242ac110002&userId=&serverSideAds=true
@@ -398,32 +399,26 @@ https://noscdne.entrprise.tv:1935/cvo/tvi24.stream/live.m3u8
 
 ############################### BRASIL: variedades em português ############################### BRASIL: variedades em português ############################### antes: BRASIL TV ABERTA ############################### BRASIL: variedades em português ############################### BRASIL TV ABERTA ############################### BRASIL: variedades em português ############################### antes: BRASIL TV ABERTA ############################### 
 
-#EXTINF:-1  tvg-name="1001 Noites" tvg-logo="https://i.imgur.com/WrXXeRO.png" group-title="Brasil: variedades em português",1001 Noites (PR)
+#EXTINF:-1  tvg-name="1001 Noites" tvg-logo="https://i.imgur.com/WrXXeRO.png" group-title="Brasil: variedades em português",1001 Noites | PR - Brasil
 https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/chunklist_b1155072.m3u8
 
-#EXTINF:-1 tvg-name="TV Ado Brasil" tvg-logo="https://i.imgur.com/weOxAEx.png" group-title="Brasil: variedades em português",TV ADO | Brasil
-https://5c483b9d1019c.streamlock.net/tvado/tvado/chunklist_w1766917256.m3u8
-
-#EXTINF:-1 tvg-id="agromais" tvg-name="Agro Mais" tvg-logo="https://portaldoqueijo.com.br/site/wp-content/uploads/2020/06/101158384_143665053919698_2333568191340478464_o.png" group-title="Brasil: variedades em português",Agro+ | Brasil
-https://evpp.mm.uol.com.br/geob_band/agromais/chunklist_w290965376.m3u8
-
-#EXTINF:-1 tvg-name="AgroBrasil TV" tvg-id="" tvg-logo="https://i.imgur.com/PyCpEI8.png" group-title="Brasil: variedades em português",Agrobrasil TV
+#EXTINF:-1 tvg-name="AgroBrasil TV" tvg-logo="https://i.imgur.com/PyCpEI8.png" group-title="Brasil: variedades em português",Agrobrasil TV
 http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="TV Balcão" tvg-logo="https://i.imgur.com/GbPiWi0.png" group-title="Brasil: variedades em português",TV Balcão (MG)
-https://cdn.jmvstream.com/w/AVJ-9028/playlist/chunklist.m3u8
+#EXTINF:1 tvg-logo="https://imgur.com/V4pVaA9.png" group-title="Brasil: variedades em português",Astral TV | Brasil 
+https://cdn.cdnseguro.com/altraltv/altraltv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BandRede.br" tvg-name="Band" tvg-logo="https://imgur.com/HnL2uBA.png" tvg-shift="0" group-title="Brasil: variedades em português",Band | Brasil
 http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Band - RBA TV (PA)" tvg-id="" tvg-logo="https://i.imgur.com/aUU5Hhh.png" group-title="Brasil: variedades em português",Band | RBA TV (PA)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/aUU5Hhh.png" group-title="Brasil: variedades em português",Band | RBA TV - PA - Brasil
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
+
+#EXTINF:1 tvg-logo="https://imgur.com/undefined.png" group-title="Brasil: variedades em português",BCC TV | Brasil
+https://video01.kshost.com.br/bccinternational523/bccinternational523/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0eGv67Q.png" group-title="Brasil: variedades em português",Canal Macau | China
 http://live4.tdm.com.mo:80/ch2/_definst_/ch2.live/playlist.m3u8
-
-#EXTINF:-1  tvg-name="TV Carioca" tvg-logo="https://pbr-str.srvsite.com/arquivos/7051/cabecalho-7051-20200320104612.png" group-title="Brasil: variedades em português",TV Carioca | Brasil
-https://srv5.zcast.com.br/tvcarioca/tvcarioca/chunklist_w1896676795.m3u8
 
 #EXTINF:-1 tvg-name="CBTV Now" tvg-id="" tvg-logo="https://i.imgur.com/Cj6kg2X.png" group-title="Brasil: variedades em português",CBTV Now
 https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
@@ -437,35 +432,11 @@ https://5d2c98775bafe.streamlock.net/8020/8020/playlist.m3u8
 #EXTINF:-1 tvg-id="demaistv.br" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5a0ca2ab1c68adcde7bf577af87071b8.jpg" group-title="Brasil: variedades em português",D+ TV | Brasil
 https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
 
-#EXTINF:-1 tvg-name="TV Brasil Central" tvg-id="TVBrasilCentral.br" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/ececa6333f0610f8e13aafbe16a5830b.png" group-title="Brasil: variedades em português",TV Cultura | TBC (GO)
-http://wz3.dnip.com.br/tvbrasil/tvbrasil.sdp/playlist.m3u8
-
-#EXTINF:-1  tvg-name="TV Destaque Nacional" tvg-logo="https://i.imgur.com/v1tZOxy.png" group-title="Brasil: variedades em português",TV Destaque Nacional (SP)
-https://novo.bitstreaming.info:1936/tvdestaquenacional/tvdestaquenacional/chunklist_w334682338.m3u8
-
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/diariodosertao.png" group-title="Brasil: variedades em português", TV Diário do Sertão (PB)
-https://5a2b083e9f360.streamlock.net/pdsertaotv/pdsertaotv.sdp/chunklist_w1456507595.m3u8
-
-#EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="TV Alternativa MA" tvg-logo="https://imgur.com/lAXbfuU.png" tvg-shift="0" group-title="Brasil: variedades em português",TV Gazeta | Alternativa (MA)
-http://stmv8.conectastm.com/wagner1168/wagner1168/playlist.m3u8
-
-#EXTINF:-1 tvg-ID="Globominas.br" tvg-name="Globo Minas" tvg-logo="http://168.205.87.198/logocanais/globominas.png" group-title="Brasil: variedades em português",Globo Minas
-http://168.205.87.198:8555/live/viniciusvieira/vieira123/70.m3u8
-
-#EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ SD" tvg-logo="https://imgur.com/5RQ1PxL.png" group-title="Brasil: variedades em português",Globo RJ SD | Brasil
-http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ HD" tvg-logo="https://imgur.com/5RQ1PxL.png" group-title="Brasil: variedades em português",Globo RJ HD | Brasil
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Tvmetropole.br" group-title="Brasil: variedades em português" tvg-logo="https://imgur.com/EhJNGIy.png",TV Metrópole | Caucaia (CE)
-https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Tvmon.br" group-title="Brasil: variedades em português" tvg-logo="https://2net.com.br/Repositorio/3106/Logo/ee19d371-e.png",TV Mon | Montenegro (RS)
-https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8
-
-#EXTINF:-1 tvg-name="TV Pantanal" tvg-logo="https://listaiptv.gratis/logos/imagens/tvpantanal.png" group-title="Brasil: variedades em português", TV Pantanal (MS)
-https://5e837408ea907.streamlock.net:1936/tvpantanalms/tvpantanalms/playlist.m3u8
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ SD" tvg-logo="https://imgur.com/5RQ1PxL.png" group-title="Brasil: variedades em português",Globo RJ SD | Brasil
+http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PortoCanal.pt" tvg-name="Porto Canal" tvg-logo="https://i.imgur.com/xLyv1oL.png" group-title="Brasil: variedades em português",Porto TV 1 | Portugal
 https://streamer-a01.videos.sapo.pt/live/portocanal/playlist.m3u8
@@ -485,47 +456,62 @@ https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist.m3u8
 #EXTINF:-1 tvg-id="Redemetropole.br" tvg-name="Rede Metrópole" group-title="Brasil: variedades em português" tvg-logo="https://play-lh.googleusercontent.com/yAp592JJ2UwfANsFzndnqQDnwbx9EcVo1lbikgbxz3mgR0V7Fp6Jtif0EFFl0CrDNbM",Rede Metrópole | Brasil
 http://187.33.200.235:9000/hls/redemetropole.m3u8
 
-#EXTINF:-1 tvg-name="Rede Premium TV" tvg-id="" tvg-logo="https://i.imgur.com/vbG3enm.png" group-title="Brasil: variedades em português",Rede Premium TV, Osasco (SP)
+#EXTINF:-1 tvg-name="Rede Premium TV" tvg-id="" tvg-logo="https://i.imgur.com/vbG3enm.png" group-title="Brasil: variedades em português",Rede Premium TV | Osasco - SP - Brasil
 https://5c483b9d1019c.streamlock.net/8066/8066/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Redetv.br" tvg-name="Rede TV" tvg-logo="https://i.imgur.com/hd76Jt4.png" tvg-shift="0" group-title="Brasil: variedades em português",Rede TV (RJ)
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="Rede TV" tvg-logo="https://i.imgur.com/hd76Jt4.png" tvg-shift="0" group-title="Brasil: variedades em português",Rede TV | RJ - Brasil
 https://hls.brasilstream.com.br/live/redetves/redetves/mono.m3u8?token=6410329353875642000
 
 #EXTINF:-1 tvg-id="Redetv.br" tvg-name="Rede TV" tvg-logo="https://listaiptv.gratis/logos/imagens/redetvtocantins.png" group-title="Brasil: variedades em português",Rede TV | Tocantins
 https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Redetv.br" tvg-name="Rede TV" tvg-logo="http://engelhosting.com.br/images/tvarapuanhd.png" group-title="Brasil: variedades em português",Rede TV | TV Arapuan (PB)
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="Rede TV" tvg-logo="http://engelhosting.com.br/images/tvarapuanhd.png" group-title="Brasil: variedades em português",Rede TV | TV Arapuan - PB - Brasil
 https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Redetv.br" tvg-name="Rede TV" tvg-logo="https://listaiptv.gratis/logos/imagens/pampa.png" group-title="Brasil: variedades em português",Rede TV | TV Pampa (RS)
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="Rede TV" tvg-logo="https://listaiptv.gratis/logos/imagens/pampa.png" group-title="Brasil: variedades em português",Rede TV | TV Pampa - RS - Brasil
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
 
-#EXTINF:-1 tvg-name="TV Santa Cecília" tvg-id="" tvg-logo="https://i.imgur.com/6nQrkR6.png" group-title="Brasil: variedades em português",TV Santa Cecília (SP)
-http://flash1.crossdigital.com.br:1935/2063/2063/live.m3u8
-
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="TV Cidade Verde PI" tvg-logo="https://i.imgur.com/7knMSz7.png" tvg-shift="0" group-title="Brasil: variedades em português",SBT | TV Cidade Verde (PI)
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="TV Cidade Verde PI" tvg-logo="https://i.imgur.com/7knMSz7.png" tvg-shift="0" group-title="Brasil: variedades em português",SBT | TV Cidade Verde - PI - Brasil
 https://stmv1.transmissaodigital.com/cidadeverde/cidadeverde/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="TV Difusora Leste" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b4/Logotipo_da_TV_Difusora.png" group-title="Brasil: variedades em português",SBT | TV Difusora Leste (MA)
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="TV Difusora Leste" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b4/Logotipo_da_TV_Difusora.png" group-title="Brasil: variedades em português",SBT | TV Difusora Leste - MA - Brasil
 https://stream.amsolution.net.br:8443/live/60d0a8ea6b884/index.m3u8
 
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="TV Difusora SLZ" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b4/Logotipo_da_TV_Difusora.png" group-title="Brasil: variedades em português",SBT | TV Difusora SLZ (MA)
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="TV Difusora SLZ" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b4/Logotipo_da_TV_Difusora.png" group-title="Brasil: variedades em português",SBT | TV Difusora SLZ - MA - Brasil
 https://stream.amsolution.net.br:8443/live/60eef66583c80/index.m3u8
 
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="TV Difusora Sul" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b4/Logotipo_da_TV_Difusora.png" group-title="Brasil: variedades em português",SBT | TV Difusora Sul (MA)
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="TV Difusora Sul" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b4/Logotipo_da_TV_Difusora.png" group-title="Brasil: variedades em português",SBT | TV Difusora Sul - MA - Brasil
 https://stream.amsolution.net.br:8443/live/60eed7da2cf4d/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://imagens.ne10.uol.com.br/img/imagens/2020/10/22/a38a58f118_design-sem-nome5.jpg" group-title="Brasil: variedades em português",SBT | TV Jornal (PE)
+#EXTINF:-1 tvg-logo="https://imagens.ne10.uol.com.br/img/imagens/2020/10/22/a38a58f118_design-sem-nome5.jpg" group-title="Brasil: variedades em português",SBT | TV Jornal - PE - Brasil
 http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8
  
-#EXTINF:-1 tvg-logo="https://imagens.ne10.uol.com.br/img/imagens/2020/10/22/a38a58f118_design-sem-nome5.jpg" group-title="Brasil: variedades em português",SBT | TV Jornal Caruaru (PE)
+#EXTINF:-1 tvg-logo="https://imagens.ne10.uol.com.br/img/imagens/2020/10/22/a38a58f118_design-sem-nome5.jpg" group-title="Brasil: variedades em português",SBT | TV Jornal Caruaru - PE - Brasil
 http://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/567312773319630848/Sho8pafO.png" group-title="Brasil: variedades em português",SBT | TV Serra Dourada (GO)
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/567312773319630848/Sho8pafO.png" group-title="Brasil: variedades em português",SBT | TV Serra Dourada - GO - Brasil
 https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Terraviva.br" tvg-name="Terra Viva" tvg-logo="https://1.bp.blogspot.com/-1DYn7WAo9Xc/XyxDWmZ9aeI/AAAAAAABu4Y/yrSqKd72VG8fkB_l6Ti7hUMp-AZUuMMqQCLcBGAsYHQ/w300-c/Terraviva.png" group-title="Brasil: variedades em português",Terra Viva | Brasil
-https://evpp.mm.uol.com.br/band_live/terraviva/chunklist_w1942099493.m3u8
+#EXTINF:-1 tvg-name="TV Ado Brasil" tvg-logo="https://i.imgur.com/weOxAEx.png" group-title="Brasil: variedades em português",TV ADO | Brasil
+https://5c483b9d1019c.streamlock.net/tvado/tvado/chunklist_w1766917256.m3u8
+
+#EXTINF:-1 tvg-name="TV Balcão" tvg-logo="https://i.imgur.com/GbPiWi0.png" group-title="Brasil: variedades em português",TV Balcão | MG - Brasil
+https://cdn.jmvstream.com/w/AVJ-9028/playlist/chunklist.m3u8
+
+#EXTINF:-1  tvg-name="TV Carioca" tvg-logo="https://pbr-str.srvsite.com/arquivos/7051/cabecalho-7051-20200320104612.png" group-title="Brasil: variedades em português",TV Carioca | Brasil
+https://srv5.zcast.com.br/tvcarioca/tvcarioca/chunklist_w1896676795.m3u8
+
+#EXTINF:-1 tvg-name="TV Brasil Central" tvg-id="TVBrasilCentral.br" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/ececa6333f0610f8e13aafbe16a5830b.png" group-title="Brasil: variedades em português",TV Cultura | TV Brasil Central - GO - Brasil
+http://wz3.dnip.com.br/tvbrasil/tvbrasil.sdp/playlist.m3u8
+
+#EXTINF:-1  tvg-name="TV Destaque Nacional" tvg-logo="https://i.imgur.com/v1tZOxy.png" group-title="Brasil: variedades em português",TV Destaque Nacional | SP - Brasil
+https://novo.bitstreaming.info:1936/tvdestaquenacional/tvdestaquenacional/chunklist_w334682338.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/diariodosertao.png" group-title="Brasil: variedades em português", TV Diário do Sertão | PB - Brasil
+https://5a2b083e9f360.streamlock.net/pdsertaotv/pdsertaotv.sdp/chunklist_w1456507595.m3u8
+
+#EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="TV Alternativa MA" tvg-logo="https://imgur.com/lAXbfuU.png" tvg-shift="0" group-title="Brasil: variedades em português",TV Gazeta | Alternativa - MA - Brasil
+http://stmv8.conectastm.com/wagner1168/wagner1168/playlist.m3u8
 
 #EXTINF:-1 tvg-name="TVM" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSrHjp6Kw-MTOl5RxThdiuAsYL-xrzsJlK9RhbP8g=s400-c-k-c0x00ffffff-no-rj" group-title="Brasil: variedades em português",TVM | Moçambique
 http://online.tvm.co.mz:1935/live/smil:Channel1.smil/chunklist_w138848732_b214000_slpor.m3u8
@@ -533,69 +519,81 @@ http://online.tvm.co.mz:1935/live/smil:Channel1.smil/chunklist_w138848732_b21400
 #EXTINF:-1 tvg-name="TVM Internacional" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSrHjp6Kw-MTOl5RxThdiuAsYL-xrzsJlK9RhbP8g=s400-c-k-c0x00ffffff-no-rj" group-title="Brasil: variedades em português",TVM Internacional | Moçambique
 http://online.tvm.co.mz:1935/live/smil:Channel2.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-name="TV União Brasilia" tvg-id="" tvg-logo="https://i.imgur.com/2Dsd75b.png" group-title="Brasil: variedades em português",TV União Brasília (DF)
+#EXTINF:-1 tvg-id="Tvmetropole.br" group-title="Brasil: variedades em português" tvg-logo="https://imgur.com/EhJNGIy.png",TV Metrópole | Caucaia - CE - Brasil
+https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tvmon.br" group-title="Brasil: variedades em português" tvg-logo="https://2net.com.br/Repositorio/3106/Logo/ee19d371-e.png",TV Mon | Montenegro - RS - Brasil
+https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8
+
+#EXTINF:-1 group-title="Brasil: variedades em português" tvg-logo="https://imgur.com/r4XHIWQ.png",TV Nordestina | PB - Brasil
+https://video01.soultv.com.br/tvnordestina/tvnordestina/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TV Pantanal" tvg-logo="https://listaiptv.gratis/logos/imagens/tvpantanal.png" group-title="Brasil: variedades em português", TV Pantanal | MS - Brasil
+https://5e837408ea907.streamlock.net:1936/tvpantanalms/tvpantanalms/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TV Santa Cecília" tvg-id="" tvg-logo="https://i.imgur.com/6nQrkR6.png" group-title="Brasil: variedades em português",TV Santa Cecília | SP - Brasil
+http://flash1.crossdigital.com.br:1935/2063/2063/live.m3u8
+
+#EXTINF:-1 tvg-name="TV União Brasilia" tvg-id="" tvg-logo="https://i.imgur.com/2Dsd75b.png" group-title="Brasil: variedades em português",TV União Brasília | DF - Brasil
 https://596639ebdd89b.streamlock.net/tvuniao/tvuniao/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Up Channel" group-title="Brasil: variedades em português" tvg-logo="https://i.imgur.com/IIztLyO.png",Up Channel | Brasil
 http://45.165.178.82:8000/play/a00x/index.m3u8
 
-#EXTINF:-1 tvg-name="Urban TV" group-title="Brasil: variedades em português" tvg-logo="https://i.imgur.com/De97UKo.png",Urban TV | Brasil
-https://5ad482a77183d.streamlock.net/urbantvbrasilgmail.com/urbantvbrasilgmail.com/chunklist_w1662851563.m3u8
+####################################### Casa e decoração: inglês - espanhol - alemão e espanhol############################
 
-####################################### casa e decoração em inglês ############################
-
-#EXTINF:-1 tvg-id="5fb5836fe745b600070fc743" tvg-logo="http://images.pluto.tv/channels/5fb5836fe745b600070fc743/colorLogoPNG.png" group-title="Casa e decoração em inglês",BBC Home | EUA
+#EXTINF:-1 tvg-id="5fb5836fe745b600070fc743" tvg-logo="http://images.pluto.tv/channels/5fb5836fe745b600070fc743/colorLogoPNG.png" group-title="Casa e decoração: inglês - espanhol - alemão",BBC Home | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fb5836fe745b600070fc743/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc9a97a4-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=5b7c9793-ad84-4c3b-8e13-8d6db3946f59&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="5c5c2e9d8002db3c3e0b1c72" tvg-logo="https://images.pluto.tv/channels/5c5c2e9d8002db3c3e0b1c72/colorLogoPNG.png" group-title="Casa e decoração em inglês",Homes Under Hammer | Reino Unido
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c5c2e9d8002db3c3e0b1c72/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-
-#EXTINF:-1 tvg-id="6a66a7" tvg-logo="http://images.pluto.tv/channels/5dc1cb279c91420009db261d/colorLogoPNG.png" group-title="Casa e decoração em inglês",Lively Place | EUA 
-http://aenetworks-ae-1.roku.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-id="5dc1cb279c91420009db261d" tvg-logo="http://images.pluto.tv/channels/5dc1cb279c91420009db261d/colorLogoPNG.png" group-title="Casa e decoração em inglês",Lively Place | EUA - Pluto TV
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dc1cb279c91420009db261d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc976350-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=42dd4f77-3c76-4083-bfca-bbfcd54de42a&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="6022bd17849c620007f43ae0" tvg-logo="https://images.pluto.tv/channels/6022bd17849c620007f43ae0/colorLogoPNG.png" group-title="Casa e decoração em inglês",Pluto TV Home | EUA
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6022bd17849c620007f43ae0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=e61e81d1-c6d5-4eea-a605-2651410462b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3bf99bf4-e584-11eb-a5e5-0242ac110002&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="5db04c9eedc89300090d2884" tvg-logo="https://images.pluto.tv/channels/6022bd17849c620007f43ae0/colorLogoPNG.png" group-title="Casa e decoração em inglês",Pluto TV Home | Reino Unido 
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db04c9eedc89300090d2884/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-
-#EXTINF:-1 tvg-id="5e8dc0af6784d10007d8ad42" tvg-logo="https://images.pluto.tv/channels/5e8dc0af6784d10007d8ad42/colorLogoPNG.png" group-title="Casa e decoração em inglês",Secret Dealers | Reino Unido
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e8dc0af6784d10007d8ad42/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-
-#EXTINF:-1 tvg-id="USAJ3400005BA" tvg-logo="https://i.imgur.com/ceUXLGp.png" group-title="Casa e decoração em inglês",The Design Network da Samsung | EUA 
-https://e60c9a5d763348c6a86c6d98fce3c52a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_TheDesignNetwork/playlist.m3u8?ads.wurl_channel=295&ads.wurl_name=TheDesignNetwork&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
-
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f0641d3e8ffda004033b16e" tvg-logo="https://i.imgur.com/ceUXLGp.png" group-title="Casa e decoração em inglês",The Design Network do Plex | EUA
-https://9215cc5c363c4ed297905b3ca9195080.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_TheDesignNetwork-2/playlist.m3u8?ads.wurl_channel=553&ads.wurl_name=TheDesignNetwork&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=zhVJhkYiviQfYuzKS--y&ads.plex_id=5f0641d3e8ffda004033b16e&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
-
-#EXTINF:-1 tvg-id="5f4ff8c8bcf3d600078af3eblivestitch" tvg-logo="https://i.imgur.com/ceUXLGp.png" group-title="Casa e decoração em inglês",The Design Network do Pluto | EUA
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4ff8c8bcf3d600078af3eblivestitch/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc9678f2-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=cec3474e-9d21-4955-8b61-315f126c29ba&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ceUXLGp.png" group-title="Casa e decoração em inglês" tvg-name="The Design Network | EUA",The Design Network do Roku | EUA
-https://thedesignnetwork-tdn-2.roku.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-id="USAK3508701A" tvg-logo="http://images.pluto.tv/channels/5d51e791b7dba3b2ae990ab2/colorLogoPNG.png" group-title="Casa e decoração em inglês",This Old House da Samsung | EUA
-https://26487f8be0614420a64b6f5964563a75.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_ThisOldHouse/playlist.m3u8?ads.wurl_channel=180&ads.wurl_name=ThisOldHouse&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
-
-#EXTINF:-1 tvg-id="5d51e791b7dba3b2ae990ab2" tvg-logo="http://images.pluto.tv/channels/5d51e791b7dba3b2ae990ab2/colorLogoPNG.png" group-title="Casa e decoração em inglês",This Old House do Pluto TV | EUA
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d51e791b7dba3b2ae990ab2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc9678f2-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=cec3474e-9d21-4955-8b61-315f126c29ba&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="USAJ3400020KC" tvg-logo="https://i.imgur.com/UFSqQDF.png" group-title="Casa e decoração em inglês",Tiny House Nation da Samsung | EUA
-https://4f2d358e390a41cd8e87e74a954d9624.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_TinyHouseNation/playlist.m3u8?ads.wurl_channel=675&ads.wurl_name=TinyHouseNation&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-
-#EXTINF:-1 tvg-id="601a0342dcf4370007566891" tvg-logo="https://i.imgur.com/UFSqQDF.png" group-title="Casa e decoração em inglês",Tiny House Nation do Pluto TV | EUA
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/601a0342dcf4370007566891/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc9678f2-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=cec3474e-9d21-4955-8b61-315f126c29ba&userId=&serverSideAds=true
-
-########### casa e decoração em outros idiomas ############################
-
-#EXTINF:-1 tvg-id="5dd6ab8056beb000091fc6b6" tvg-logo="https://imgur.com/qiekvJw.png" group-title="Casa e decoração em outros idiomas",Hogar | Argentina - Pluto TV 
+#EXTINF:-1 tvg-id="5dd6ab8056beb000091fc6b6" tvg-logo="https://imgur.com/qiekvJw.png" group-title="Casa e decoração: inglês - espanhol - alemão",Hogar | Argentina - Pluto TV 
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6ab8056beb000091fc6b6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff0c3c2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=83815638-64f0-4bf4-8cd2-92feb27f8740&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="5eb96303f5bb020008e7e44f" group-title="Casa e decoração em outros idiomas" tvg-name="Home" tvg-logo="https://images.pluto.tv/channels/5eb96303f5bb020008e7e44f/colorLogoPNG.png",Home | Alemanha - Pluto TV
+#EXTINF:-1 tvg-id="5eb96303f5bb020008e7e44f" group-title="Casa e decoração: inglês - espanhol - alemão" tvg-name="Home" tvg-logo="https://images.pluto.tv/channels/5eb96303f5bb020008e7e44f/colorLogoPNG.png",Home | Alemanha - Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5eb96303f5bb020008e7e44f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-id="5c5c2e9d8002db3c3e0b1c72" tvg-logo="https://images.pluto.tv/channels/5c5c2e9d8002db3c3e0b1c72/colorLogoPNG.png" group-title="Casa e decoração: inglês - espanhol - alemão",Homes Under Hammer | Reino Unido
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c5c2e9d8002db3c3e0b1c72/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-id="6a66a7" tvg-logo="http://images.pluto.tv/channels/5dc1cb279c91420009db261d/colorLogoPNG.png" group-title="Casa e decoração: inglês - espanhol - alemão",Lively Place | EUA 
+http://aenetworks-ae-1.roku.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="5dc1cb279c91420009db261d" tvg-logo="http://images.pluto.tv/channels/5dc1cb279c91420009db261d/colorLogoPNG.png" group-title="Casa e decoração: inglês - espanhol - alemão",Lively Place | EUA - Pluto TV
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dc1cb279c91420009db261d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc976350-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=42dd4f77-3c76-4083-bfca-bbfcd54de42a&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="6022bd17849c620007f43ae0" tvg-logo="https://images.pluto.tv/channels/6022bd17849c620007f43ae0/colorLogoPNG.png" group-title="Casa e decoração: inglês - espanhol - alemão",Pluto TV Home | EUA
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6022bd17849c620007f43ae0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=e61e81d1-c6d5-4eea-a605-2651410462b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3bf99bf4-e584-11eb-a5e5-0242ac110002&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="5db04c9eedc89300090d2884" tvg-logo="https://images.pluto.tv/channels/6022bd17849c620007f43ae0/colorLogoPNG.png" group-title="Casa e decoração: inglês - espanhol - alemão",Pluto TV Home | Reino Unido 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db04c9eedc89300090d2884/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-id="5e8dc0af6784d10007d8ad42" tvg-logo="https://images.pluto.tv/channels/5e8dc0af6784d10007d8ad42/colorLogoPNG.png" group-title="Casa e decoração: inglês - espanhol - alemão",Secret Dealers | Reino Unido
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e8dc0af6784d10007d8ad42/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-id="USAJ3400005BA" tvg-logo="https://i.imgur.com/ceUXLGp.png" group-title="Casa e decoração: inglês - espanhol - alemão",The Design Network da Samsung | EUA 
+https://e60c9a5d763348c6a86c6d98fce3c52a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_TheDesignNetwork/playlist.m3u8?ads.wurl_channel=295&ads.wurl_name=TheDesignNetwork&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f0641d3e8ffda004033b16e" tvg-logo="https://i.imgur.com/ceUXLGp.png" group-title="Casa e decoração: inglês - espanhol - alemão",The Design Network do Plex | EUA
+https://9215cc5c363c4ed297905b3ca9195080.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_TheDesignNetwork-2/playlist.m3u8?ads.wurl_channel=553&ads.wurl_name=TheDesignNetwork&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=zhVJhkYiviQfYuzKS--y&ads.plex_id=5f0641d3e8ffda004033b16e&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
+
+#EXTINF:-1 tvg-id="5f4ff8c8bcf3d600078af3eblivestitch" tvg-logo="https://i.imgur.com/ceUXLGp.png" group-title="Casa e decoração: inglês - espanhol - alemão",The Design Network do Pluto | EUA
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4ff8c8bcf3d600078af3eblivestitch/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc9678f2-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=cec3474e-9d21-4955-8b61-315f126c29ba&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ceUXLGp.png" group-title="Casa e decoração: inglês - espanhol - alemão" tvg-name="The Design Network | EUA",The Design Network do Roku | EUA
+https://thedesignnetwork-tdn-2.roku.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="USAK3508701A" tvg-logo="http://images.pluto.tv/channels/5d51e791b7dba3b2ae990ab2/colorLogoPNG.png" group-title="Casa e decoração: inglês - espanhol - alemão",This Old House da Samsung | EUA
+https://26487f8be0614420a64b6f5964563a75.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_ThisOldHouse/playlist.m3u8?ads.wurl_channel=180&ads.wurl_name=ThisOldHouse&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+
+#EXTINF:-1 tvg-id="5d51e791b7dba3b2ae990ab2" tvg-logo="http://images.pluto.tv/channels/5d51e791b7dba3b2ae990ab2/colorLogoPNG.png" group-title="Casa e decoração: inglês - espanhol - alemão",This Old House do Pluto TV | EUA
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d51e791b7dba3b2ae990ab2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc9678f2-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=cec3474e-9d21-4955-8b61-315f126c29ba&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="USAJ3400020KC" tvg-logo="https://i.imgur.com/UFSqQDF.png" group-title="Casa e decoração: inglês - espanhol - alemão",Tiny House Nation da Samsung | EUA
+https://4f2d358e390a41cd8e87e74a954d9624.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_TinyHouseNation/playlist.m3u8?ads.wurl_channel=675&ads.wurl_name=TinyHouseNation&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+
+#EXTINF:-1 tvg-id="601a0342dcf4370007566891" tvg-logo="https://i.imgur.com/UFSqQDF.png" group-title="Casa e decoração: inglês - espanhol - alemão",Tiny House Nation do Pluto TV | EUA
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/601a0342dcf4370007566891/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc9678f2-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=cec3474e-9d21-4955-8b61-315f126c29ba&userId=&serverSideAds=true
+
+
 
 ########################################### Celebridades e cultura pop em inglês ###### Celebridades e cultura pop em inglês ###### Celebridades e cultura pop em inglês ###### Celebridades e cultura pop em inglês ###### Celebridades e cultura pop em inglês ###### Celebridades e cultura pop em inglês ###### Celebridades e cultura pop em inglês ###### Celebridades e cultura pop em inglês ###### Celebridades e cultura pop em inglês ###### Celebridades e cultura pop em inglês ###### Celebridades e cultura pop em inglês ############################
 
@@ -1778,6 +1776,9 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22225d5eeee0f5a40941d/
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60aeb5cd87f9b1002ce12321" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/Extreme_logo_dark.png" group-title="Esportes em inglês",Extreme Plus
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=729&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=Tog8X6wK6iweuzGFsz6p&content_series=60aeb5cd87f9b1002ce12321&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=Tog8X6wK6iweuzGFsz6p&custom_7=60aeb5cd87f9b1002ce12321
 
+#EXTINF:-1 tvg-id="5f8ed327f9e9b0000761141e" tvg-logo="http://images.pluto.tv/channels/5f8ed327f9e9b0000761141e/colorLogoPNG.png" group-title="Esportes em inglês",Extrême - inglês e francês | França
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ed327f9e9b0000761141e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=dda53d00-6a6f-11eb-8380-d53d31dd7908&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9676cd48-4878-4343-a40c-46218b80ca05&userId=&serverSideAds=true
+
 #EXTINF:-1 tvg-id="DEBA10000051Z" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/18/DEBA10000051Z_20201029T004114.png" group-title="Esportes em inglês",Fuel TV | Alemanha
 https://1d289f506bff499fb16f39c4a07f3d88.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_FuelTV/playlist.m3u8?ads.wurl_channel=585&ads.wurl_name=FuelTV&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
 
@@ -2061,10 +2062,23 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fac431fc1ffbc0007e
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWeckfObfyFWhe5JuPFGqaZgCiFyBSZXjg4RqleTMoxnlpG_wSOg3gOaRJjYdxQHUbZa0&usqp=CAU" tvg-name="UFC Next"  group-title="Esportes em inglês: lutas",UFC Next
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/713&pprotocol=hls
 
-### esportes em outros idiomas ##### esportes em outros idiomas ##### esportes em outros idiomas ##### esportes em outros idiomas ##### esportes em outros idiomas ##### esportes em outros idiomas ##### esportes em outros idiomas ##### esportes em outros idiomas ##### esportes em outros idiomas ##### esportes em outros idiomas ##
 
-#EXTINF:-1 tvg-id="5f8ed327f9e9b0000761141e" tvg-logo="http://images.pluto.tv/channels/5f8ed327f9e9b0000761141e/colorLogoPNG.png" group-title="Esportes em outros idiomas",Extrême | França - inglês e francês
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ed327f9e9b0000761141e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=dda53d00-6a6f-11eb-8380-d53d31dd7908&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9676cd48-4878-4343-a40c-46218b80ca05&userId=&serverSideAds=true
+################# extrema direita #################### extrema direita #################### extrema direita #################### extrema direita #################### extrema direita #################### extrema direita ####################
+
+#EXTINF:-1 tvg-id="5e46fba0c43b0d00096e5ac1" tvg-logo="http://images.pluto.tv/channels/5e46fba0c43b0d00096e5ac1/colorLogoPNG.png" group-title="Extrema direita ☢️☣️ | EUA",Blaze Live | EUA
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e46fba0c43b0d00096e5ac1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc97b174-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ca4625eb-eb03-4942-93ae-896b86399f6c&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="5e1f7da4bc7d740009831259" tvg-logo="http://images.pluto.tv/channels/5e1f7da4bc7d740009831259/colorLogoPNG.png" group-title="Extrema direita ☢️☣️ | EUA",America's Voice | EUA
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e1f7da4bc7d740009831259/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc978a65-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=94a74f18-f50e-424b-9a31-666bc7c2f272&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="5e7cf6c7b156d500078c5f44" tvg-logo="http://images.pluto.tv/channels/5e7cf6c7b156d500078c5f44/colorLogoPNG.png" group-title="Extrema direita ☢️☣️ | EUA" tvg-name="OAN Plus",OAN Plus no Pluto | EUA
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e7cf6c7b156d500078c5f44/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc97d884-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b958b1d1-6114-4ae4-9052-b12e9ddf8650&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-ID="OAN Encore" tvg-logo="https://i.imgur.com/jpDLjPW.png" group-title="Extrema direita ☢️☣️ | EUA" tvg-name="OAN Plus",OAN Plus no Roku | EUA
+http://oneamericanews-roku-us.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="5d486acc34ceb37d3c458a64" tvg-logo="http://images.pluto.tv/channels/5d486acc34ceb37d3c458a64/colorLogoPNG.png" group-title="Extrema direita ☢️☣️ | EUA" tvg-name="The First",The First | EUA
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d486acc34ceb37d3c458a64/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc9651e0-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=485e6f6b-8aa0-42dc-ae6d-c4a527fc2eca&userId=&serverSideAds=true
 
 
 ################### Game shows em INGLÊS #################### Game shows em INGLÊS #################### Game shows em INGLÊS #################### Game shows em INGLÊS #################### Game shows em INGLÊS #################### Game shows em INGLÊS #################### Game shows em INGLÊS #################### Game shows em INGLÊS ####################
@@ -4774,24 +4788,6 @@ https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/728&pp
 
 #EXTINF:-1 tvg-id="venn.au" tvg-name="VENN" tvg-logo="https://i.imgur.com/H8ucPJd.jpg" group-title="Videogame",VENN | EUA
 https://venntv-samsungau.amagi.tv/playlist.m3u8
-
-################# extrema direita #################### extrema direita #################### extrema direita #################### extrema direita #################### extrema direita #################### extrema direita ####################
-
-#EXTINF:-1 tvg-id="5e46fba0c43b0d00096e5ac1" tvg-logo="http://images.pluto.tv/channels/5e46fba0c43b0d00096e5ac1/colorLogoPNG.png" group-title="☢️☣️ Extrema direita | EUA",Blaze Live | EUA
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e46fba0c43b0d00096e5ac1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc97b174-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ca4625eb-eb03-4942-93ae-896b86399f6c&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="5e1f7da4bc7d740009831259" tvg-logo="http://images.pluto.tv/channels/5e1f7da4bc7d740009831259/colorLogoPNG.png" group-title="☢️☣️ Extrema direita | EUA",America's Voice | EUA
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e1f7da4bc7d740009831259/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc978a65-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=94a74f18-f50e-424b-9a31-666bc7c2f272&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="5e7cf6c7b156d500078c5f44" tvg-logo="http://images.pluto.tv/channels/5e7cf6c7b156d500078c5f44/colorLogoPNG.png" group-title="☢️☣️ Extrema direita | EUA" tvg-name="OAN Plus",OAN Plus no Pluto | EUA
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e7cf6c7b156d500078c5f44/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc97d884-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b958b1d1-6114-4ae4-9052-b12e9ddf8650&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-ID="OAN Encore" tvg-logo="https://i.imgur.com/jpDLjPW.png" group-title="☢️☣️ Extrema direita | EUA" tvg-name="OAN Plus",OAN Plus no Roku | EUA
-http://oneamericanews-roku-us.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="5d486acc34ceb37d3c458a64" tvg-logo="http://images.pluto.tv/channels/5d486acc34ceb37d3c458a64/colorLogoPNG.png" group-title="☢️☣️ Extrema direita | EUA" tvg-name="The First",The First | EUA
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d486acc34ceb37d3c458a64/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc9651e0-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=485e6f6b-8aa0-42dc-ae6d-c4a527fc2eca&userId=&serverSideAds=true
-
 
 ######## Esta lista não seria possível sem todos os voluntários do GitHub; do CXTV e todos os canais abertos e públicos que disponibilizam a transmissão de graça pela internet e também a provedores que hospedam esses canais como Plex TV; Roku TV; Samsung TV  ##########
 
