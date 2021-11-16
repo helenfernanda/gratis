@@ -16,7 +16,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12101f0b12f000078
 #EXTINF:-1 tvg-id="5f1210d14ae1f80007bafb1d" tvg-logo="https://imgur.com/q17ntdH.png" group-title="Brasil: cinema em português",Cine Drama | Brasil
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977ebad1-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e2a43ad8-1b74-43eb-8a1c-af669d97a71e&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="5f171f032cd22e0007f17f3d" tvg-logo="https://imgur.com/fyEgJ1g.png" group-title="Brasil: cinema em português",Cine Família | Brasil
+#EXTINF:-1 tvg-id="5f171f032cd22e0007f17f3d" tvg-logo="https://images.pluto.tv/channels/5f171f032cd22e0007f17f3d/featuredImage.jpg" group-title="Brasil: cinema em português",Cine Família | Brasil
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781c811-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=30398c0d-72c1-4ff3-927f-d52a8f3d9300&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-id="5f171f988ab9780007fa95ea" tvg-logo="https://images.pluto.tv/channels/5f171f988ab9780007fa95ea/featuredImage.jpg" group-title="Brasil: cinema em português",Cine Romance | Brasil
@@ -174,7 +174,7 @@ https://origin-02.nxplay.com.br/FISH_TV_NX/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/LPyQKCi.png" group-title="Brasil: esportes - lifestyle - realities",Hollywire | Brasil
 https://hollywire-samsung-3-br.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="5f32cf37c9ff2b00082adbc8" tvg-logo="https://imgur.com/JfLHsbj.png" group-title="Brasil: educativos e documentários",Investigação | Brasil 
+#EXTINF:-1 tvg-id="5f32cf37c9ff2b00082adbc8" tvg-logo="https://imgur.com/JfLHsbj.png" group-title="Brasil: esportes - lifestyle - realities",Investigação | Brasil 
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32cf37c9ff2b00082adbc8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781ef20-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c6910880-42dc-4cb1-99bb-7227886a27ba&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-id="6077045b6031bd00078de127" tvg-logo="https://images.pluto.tv/channels/6077045b6031bd00078de127/featuredImage.jpg" group-title="Brasil: esportes - lifestyle - realities",MasterChef | Brasil
@@ -332,6 +332,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12151794c1800007a
 #EXTINF:-1 tvg-id="5f121460b73ac6000719fbaf" tvg-logo="https://imgur.com/j9CMGyU.png" group-title="Brasil: infanto-juvenis",Nick Jr. Club | Brasil 
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781a100-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c002e3af-c4af-4a44-867e-55e324587507&userId=&serverSideAds=true
 
+#EXTINF:-1 tvg-logo="https://imgur.com/QwPiPlI.png" group-title="Brasil: infanto-juvenis",Rakuten Família | Portugal
+https://rakuten-family-14-pt.samsung.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="5f5c216df68f920007888315" tvg-logo="http://images.pluto.tv/channels/5f5c216df68f920007888315/colorLogoPNG.png" group-title="Brasil: infanto-juvenis",O Reino Infantil | Brasil 
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5c216df68f920007888315/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a5765170-77db-11eb-bfcd-e755c619a901&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b976462f-c9ea-4e8b-bbf6-df21635438ff&userId=&serverSideAds=true
 
@@ -387,20 +390,17 @@ https://euronews-euronews-portugues-1-br.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="EuronewsPT.nws" tvg-name="Euronews Portugal" tvg-logo="https://i.imgur.com/kQ1EG3u.png" tvg-shift="0" group-title="Brasil: notícias em português",Euronews 2 | Portugal
 https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-id="602e80c762306a0007179876" tvg-logo="https://images.pluto.tv/channels/602e80c762306a0007179876/featuredImage.jpg" group-title="Brasil: notícias em português",Jovem Pan | Brasil
+#EXTINF:-1 tvg-id="602e80c762306a0007179876" tvg-logo="https://imgur.com/DCY9fZm.png" group-title="Brasil: notícias em português",Jovem Pan | Brasil
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/602e80c762306a0007179876/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=e61e81d1-c6d5-4eea-a605-2651410462b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3bf99bf4-e584-11eb-a5e5-0242ac110002&userId=&serverSi
 
-#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="Record News" tvg-logo="https://imgur.com/HaPL1rx.png" tvg-shift="0" group-title="Brasil: notícias em português",Record News | Brasil
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="Record News" tvg-logo="https://imgur.com/iC5UoAN.png" tvg-shift="0" group-title="Brasil: notícias em português",Record News | Brasil
 https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
 
-#EXTINF:-1 tvg-id="6102e04e9ab1db0007a980a1" tvg-logo="https://images.pluto.tv/channels/6102e04e9ab1db0007a980a1/featuredImage.jpg" group-title="Brasil: notícias em português",Record News - Pluto TV | Brasil
+#EXTINF:-1 tvg-id="6102e04e9ab1db0007a980a1" tvg-logo="https://imgur.com/iC5UoAN.png" group-title="Brasil: notícias em português",Record News - Pluto TV | Brasil
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6102e04e9ab1db0007a980a1livestitch/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=e61e81d1-c6d5-4eea-a605-2651410462b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3bf99bf4-e584-11eb-a5e5-0242ac110002&userId=&
 
-#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="Record News" tvg-logo="https://imgur.com/HaPL1rx.png" tvg-shift="0" group-title="Brasil: notícias em português",Record News - Samsung | Brasil
-https://rede-muhler-recordnews-1-br.samsung.wurl.com/manifest/playlist.m3u8
-
 #EXTINF:-1 tvg-id="TVI24.pt" tvg-name="TVI 24" tvg-logo="https://cdn.iol.pt/img/logostvi/branco/tvi24.png" group-title="Brasil: notícias em português",TVI 24 | Portugal
-https://noscdne.entrprise.tv:1935/cvo/tvi24.stream/live.m3u8 
+https://video-auth4.iol.pt/live_tvi24/live_tvi24/edge_servers/tvi24-720_passthrough/chunks.m3u8?nimblesessionid=147180352&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTYvMjAyMSAxMDoxNzo1OSBQTSZoYXNoX3ZhbHVlPVFVVm9SSTAzbEowQXViU2tEQ2hZdlE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD01ZDZiNzVmYi04MDUxLTQyNzgtYTUzMS04ZjY0YjhlNjcxMWM=
 
 
 ############################### BRASIL: variedades em português ############################### BRASIL: variedades em português ############################### antes: BRASIL TV ABERTA ############################### BRASIL: variedades em português ############################### BRASIL TV ABERTA ############################### BRASIL: variedades em português ############################### antes: BRASIL TV ABERTA ############################### 
@@ -455,9 +455,6 @@ https://streamer-b02.videos.sapo.pt/live/portocanal/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Primertv.br" tvg-name="Primer TV" tvg-logo="https://demo.cdn.tv.br/logo/1559412042.3773847.png" tvg-shift="0" group-title="Brasil: variedades em português",Primer TV | Brasil
 http://200.194.238.229:8383/live/primer/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/QwPiPlI.png" group-title="Brasil: variedades em português",Rakuten Família | Portugal
-https://rakuten-family-14-pt.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-name="Record" tvg-logo="https://i.pinimg.com/originals/93/d3/65/93d365753811901f3fd8fea11c78d79c.jpg" tvg-shift="0" group-title="Brasil: variedades em português",Record | Brasil
 https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
@@ -2121,16 +2118,16 @@ https://buzzr-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/26/c9/05/26c9050271cdde5fa0c5f4b26fd75185.png" tvg-id="Challenge.uk" group-title="Game shows em inglês" tvg-name="Challenge",Challenge | Reino Unido
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/1036&pprotocol=hls
 
-#EXTINF:-1 tvg-id="USAJ3504712A" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/75/USAJ3504712A_20210525T051620.png" group-title="Game shows em inglês",Deal or No Deal da Samsung | EUA
+#EXTINF:-1 tvg-id="USAJ3504712A" tvg-logo="https://imgur.com/8l5K7Yp.png" group-title="Game shows em inglês",Deal or No Deal da Samsung | EUA
 https://ed171e536a1c40559db9cbd2ea300bd8.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_DealOrNoDeal/playlist.m3u8?ads.wurl_channel=468&ads.wurl_name=DealOrNoDeal&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SXWX2Wf.png" group-title="Game shows em inglês" tvg-name="Deal or No Deal",Deal or No Deal do Roku | EUA
+#EXTINF:-1 tvg-logo="https://imgur.com/8l5K7Yp.png" group-title="Game shows em inglês",Deal or No Deal do Roku | EUA
 https://endemol-dealornodeal-1.roku.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-id="5e9debf8c881310007d7bde1" tvg-logo="http://images.pluto.tv/channels/5e9debf8c881310007d7bde1/colorLogoPNG.png" group-title="Game shows em inglês",Deal or No Deal do Pluto TV | EUA
+#EXTINF:-1 tvg-id="5e9debf8c881310007d7bde1" tvg-logo="https://imgur.com/8l5K7Yp.png" group-title="Game shows em inglês",Deal or No Deal do Pluto TV | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e9debf8c881310007d7bde1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc9826a4-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a5280bcf-3519-4027-85ee-24e9c1b11c6f&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="CAAJ34000147C" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/06/30/CAAJ34000147C_20210622T090506.png" group-title="Game shows em inglês",Deal or No Deal | Canadá
+#EXTINF:-1 tvg-id="CAAJ34000147C" tvg-logo="https://imgur.com/8l5K7Yp.png" group-title="Game shows em inglês",Deal or No Deal | Canadá
 https://fec7508e048c4bdcba43a89541f0a3ac.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-ca_DealOrNoDeal/playlist.m3u8?ads.wurl_channel=468&ads.wurl_name=DealOrNoDeal&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 
 #EXTINF:-1 tvg-id="588128d17d64bc0d0f385c34" tvg-logo="http://images.pluto.tv/channels/588128d17d64bc0d0f385c34/colorLogoPNG.png" group-title="Game shows em inglês",Fear Factor | EUA
@@ -2139,13 +2136,13 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/588128d17d64bc0d0f3
 #EXTINF:-1 tvg-id="5c362ded581a86051df509b4" tvg-logo="https://images.pluto.tv/channels/5c362ded581a86051df509b4/colorLogoPNG.png" group-title="Game shows em inglês",Fear Factor | Reino Unido
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c362ded581a86051df509b4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K1kJf1s.png" group-title="Game shows em inglês" tvg-name="Game Show Central",Game Show Central do Roku | EUA
+#EXTINF:-1 tvg-logo="https://imgur.com/wvVlITm.png" group-title="Game shows em inglês" tvg-name="Game Show Central",Game Show Central do Roku | EUA
 https://gsn-gameshowchannnel-2.roku.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc782" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/gsn_gameshowchannnel_1.png" group-title="Game shows em inglês",Game Show Central do Plex | EUA
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc782" tvg-logo="https://imgur.com/wvVlITm.png" group-title="Game shows em inglês",Game Show Central do Plex | EUA
 https://ffcf6c437bec4f3988224ccfe150499d.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_GameShowCentral/playlist.m3u8?ads.wurl_channel=416&ads.wurl_name=GameShowCentral&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=Tog8X6wK6iweuzGFsz6p&ads.plex_id=5eea605574085f0040ddc782&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
 
-#EXTINF:-1 tvg-id="5e54187aae660e00093561d6" tvg-logo="http://images.pluto.tv/channels/5e54187aae660e00093561d6/colorLogoPNG.png" group-title="Game shows em inglês",Game Show Central do Pluto | EUA
+#EXTINF:-1 tvg-id="5e54187aae660e00093561d6" tvg-logo="https://imgur.com/wvVlITm.png" group-title="Game shows em inglês",Game Show Central do Pluto | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e54187aae660e00093561d6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc97b176-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e7a61a72-2810-4284-9591-2fdf499ae2a3&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-id="5d48685da7e9f476aa8a1888" tvg-logo="http://images.pluto.tv/channels/5d48685da7e9f476aa8a1888/colorLogoPNG.png" group-title="Game shows em inglês",The Challenge | EUA 
@@ -2805,6 +2802,9 @@ https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/
 
 #EXTINF:-1 tvg-name="Bedroom Beats" tvg-id="3bbe22c035b4409d80f997adc8ad33ee" tvg-logo="https://i.imgur.com/E7PRQOc.png" group-title="Música",Bedroom Beats
 https://3bbe22c035b4409d80f997adc8ad33ee.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/bedroom_beats_littlstar/master.m3u8
+
+#EXTINF:1 tvg-logo="https://imgur.com/ZHIKmOZ.png" group-title="Música",Blast Channel TV | Brasil
+https://video01.logicahost.com.br/blast/blast/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BoxHits.uk" tvg-name="Box Hits" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Box_hits.svg/1280px-Box_hits.svg.png" group-title="Música",Box Hits | Reino Unido
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/5947?pprotocol=hls
@@ -4668,7 +4668,7 @@ https://streaming.softwarecreation.it/DonnaTv/DonnaTv/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/fDGmY7Q.png" group-title="Variedades em italiano",Donna TV - Samsung | Itália
 https://promosrl-donnatv-1-it.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="FoodNetwork.it" tvg-name="Food Network" tvg-logo="https://i.imgur.com/3FtKnsF.png" group-title="Variedades em italiano",Food Network | Itália 
+#EXTINF:-1 tvg-id="FoodNetwork.it" tvg-logo="https://i.imgur.com/3FtKnsF.png" group-title="Variedades em italiano",Food Network | Itália 
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_6@1000854/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/RN84VgD.png" group-title="Variedades em italiano",Italian Fishing TV | Itália
