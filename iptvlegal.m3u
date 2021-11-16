@@ -462,6 +462,9 @@ https://streamer-b02.videos.sapo.pt/live/portocanal/playlist.m3u8
 #EXTINF:-1 tvg-id="Primertv.br" tvg-name="Primer TV" tvg-logo="https://demo.cdn.tv.br/logo/1559412042.3773847.png" tvg-shift="0" group-title="Brasil: variedades em português",Primer TV | Brasil
 http://200.194.238.229:8383/live/primer/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/QwPiPlI.png" group-title="Brasil: variedades em português",Rakuten Família | Portugal
+https://rakuten-family-14-pt.samsung.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-name="Record" tvg-logo="https://i.pinimg.com/originals/93/d3/65/93d365753811901f3fd8fea11c78d79c.jpg" tvg-shift="0" group-title="Brasil: variedades em português",Record | Brasil
 https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
 
@@ -814,8 +817,8 @@ https://5b31b343db684f2d897b12cc1793defb.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="FRAJ4500023UP" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/19/FRAJ4500023UP_20210414T025003.png" group-title="Cinema em francês",Films d'action - Rakuten TV | França
 https://dc87c2cd402c4403a3f577a2be3925fd.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_RakutenActionMovies/playlist.m3u8?ads.wurl_channel=447&ads.wurl_name=RakutenActionMovies&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
 
-#EXTINF:-1 tvg-id="FRBA2200010VN" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/51/FRBA2200010VN_20210512T003422.png" group-title="Cinema em francês",MyTime Movie Network | França
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsunguk-appletree-mytimefrance-samsungfr/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:-1 tvg-id="FRBA2200010VN" tvg-logo="https://i.imgur.com/Fvg43uJ.png" group-title="Cinema em francês",MyTime Movie Network | França
+https://mytimefrance-rakuten-samsung.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FRBA10000039N" tvg-name="Movies Central" tvg-logo="https://i.imgur.com/dwOoEmE.jpg" group-title="Cinema em francês",Movies Central | França
 https://alchimie-movies-central-1-fr.samsung.wurl.com/manifest/playlist.m3u8
@@ -859,11 +862,14 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dbfeb961
 #EXTINF:-1 tvg-id="5d4af2a24f1c5ab2d298776b" tvg-logo="https://images.pluto.tv/channels/5d4af2a24f1c5ab2d298776b/colorLogoPNG.png" group-title="Cinema em inglês",Biography - Pluto TV | Reino Unido
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d4af2a24f1c5ab2d298776b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1 tvg-id="5e1edac394e0e80009b2416a" tvg-logo="https://images.pluto.tv/channels/5e1edac394e0e80009b2416a/colorLogoPNG.png" group-title="Cinema em inglês",Britpocalypse - Pluto TV  | Reino Unido
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e1edac394e0e80009b2416a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-
 #EXTINF:-1 tvg-id="58af4c093a41ca9d4ecabe96" tvg-logo="http://images.pluto.tv/channels/58af4c093a41ca9d4ecabe96/colorLogoPNG.png" group-title="Cinema em inglês",Black Cinema | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58af4c093a41ca9d4ecabe96/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc9344a4-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d9d026f3-2a1f-4b92-a0c2-fbc14e98bd09&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://imgur.com/CpUKPwo.png" group-title="Cinema em inglês",Bloody Disgusting | EUA
+https://bloodydisgusting-tcl.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="5e1edac394e0e80009b2416a" tvg-logo="https://images.pluto.tv/channels/5e1edac394e0e80009b2416a/colorLogoPNG.png" group-title="Cinema em inglês",Britpocalypse - Pluto TV  | Reino Unido
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e1edac394e0e80009b2416a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-name="Chillings" group-title="Cinema em inglês" tvg-logo="https://static.filmon.com/assets/channels/2699/extra_big_logo.png",Chillings
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/2699&pprotocol=hls
@@ -984,6 +990,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad8d3a31
 
 #EXTINF:-1 tvg-id="5efb60a9e426140007c78e4b" tvg-logo="http://images.pluto.tv/channels/5efb60a9e426140007c78e4b/colorLogoPNG.png" group-title="Cinema em inglês",Movies on Verizon | EUA 🇺🇸
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5efb60a9e426140007c78e4b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc98e9f0-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d37f4fa9-653a-47f2-851d-f7c9e1a8d0cb&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Fvg43uJ.png" group-title="Cinema em inglês",MyTime Movie Network | EUA
+https://mytime-tcl.amagi.tv/playlist.m3u8 
 
 #EXTINF:-1 tvg-name="Ninjas and Guns" tvg-logo="https://i.imgur.com/iOWemCR.png" group-title="Cinema em inglês",Ninjas and Guns | Airy TV
 https://hls.airy.tv/hls/part/1080/7/Airy%20Action%20Movies.m3u8
@@ -1477,6 +1486,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b85a7582921777994c
 #EXTINF:-1 tvg-id="5db04252241007000975faac" tvg-logo="https://images.pluto.tv/channels/5db04252241007000975faac/colorLogoPNG.png" group-title="Documentários em inglês",Documentaries - Pluto TV | Reino Unido
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db04252241007000975faac/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
+#EXTINF:-1 tvg-logo="https://imgur.com/IBaRQVy.png" group-title="Documentários em inglês",Docurama | EUA
+https://docurama-tcl.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-name="Euronews Doc English" tvg-logo="https://i.imgur.com/ahMtMsf.png" group-title="Documentários em inglês",Euronews Doc | Reino Unido
 https://alchimie-euronews-4-gb.samsung.wurl.com/manifest/playlist.m3u8
 
@@ -1605,6 +1617,9 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-samsungtvplus-pbs/CDN/playlist.m3
 
 #EXTINF:-1 tvg-id="GBAJ4900004ZY" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/47/GBAJ4900004ZY_20200923T100801.png" group-title="Documentários em inglês",Planet Knowledge
 https://vod365-planet-knowledge-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/QwPiPlI.png" group-title="Documentários em inglês",Rakuten Documentaries | Portugal
+https://rakuten-documentaries-14-pt.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Real Stories AU" tvg-id="realstories.au" tvg-logo="https://i.imgur.com/KOkWP6i.jpg" group-title="Documentários em inglês",Real Stories | Austrália
 https://lds-realstories-samsungau.amagi.tv/playlist.m3u8
