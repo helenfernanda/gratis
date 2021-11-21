@@ -757,11 +757,11 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d180092e97a5e107
 #EXTINF:-1 tvg-id="5f5136317aedfb0007016f93" tvg-logo="https://images.pluto.tv/channels/5f5136317aedfb0007016f93/featuredImage.jpg" group-title="Cinema em espanhol",Cine XOXO | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5136317aedfb0007016f93/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=e61e81d1-c6d5-4eea-a605-2651410462b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3bf99bf4-e584-11eb-a5e5-0242ac110002&userId=&serverSideAds=true
 
+#EXTINF:1 tvg-logo="https://imgur.com/cLL5Olb.png" group-title="Cinema em espanhol",Cinemundo - Jungo
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1397
+
 #EXTINF:-1 tvg-id="5e972a21ad709d00074195ba" tvg-logo="https://imgur.com/Q5HuqXA.png" group-title="Cinema em espanhol",Estrellas de Acción | Argentina 
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e972a21ad709d00074195ba/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff22351-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=988908ef-9cb1-4bfd-9346-d817932e3a37&userId=&serverSideAds=true
-
-#EXTINF:1 tvg-logo="https://imgur.com/cLL5Olb.png" group-title="Cinema em espanhol",Cinemundo
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1397
 
 #EXTINF:-1 tvg-id="5f77977bd924d80007eee60c" tvg-logo="http://images.pluto.tv/channels/5f77977bd924d80007eee60c/colorLogoPNG.png" group-title="Cinema em espanhol",Mission Impossible | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f77977bd924d80007eee60c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc9a7093-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=cfce7117-740d-4fdb-8539-915870ce4232&userId=&serverSideAds=true
@@ -4709,9 +4709,6 @@ https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 #EXTINF:-1 tvg-name="1 TV Armênia" tvg-logo="https://i.imgur.com/soKUFs5.png" group-title="Variedades em outros idiomas",1 TV | Armênia
 https://amtvusdvr.tulix.tv/am2abr/tracks-v1a1/mono.m3u8 
 
-#EXTINF:-1 tvg-name="Asiancrush" channel-id="13642" tvg-logo="https://i.imgur.com/IMrW5QL.png" group-title="Variedades em outros idiomas",Asiancrush | anime, séries, filmes
-https://ac-samsung.samsung.wurl.com/manifest/playlist.m3u8
-
 #EXTINF:-1 tvg-name="ATV Bélgica" tvg-logo="https://i.imgur.com/600QxyO.png" group-title="Variedades em outros idiomas",ATV | Bélgica, em holandês
 http://api.new.livestream.com/accounts/27755193/events/8452381/live.m3u8
 
@@ -4731,7 +4728,7 @@ https://stream-cdn.gemonline.tv/live/gemlife/index.m3u8
 https://stream-cdn.gemonline.tv/live/gemmaxx/index.m3u8
 
 #EXTINF:-1 tvg-name="Gem River" tvg-language="Persian" tvg-logo="https://i.imgur.com/6RZj1Vy.png" group-title="Variedades em outros idiomas",GEM River em farsi
-https://stream-cdn.gemonline.tv/live/river/index.m3u8 
+https://stream-cdn.gemonline.tv/live/river/index.m3u8
 
 #EXTINF:-1 tvg-name="Gem Rubix" tvg-language="Persian" tvg-logo="https://i.imgur.com/GNQAVUx.png" group-title="Variedades em outros idiomas",GEM Rubix em farsi
 https://stream-cdn.gemonline.tv/live/rubix/index.m3u8
@@ -4739,23 +4736,23 @@ https://stream-cdn.gemonline.tv/live/rubix/index.m3u8
 #EXTINF:1 tvg-logo="https://imgur.com/rwPYEK7.png" group-title="Variedades em outros idiomas",HK Open TV | Hong Kong, China 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=746
 
-#EXTINF:-1 tvg-name="JoJ" tvg-logo="https://i.ibb.co/SccZK6g/JOJ.png" group-title="Variedades em outros idiomas",JoJ | Eslováquia  
-http://nn2.joj.sk/hls/joj-720.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SccZK6g/JOJ.png" group-title="Variedades em outros idiomas",JoJ | Eslováquia  
+http://nn.geo.joj.sk/hls/joj-720.m3u8
 
-#EXTINF:-1 tvg-name="JoJ Plus" group-title="Variedades em outros idiomas" tvg-logo="https://i.ibb.co/G5VWSNM/Plus.png",JoJ Plus | Eslováquia  
-http://nn2.joj.sk/hls/jojplus-540.m3u8
+#EXTINF:-1 group-title="Variedades em outros idiomas" tvg-logo="https://i.ibb.co/MNRvsnZ/JOJ-Family.jpg",JoJ Family | Eslováquia  
+http://nn.geo.joj.sk/hls/family-540.m3u8
 
-#EXTINF:-1 tvg-name="JoJ Family" group-title="Variedades em outros idiomas" tvg-logo="https://i.ibb.co/MNRvsnZ/JOJ-Family.jpg",JoJ Family | Eslováquia  
-http://nn.geo.joj.sk/hls/family-360.m3u8
+#EXTINF:-1 group-title="Variedades em outros idiomas" tvg-logo="https://i.ibb.co/G5VWSNM/Plus.png",JoJ Plus | Eslováquia  
+http://nn.geo.joj.sk/hls/jojplus-540.m3u8
 
 #EXTINF:-1 tvg-id="Channel11.il" tvg-logo="https://i.imgur.com/NLbnUz3.png" group-title="Variedades em outros idiomas" tvg-name="Kan 11",Kan 11 Jerusalém | Israel
-https://stream-03.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl9VEUxHPci9Zzif2aQ5-OY0)/dm/3/x7wjmog/d/live-2.m3u8
+https://stream-04.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl2onY9Ta7V4QlV-GNkWCSeU)/dm/3/x7wjmog/s/live-2.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/7u8M2YF.png" group-title="Variedades em outros idiomas",KBS World | Coreia do Sul
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
 
 #EXTINF:-1 tvg-id="Channel33.il" tvg-logo="https://i.imgur.com/w4hvmTv.png" group-title="Variedades em outros idiomas" tvg-name="Makan 33",Makan 33 | Israel
-https://stream-01.nyc.dailymotion.com/sec(8lOMYwOWJB0kD-8STcdDUEIWsDuDaQT588Jq3Vh0fmU)/dm/3/x7ymw2l/d/live-1.m3u8
+https://stream-03.nyc.dailymotion.com/sec(8lOMYwOWJB0kD-8STcdDUBA1hbwfbd-PrwW9iBHsQ0w)/dm/3/x7ymw2l/d/live-0.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-language="Persian" tvg-logo="https://i.imgur.com/Bh8aX4c.png" group-title="Variedades em outros idiomas" tvg-name="Manoto",Manoto em farsi
 https://d2rwmwucnr0d10.cloudfront.net/live.m3u8
