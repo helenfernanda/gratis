@@ -625,6 +625,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dc0c78281eddb0009a
 #EXTINF:-1 group-title="Celebridades e cultura pop em inglês" tvg-logo="https://static.filmon.com/assets/channels/3791/extra_big_logo.png",Films of India | inglês, hindi e outros idiomas
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3791&pprotocol=hls
 
+#EXTINF:1 tvg-logo="https://imgur.com/HOVl6Cm.png" group-title="Celebridades e cultura pop em inglês",Hallypop | Filipinas
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=670
+
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f5132e662fe160040f26c50" tvg-logo="https://imgur.com/LPyQKCi.png" group-title="Celebridades e cultura pop em inglês",Hollywire | EUA 
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=141&live=1&avod=1&ip=185.236.200.172&ua=okhttp%2F4.9.0&player_height=&player_width=&is_lat=0&content_channel=5f5132e662fe160040f26c50&app_bundle=ctv.hollywire&app_name=plex&did=62274240-07e7-5d94-8dc8-ef68cf19e175&content_dist_id=Tog8X6wK6iweuzGFsz6p&app_domain=app.plex.tv&app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&us-privacy=1---&gdpr=0&consent=0&coppa=0&device_type=handset
 
@@ -2068,8 +2071,11 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fac425f949b4600079
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f0ff265d71dcb00449ec02a" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/channel-fight.png" group-title="Esportes em inglês: lutas",Channel Fight
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=68&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=Tog8X6wK6iweuzGFsz6p&content_series=5f0ff265d71dcb00449ec02a&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=Tog8X6wK6iweuzGFsz6p&custom_7=5f0ff265d71dcb00449ec02a
 
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60affff8623f2f002c5bb4a1" tvg-logo="\https://provider-static.plex.tv/epg/images/ott_channels/logos/combatgo_logo_dark.png" group-title="Esportes em inglês: lutas",Combat Go | Pluto TV EUA 
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=726&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=Tog8X6wK6iweuzGFsz6p&content_series=60affff8623f2f002c5bb4a1&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=Tog8X6wK6iweuzGFsz6p&custom_7=
+
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60affff8623f2f002c5bb4a1" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/combatgo_logo_dark.png" group-title="Esportes em inglês: lutas",Combat Go | EUA 
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=726&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=Tog8X6wK6iweuzGFsz6p&content_series=60affff8623f2f002c5bb4a1&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=Tog8X6wK6iweuzGFsz6p&custom_7=60affff8623f2f002c5bb4a1
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=671
 
 #EXTINF:-1 tvg-id="5bb1ac3e268cae539bcedb07" tvg-logo="http://images.pluto.tv/channels/5bb1ac3e268cae539bcedb07/colorLogoPNG.png" group-title="Esportes em inglês: lutas",Combate World | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bb1ac3e268cae539bcedb07/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc94a431-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=2bbd94dc-bee9-4891-92d0-dfe9d836361c&userId=&serverSideAds=true
@@ -4747,6 +4753,9 @@ https://stream-cdn.gemonline.tv/live/river/index.m3u8
 #EXTINF:-1 tvg-name="Gem Rubix" tvg-language="Persian" tvg-logo="https://i.imgur.com/GNQAVUx.png" group-title="Variedades em outros idiomas",GEM Rubix em farsi
 https://stream-cdn.gemonline.tv/live/rubix/index.m3u8
 
+#EXTINF:1 tvg-language="Russian" group-title="Variedades em outros idiomas" tvg-logo="https://imgur.com/s2Yf4FR.png",Go Russia TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=747
+
 #EXTINF:1 tvg-logo="https://imgur.com/rwPYEK7.png" group-title="Variedades em outros idiomas",HK Open TV | Hong Kong, China 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=746
 
@@ -4782,6 +4791,9 @@ https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3617&p
 
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60d4edd7b2fdec002c14112b" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/ondemandchina_logo_dark.png" group-title="Variedades em outros idiomas",OnDemand China
 https://be0102fb526c4b05b37b45f2e6200c67.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_OnDemandChina/playlist.m3u8?ads.wurl_channel=899&ads.wurl_name=OnDemandChina&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=vB1fQVteisRvSpyJtSgH&ads.plex_id=60d4edd7b2fdec002c14112b&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
+
+#EXTINF:1 tvg-logo="https://imgur.com/s2Yf4FR.png" group-title="Variedades em outros idiomas",Phim Viet
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1362
 
 #EXTINF:-1 tvg-name="QS 24" tvg-id="qs24.ch" group-title="Variedades em outros idiomas" tvg-logo="https://i.imgur.com/cyMYUgp.png",QS24 | Suiça - em alemão
 https://h030.video-stream-hosting.de/quantisana-live/_definst_/smil:livestream.smil/chunklist.m3u8
