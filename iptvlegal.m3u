@@ -41,7 +41,7 @@ https://darkmatter-por-samsungbrazil.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="5f120f41b7d403000783a6d6" tvg-logo="https://imgur.com/8Vr6580.png" group-title="Brasil: cinema em português",Filmes Ação | Pluto TV Brasil
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977e93c0-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=860dbb8f-a84f-4853-b147-60207c674abf&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="https://imgur.com/s2Yf4FR.png" group-title="Brasil: cinema em português",Filmes de ação | Brasil
+#EXTINF:-1 tvg-logo="https://imgur.com/s2Yf4FR.png" group-title="Brasil: cinema em português",Filmes de ação | Brasil
 http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Filmes Nacionais" tvg-id="5f5a545d0dbf7f0007c09408" tvg-logo="https://images.pluto.tv/channels/5f5a545d0dbf7f0007c09408/featuredImage.jpg" group-title="Brasil: cinema em português",Filmes Nacionais | Pluto TV Brasil
@@ -111,9 +111,6 @@ https://video01.kshost.com.br/richard5546/richard5546/playlist.m3u8
 
 #EXTINF:-1 tvg-id="5f32cf37c9ff2b00082adbc8" tvg-logo="https://imgur.com/JfLHsbj.png" group-title="Brasil: educativos e documentários",Investigação | Brasil 
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32cf37c9ff2b00082adbc8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781ef20-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c6910880-42dc-4cb1-99bb-7227886a27ba&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="5fac52f142044f00078e2a51" tvg-logo="https://images.pluto.tv/channels/5fac52f142044f00078e2a51/featuredImage.jpg" group-title="Brasil: educativos e documentários",Mistérios | Brasil
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fac52f142044f00078e2a51/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=e61e81d1-c6d5-4eea-a605-2651410462b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=357672e9-e58c-11eb-b36a-0242ac110002&userId=&serverSideAds=true 
 
 #EXTINF:-1 tvg-id="5f1213ba0ecebc00070e170f" tvg-logo="https://imgur.com/oAarMpL.png" group-title="Brasil: educativos e documentários",Natureza | Brasil 
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977f3000-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=5bf5881e-ff8d-45df-a6a2-db61d0e625a0&userId=&serverSideAds=true
@@ -195,6 +192,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/61843f5e491af10007f
 
 #EXTINF:-1 tvg-logo="https://imgur.com/ku0d45h.png" group-title="Brasil: esportes - lifestyle - realities",Miss Universo Brasil HD | Brasil 
 https://video01.soultv.com.br/umiss/umiss/playlist.m3u8
+
+#EXTINF:-1 tvg-id="5fac52f142044f00078e2a51" tvg-logo="https://images.pluto.tv/channels/5fac52f142044f00078e2a51/featuredImage.jpg" group-title="Brasil: esportes - lifestyle - realities",Mistérios | Pluto TV Brasil
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fac52f142044f00078e2a51/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=e61e81d1-c6d5-4eea-a605-2651410462b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=357672e9-e58c-11eb-b36a-0242ac110002&userId=&serverSideAds=true 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/gDWDdVY.png" group-title="Brasil: esportes - lifestyle - realities",Motorvision | Brasil
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01329-ottera-motorvision-samsungbr/playlist.m3u8
@@ -469,7 +469,7 @@ https://streamer-b02.videos.sapo.pt/live/portocanal/playlist.m3u8
 #EXTINF:-1 tvg-id="Primertv.br" tvg-logo="https://imgur.com/VZaj5Oc.png" tvg-shift="0" group-title="Brasil: variedades em português",Primer TV | Brasil
 http://200.194.238.229:8383/live/primer/playlist.m3u8
 
-#EXTINF:-1 tvg-language="Portuguese" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/bd7sjegf5cdq.png" group-title="Brasil: variedades em português",Rádio Clube TV | Portugal
+#EXTINF:-1 tvg-language="Portuguese" tvg-logo="https://imgur.com/dFOg0qj.png" group-title="Brasil: variedades em português",Rádio Clube TV | Portugal
 https://stmv1.srvsite.com/clubefmradio/clubefmradio/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-name="Record" tvg-logo="https://i.pinimg.com/originals/93/d3/65/93d365753811901f3fd8fea11c78d79c.jpg" tvg-shift="0" group-title="Brasil: variedades em português",Record | Brasil
