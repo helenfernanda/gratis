@@ -332,8 +332,11 @@ https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
 #EXTINF:-1 tvg-id="CNNBrasil" tvg-logo="https://i.imgur.com/5AK7gLc.png" tvg-shift="0" group-title="Brasil: notícias em português",CNN Brasil
 https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/ivAljtT.png" tvg-shift="0" group-title="Brasil: notícias em português",CNN Portugal
-https://video-auth4.iol.pt/live_cnn/live_cnn/edge_servers/cnn-720p/chunks.m3u8?nimblesessionid=173975307&wmsAuthSign=c2VydmVyX3RpbWU9MS8xNS8yMDIyIDM6MzA6NTYgUE0maGFzaF92YWx1ZT1rUmQ4N0VYVURIcjVIZjFaaEhxTVFnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9N2M0NjA0OWQtNDQ2MC00MjAzLWExZTQtNWVjZWYyNWI1NjFh
+#EXTINF:-1 tvg-logo="https://imgur.com/ivAljtT.png" tvg-shift="0" group-title="Brasil: notícias em português",CNN Portugal 1 - 480p
+https://video-auth2.iol.pt/live_edge/tvi24_abr/edge_servers/tvi24-480p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/ivAljtT.png" tvg-shift="0" group-title="Brasil: notícias em português",CNN Portugal 2 - 240p
+https://video-auth2.iol.pt/live_edge/tvi24_abr/edge_servers/tvi24-240p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="EuronewsPT.nws" tvg-logo="https://i.imgur.com/kQ1EG3u.png" tvg-shift="0" group-title="Brasil: notícias em português",Euronews 1 | Portugal
 https://euronews-euronews-portugues-1-br.samsung.wurl.com/manifest/playlist.m3u8
@@ -4376,7 +4379,7 @@ https://channel04-notusa.akamaized.net/hls/live/2029754/event01/index.m3u8
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6690befbdf780007f78158/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc97d880-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=26dab85a-c1e2-4023-9cde-864e1c0d5f94&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-id="once" tvg-logo="https://i.imgur.com/21y9wac.png" group-title="Variedades em espanhol",Once | México
-https://live2.canaloncelive.tv/oncemx/smil:oncemx.smil/chunklist_w539276902_b1300000_slesp.m3u8
+https://live2.canaloncelive.tv/livepkgr3/cepro/chunklist.m3u8
 
 #EXTINF:-1 group-title="Variedades em espanhol" tvg-logo="https://imgur.com/dpi4v8n.png",Perú Channel 
 https://stmv1.duvoxtv.com.br/novelaplz/novelaplz/playlist.m3u8
