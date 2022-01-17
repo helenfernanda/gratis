@@ -1432,8 +1432,12 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56b27f85ff303704505
 #EXTINF:-1 tvg-id="5ddf8ea0d000120009bcad83" tvg-logo="https://images.pluto.tv/channels/5ddf8ea0d000120009bcad83/colorLogoPNG.png" group-title="Documentários em inglês",Animals | Reino Unido - Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ddf8ea0d000120009bcad83/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
+#EXTINF:-1 tvg-logo="https://imgur.com/iXcvr4W.png" group-title="Documentários em inglês",CGTN Documentary Channel | China
+https://livedoc.cgtn.com/1000d/prog_index.m3u8
+
 #EXTINF:-1 tvg-id="5c37d6712de254456f7ec340" tvg-logo="http://images.pluto.tv/channels/5c37d6712de254456f7ec340/colorLogoPNG.png" group-title="Documentários em inglês",Cold Case Files | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c37d6712de254456f7ec340/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc94f253-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6b8d7d70-8515-4daf-83d8-19bc083407ab&userId=&serverSideAds=true
+
 
 #EXTINF:-1 tvg-id="USBA3800005NI" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/10/USBA3800005NI_20210323T125532.png" group-title="Documentários em inglês",Clarity 4K | EUA
 https://d3thiix3tzne5u.cloudfront.net/playlist.m3u8
@@ -3412,7 +3416,10 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5eb1b17aa5277e00083
 #EXTINF:-1 tvg-id="60cb6df2b2ad610008cd5bea" tvg-logo="http://images.pluto.tv/channels/60cb6df2b2ad610008cd5bea/colorLogoPNG.png" group-title="Notícias em inglês",CBSN Sacramento
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60cb6df2b2ad610008cd5bea/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc9874c4-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=cc6d79c0-8930-4d03-9cd1-d19d054ec65e&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="CGTN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/CGTN.png" group-title="Notícias em inglês",CGTN em Inglês | China
+#EXTINF:-1 tvg-id="CGTN.us" tvg-logo="https://imgur.com/iXcvr4W.png" group-title="Notícias em inglês",CGTN em inglês 1 | China
+https://live.cgtn.com/1000/prog_index.m3u8
+
+#EXTINF:-1 tvg-id="CGTN.us" tvg-logo="https://imgur.com/iXcvr4W.png" group-title="Notícias em inglês",CGTN em inglês 2 | China
 https://live.cgtn.com/500/prog_index.m3u8
 
 #EXTINF:-1 tvg-id="5812afe1d0f0b8d55dde67fa" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhepz6SehmqduyGlGWCqxZkf1EnMjN_cZBQICoPyA=s300-c-k-c0x00ffffff-no-rj" group-title="Notícias em inglês",Cheddar | EUA
@@ -4369,6 +4376,9 @@ https://tvsn-i.akamaihd.net/hls/live/261837/tvsn/tvsn_750.m3u8
 #EXTINF:-1 tvg-id="324.es" tvg-logo="https://i.imgur.com/D552JHe.png" group-title="Variedades em espanhol",3/24 | Espanha
 https://directes-tv-int.ccma.cat/int/ngrp:324_web/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/iXcvr4W.png" group-title="Variedades em espanhol",CGTN em espanhol | China
+https://livees.cgtn.com/1000e/prog_index.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/1vnp5N1.png" group-title="Variedades em espanhol",Demand Africa em espanhol 
 https://demandafrica-samsungmexico.amagi.tv/playlist.m3u8
 
@@ -4416,6 +4426,9 @@ https://edge4.vedge.infomaniak.com/livecast/ik:canalalpha/chunklist_w1090298739_
 
 #EXTINF:-1 tvg-logo="https://i2.wp.com/www.canalzoom.be/wp-content/uploads/cropped-canalzoom_logo_couleur_V2.png" group-title="Variedades em francês",Canal Zoom | Bélgica
 http://streamer.canalc.be:1935/canalzoom/smil:SMIL-canalzoom-multi/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/iXcvr4W.png" group-title="Variedades em francês",CGTN em francês | China
+https://livefr.cgtn.com/1000f/prog_index.m3u8
 
 #EXTINF:-1 tvg-id="FRBA3300026BR" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/08/82/FRBA3300026BR_20210414T024616.png" group-title="Variedades em francês",Famille - Rakuten TV | França
 https://43e98e0eaa9b4118b1b79e62f98cff7d.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_RakutenFamily/playlist.m3u8?ads.wurl_channel=720&ads.wurl_name=RakutenFamily&ads.coppa=1&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
@@ -4694,6 +4707,12 @@ https://live3.mediacdn.ru/sr1/tro/playlist.m3u8
 #EXTINF:-1 tvg-id="Channel20.il" tvg-logo="https://i.imgur.com/vxGmKFv.png" group-title="Variedades em outros idiomas",Channel 20 | Israel
 https://dvr.ch20-cdnwiz.com/hls/live_360/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/iXcvr4W.png" group-title="Variedades em outros idiomas",CGTN em árabe | China
+https://livear.cgtn.com/1000a/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/iXcvr4W.png" group-title="Variedades em outros idiomas",CGTN em russo | China
+https://liveru.cgtn.com/1000r/prog_index.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/E9MtX4o.png" group-title="Variedades em outros idiomas",Elshinta TV | Indonésia
 http://group2-swiftservesd-1.dens.tv/s/s10/index.m3u8
 
@@ -4771,6 +4790,9 @@ https://klive.kaltura.com/env/cluster-1-a.live.nvp1/live/hls/p/1719221/e/1_obr1n
 
 #EXTINF:-1 tvg-logo="https://imgur.com/tV1Ak8r.png" group-title="Variedades em outros idiomas",TVRI | Indonésia
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/zgovOVe.png" group-title="Variedades em outros idiomas",Univer TV | Rússia
+https://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RTh2fhq.png" group-title="Variedades em outros idiomas",Vox Schweiz | Suiça - em alemão
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/5929&pprotocol=hls
