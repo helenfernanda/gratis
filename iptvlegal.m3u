@@ -356,6 +356,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/602e80c762306a00071
 #EXTINF:-1 tvg-id="Recordnews.br" tvg-logo="https://imgur.com/iC5UoAN.png" tvg-shift="0" group-title="Brasil: notícias em português",Record News | Brasil
 https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
 
+
 #EXTINF:-1 tvg-id="6102e04e9ab1db0007a980a1" tvg-logo="https://imgur.com/iC5UoAN.png" group-title="Brasil: notícias em português",Record News - Pluto TV | Brasil
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6102e04e9ab1db0007a980a1livestitch/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=e61e81d1-c6d5-4eea-a605-2651410462b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3bf99bf4-e584-11eb-a5e5-0242ac110002&userId=&
 
@@ -485,8 +486,32 @@ https://stmv1.srvsite.com/clubefmradio/clubefmradio/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/vfYMS0k.png" group-title="Brasil: variedades em português",Rádio Cultura | Pará, Brasil
 http://www.portalcultura.com.br/playerhtml/funtelpa/radio_funtelpa/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-logo="https://i.pinimg.com/originals/93/d3/65/93d365753811901f3fd8fea11c78d79c.jpg" tvg-shift="0" group-title="Brasil: variedades em português",Record | Brasil
-https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-logo="https://i.pinimg.com/originals/93/d3/65/93d365753811901f3fd8fea11c78d79c.jpg" tvg-shift="0" group-title="Brasil: variedades em português",Record Belém | Brasil
+https://playpluspa-lh.akamaihd.net/i/pp_pa@377468/master.m3u8 
+
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-logo="https://i.pinimg.com/originals/93/d3/65/93d365753811901f3fd8fea11c78d79c.jpg" tvg-shift="0" group-title="Brasil: variedades em português",Record Brasília | Brasil
+https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/master.m3u8 
+
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-logo="https://i.pinimg.com/originals/93/d3/65/93d365753811901f3fd8fea11c78d79c.jpg" tvg-shift="0" group-title="Brasil: variedades em português",Record GO | Brasil
+https://playplusgoya-lh.akamaihd.net/i/pp_gna@377833/master.m3u8 
+
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-logo="https://i.pinimg.com/originals/93/d3/65/93d365753811901f3fd8fea11c78d79c.jpg" tvg-shift="0" group-title="Brasil: variedades em português",Record Itapoan BA | Brasil
+https://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/master.m3u8 
+
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-logo="https://i.pinimg.com/originals/93/d3/65/93d365753811901f3fd8fea11c78d79c.jpg" tvg-shift="0" group-title="Brasil: variedades em português",Record Manaus | Brasil
+https://playplusmao-lh.akamaihd.net/i/pp_mao@409195/master.m3u8
+
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-logo="https://i.pinimg.com/originals/93/d3/65/93d365753811901f3fd8fea11c78d79c.jpg" tvg-shift="0" group-title="Brasil: variedades em português",Record Minas | Brasil
+https://playplusbh-lh.akamaihd.net/i/pp_bh@377862/master.m3u8
+
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-logo="https://i.pinimg.com/originals/93/d3/65/93d365753811901f3fd8fea11c78d79c.jpg" tvg-shift="0" group-title="Brasil: variedades em português",Record RJ | Brasil
+https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/master.m3u8
+
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-logo="https://i.pinimg.com/originals/93/d3/65/93d365753811901f3fd8fea11c78d79c.jpg" tvg-shift="0" group-title="Brasil: variedades em português",Record RS | Brasil
+https://playpluspoa-lh.akamaihd.net/i/pp_poa@377864/master.m3u8 
+
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-logo="https://i.pinimg.com/originals/93/d3/65/93d365753811901f3fd8fea11c78d79c.jpg" tvg-shift="0" group-title="Brasil: variedades em português",Record SP | Brasil
+https://spo4.akamaized.net/hls/live/2029736/spo4/index.m3u8?hdnts=exp=1647107597~acl=/*~hmac=bf0c6cef0926c1caf023ebc35a5024fc43b6f348ff34d5b4068297bc7cea7651
 
 #EXTINF:-1 tvg-id="Redebrasil.br" tvg-logo="https://imgur.com/ZgnRZ47.png" group-title="Brasil: variedades em português",Rede Brasil
 https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist.m3u8
