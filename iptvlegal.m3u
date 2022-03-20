@@ -733,8 +733,14 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e1efdbf9
 
 ############################## CINEMA EM ESPANHOL ################## CINEMA EM ESPANHOL ################## CINEMA EM ESPANHOL ################## CINEMA EM ESPANHOL ################## CINEMA EM ESPANHOL ################## CINEMA EM ESPANHOL ################## CINEMA EM ESPANHOL ################## CINEMA EM ESPANHOL ################## CINEMA EM ESPANHOL ################## CINEMA EM ESPANHOL ##################
 
+#EXTINF:-1 group-title="Cinema em espanhol" tvg-logo="https://i.imgur.com/m9BKIY6.png",Acción Mexicana | Canela TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1153
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aZf5fSH.png" group-title="Cinema em espanhol",Canal Mas | Uruguai
 https://tv.tvcontrolcp.com:1936/8136/8136/chunklist_w2013328020.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vjqgSsY.png" group-title="Cinema em espanhol",Canela Clásicos 
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
 
 #EXTINF:-1 tvg-id="5defde6d6c07b50009cf0757" tvg-logo="https://imgur.com/hcBeLVR.png" group-title="Cinema em espanhol",Cine - Pluto TV | Argentina 
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5defde6d6c07b50009cf0757/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1ae24-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b1c7f116-fa08-488b-a213-5bb1f7ee5ad2&userId=&serverSideAds=true
@@ -790,8 +796,11 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd7ea2aeab52300099
 #EXTINF:-1 tvg-id="5f1ac9a2d3611d0007a844bb" tvg-logo="http://images.pluto.tv/channels/5f1ac9a2d3611d0007a844bb/colorLogoPNG.png" group-title="Cinema em espanhol",Cine Romántico | Espanha - Pluto TV
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac9a2d3611d0007a844bb/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a9a6c272-8b68-11eb-b9cd-1bc319230674&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c5250274-72a8-48e7-a43b-0896dd05255c&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HoiEo8f.png" group-title="Cinema em espanhol",Cine Romántico | EUA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/acKgmyh.png" group-title="Cinema em espanhol",Cine Romántico | EUA
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokucineromantico/CDN/playlist.m3u8
+
+#EXTINF:-1 group-title="Cinema em espanhol" tvg-logo="https://i.imgur.com/acKgmyh.png",Cine Romántico | Canela TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
 
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6018913fa15130002b284197" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/cinesureno_logo_light.png" group-title="Cinema em espanhol",Cine Sureño - Plex
 https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-cinesureno-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=Tog8X6wK6iweuzGFsz6p&channelId=6018913fa15130002b284197
@@ -1455,6 +1464,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ed9461b35690007a
 ################################################################################################
 ############ documentários em inglês ##############
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Sa39Z1b.png" group-title="Documentários em inglês",Axs TV Now | música
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=966
+
 #EXTINF:-1 tvg-id="56b27f85ff3037045055037e" tvg-logo="http://images.pluto.tv/channels/56b27f85ff3037045055037e/colorLogoPNG.png" group-title="Documentários em inglês",Animals | EUA - Pluto TV
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56b27f85ff3037045055037e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc92cf71-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=4d627d8b-6cd1-44e8-818b-65b83fbcd88d&userId=&serverSideAds=true
 
@@ -1690,6 +1702,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f77884314396a00070
 #EXTINF:-1 tvg-id="589aa03df9ba56a84197a560" tvg-logo="http://images.pluto.tv/channels/589aa03df9ba56a84197a560/colorLogoPNG.png" group-title="Documentários em inglês",Voyager Documentaries | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/589aa03df9ba56a84197a560/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc9344a3-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=125f613e-1ba2-484c-9430-237501c0b663&userId=&serverSideAds=true
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E9r23h4.png" group-title="Documentários em inglês",WeatherSpy
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=861
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E9r23h4.png" channel-id="13889" radio="false" tvg-chno="253" group-title="Documentários em inglês",WeatherSpy | Canadá
 https://jukin-weatherspy-2-ca.samsung.wurl.com/manifest/playlist.m3u8
 
@@ -1770,6 +1785,12 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d1697f10a0e00079
 
 #EXTINF:-1 tvg-id="60492fdd9989d30007ccd30a" tvg-logo="http://images.pluto.tv/channels/60492fdd9989d30007ccd30a/colorLogoPNG.png" group-title="Esportes em espanhol",beIN Sports Xtra en español | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492fdd9989d30007ccd30alivestitch/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc978a63-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=85bfda9c-65f9-4b72-b27b-7a96e9fbf8cf&userId=&serverSideAds=true
+
+#EXTINF:-1 group-title="Esportes em espanhol" tvg-logo="https://i.imgur.com/AfUvEG1.png",Canela Sports
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2013
+
+#EXTINF:-1 tvg-logo="https://imgur.com/7jxA4O4.png" group-title="Esportes em espanhol",Combate Global
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
 
 #EXTINF:-1 tvg-id="5dcde07af1c85b0009b18651" tvg-logo="https://imgur.com/b6MB9zh.png" group-title="Esportes em espanhol",Deportes | Argentina - Pluto TV
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff02781-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6c194052-40df-42cc-9f20-2b709fc61bb8&userId=&serverSideAds=true
@@ -1935,6 +1956,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d486bed428fe37d8ca
 #EXTINF:-1 tvg-id="Racing.com.au" tvg-logo="https://i.imgur.com/NAY9DTt.png" group-title="Esportes em inglês",Racing.com | Austrália
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/628.m3u8
 
+#EXTINF:-1 group-title="Esportes em inglês" tvg-logo="https://i.imgur.com/jcj22ku.png",Real Madrid TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545
+
 #EXTINF:-1 tvg-id="redbull" tvg-shift="0" group-title="Esportes em inglês" tvg-logo="https://img2.gratispng.com/20180824/fph/kisspng-red-bull-tv-television-film-streaming-media-red-bull-tv-primavera-sound-5b805de6d852c0.5594931315351393028861.jpg",Red Bull TV | EUA
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 
@@ -2065,6 +2089,12 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db051096
 
 ## esportes em inglês: lutas ##### esportes em inglês: lutas ##### esportes em inglês: lutas ##### esportes em inglês: lutas ##### esportes em inglês: lutas ##### esportes em inglês: lutas ##### esportes em inglês: lutas ##### esportes em inglês: lutas ###
 
+#EXTINF:-1 group-title="Esportes em inglês: lutas",964
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=964
+
+#EXTINF:-1 group-title="Esportes em inglês: lutas",965
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=964
+
 #EXTINF:-1 tvg-id="5d815e489b315b154db2e053" tvg-logo="http://images.pluto.tv/channels/5d815e489b315b154db2e053/colorLogoPNG.png" group-title="Esportes em inglês: lutas",American Gladiators | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d815e489b315b154db2e053/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc9678f6-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=08cb0a01-f00b-498f-878b-0a06e2eeab1f&userId=&serverSideAds=true
 
@@ -2088,6 +2118,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=671
 
 #EXTINF:-1 tvg-id="5bb1ac3e268cae539bcedb07" tvg-logo="http://images.pluto.tv/channels/5bb1ac3e268cae539bcedb07/colorLogoPNG.png" group-title="Esportes em inglês: lutas",Combate World | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bb1ac3e268cae539bcedb07/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc94a431-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=2bbd94dc-bee9-4891-92d0-dfe9d836361c&userId=&serverSideAds=true
+
+#EXTINF:-1 group-title="Esportes em inglês: lutas" tvg-logo="https://i.imgur.com/nSJDlXD.png",El Rey Network | Canela TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1544
 
 #EXTINF:-1 tvg-id="5812b0f2237a6ff45d16c3f9" tvg-logo="http://images.pluto.tv/channels/5812b0f2237a6ff45d16c3f9/colorLogoPNG.png" group-title="Esportes em inglês: lutas",Fight - Pluto TV | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b0f2237a6ff45d16c3f9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc92f680-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=261c4098-55b0-4ed8-9969-86a7f250c44c&userId=&serverSideAds=true
@@ -2422,7 +2455,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e8b5e43f
 
 ################# Infantis em espanhol ################### ################# Infantis em espanhol ################### ################# Infantis em espanhol ################### ################# Infantis em espanhol ###################
 
-
 #EXTINF:-1 tvg-id="60218c2a32f9c40007c2f7cc" tvg-logo="http://images.pluto.tv/channels/60218c2a32f9c40007c2f7cc/colorLogoPNG.png" group-title="Infantis em espanhol",Action Kids | Espanha
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60218c2a32f9c40007c2f7cc/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a9a90c62-8b68-11eb-b9cd-1bc319230674&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ab35afa2-5351-4d4b-93e5-f698e8f73c55&userId=&serverSideAds=true
 
@@ -2459,6 +2491,12 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fd87d882574170007f
 #EXTINF:-1 tvg-id="ESBA3300020W5" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/00/55/ESBA3300020W5_20210113T004316.png" group-title="Infantis em espanhol",Caillou | Espanha
 https://458bf21c34f346cb9d9d22095ddc058f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_WildBrainPresentsCaillou/playlist.m3u8?ads.wurl_channel=665&ads.wurl_name=WildBrainPresentsCaillou&ads.coppa=1&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
+#EXTINF:-1 tvg-logo="https://imgur.com/g3Jreh3.png" group-title="Infantis em espanhol",Canela Infantil 961
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=961
+
+#EXTINF:-1 tvg-logo="https://imgur.com/g3Jreh3.png" group-title="Infantis em espanhol",Canela Kids
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
+
 #EXTINF:-1 tvg-id="5de58ef515635d00091f605d" tvg-logo="https://imgur.com/r0uzqHL.png" group-title="Infantis em espanhol",Degrassi | Argentina
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de58ef515635d00091f605d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1ae20-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=4c93798e-e952-447f-a365-6bf6f3f1ab9a&userId=&serverSideAds=true
 
@@ -2473,8 +2511,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d3d06fb60d800078
 
 #EXTINF:-1 tvg-id="5f1aa89d42a0500007363ea3" tvg-logo="http://images.pluto.tv/channels/5f1aa89d42a0500007363ea3/colorLogoPNG.png" group-title="Infantis em espanhol",Go, Diego Go! | Espanha
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aa89d42a0500007363ea3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a9a589f1-8b68-11eb-b9cd-1bc319230674&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bf56d934-befa-4f59-9ae3-414469c1c784&userId=&serverSideAds=true
-
-
 
 #EXTINF:-1 tvg-id="5dcde2ac4bc6c500094ab45b" tvg-logo="https://imgur.com/Sctyemw.png" group-title="Infantis em espanhol",Junior | Argentina
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde2ac4bc6c500094ab45b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff09cb2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8363a179-73ed-45ee-8927-75d6fecf5c50&userId=&serverSideAds=true
@@ -2536,8 +2572,11 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6de52b9914200091
 #EXTINF:-1 tvg-id="60016a60a8e3520008e0d331" tvg-logo="http://images.pluto.tv/channels/60016a60a8e3520008e0d331/colorLogoPNG.png" group-title="Infantis em espanhol",Teen Stars | Espanha
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60016a60a8e3520008e0d331/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a9a8e550-8b68-11eb-b9cd-1bc319230674&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=804723dd-6323-4f0c-a09d-32b0b2187f4c&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-6041643175c115002dc51259" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/Toon-Goggles-en-Espanol_logo_dark.png" group-title="Infantis em espanhol",Toon Goggles en Español
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=533&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=Tog8X6wK6iweuzGFsz6p&content_series=6041643175c115002dc51259&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=Tog8X6wK6iweuzGFsz6p&custom_7=6041643175c115002dc51259
+#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-6041643175c115002dc51259" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/Toon-Goggles-en-Espanol_logo_dark.png" group-title="Infantis em espanhol",Toon Googles en Español 1
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=771
+
+#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-6041643175c115002dc51259" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/Toon-Goggles-en-Espanol_logo_dark.png" group-title="Infantis em espanhol",Toon Goggles en Español 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=533
 
 #EXTINF:-1 tvg-id="5fceaab478f2af00080ff51f" tvg-logo="https://imgur.com/ol6B34n.png" group-title="Infantis em espanhol",Yu-Gi-Oh! | Argentina
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fceaab478f2af00080ff51f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c04e45b2-630a-11eb-8d9f-f313ae1a2a61&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=681f0ed2-2ad0-493f-9d9a-c9491e58c9ff&userId=&serverSideAds=true
@@ -2809,6 +2848,9 @@ http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gTNctKn.png" group-title="Música",(Only) 90s Infantis Will Understand
 https://21835c8ec5b74cf892ad0d6e12344ae9.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/90s_Infantis_distrotv/83d8c337-9417-4c34-ae8c-598cd1440fdb/3.m3u8
 
+#EXTINF:-1 group-title="Música" tvg-logo="https://i.imgur.com/Q3LXm9w.png",Amor para todos
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1082
+
 #EXTINF:-1 tvg-id="ATAJ0500432A" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/09/18/ATAJ0500432A_20200923T100451.png" group-title="Música",Bachstiftung | Áustria
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/5fe179b6-6aca-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=AT&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
 
@@ -2835,6 +2877,9 @@ https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3698&p
 
 #EXTINF:-1 group-title="Música" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWeckfObfyFWhe5JuPFGqaZgCiFyBSZXjg4RqleTMoxnlpG_wSOg3gOaRJjYdxQHUbZa0&usqp=CAU",Caltex Music | Irã
 http://vid1.caltexmusic.com/hls/caltextv.m3u8
+
+#EXTINF:-1 group-title="Música" tvg-logo="https://i.imgur.com/7VmFIX9.png",Canela Hits
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1058
 
 #EXTINF:-1 tvg-id="Castoutofparadise" group-title="Música" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWeckfObfyFWhe5JuPFGqaZgCiFyBSZXjg4RqleTMoxnlpG_wSOg3gOaRJjYdxQHUbZa0&usqp=CAU",Castoutofparadise | EUA
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3611&pprotocol=hls
@@ -2872,8 +2917,14 @@ https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3863&p
 #EXTINF:-1 tvg-id="57490d2f4ea646bbae56a1a816617a5f" tvg-logo="https://i.imgur.com/hKruqwx.png" group-title="Música",Electro Anthems
 https://57490d2f4ea646bbae56a1a816617a5f.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/electro_anthems_plex/master.m3u8
 
+#EXTINF:-1 group-title="Música" tvg-logo="https://i.imgur.com/vz77emq.png",Explosion Regional
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1084
+
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6018913ea15130002b284191" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/flash_logo_light.png" group-title="Música",Flash
 https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-flash-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=Tog8X6wK6iweuzGFsz6p&channelId=6018913ea15130002b284191
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LQHDrUK.png" group-title="Música",Flow Caribe
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1083
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DYMtPuJ.png" group-title="Música",Friday Feels
 https://7d6f1eaab26244879085a9c647097af7.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/friday_feels_plex/master.m3u8
@@ -2956,11 +3007,20 @@ https://1d75125ffd43490eb970a2f3f575e96c.mediatailor.us-west-2.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWeckfObfyFWhe5JuPFGqaZgCiFyBSZXjg4RqleTMoxnlpG_wSOg3gOaRJjYdxQHUbZa0&usqp=CAU" group-title="Música",New Star TV
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3065&pprotocol=hls
 
+#EXTINF:-1 group-title="Música" tvg-logo="https://i.imgur.com/XzbtuAo.png",Nothing pero Chill
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1085
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TBlVP1O.png" group-title="Música",POP Pegajoso
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1086
+
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60b0f65c0c8ffb002c821a75" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/qwesttv-jazz&beyond_channel_logo_dark.png" group-title="Música",QwestTV Jazz & Beyond
 https://qwest-jazz-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-qwest-jazz-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=Tog8X6wK6iweuzGFsz6p&channelId=60b0f65c0c8ffb002c821a75
 
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60b0f65c0c8ffb002c821a77" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/qwesttv-mix_channel_logo_dark.png" group-title="Música",QwestTV Mix
 https://qwest-mix-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-qwest-mix-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=Tog8X6wK6iweuzGFsz6p&channelId=60b0f65c0c8ffb002c821a77
+
+#EXTINF:-1 group-title="Música" tvg-logo="https://i.imgur.com/tdiBgzm.png",Ritmos Inolvidables
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1081
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWeckfObfyFWhe5JuPFGqaZgCiFyBSZXjg4RqleTMoxnlpG_wSOg3gOaRJjYdxQHUbZa0&usqp=CAU" group-title="Música",Road2Fame
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3347&pprotocol=hls
@@ -3691,8 +3751,14 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84dc59026b9b00076
 #EXTINF:-1 tvg-id="5f1aa7aab66c76000790ee7e" tvg-logo="http://images.pluto.tv/channels/5f1aa7aab66c76000790ee7e/colorLogoPNG.png" group-title="Novelas e séries em espanhol",Big Time Rush | Espanha
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aa7aab66c76000790ee7e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a9a514c0-8b68-11eb-b9cd-1bc319230674&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7584bd23-f678-4c29-8074-315f769d4971&userId=&serverSideAds=true
 
+#EXTINF:-1 group-title="Novelas e séries em espanhol" tvg-logo="https://i.imgur.com/oyaqyxB.png",Canela Telenovelas
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
+
 #EXTINF:-1 tvg-id="5f1acd36779de70007a680d1" tvg-logo="http://images.pluto.tv/channels/5f1acd36779de70007a680d1/colorLogoPNG.png" group-title="Novelas e séries em espanhol",Curro Jiménez | Espanha
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1acd36779de70007a680d1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a9a737a3-8b68-11eb-b9cd-1bc319230674&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=5b144757-ea72-4d02-9c65-57cee545311f&userId=&serverSideAds=true
+
+#EXTINF:-1 group-title="Novelas e séries em espanhol" tvg-logo="https://i.imgur.com/6vtOewR.png",El Talismán | Canela TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1079
 
 #EXTINF:-1 tvg-id="60492c67f4c48700075b5d37" tvg-logo="https://images.pluto.tv/channels/60492c67f4c48700075b5d37/colorLogoPNG.png" group-title="Novelas e séries em espanhol",Entre nosotras | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492c67f4c48700075b5d37/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=e61e81d1-c6d5-4eea-a605-2651410462b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3bf99bf4-e584-11eb-a5e5-0242ac110002&userId=&serverSideAds=true
@@ -3750,6 +3816,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492bb931054f00073
 
 #EXTINF:-1 tvg-id="5cf96cc422df39f1a338d165" tvg-logo="http://images.pluto.tv/channels/5cf96cc422df39f1a338d165/colorLogoPNG.png" group-title="Novelas e séries em espanhol",Telemundo Telenovelas Clásicas | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc95b5a3-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e1f8d7f0-1bdb-4cba-bfee-8803af11e15c&userId=&serverSideAds=true
+
+#EXTINF:-1 group-title="Novelas e séries em espanhol" tvg-logo="https://i.imgur.com/RQwA3MT.png",Tierra de Amor y Venganza | Canela TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1080
 
 #EXTINF:-1 tvg-id="5e82bb378601b80007b4bd78" tvg-logo="http://images.pluto.tv/channels/5e82bb378601b80007b4bd78/colorLogoPNG.png" group-title="Novelas e séries em espanhol",The Walking Dead en Español | EUA 
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e82bb378601b80007b4bd78/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc97ff94-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=15605dc1-6f34-4b1d-8e53-fda66fd278d7&userId=&serverSideAds=true
@@ -4004,6 +4073,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d7154fa8326b6ce4ec
 
 #EXTINF:-1 tvg-id="60807fd5db701400078219c2" tvg-logo="https://images.pluto.tv/channels/60807fd5db701400078219c2/featuredImage.jpg" group-title="Reality shows em inglês",Ink Master | EUA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60807fd5db701400078219c2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=e61e81d1-c6d5-4eea-a605-2651410462b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3bf99bf4-e584-11eb-a5e5-0242ac110002&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3LBntt0.png" group-title="Reality shows em inglês",Law & Crime: Trial Network
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=970
 
 #EXTINF:-1 tvg-id="5d8beeb39b5d5d5f8c672530" tvg-logo="http://images.pluto.tv/channels/5d8beeb39b5d5d5f8c672530/colorLogoPNG.png" group-title="Reality shows em inglês",Lives - Pluto TV | EUA 
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8beeb39b5d5d5f8c672530/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc96a002-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f04cbb49-99b3-4af7-ae10-3ba5a30ac01b&userId=&serverSideAds=true
@@ -4390,6 +4462,9 @@ https://tvsn-i.akamaihd.net/hls/live/261837/tvsn/tvsn_750.m3u8
 #EXTINF:-1 tvg-id="324.es" tvg-logo="https://i.imgur.com/D552JHe.png" group-title="Variedades em espanhol",3/24 | Espanha
 https://directes-tv-int.ccma.cat/int/ngrp:324_web/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DRCCzun.png" group-title="Variedades em espanhol",Canela TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=119
+
 #EXTINF:-1 tvg-logo="https://imgur.com/iXcvr4W.png" group-title="Variedades em espanhol",CGTN em espanhol | China
 https://livees.cgtn.com/1000e/prog_index.m3u8
 
@@ -4492,6 +4567,24 @@ https://live.neatv.gr:8888/hls/neatv_mid/index.m3u8
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/6085&pprotocol=hls
 
 ######### variedades em inglês ############# ######### variedades em inglês ############# ######### variedades em inglês ############# ######### variedades em inglês #############
+
+#EXTINF:-1 group-title="Variedades em inglês",963
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=963
+
+#EXTINF:-1 group-title="Variedades em inglês",972
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=972
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MLcZwgN.png" group-title="Variedades em inglês",Afroland TV 1
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=967
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MLcZwgN.png" group-title="Variedades em inglês",Afroland TV 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=968
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MLcZwgN.png" group-title="Variedades em inglês",Afroland TV 3
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=969
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MLcZwgN.png" group-title="Variedades em inglês",Afroland TV 3
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=971
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rLCHYCs.png" group-title="Variedades em inglês",ABC Adelaide | Austrália
 https://c.mjh.nz/101002510251/
