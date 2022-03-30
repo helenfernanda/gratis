@@ -631,8 +631,6 @@ http://flash1.crossdigital.com.br:1935/2063/2063/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2Dsd75b.png" group-title="Brasil: variedades em português",TV União Brasília | DF - Brasil
 https://596639ebdd89b.streamlock.net/tvuniao/tvuniao/playlist.m3u8
 
-#EXTINF:-1 group-title="Brasil: variedades em português" tvg-logo="https://i.imgur.com/IIztLyO.png",Up Channel | Brasil
-http://45.165.178.82:8000/play/a00x/index.m3u8
 
 ####################################### Casa e decoração em vários idiomas e espanhol############################
 
@@ -1774,6 +1772,9 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e96a0423e067bd6
 
 #EXTINF:-1 tvg-id="5f77884314396a00070dfd5b" tvg-logo="http://images.pluto.tv/channels/5f77884314396a00070dfd5b/colorLogoPNG.png" group-title="Documentários em inglês",Unsolved Mysteries 2 | EUA
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f77884314396a00070dfd5b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc9a2277-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=96d70a3d-2b51-436d-b008-74ec5b8d0633&userId=&serverSideAds=true
+
+#EXTINF:-1 group-title="Documentários em inglês",Viagens e natureza
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1320
 
 #EXTINF:-1 tvg-id="589aa03df9ba56a84197a560" tvg-logo="http://images.pluto.tv/channels/589aa03df9ba56a84197a560/colorLogoPNG.png" group-title="Documentários em inglês",Voyager Documentaries | EUA
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/589aa03df9ba56a84197a560/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc9344a3-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=125f613e-1ba2-484c-9430-237501c0b663&userId=&serverSideAds=true
@@ -4889,7 +4890,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=138
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=169
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yCVpx60.png" group-title="Variedades em inglês",AMG TV | EUA
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1309
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1319
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nFs8gUI.png" group-title="Variedades em inglês",AWE Encore | EUA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=972
