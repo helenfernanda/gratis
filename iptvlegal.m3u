@@ -1653,8 +1653,11 @@ https://inwonder-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="inwonder.br" tvg-logo="https://i.imgur.com/d3LshRd.png" group-title="Documentários em inglês",Inwonder TV | Brasil
 https://inwonder-samsungbrazil.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="USBB600003MK" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/76/USBB600003MK_20210525T051552.png" group-title="Documentários em inglês",The Jack Hanna Channel | EUA 
+#EXTINF:-1 tvg-id="USBB600003MK" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/76/USBB600003MK_20210525T051552.png" group-title="Documentários em inglês",Jack Hanna Channel | EUA 
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-litton-jackhannah-samsungus/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZaidrFy.png" group-title="Documentários em inglês",JetSet TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1320
 
 #EXTINF:-1 tvg-id="USBB1000003HL" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/04/USBB1000003HL_20210525T051451.png" group-title="Documentários em inglês",Journy | EUA 
 https://vcnplex.teleosmedia.com/linear/ovation/journy/playlist.m3u8
@@ -1772,9 +1775,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e96a0423e067bd6
 
 #EXTINF:-1 tvg-id="5f77884314396a00070dfd5b" tvg-logo="http://images.pluto.tv/channels/5f77884314396a00070dfd5b/colorLogoPNG.png" group-title="Documentários em inglês",Unsolved Mysteries 2 | EUA
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f77884314396a00070dfd5b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc9a2277-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=96d70a3d-2b51-436d-b008-74ec5b8d0633&userId=&serverSideAds=true
-
-#EXTINF:-1 group-title="Documentários em inglês",Viagens e natureza
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1320
 
 #EXTINF:-1 tvg-id="589aa03df9ba56a84197a560" tvg-logo="http://images.pluto.tv/channels/589aa03df9ba56a84197a560/colorLogoPNG.png" group-title="Documentários em inglês",Voyager Documentaries | EUA
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/589aa03df9ba56a84197a560/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc9344a3-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=125f613e-1ba2-484c-9430-237501c0b663&userId=&serverSideAds=true
