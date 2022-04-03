@@ -577,17 +577,35 @@ https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/playlist.m3u8
 #EXTINF:-1 tvg-id="Redetv.br" tvg-logo="https://listaiptv.gratis/logos/imagens/pampa.png" group-title="Brasil: variedades em português",Rede TV | TV Pampa - RS - Brasil
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imagens.ne10.uol.com.br/img/imagens/2020/10/22/a38a58f118_design-sem-nome5.jpg" group-title="Brasil: variedades em português",SBT | TV Jornal - PE - Brasil
+#EXTINF:-1 tvg-logo="https://i.imgur.com/srURmsi.png" group-title="Brasil: variedades em português",SBT | Bem TV, Tangará da Serra, MT
+https://5a2b083e9f360.streamlock.net/bemtv/bemtv.sdp/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/srURmsi.png" group-title="Brasil: variedades em português",SBT | interior de SP 
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/srURmsi.png" group-title="Brasil: variedades em português",SBT | TV Cidade Verde, Piauí
+https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/srURmsi.png" group-title="Brasil: variedades em português",SBT | TV Floresta, Tucuruí, PA
+https://streaming.sistemafloresta.com.br/tvfloresta/tracks-v1a1/mono.m3u8?token=76f9ee988810fdea7c0007cf8ddfaa0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/srURmsi.png" group-title="Brasil: variedades em português",SBT | TV Guajará, Tailândia, PA
+https://livefocamundo.com:8081/tvguajaraonline2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/srURmsi.png" group-title="Brasil: variedades em português",SBT | TV Jornal, Pernambuco
 http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8
  
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/567312773319630848/Sho8pafO.png" group-title="Brasil: variedades em português",SBT | TV Serra Dourada - GO - Brasil
+#EXTINF:-1 tvg-logo="https://i.imgur.com/srURmsi.png" group-title="Brasil: variedades em português",SBT | TV Paraense, Castanhal, PA 
+https://streaming.portaltvparaense.com.br/rtp_live/tracks-v1a1/mono.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/srURmsi.png" group-title="Brasil: variedades em português",SBT | TV Serra Dourada, Goiás
 https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Zcrcwhy.png" group-title="Brasil: variedades em português",TV A Folha | Palmas - Paraná
-https://video02.kshost.com.br/elton3601/elton3601/chunklist.m3u8?t=1641578689
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zcrcwhy.png" group-title="Brasil: variedades em português",TV A Folha | Palmas, PR
+https://video01.kshost.com.br:4443/elton3601/elton3601/chunklist_w263320428.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GbPiWi0.png" group-title="Brasil: variedades em português",TV Balcão | MG - Brasil
-https://cdn.jmvstream.com/w/AVJ-9028/playlist/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GbPiWi0.png" group-title="Brasil: variedades em português",TV Balcão | Minas Gerais
+https://cdn.jmvstream.com/w/AVJ-10760/playlist/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbr-str.srvsite.com/arquivos/7051/cabecalho-7051-20200320104612.png" group-title="Brasil: variedades em português",TV Carioca | Brasil
 https://srv5.zcast.com.br/tvcarioca/tvcarioca/chunklist_w1896676795.m3u8
@@ -1313,14 +1331,11 @@ https://tastemade-es16tm-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="5e84f54a82f05300080e6746" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/31belIZHt8L.png" group-title="Culinária em inglês",America's Test Kitchen
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84f54a82f05300080e6746/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc9826a1-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7d435cb9-df8d-4855-b23f-6f899dcb7f8b&userId=&serverSideAds=true
 
-#EXTINF:-1 group-title="Culinária em inglês",Canal do cozinheiro
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=689
-
 #EXTINF:-1 tvg-id="5fb5844bf5514d0007945bda" tvg-logo="http://images.pluto.tv/channels/5fb5844bf5514d0007945bda/colorLogoPNG.png" group-title="Culinária em inglês",BBC Food | EUA
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fb5844bf5514d0007945bda/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc9a97a5-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=158550d2-4810-413b-8ff3-f7f25a4694c0&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-id="USAJ1700008H6" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/58/USAJ1700008H6_20210525T051543.png" group-title="Culinária em inglês",Bon Appétit | EUA
-https://bonappetit-samsung.amagi.tv/hls/amagi_hls_data_condenast-bonappetitsamsung/CDN/playlist.m3u8?device[did]=%7BPSID%7D&device[dnt]=%7BTARGETOPT%7D&us_privacy=1YNY&app_name=%7BAPP_NAME%7D
+https://bonappetit-samsung.amagi.tv/hls/amagi_hls_data_condenast-bonappetitsamsung/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f07e9fdf313eb0041bbecda" tvg-logo="https://i.imgur.com/F09qSdk.png" group-title="Culinária em inglês",Cooking Panda
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=46
@@ -1654,6 +1669,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1304
 
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60a53634126de9002e694bc2" tvg-logo="https://i.imgur.com/pzDE0qH.png" group-title="Documentários em inglês",Go Traveler 3
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=560
+
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60a53634126de9002e694bc2" tvg-logo="https://i.imgur.com/pzDE0qH.png" group-title="Documentários em inglês",Go Traveler 4
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=689
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZPA2yTM.png" group-title="Documentários em inglês",Guinness World Records | TG
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=567
