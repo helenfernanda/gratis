@@ -461,6 +461,12 @@ https://radio98fm-lh.akamaihd.net/i/pp_1@359238/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XKDj8Qh.png" group-title="Brasil: rádios em português", Alpha FM | Osasco SP
 https://radioalpha-lh.akamaihd.net/i/pp_1@350713/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ruCJs06.png" group-title="Brasil: rádios em português",Band FM | Campinas SP
+https://evpp.mm.uol.com.br/band/bandfm_camp/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fPeO9hi.png" group-title="Brasil: rádios em português",BandNews FM | Goiânia GO
+https://5a2b083e9f360.streamlock.net/nexdial/nexdial.stream/master.m3u8
+
 #EXTINF:-1 tvg-id="Cbn.br" tvg-shift="0" tvg-logo="https://m.cbn.globoradio.globo.com/estaticos/img/CBN_1024x1024.png" group-title="Brasil: rádios em português",CBN RJ | Brasil
 https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
 
@@ -475,6 +481,9 @@ https://www.portalcultura.com.br/playerhtml/funtelpa/radio_funtelpa/chunklist.m3
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cYfC8xk.png" group-title="Brasil: rádios em português", Dumont FM | Jundiaí SP
 https://radiodumontfm-lh.akamaihd.net/i/pp_1@319410/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aBcsmOq.png" group-title="Brasil: rádios em português", Educadora FM | Campinas SP
+https://evpp.mm.uol.com.br/band/educadora/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hMT6BWr.png" group-title="Brasil: rádios em português",Energia 97 FM | Santo André SP
 https://radio97fm-lh.akamaihd.net/i/pp_1@350714/master.m3u8
@@ -498,6 +507,9 @@ https://cdn.cdnseguro.com/altraltv/altraltv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-logo="https://i.imgur.com/HnL2uBA.png" tvg-shift="0" group-title="Brasil: variedades em português",Band | Brasil
 http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-logo="https://i.imgur.com/HnL2uBA.png" tvg-shift="0" group-title="Brasil: variedades em português",Band | Brasil 2
+https://evpp.mm.uol.com.br/geob_band/band/master.m3u8
 
 #EXTINF:-1 tvg-id="RBATV.br" tvg-logo="https://i.imgur.com/aUU5Hhh.png" group-title="Brasil: variedades em português",Band | RBA TV - PA - Brasil
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
@@ -5679,9 +5691,6 @@ https://livear.cgtn.com/1000a/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iXcvr4W.png" group-title="Variedades em outros idiomas",CGTN em russo | China
 https://liveru.cgtn.com/1000r/prog_index.m3u8
 
-#EXTINF:-1 group-title="Variedades em outros idiomas",Lifestyle em chinês
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=746
-
 #EXTINF:-1 group-title="Variedades em outros idiomas" tvg-logo="https://i.imgur.com/CsHdYhG.png",Deutsche Welle - DW em árabe 
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/stream04/streamPlaylist.m3u8
 
@@ -5711,6 +5720,9 @@ http://nn.geo.joj.sk/hls/jojplus-540.m3u8
 
 #EXTINF:-1 tvg-id="Channel11.il" tvg-logo="https://i.imgur.com/NLbnUz3.png" group-title="Variedades em outros idiomas",Kan 11 Jerusalém | Israel
 https://stream-04.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl2onY9Ta7V4QlV-GNkWCSeU)/dm/3/x7wjmog/s/live-2.m3u8
+
+#EXTINF:-1 group-title="Variedades em outros idiomas",Lifestyle em chinês
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=746
 
 #EXTINF:-1 tvg-id="Channel33.il" tvg-logo="https://i.imgur.com/w4hvmTv.png" group-title="Variedades em outros idiomas",Makan 33 | Israel
 https://stream-03.nyc.dailymotion.com/sec(8lOMYwOWJB0kD-8STcdDUBA1hbwfbd-PrwW9iBHsQ0w)/dm/3/x7ymw2l/d/live-0.m3u8
