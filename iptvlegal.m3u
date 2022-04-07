@@ -1039,6 +1039,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1871
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D9TPZPk.png" group-title="Cinema em inglês",Cinepride | EUA - Galxy TV 2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2579
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D9TPZPk.png" group-title="Cinema em inglês",Cinepride | EUA - Galxy TV 3
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2591
+
 #EXTINF:-1 tvg-id="561c5b0dada51f8004c4d855" tvg-logo="http://images.pluto.tv/channels/561c5b0dada51f8004c4d855/colorLogoPNG.png" group-title="Cinema em inglês",Classic Movies Channel | EUA
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc928150-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e0e7c2c9-2c91-4084-9c20-f7a55e7fca1f&userId=&serverSideAds=true
 
@@ -1156,8 +1159,11 @@ https://d1h1d6qoy9vnra.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zRU6SZi.png" group-title="Cinema em inglês",FrightFlix | Galxy TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=81
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zRU6SZi.png" group-title="Cinema em inglês",FrightFlix | EUA
-https://content-asae1-up-1.uplynk.com/channel/4b3fda1ff2c24556bc2c6034307d117d/c.m3u8?ad=distrotv_frightflix&ad.pod_max_dur=120&ad.pod_ad_slots=3&ad.preroll=1&ad.postroll=1ad.w=1920&h=1080&&ad.domain=https://galxy.tv/frightflix/&ad.app_name=watchitscream&ad.app_store_url=https://galxy.tv/frightflix/&ad.us_privacy=1&ad.media_transcoding=high&ad.ssai.enabled=1&ad.ssai.vendor=Uplynk&ad._debug=invincibletest&pbs=b4290936553d43709458efdce2ba9c9d
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zRU6SZi.png" group-title="Cinema em inglês",FrightFlix | Galxy TV 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2582
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zRU6SZi.png" group-title="Cinema em inglês",FrightFlix | Galxy TV 3
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2594
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hcLUKfv.jpg" group-title="Cinema em inglês",Hallmark Movies & More | EUA
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
@@ -1260,6 +1266,12 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dbfedccc
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G7IOBNf.png" group-title="Cinema em inglês",Watch It Scream! | Galxy TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=85
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G7IOBNf.png" group-title="Cinema em inglês",Watch It Scream! | Galxy TV 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2587
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G7IOBNf.png" group-title="Cinema em inglês",Watch It Scream! | Galxy TV 3
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2598
 
 #EXTINF:-1 tvg-id="5b4e94282d4ec87bdcbb87cd" tvg-logo="http://images.pluto.tv/channels/5b4e94282d4ec87bdcbb87cd/colorLogoPNG.png" group-title="Cinema em inglês",Westerns - Pluto TV EUA
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e94282d4ec87bdcbb87cd/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc945610-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=4e94c265-c1b2-4e2c-b6bd-6eaefd17125f&userId=&serverSideAds=true
@@ -2206,13 +2218,13 @@ https://racingvic-i.akamaized.net/hls/live/598695/racingvic/628.m3u8
 #EXTINF:-1 group-title="Esportes em inglês" tvg-logo="https://i.imgur.com/jcj22ku.png",Real Madrid TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545
 
-#EXTINF:-1 tvg-id="redbull" tvg-shift="0" group-title="Esportes em inglês" tvg-logo="https://i.imgur.com/xWYEYYM.png",Red Bull TV | EUA
+#EXTINF:-1 tvg-id="redbull" tvg-shift="0" group-title="Esportes em inglês" tvg-logo="https://i.imgur.com/f9B5Dnp.png",Red Bull TV | EUA
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
-#EXTINF:-1 tvg-id="redbull" tvg-logo="https://i.imgur.com/xWYEYYM.png" group-title="Esportes em inglês",Red Bull TV | Reino Unido
+#EXTINF:-1 tvg-id="redbull" tvg-logo="https://i.imgur.com/f9B5Dnp.png" group-title="Esportes em inglês",Red Bull TV | Reino Unido
 https://rbmn-live.akamaized.net/hls/live/622817/BoRB-US/master.m3u8
 
-#EXTINF:-1 tvg-id="redbull" tvg-logo="https://i.imgur.com/xWYEYYM.png" group-title="Esportes em inglês",Red Bull TV - vídeo de parkour na Grécia
+#EXTINF:-1 tvg-id="redbull" tvg-logo="https://i.imgur.com/f9B5Dnp.png" group-title="Esportes em inglês",Red Bull TV - vídeo de parkour na Grécia
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=591
 
 #EXTINF:-1 group-title="Esportes em inglês" tvg-logo="https://i.imgur.com/jcj22ku.png",Real Madrid TV
@@ -2227,6 +2239,14 @@ https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/96KsJdS.png" group-title="Esportes em inglês",
 Slopes | Galxy TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=72
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/96KsJdS.png" group-title="Esportes em inglês",
+Slopes | Galxy TV 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2585
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/96KsJdS.png" group-title="Esportes em inglês",
+Slopes | Galxy TV 3
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2596
 
 #EXTINF:-1 tvg-id="snowymountains.au" tvg-logo="https://i.imgur.com/vuFx0Zd.jpg" group-title="Esportes em inglês",Snowy Mountains | Austrália
 
@@ -2509,6 +2529,12 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2528
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3JC3DOb.png" group-title="Esportes em inglês: lutas",XFC TV | Galxy TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1985
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3JC3DOb.png" group-title="Esportes em inglês: lutas",XFC TV | Galxy TV 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2588
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3JC3DOb.png" group-title="Esportes em inglês: lutas",XFC TV | Galxy TV 3
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2599
 
 ################# extrema direita #################### extrema direita #################### extrema direita #################### extrema direita #################### extrema direita #################### extrema direita ####################
 
@@ -3031,6 +3057,12 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/604930bc28b24d0007
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WhLbBGx.png" group-title="Infantis em espanhol",Zas | Galxy TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1972
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WhLbBGx.png" group-title="Infantis em espanhol",Zas | Galxy TV 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2589
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WhLbBGx.png" group-title="Infantis em espanhol",Zas | Galxy TV 3
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2600
+
 ###### Infantis em francês ######## Infantis em francês ######## Infantis em francês ######## Infantis em francês ######## Infantis em francês ######## Infantis em francês ######## Infantis em francês ######## Infantis em francês ######## Infantis em francês ######## Infantis em francês ######## Infantis em francês ####
 
 #EXTINF:-1 tvg-id="AmuseAnimation.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/H7GtB0T.jpg" group-title="Infantis em francês",Amuse Animation | França
@@ -3467,6 +3499,12 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5db0ae5af8797b0009
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TWjb72Q.png" group-title="Infantis em inglês",Watch It Kid! | Galxy TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=84
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TWjb72Q.png" group-title="Infantis em inglês",Watch It Kid! | Galxy TV 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2586
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TWjb72Q.png" group-title="Infantis em inglês",Watch It Kid! | Galxy TV 3
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2597
+
 #EXTINF:-1 tvg-id="5e2f28cfb7eedb000999fb22" tvg-logo="http://images.pluto.tv/channels/5e2f28cfb7eedb000999fb22/colorLogoPNG.png" group-title="Infantis em inglês",WatchFree Teen | EUA
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e2f28cfb7eedb000999fb22/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc97b172-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8e8f70c1-1b42-48db-bf9f-8840b327de77&userId=&serverSideAds=true
 
@@ -3727,6 +3765,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1943
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h4NsDgP.png" group-title="Música",Stingray Soul Storm | Galxy TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1950
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cefbNbl.png" group-title="Música",Stingray Today's Latin Pop
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2583
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cefbNbl.png" group-title="Música",Stingray Today's Latin Pop | Galxy TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1952
@@ -4404,8 +4445,11 @@ https://liveprodeuwest.global.ssl.fastly.net/eu1/Channel-EUTVqvs-AWS-ireland-1/S
 #EXTINF:-1 group-title="Notícias em inglês: dinheiro" tvg-logo="https://i.imgur.com/idRFfhY.png",Bloomberg+ 4K
 https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.imgur.com/5UDyshA.png" group-title="Notícias em inglês: dinheiro",Business Rockstars | EUA 
+#EXTINF:-1  tvg-logo="https://i.imgur.com/5UDyshA.png" group-title="Notícias em inglês: dinheiro",Business Rockstars | Galxy TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2578
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/5UDyshA.png" group-title="Notícias em inglês: dinheiro",Business Rockstars | Galxy TV 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2590
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/5UDyshA.png" group-title="Notícias em inglês: dinheiro",Business Rockstars | EUA 2
 https://content.uplynk.com/channel/7ad2b600b40b4a89933ab6981757f8b3.m3u8
@@ -4943,6 +4987,9 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6d935d000120009
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/aR114pI.png" group-title="Reality e game shows em espanhol",El Conflito | Galxy TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2581
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/aR114pI.png" group-title="Reality e game shows em espanhol",El Conflito | Galxy TV 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2593
 
 #EXTINF:-1 tvg-id="5f280149cec6be00072ab1fc" tvg-logo="http://images.pluto.tv/channels/5f280149cec6be00072ab1fc/colorLogoPNG.png" group-title="Reality e game shows em espanhol",El Conquistador del Fin | Espanha
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f280149cec6be00072ab1fc/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a9a785c0-8b68-11eb-b9cd-1bc319230674&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a9724719-b20b-4eb8-8e72-2472f263380f&userId=&serverSideAds=true
@@ -5688,7 +5735,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=543
 #EXTINF:-1 tvg-id="5f24662bebe0f0000767de32" tvg-logo="http://images.pluto.tv/channels/5f24662bebe0f0000767de32/colorLogoPNG.png" group-title="Variedades em inglês",Drama Life | EUA
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f24662bebe0f0000767de32/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc993813-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f451598b-e548-4ba3-a078-fb7baaea94a7&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vGZhhi1.png" group-title="Variedades em inglês",Flixstop
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TF0DF6K.png" group-title="Variedades em inglês",Flixstop
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2525
 
 #EXTINF:-1 tvg-language="en" tvg-logo="https://i.imgur.com/bRaihBR.png" group-title="Variedades em inglês",Froot TV | Reino Unido 
@@ -5699,6 +5746,12 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6176fddda3a6160007
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iuosgyp.png" group-title="Variedades em inglês",Galxy TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=82
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iuosgyp.png" group-title="Variedades em inglês",Galxy TV 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2584
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iuosgyp.png" group-title="Variedades em inglês",Galxy TV 3
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2595
 
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5eea605474085f0040ddc76d" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/glewedtv_3.png" group-title="Variedades em inglês",Glewed TV
 https://e54c4fcc08f14de7bc1094ca25cb9d29.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_GlewedTV/playlist.m3u8?ads.wurl_channel=495
@@ -5991,6 +6044,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=79
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wdQb0AU.png" group-title="Videogame",Dungeon TV | Galxy TV 2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2580
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wdQb0AU.png" group-title="Videogame",Dungeon TV | Galxy TV 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2592
 
 #EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-60aecdbf87f9b1002ce12325" tvg-logo="https://i.imgur.com/LlLqxzX.png" group-title="Videogame",ES24
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=713
