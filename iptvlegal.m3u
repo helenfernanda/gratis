@@ -744,12 +744,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8bf1472907815f66
 #EXTINF:-1 tvg-id="5dc0c78281eddb0009a02d5e" tvg-logo="http://images.pluto.tv/channels/5dc0c78281eddb0009a02d5e/colorLogoPNG.png" group-title="Celebridades e cultura pop em inglês",ET Live | EUA
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dc0c78281eddb0009a02d5e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc973c44-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=85a40cb6-c939-41ff-b702-166c0715d8d0&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HOVl6Cm.png" group-title="Celebridades e cultura pop em inglês",Hallypop | Filipinas
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=670
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HOVl6Cm.png" group-title="Celebridades e cultura pop em inglês",Hallypop | Filipinas
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=723
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BmOUAQ1.png" group-title="Celebridades e cultura pop em inglês",Made in Hollywood | EUA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=759
 
@@ -2069,6 +2063,9 @@ https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7B4AahB.png" group-title="Esportes em inglês",Billiard TV 2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2538
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7B4AahB.png" group-title="Esportes em inglês",Billiard TV 3
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=840
+
 #EXTINF:-1 tvg-id="5e9f2c05172a0f0007db4786" tvg-logo="http://images.pluto.tv/channels/5e9f2c05172a0f0007db4786/colorLogoPNG.png" group-title="Esportes em inglês",CBS Sports HQ | EUA
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc984db0-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0d3094e7-116a-4bea-901a-e34b64f466b8&userId=&serverSideAds=true
 
@@ -2141,8 +2138,11 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=571
 #EXTINF:-1 tvg-id="5d4af39510fd17b31a528eda" tvg-logo="https://images.pluto.tv/channels/5d4af39510fd17b31a528eda/colorLogoPNG.png" group-title="Esportes em inglês",Fishing - Pluto TV Reino Unido
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d4af39510fd17b31a528eda/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1 tvg-logo="https://www.adadarters.com/wp-content/uploads/2020/10/FTF_White.png" group-title="Esportes em inglês",For the Fans | EUA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oqT92nF.png" group-title="Esportes em inglês",FTF Sports | EUA
 https://eleven-rebroadcast-samsung.roku.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oqT92nF.png" group-title="Esportes em inglês",FTF Sports | EUA 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=843
 
 #EXTINF:-1 tvg-id="5a74b8e1e22a61737979c6bf" tvg-logo="http://images.pluto.tv/channels/5a74b8e1e22a61737979c6bf/colorLogoPNG.png" group-title="Esportes em inglês",Fox Sports | EUA
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc93b9d3-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8b1cbd2c-5f6e-4026-a469-52e23f2a3d73&userId=&serverSideAds=true
@@ -2340,6 +2340,10 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca1de920
 #EXTINF:-1 tvg-id="5e78faa05a0e200007a6f487" tvg-logo="https://images.pluto.tv/channels/5e78faa05a0e200007a6f487/colorLogoPNG.png" group-title="Esportes em inglês: automobilismo",Full Custom Garage
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e78faa05a0e200007a6f487/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
+
+#EXTINF:-1 tvg-id="5e78faa05a0e200007a6f487" tvg-logo="https://i.imgur.com/NE4S4zo.png" group-title="Esportes em inglês: automobilismo",LSN
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=842
+
 #EXTINF:-1 tvg-id="5db0510962948d000961d3c6" tvg-logo="https://images.pluto.tv/channels/5db0510962948d000961d3c6/colorLogoPNG.png" group-title="Esportes em inglês: automobilismo",Motor - Pluto TV Reino Unido
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0510962948d000961d3c6/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
@@ -2473,6 +2477,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=965
 
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-606605549dbfca002d2ae877" tvg-logo="https://i.imgur.com/uPrDjp0.png" group-title="Esportes em inglês: lutas",Fight Network | EUA 4
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=781
+
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-606605549dbfca002d2ae877" tvg-logo="https://i.imgur.com/uPrDjp0.png" group-title="Esportes em inglês: lutas",Fight Network | EUA 5
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=831
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/12rAqeP.png" group-title="Esportes em inglês: lutas",FITE
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2522
@@ -3638,6 +3645,21 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1083
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DYMtPuJ.png" group-title="Música",Friday Feels
 https://7d6f1eaab26244879085a9c647097af7.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/friday_feels_plex/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hnjBnuZ.png" group-title="Música",Front Row | Jungo
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=668
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hnjBnuZ.png" group-title="Música",Front Row | Jungo
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=715
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hnjBnuZ.png" group-title="Música",Front Row | Jungo
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=719
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hnjBnuZ.png" group-title="Música",Front Row | Jungo
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=728
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hnjBnuZ.png" group-title="Música",Front Row International | Jungo
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1083
+
 #EXTINF:-1 tvg-id="DEAK0500445A" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/07/DEAK0500445A_20200923T100523.png" group-title="Música",GoldStar TV | Alemanha
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/4d36a94b-6fb0-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
 
@@ -3646,9 +3668,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2535
 
 #EXTINF:-1 tvg-id="juice.au" tvg-logo="https://i.mjh.nz/.images/tv.juice.png" group-title="Música",Juice TV | Austrália
 https://i.mjh.nz/nz/tv.juice.m3u8
-
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f598c33465f860041cd2dee" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/latido-music-logo.png" group-title="Música",Latido Music
-https://vidaprimo-plex.amagi.tv/hls/amagi_hls_data_vidaprimo-vidaprimo-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=Tog8X6wK6iweuzGFsz6p&channelId=5f598c33465f860041cd2dee
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8whh5TH.png" group-title="Música",Latin X Pop
 https://c6db63f2ab884b40b3ff31e8a64bfcbb.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/latin_x_pop_plex/master.m3u8
@@ -3730,18 +3749,6 @@ https://tls.cdnz.cl/rewindtv/rewindtv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jsQmxyV.jpg" group-title="Música",Sexy Kpop TV
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
-
-#EXTINF:-1 group-title="Música",Show Pop | EUA
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=668
-
-#EXTINF:-1 group-title="Música",Show Pop | EUA 2
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=715
-
-#EXTINF:-1 group-title="Música",Show Pop | EUA 3
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=719
-
-#EXTINF:-1 group-title="Música",Show Pop | EUA 4
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=728
 
 #EXTINF:-1 tvg-id="604b91e0692f770007d9f33f" tvg-logo="https://images.pluto.tv/channels/604b91e0692f770007d9f33f/featuredImage.jpg" group-title="Música",Shows por Stingray | Brasil
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/604b91e0692f770007d9f33flivestitch/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=e61e81d1-c6d5-4eea-a605-2651410462b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3bf99bf4-e584-11eb-a5e5-0242ac110002&userId=&serverSideAds=true
@@ -4894,8 +4901,11 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db81695a
 #EXTINF:-1 tvg-id="5d815eb889bca2ce7b746fdd" tvg-logo="http://images.pluto.tv/channels/5d815eb889bca2ce7b746fdd/colorLogoPNG.png" group-title="Novelas e séries em inglês: maratona",Baywatch: SOS Malibu | EUA
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d815eb889bca2ce7b746fdd/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc96a000-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e669b66e-6aa5-490f-b2dc-37603c8b0692&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="the-carol-burnett-show" tvg-logo="https://gvimage.zype.com/53c0457a69702d4d66040000/5fb6d14e2a55760001e48777/custom_thumbnail/480.jpg" group-title="Novelas e séries em inglês: maratona",The Carol Burnett Show | EUA
+#EXTINF:-1 tvg-id="the-carol-burnett-show" tvg-logo="http://images.pluto.tv/channels/5ef396d1be50a3000722808b/colorLogoPNG.png" group-title="Novelas e séries em inglês: maratona",The Carol Burnett Show | EUA
 https://thecarolburnettshow-zype.amagi.tv/playlist1080p.m3u8
+
+#EXTINF:-1 tvg-id="the-carol-burnett-show" tvg-logo="http://images.pluto.tv/channels/5ef396d1be50a3000722808b/colorLogoPNG.png" group-title="Novelas e séries em inglês: maratona",The Carol Burnett Show | Plex EUA
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00163-shoutfactory-carolburnettshow-plex/playlist.m3u8
 
 #EXTINF:-1 tvg-id="5ef396d1be50a3000722808b" tvg-logo="http://images.pluto.tv/channels/5ef396d1be50a3000722808b/colorLogoPNG.png" group-title="Novelas e séries em inglês: maratona",The Carol Burnett Show | Pluto TV EUA
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ef396d1be50a3000722808b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc98c2e5-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=4243f382-5de7-4d9e-b75c-86c561ba8e53&userId=&serverSideAds=true
@@ -5388,6 +5398,12 @@ https://tvsn-i.akamaihd.net/hls/live/261837/tvsn/tvsn_750.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rJkTgRp.png" group-title="Variedades em coreano",단비 C채널 | Coreia do Sul
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=647
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QVwkACK.png" group-title="Variedades em coreano",Arirang Korea TV | inglês e coreano
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=836
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QVwkACK.png" group-title="Variedades em coreano",Arirang TV | inglês e coreano
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OEVQoFr.png" group-title="Variedades em coreano",Buddhist True Network BTN | Coreia do Sul
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=648
 
@@ -5405,6 +5421,15 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=14
 
 #EXTINF:-1 group-title="Variedades em coreano",Documentários | Coreia do Sul 2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=644
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BOWLcxw.png" group-title="Variedades em coreano",Hallypop USA
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=718
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BOWLcxw.png" group-title="Variedades em coreano",Hallypop USA
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=670
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BOWLcxw.png" group-title="Variedades em coreano",Hallypop USA
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=723
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7u8M2YF.png" group-title="Variedades em coreano",KBS World | Coreia do Sul
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
@@ -5436,17 +5461,11 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=613
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E6GcvMt.png" group-title="Variedades em coreano",New K-ID | legenda em inglês
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=684
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/y6KzwfB.png" group-title="Variedades em coreano",Red Sun | Coreia do Sul
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=670
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y6KzwfB.png" group-title="Variedades em coreano",SBS | Coreia do Sul
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=425
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/y6KzwfB.png" group-title="Variedades em coreano",SBS Internacional | Coreia do Sul
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y6KzwfB.png" group-title="Variedades em coreano",SBS Internacional
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=622
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/al76C4Y.png" group-title="Variedades em coreano",SBS Star | Coreia do Sul
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=718
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R3RAPgn.png" group-title="Variedades em coreano",Whosfan News | legenda em inglês
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=435
@@ -5637,6 +5656,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=971
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MLcZwgN.png" group-title="Variedades em inglês",Afroland TV 4
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=811
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MLcZwgN.png" group-title="Variedades em inglês",Afroland TV 5
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=844
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vZgU244.png" group-title="Variedades em inglês",Altrd TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=66
 
@@ -5658,8 +5680,14 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=138
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vZgU244.png" group-title="Variedades em inglês",Altrd TV 7
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=169
 
-#EXTINF:-1 tvg-id="K38IZD4.us" tvg-logo="https://i.imgur.com/yCVpx60.png" group-title="Variedades em inglês",AMG TV | EUA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yCVpx60.png" group-title="Variedades em inglês",AMG TV | EUA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1319
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QVwkACK.png" group-title="Variedades em inglês",Arirang Korea TV | inglês e coreano
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=836
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QVwkACK.png" group-title="Variedades em inglês",Arirang TV | inglês e coreano
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nFs8gUI.png" group-title="Variedades em inglês",AWE Encore | EUA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=972
@@ -6097,7 +6125,7 @@ https://cdn4.mbahnunungonline.net/m3u8/id/a6109060c7f55cc.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/svs3bzs.png" group-title="Variedades em outros idiomas",O Channel | Indonésia
 https://iptv.mwafa.net/vidio/206/index.m3u8?token=1999
 
-#EXTINF:-1 group-title="Variedades em outros idiomas",On Biz | Vietnã
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZjBtL6b.png" group-title="Variedades em outros idiomas",On Biz | Vietnã
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1364
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eDC7kr0.png" group-title="Variedades em outros idiomas",On Sports | Vietnã
@@ -6106,7 +6134,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1363
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60d4edd7b2fdec002c14112b" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/ondemandchina_logo_dark.png" group-title="Variedades em outros idiomas",OnDemand China
 https://be0102fb526c4b05b37b45f2e6200c67.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_OnDemandChina/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/s2Yf4FR.png" group-title="Variedades em outros idiomas",Phim Viet
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kMRIWPl.png" group-title="Variedades em outros idiomas",Phim Viet
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1362
 
 #EXTINF:-1 tvg-id="qs24.ch" group-title="Variedades em outros idiomas" tvg-logo="https://i.imgur.com/cyMYUgp.png",QS24 | Suiça - em alemão
