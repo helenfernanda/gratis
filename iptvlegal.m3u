@@ -3,7 +3,7 @@
 ##### Brasil: cinema ############# Brasil: cinema ############# Brasil: cinema ############# Brasil: cinema ############# Brasil: cinema ############# Brasil: cinema ############# Brasil: cinema ############# Brasil: cinema ############# Brasil: cinema ######
 #EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://i.imgur.com/lv6dbAJ.png" group-title="Brasil: cinema em português",Adrenalina Freezone | Pluto TV Brasil
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/61b790b985706b00072cb797/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=e61e81d1-c6d5-4eea-a605-2651410462b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3bf99bf4-e584-11eb-a5e5-0242ac110002&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eFpWMT8.png" group-title="Brasil: cinema em português",Cindie Lite | Brasil
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eFpWMT8.png" group-title="Brasil: cinema em português",Cindie Lite
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01329-ottera-cindie-samsungbr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eFpWMT8.png" group-title="Brasil: cinema em português",Cindie Lite | Brasil 2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1310
@@ -378,24 +378,6 @@ https://streamer-a01.videos.sapo.pt/live/portocanal/playlist.m3u8
 https://streamer-b02.videos.sapo.pt/live/portocanal/playlist.m3u8
 #EXTINF:-1 tvg-id="Primertv.br" tvg-logo="https://i.imgur.com/VZaj5Oc.png" tvg-shift="0" group-title="Brasil: variedades em português",Primer TV | Brasil
 http://200.194.238.229:8383/live/primer/playlist.m3u8
-#EXTINF:-1 tvg-id="RecordBelem.br" tvg-logo="https://i.pinimg.com/originals/93/d3/65/93d365753811901f3fd8fea11c78d79c.jpg" tvg-shift="0" group-title="Brasil: variedades em português",Record Belém | Brasil
-https://playpluspa-lh.akamaihd.net/i/pp_pa@377468/master.m3u8 
-#EXTINF:-1 tvg-id="RecordNacional.br" tvg-logo="https://i.pinimg.com/originals/93/d3/65/93d365753811901f3fd8fea11c78d79c.jpg" tvg-shift="0" group-title="Brasil: variedades em português",Record Brasília | Brasil
-https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/master.m3u8 
-#EXTINF:-1 tvg-id="RecordGoias.br" tvg-logo="https://i.pinimg.com/originals/93/d3/65/93d365753811901f3fd8fea11c78d79c.jpg" tvg-shift="0" group-title="Brasil: variedades em português",Record GO | Brasil
-https://playplusgoya-lh.akamaihd.net/i/pp_gna@377833/master.m3u8 
-#EXTINF:-1 tvg-id="RecordItapoan.br" tvg-logo="https://i.pinimg.com/originals/93/d3/65/93d365753811901f3fd8fea11c78d79c.jpg" tvg-shift="0" group-title="Brasil: variedades em português",Record Itapoan BA | Brasil
-https://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/master.m3u8 
-#EXTINF:-1 tvg-id="RecordNacional.br" tvg-logo="https://i.pinimg.com/originals/93/d3/65/93d365753811901f3fd8fea11c78d79c.jpg" tvg-shift="0" group-title="Brasil: variedades em português",Record Manaus | Brasil
-https://playplusmao-lh.akamaihd.net/i/pp_mao@409195/master.m3u8
-#EXTINF:-1 tvg-id="RecordMinas.br" tvg-logo="https://i.pinimg.com/originals/93/d3/65/93d365753811901f3fd8fea11c78d79c.jpg" tvg-shift="0" group-title="Brasil: variedades em português",Record Minas | Brasil
-https://playplusbh-lh.akamaihd.net/i/pp_bh@377862/master.m3u8
-#EXTINF:-1 tvg-id="RecordRio.br" tvg-logo="https://i.pinimg.com/originals/93/d3/65/93d365753811901f3fd8fea11c78d79c.jpg" tvg-shift="0" group-title="Brasil: variedades em português",Record RJ | Brasil
-https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/master.m3u8
-#EXTINF:-1 tvg-id="RecordRioGrandedoSul.br" tvg-logo="https://i.pinimg.com/originals/93/d3/65/93d365753811901f3fd8fea11c78d79c.jpg" tvg-shift="0" group-title="Brasil: variedades em português",Record RS | Brasil
-https://playpluspoa-lh.akamaihd.net/i/pp_poa@377864/master.m3u8 
-#EXTINF:-1 tvg-id="RecordPaulista.br" tvg-logo="https://i.pinimg.com/originals/93/d3/65/93d365753811901f3fd8fea11c78d79c.jpg" tvg-shift="0" group-title="Brasil: variedades em português",Record SP | Brasil
-https://spo4.akamaized.net/hls/live/2029736/spo4/index.m3u8?hdnts=exp=1647107597~acl=/*~hmac=bf0c6cef0926c1caf023ebc35a5024fc43b6f348ff34d5b4068297bc7cea7651
 #EXTINF:-1 tvg-id="RedeBrasil.br" tvg-logo="https://i.imgur.com/ZgnRZ47.png" group-title="Brasil: variedades em português",Rede Brasil
 https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hfvzbsC.png" group-title="Brasil: variedades em português",Rede Premium TV | Osasco - SP - Brasil
@@ -749,13 +731,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=742
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wncVwti.png" group-title="Cinema em inglês",KMovies 3 - filmes coreanos | legenda em inglês
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81VZaxj6a1L._SY355_.png" group-title="Cinema em inglês",Filmrise Family | EUA
+#EXTINF:-1 tvg-id="CAAJ40000077N" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81VZaxj6a1L._SY355_.png" group-title="Cinema em inglês",Filmrise Family | EUA
 http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefamily/CDN/playlist.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XuWEujn.png" group-title="Cinema em inglês",FilmRise Forensic Files 24/7 | EUA
-http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokuforensicfiles/CDN/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XuWEujn.png" group-title="Cinema em inglês",FilmRise Mysteries 24/7 | EUA
-http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XuWEujn.png" group-title="Cinema em inglês",Filmrise Movies | EUA
+#EXTINF:-1 tvg-id="USAJ40000072X" tvg-logo="https://i.imgur.com/XuWEujn.png" group-title="Cinema em inglês",Filmrise Movies | EUA
 http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XuWEujn.png" group-title="Cinema em inglês",FilmRise Sci-Fi | EUA
 http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokufilmrisesci-fi/CDN/master.m3u8
@@ -777,32 +755,24 @@ https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLi
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1036
 #EXTINF:-1 tvg-id="569546031a619b8f07ce6e25" tvg-logo="http://images.pluto.tv/channels/569546031a619b8f07ce6e25/colorLogoPNG.png" group-title="Cinema em inglês",Horror - Pluto TV EUA
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc92cf70-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7b956d24-f95c-4ca4-8c8b-5c8062b01933&userId=&serverSideAds=true
-#EXTINF:-1 tvg-id="IRIB iFilm English IR" tvg-logo="https://i.imgur.com/ZTdKpLg.png" group-title="Cinema em inglês",iFilm em inglês | Irã
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ZTdKpLg.png" group-title="Cinema em inglês",iFilm em inglês | Irã
 https://live1.presstv.ir/live/ifilmen_360p/index.m3u8 
-#EXTINF:-1 tvg-id="5c542e03044f5604b11cf808" tvg-logo="https://images.pluto.tv/channels/5c542e03044f5604b11cf808/colorLogoPNG.png" group-title="Cinema em inglês",Indies - Pluto TV Reino Unido
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c542e03044f5604b11cf808/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="613260e4bdb71c00070d63fa" tvg-logo="http://images.pluto.tv/channels/6176ff3ba00900000763710f/colorLogoPNG.png" group-title="Cinema em inglês",K-Content | Pluto TV EUA
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/613260e4bdb71c00070d63fa/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=e61e81d1-c6d5-4eea-a605-2651410462b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3bf99bf4-e584-11eb-a5e5-0242ac110002&userId=&serverSideAds=true
 #EXTINF:-1 tvg-id="5f15e181520cfa000771ce79" tvg-logo="http://images.pluto.tv/channels/5f15e181520cfa000771ce79/colorLogoPNG.png" group-title="Cinema em inglês",Love Stories - Pluto TV EUA
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f15e181520cfa000771ce79/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc98e9f6-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=4cc0eabf-a48e-45e9-9e31-e19fc49c4d2c&userId=&serverSideAds=true
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5ef4e1b40d9ad000423c4430" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/maverick_maverick_black_cinema_2.png" group-title="Cinema em inglês",Maverick Black Cinema do Plex | EUA
 https://bad6f547d5364da0b2fe3080c5a48068.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_MaverickBlackCinema/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K1kJf1s.png" group-title="Cinema em inglês",Maverick Black Cinema do Roku | EUA
-https://maverick-maverick-black-cinema-3.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="MGMHDUSA.us" tvg-logo="https://i.imgur.com/YQdLSlL.png" group-title="Cinema em inglês",MGM HD
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1056
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K1kJf1s.png" tvg-id="5e20b730f2f8d5003d739db7-5ef4e1b40d9ad000423c4427" group-title="Cinema em inglês",Midnight Pulp | EUA
 https://midnightpulp-samsung.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YsWwZB0.png" tvg-id="13773" group-title="Cinema em inglês",MovieMix
-https://moviemix.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="5ad8d3a31b95267e225e4e09" tvg-logo="https://images.pluto.tv/channels/5ad8d3a31b95267e225e4e09/colorLogoPNG.png" group-title="Cinema em inglês",Movies - Pluto TV Reino Unido
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad8d3a31b95267e225e4e09/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="5efb60a9e426140007c78e4b" tvg-logo="http://images.pluto.tv/channels/5efb60a9e426140007c78e4b/colorLogoPNG.png" group-title="Cinema em inglês",Movies on Verizon | EUA
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5efb60a9e426140007c78e4b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc98e9f0-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d37f4fa9-653a-47f2-851d-f7c9e1a8d0cb&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Fvg43uJ.png" group-title="Cinema em inglês",MyTime Movie Network | EUA
+#EXTINF:-1 tvg-id="ESBA2200004G5" tvg-logo="https://i.imgur.com/Fvg43uJ.png" group-title="Cinema em inglês",MyTime Movie Network | EUA
 https://mytime-tcl.amagi.tv/playlist.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iOWemCR.png" group-title="Cinema em inglês",Ninjas and Guns | Airy TV
-https://hls.airy.tv/hls/part/1080/7/Airy%20Action%20Movies.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3C5cZlE.png" group-title="Cinema em inglês",NollyAfrica | Nigéria
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2526
 #EXTINF:-1 tvg-id="5cb0cae7a461406ffe3f5213" tvg-logo="http://images.pluto.tv/channels/5cb0cae7a461406ffe3f5213/colorLogoPNG.png" group-title="Cinema em inglês",Paramount Movie Channel | EUA
@@ -825,11 +795,11 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=864
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ba3fb9c4b078e0f37ad34e8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc94a430-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7dbe2922-9fca-41e2-acb2-782c043106a8&userId=&serverSideAds=true
 #EXTINF:-1 tvg-id="5c6dc88fcd232425a6e0f06e" tvg-logo="http://images.pluto.tv/channels/5c6dc88fcd232425a6e0f06e/colorLogoPNG.png" group-title="Cinema em inglês",Terror - Pluto TV EUA
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c6dc88fcd232425a6e0f06e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc951964-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=447cbb50-cc1d-494d-9452-2df126311632&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jRHBzOm.png" group-title="Cinema em inglês",The Archive 1 | EUA
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5eea605674085f0040ddc7a0" tvg-logo="https://i.imgur.com/jRHBzOm.png" group-title="Cinema em inglês",The Archive | EUA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=45
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jRHBzOm.png" group-title="Cinema em inglês",The Archive 2 | EUA
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5eea605674085f0040ddc7a0" tvg-logo="https://i.imgur.com/jRHBzOm.png" group-title="Cinema em inglês",The Archive 2 | EUA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=74
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jRHBzOm.png" group-title="Cinema em inglês",The Archive 3 | EUA
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5eea605674085f0040ddc7a0" tvg-logo="https://i.imgur.com/jRHBzOm.png" group-title="Cinema em inglês",The Archive 3 | EUA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=93
 #EXTINF:-1 tvg-id="591105034c1806b47438342c" tvg-logo="http://images.pluto.tv/channels/591105034c1806b47438342c/colorLogoPNG.png" group-title="Cinema em inglês",The Asylum | EUA
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/591105034c1806b47438342c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc936bb0-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=613d39e5-536b-4e4d-b35f-fcd603b93cf4&userId=&serverSideAds=true
@@ -839,9 +809,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c45f0427
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e69e08291147bd04a9fd7/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc942f00-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1277eb21-2728-4f3d-be9e-3c81ae78479b&userId=&serverSideAds=true
 #EXTINF:-1 tvg-id="5dbfedccc563080009b60f4a" tvg-logo="https://images.pluto.tv/channels/5dbfedccc563080009b60f4a/colorLogoPNG.png" group-title="Cinema em inglês",Thrillers - Pluto TV Reino Unido
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dbfedccc563080009b60f4a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6zYBr7B.png" group-title="Cinema em inglês",Tribeca Channel
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60ede94f7da2ef002c55ce9b" tvg-logo="https://i.imgur.com/6zYBr7B.png" group-title="Cinema em inglês",Tribeca Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=822
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6zYBr7B.png" group-title="Cinema em inglês",Tribeca Channel 3
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60ede94f7da2ef002c55ce9b" tvg-logo="https://i.imgur.com/6zYBr7B.png" group-title="Cinema em inglês",Tribeca Channel 2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1850
 #EXTINF:-1 tvg-id="UpTV.us" tvg-logo="https://i.imgur.com/ZdSrOQB.png" group-title="Cinema em inglês",UpTV | EUA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1040
@@ -855,19 +825,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2598
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e94282d4ec87bdcbb87cd/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc945610-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=4e94c265-c1b2-4e2c-b6bd-6eaefd17125f&userId=&serverSideAds=true
 #EXTINF:-1 tvg-id="5d4bdb635ce813b38639e6a3" tvg-logo="https://images.pluto.tv/channels/5d4bdb635ce813b38639e6a3/colorLogoPNG.png" group-title="Cinema em inglês",Westerns - Pluto TV Reino Unido
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d4bdb635ce813b38639e6a3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-id="5b4e934d694c027be6ecece2" tvg-logo="http://images.pluto.tv/channels/5b4e934d694c027be6ecece2/colorLogoPNG.png" group-title="Cinema em inglês",WatchFree Adventure | EUA
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e934d694c027be6ecece2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc942f02-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=815571bf-cdb1-43f4-9f71-231b1041d4ab&userId=&serverSideAds=true
-#EXTINF:-1 tvg-id="5c6dd7d18122602574a720c1" tvg-logo="http://images.pluto.tv/channels/5c6dd7d18122602574a720c1/colorLogoPNG.png" group-title="Cinema em inglês",WatchFree Mystery
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c6dd7d18122602574a720c1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc951965-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d09495c6-a0bd-46e3-9b88-6be2510a2393&userId=&serverSideAds=true
-#EXTINF:-1 tvg-id="5e2f28378ec84b00099fa246" tvg-logo="http://images.pluto.tv/channels/5e2f28378ec84b00099fa246/colorLogoPNG.png" group-title="Cinema em inglês",WatchFree Film Festival
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e2f28378ec84b00099fa246/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc97b171-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9aeb556a-e6db-41be-8771-796a9373c703&userId=&serverSideAds=true
-#EXTINF:-1 tvg-id="5d02dd65a9aa6c5f977bb1e8" tvg-logo="http://images.pluto.tv/channels/5d02dd65a9aa6c5f977bb1e8/colorLogoPNG.png" group-title="Cinema em inglês",WatchFree Movie Binge
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d02dd65a9aa6c5f977bb1e8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc95dcb1-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8883d722-3bad-46f9-9223-0cfaf1c59098&userId=&serverSideAds=true
-#EXTINF:-1 tvg-id="5e2f290606fb760009196f0a" tvg-logo="http://images.pluto.tv/channels/5e2f290606fb760009196f0a/colorLogoPNG.png" group-title="Cinema em inglês",WatchFree Strongman
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e2f290606fb760009196f0a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc97b173-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ec70a31d-cf60-4869-b53d-09a22bf50dec&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sJvAsPA.png" group-title="Cinema em inglês",Wu Tang Collection 1 | artes marciais
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5eea605474085f0040ddc770" tvg-logo="https://i.imgur.com/sJvAsPA.png" group-title="Cinema em inglês",Wu Tang Collection 1 | artes marciais
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=42
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sJvAsPA.png" group-title="Cinema em inglês",Wu Tang Collection 2 | artes marciais
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5eea605474085f0040ddc770" tvg-logo="https://i.imgur.com/sJvAsPA.png" group-title="Cinema em inglês",Wu Tang Collection 2 | artes marciais
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=73
 ################################################## cinema em outros idiomas ###########################################################
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FV3lMP9.png" group-title="Cinema em outros idiomas",Hoy Pinoy | dublagem em filipino
@@ -1139,7 +1099,7 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream04/strea
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b85a7582921777994caea63/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc947d23-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e86ddb07-4355-4d49-b304-f7a544ab273e&userId=&serverSideAds=true
 #EXTINF:-1 tvg-id="5db04252241007000975faac" tvg-logo="https://images.pluto.tv/channels/5db04252241007000975faac/colorLogoPNG.png" group-title="Documentários em inglês",Documentaries - Pluto TV Reino Unido
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db04252241007000975faac/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IBaRQVy.png" group-title="Documentários em inglês",Docurama | EUA
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5efe1de4e0b3f5003f5d9f73" tvg-logo="https://i.imgur.com/IBaRQVy.png" group-title="Documentários em inglês",Docurama | EUA
 https://docurama-tcl.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="5ad9b8551b95267e225e59c1" group-title="Documentários em inglês" tvg-logo="https://images.pluto.tv/channels/5ad9b8551b95267e225e59c1/colorLogoPNG.png",Explore | Alemanha - em alemão e inglês
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad9b8551b95267e225e59c1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
@@ -1227,7 +1187,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5adf96e3e738977e2c
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d4af2ffa9506ab29cf38c38/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="GBBA33000540B" tvg-logo="https://i.imgur.com/JkwTORb.png" group-title="Documentários em inglês",PBS America
 https://pbs-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="PBSAmerica.us" tvg-logo="https://i.imgur.com/JkwTORb.png" group-title="Documentários em inglês",PBS America 2
 #EXTINF:-1 tvg-id="USBB800001O7" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/04/USBB800001O7_20210525T051730.png" group-title="Documentários em inglês",PBS Digital Studios | EUA 
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-samsungtvplus-pbs/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QwPiPlI.png" group-title="Documentários em inglês",Rakuten Documentaries | Portugal
@@ -1290,9 +1249,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=775
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=861
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f170d66b898490041b493ad" tvg-logo="https://i.imgur.com/E9r23h4.png" group-title="Documentários em inglês",Weather Spy 3
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=996
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f170d66b898490041b493ad" tvg-logo="https://i.imgur.com/E9r23h4.png" tvg-id="13889" group-title="Documentários em inglês",Weather Spy | Canadá
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f170d66b898490041b493ad" tvg-logo="https://i.imgur.com/E9r23h4.png" group-title="Documentários em inglês",Weather Spy | Canadá
 https://jukin-weatherspy-2-ca.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f170d66b898490041b493ad" tvg-logo="https://i.imgur.com/E9r23h4.png" tvg-id="13888" group-title="Documentários em inglês",Weather Spy | EUA
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f170d66b898490041b493ad" tvg-logo="https://i.imgur.com/E9r23h4.png" group-title="Documentários em inglês",Weather Spy | EUA
 https://jukin-weatherspy-1.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60d4edddb2fdec002c141135" tvg-logo="https://i.imgur.com/ssxtGlH.png" group-title="Documentários em inglês",Wild Earth | África do Sul - Rakuten
 https://wildearth-rakuten.amagi.tv/playlist.m3u8
@@ -2953,7 +2912,7 @@ https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea09
 https://c.mjh.nz/101002210220/
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRSlrinF4YWAaMofs-rcuxbYGhTufB8HubZ9bhW3Q=s900-c-k-c0x00ffffff-no-rj" group-title="Notícias em inglês",AfricaNews em inglês
 https://rakuten-africanews-1-pt.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-logo="https://i.imgur.com/gabDXlA.png" group-title="Notícias em inglês",Al Jazeera | Inglês
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-logo="https://i.imgur.com/zHNwsNZ.png" group-title="Notícias em inglês",Al Jazeera | Inglês
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:-1 group-title="Notícias em inglês" tvg-logo="https://i.imgur.com/vvO3Fes.png",Arise News | Reino Unido
 http://news.ashttp9.visionip.tv/live/visiontvuk-news-arise-tv-hsslive-25f-16x9-SD/chunklist.m3u8
@@ -3015,7 +2974,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af422839
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="EuronewsEnglish.fr" tvg-logo="https://i.imgur.com/szYOy8S.jpg" group-title="Notícias em inglês",Euronews
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2571
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60089d90f682a3002c348299" tvg-id="euronews.au" tvg-logo="https://i.imgur.com/szYOy8S.jpg" group-title="Notícias em inglês",Euronews | Austrália
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60089d90f682a3002c348299" tvg-logo="https://i.imgur.com/szYOy8S.jpg" group-title="Notícias em inglês",Euronews | Austrália
 https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60089d90f682a3002c348299" tvg-logo="https://i.imgur.com/TrC7TG6.png" group-title="Notícias em inglês",Euronews | Dinamarca
 https://rakuten-euronews-1-dk.samsung.wurl.com/manifest/playlist.m3u8
@@ -3039,7 +2998,7 @@ http://static.france24.com/live/F24_EN_LO_HLS/live_ios.m3u8
 https://d1hdqxv58eu2nj.cloudfront.net/v1/manifest/77872db67918a151b697b5fbc23151e5765767dc/cmg_PROD_cmg-tv-10100_0d4036c1-d9dd-46b1-84f7-506ba49b7b28_LE/89305481-8a86-42f2-8921-4a38895c2b19/0.m3u8
 #EXTINF:-1 tvg-id="FoxNewsNow.us" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/97/USBA300024TN20200730102745.png" group-title="Notícias em inglês",FOX News NOW | EUA 
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-fox-newsnow-samsung/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6Hb2XXs.jpg" group-title="Notícias em inglês",Fox Soul | EUA
+#EXTINF:-1 tvg-id="USBA300032J7" tvg-logo="https://i.imgur.com/6Hb2XXs.jpg" group-title="Notícias em inglês",Fox Soul
 http://fox-foxsoul-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="5df97894467dfa00091c873c" tvg-logo="http://images.pluto.tv/channels/5df97894467dfa00091c873c/colorLogoPNG.png" group-title="Notícias em inglês",NBC News NOW | EUA
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df97894467dfa00091c873c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc978a64-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1d9b7eb4-936f-4e6f-aa71-cc722d53fff9&userId=&serverSideAds=true
@@ -3049,7 +3008,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fff49cfb5cd4f0007
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5268abcd0ce20a8472000114/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc9196f0-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bddf9cec-2e0c-479e-9cfb-2da0a50ab10b&userId=&serverSideAds=true
 #EXTINF:-1 tvg-id="IRIB Press TV IR" tvg-logo="https://i.imgur.com/Qr14bSJ.png" group-title="Notícias em inglês",Press TV | Irã
 https://live.presstv.ir/liveprs/smil:liveprs/playlist.m3u8
-#EXTINF:-1 tvg-id="INBA4900020A5" tvg-chno="1013" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/62/INBA4900020A5_20210330T012116.png" group-title="Notícias em inglês",Republic TV | Índia
+#EXTINF:-1 tvg-id="RepublicTV.in" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/62/INBA4900020A5_20210330T012116.png" group-title="Notícias em inglês",Republic TV | Índia
 https://republicworld.amagi.tv/hls/amagi_hls_data_samsungin-republictv-samsungindia/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="FRBA3300024L2" group-title="Notícias em inglês" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/reuters_reutersnow_1.png",Reuters Now
 https://ajo.prod.reuters.tv/rest/v2/playlist/assets/58197,464695,464688,464478,57445,58156,464697,127706,464687,58089,464661,58117,464511,127694,464474,58090,464715,127785,464752,127680,464740,58118,464712,127800,464733,127800,464701,58061,464541,127710,464507,58048,464622,127681,464625,58147,464452,58061,464617,127711,464449,58018,464479,58058,464539,127679,464466,318501/master.m3u8
@@ -3117,6 +3076,12 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f161c0a8ba90f0007
 ########### notícias em outros idiomas ############## notícias em outros idiomas ############## notícias em outros idiomas ############## notícias em outros idiomas ############## notícias em outros idiomas ############## notícias em outros idiomas ############## notícias em outros idiomas ##############
 #EXTINF:-1 tvg-id="ABCNews.al" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQppoJvg5Inz_5KVl8gzhD8ydrZqta2qffqDLgaag=s400-c-k-c0x00ffffff-no-rj" group-title="Notícias em outros idiomas",ABC News | Albânia
 https://tv2.abcnews.al/live/abcnews/chunks.m3u8
+#EXTINF:-1 tvg-id="AlJazeeraChannel.qa" tvg-logo="https://i.imgur.com/zHNwsNZ.png" group-title="Notícias em outros idiomas",Al Jazeera em árabe
+https://live-hls-web-aja.getaj.net/AJA/06.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zHNwsNZ.png" group-title="Notícias em outros idiomas",Al Jazeera Mubasher
+https://live-hls-web-ajm.getaj.net/AJM/06.m3u8
+#EXTINF:-1 tvg-id="AlJazeeraBalkans.qa" tvg-logo="https://i.imgur.com/zHNwsNZ.png" group-title="Notícias em outros idiomas",Al Jazeera Balkas em croata
+https://live-hls-web-ajb.getaj.net/AJB/01.m3u8
 #EXTINF:-1 tvg-id="BeritaSatuHD.id" tvg-logo="https://i.imgur.com/WlgyKOR.png" group-title="Notícias em outros idiomas",Berita Satu | Indonésia
 https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dy9Dkh2.png" group-title="Notícias em outros idiomas",CNBC Indonesia
@@ -3129,25 +3094,25 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2573
 https://rakuten-euronews-5-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6245f13093b402a3d1097789" tvg-logo="https://i.imgur.com/TrC7TG6.png" group-title="Notícias em outros idiomas",Euronews em italiano
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2574
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6245f13093b402a3d1097789" tvg-logo="https://i.imgur.com/TrC7TG6.png" group-title="Notícias em outros idiomas",Euronews em italiano
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6245f13093b402a3d1097789" tvg-logo="https://i.imgur.com/TrC7TG6.png" group-title="Notícias em outros idiomas",Euronews em italiano 2
 https://rakuten-euronews-3-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TrC7TG6.png" group-title="Notícias em outros idiomas",Euronews em russo
+#EXTINF:-1 tvg-id="EuronewsRusskiy.fr" tvg-logo="https://i.imgur.com/TrC7TG6.png" group-title="Notícias em outros idiomas",Euronews em russo
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2576
-#EXTINF:-1 tvg-id="France24Arabic.fr" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="Notícias em outros idiomas",France 24 em árabe
+#EXTINF:-1 tvg-id="France24Arabic.fr" tvg-language="Arabic" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="Notícias em outros idiomas",France 24 em árabe
 https://static.france24.com/live/F24_AR_HI_HLS/live_tv.m3u8
-#EXTINF:-1 tvg-id="IonianTVGR" tvg-logo="https://i.imgur.com/zuXu5tQ.png" group-title="Notícias em outros idiomas",Ionian TV | Grécia
+#EXTINF:-1 tvg-id="IonianTV.gr" tvg-logo="https://i.imgur.com/zuXu5tQ.png" group-title="Notícias em outros idiomas",Ionian TV | Grécia
 https://stream.ioniantv.gr/ionian/live_abr/playlist.m3u8
 #EXTINF:-1 tvg-id="IranIntl.uk" tvg-language="Persian" tvg-logo="https://i.imgur.com/oeiaea6.png" group-title="Notícias em outros idiomas",Iran International | Irã
 https://live.playstop.me/LS-63503-4/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AoKbWXF.png" group-title="Notícias em outros idiomas",Jakarta Globe News Channel | Indonésia
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BLkJTgh.png" group-title="Notícias em outros idiomas",KNews | Índia
-https://knews.livebox.co.in/youtubehls/live.m3u8 
+http://knews.livebox.co.in/youtubehls/live.m3u8
 #EXTINF:-1 tvg-id="News24.al" tvg-logo="https://i.imgur.com/EpND0EO.png" group-title="Notícias em outros idiomas",News 24 | Albânia
 http://tv.balkanweb.com:8081/news24/livestream/chunks.m3u8
 #EXTINF:-1 tvg-id="RBKTV.ru" tvg-logo="https://i.imgur.com/A7PCY1R.png" group-title="Notícias em outros idiomas",RBK - РБК | Rússia
 https://e5-online-video.rbc.ru/online2/rbctv_576p/index.m3u8
-#EXTINF:-1 tvg-id="INBA490002119" tvg-chno="1015" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/89/INBA490002119_20210413T092036.png" group-title="Notícias em outros idiomas",Republic Bharat | Índia
+#EXTINF:-1 tvg-id="RepublicBharat.in" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/89/INBA490002119_20210413T092036.png" group-title="Notícias em outros idiomas",Republic Bharat | Índia
 https://republicworld.amagi.tv/hls/amagi_hls_data_samsungin-republicbharat-samsungindia/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5oiqFfl.png" group-title="Notícias em outros idiomas",RT em alemão 1 - full HD | Rússia
 https://rt-ger.gcdn.co/live/rtdeutsch/playlist_4500Kb.m3u8
@@ -3157,7 +3122,7 @@ https://rt-ger.gcdn.co/live/rtdeutsch/playlist_2500Kb.m3u8
 https://rt-ger.gcdn.co/live/rtdeutsch/playlist_1600Kb.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5oiqFfl.png" group-title="Notícias em outros idiomas",RT em alemão 4 - definição baixa | Rússia
 https://rt-ger.gcdn.co/live/rtdeutsch/playlist_800Kb.m3u8
-#EXTINF:-1 group-title="Notícias em outros idiomas" tvg-logo="https://i.imgur.com/WtUFMnB.png",TR24 | Itália
+#EXTINF:-1 tvg-id="TRMh24.it" group-title="Notícias em outros idiomas" tvg-logo="https://i.imgur.com/WtUFMnB.png",TR24 | Itália
 http://livetr.teleromagna.it/mia/live/playlist.m3u8
 ########## Novelas e séries em espanhol ########### Novelas e séries em espanhol ########### Novelas e séries em espanhol ########### Novelas e séries em espanhol ########### Novelas e séries em espanhol ###########
 #EXTINF:-1 tvg-id="Atreseries.es" tvg-logo="https://i.imgur.com/nKiBVpO.png" group-title="Novelas e séries em espanhol",A3Series Internacional
@@ -3598,6 +3563,10 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=569
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=604
 #EXTINF:-1 tvg-id="ATBA10000075C" tvg-logo="https://i.imgur.com/YUIQH6G.png" group-title="Reality shows em inglês",Fashion TV 3
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=685
+#EXTINF:-1 tvg-id="USBB3200017MY" tvg-logo="https://i.imgur.com/XuWEujn.png" group-title="Reality shows em inglês",FilmRise Forensic Files 24/7 | EUA
+http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokuforensicfiles/CDN/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XuWEujn.png" group-title="Reality shows em inglês",FilmRise Mysteries 24/7 | EUA
+http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WTFbvqm.png" group-title="Reality shows em inglês",Got Talent - melhores momentos
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=117
 #EXTINF:-1 tvg-id="5e4bf0db50560a000948ce52" tvg-logo="https://images.pluto.tv/channels/5e4bf0db50560a000948ce52/colorLogoPNG.png" group-title="Reality shows em inglês",Her | Reino Unido - Pluto TV
@@ -3820,7 +3789,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=212
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=237
 #EXTINF:-1 tvg-id="CaracolTVInternacional.co" tvg-logo="https://i.imgur.com/Hpbp2A8.png" group-title="Variedades em espanhol",Caracol TV Internacional | Colômbia
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1042
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iXcvr4W.png" group-title="Variedades em espanhol",CGTN em espanhol | China
+#EXTINF:-1 tvg-id="CGTNSpanish.cn" tvg-logo="https://i.imgur.com/iXcvr4W.png" group-title="Variedades em espanhol",CGTN em espanhol | China
 https://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1vnp5N1.png" group-title="Variedades em espanhol",Demand Africa em espanhol 
 https://demandafrica-samsungmexico.amagi.tv/playlist.m3u8
@@ -4092,7 +4061,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=137
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1099
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ihbU61b.png" group-title="Variedades em inglês",Rcadia - inglês e alemão | Alemanha
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=853
-#EXTINF:-1 tvg-id="Revry.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Bk1bFX8.png" group-title="Variedades em inglês",Revry | EUA
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5ef11487d33ab9004048a1d9" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Bk1bFX8.png" group-title="Variedades em inglês",Revry | EUA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=762
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5ef11487d33ab9004048a1d9" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Bk1bFX8.png" group-title="Variedades em inglês",Revry | EUA 2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=852
@@ -4201,13 +4170,13 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=954
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6WSneZr.png" group-title="Variedades em inglês",YouToo America
 https://thegateway.app/YouToo/YTamerica/playlist.m3u8
 ################ Variedades em italiano ### Variedades em italiano ### Variedades em italiano ### Variedades em italiano ### Variedades em italiano ### Variedades em italiano ### Variedades em italiano ### Variedades em italiano ### Variedades em italiano ### Variedades em italiano ### Variedades em italiano ### Variedades em italiano ### Variedades em italiano ### Variedades em italiano ##############
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sZ4Drnu.png" group-title="Variedades em italiano",Alma TV Food | Itália
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bwfHCGZ.png" group-title="Variedades em italiano",Alma TV Food
 https://promosrl-almatvfood-1-it.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sZ4Drnu.png" group-title="Variedades em italiano",Alma TV Travel | Itália
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bwfHCGZ.png" group-title="Variedades em italiano",Alma TV Travel
 https://promosrl-almatvtravel-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fDGmY7Q.png" group-title="Variedades em italiano",Donna TV | Itália
 https://streaming.softwarecreation.it/DonnaTv/DonnaTv/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fDGmY7Q.png" group-title="Variedades em italiano",Donna TV - Samsung | Itália
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fDGmY7Q.png" group-title="Variedades em italiano",Donna TV | Samsung Itália
 https://promosrl-donnatv-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/05/ESBA33000188W_20210209T093457.png" group-title="Variedades em italiano",Duck TV | Itália
 https://mmm-ducktv-2-it.samsung.wurl.com/manifest/playlist.m3u8
@@ -4230,19 +4199,19 @@ http://livetr.teleromagna.it/teleromagna/live/playlist.m3u8
 #EXTINF:-1 tvg-id="VH1Italia.us" tvg-logo="https://i.imgur.com/NRXoneo.png" group-title="Variedades em italiano",VH1 | Itália
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 ######### variedades em outros idiomas ###################### variedades em outros idiomas ###################### variedades em outros idiomas ###################### variedades em outros idiomas ###################### variedades em outros idiomas ###################### variedades em outros idiomas ###################### variedades em outros idiomas #############
-#EXTINF:-1 tvg-logo="https://i.imgur.com/soKUFs5.png" group-title="Variedades em outros idiomas",1 TV | Armênia
-https://amtvusdvr.tulix.tv/am2abr/tracks-v1a1/mono.m3u8 
+#EXTINF:-1 tvg-id="H1.am" tvg-logo="https://i.imgur.com/soKUFs5.png" group-title="Variedades em outros idiomas",1 TV | Armênia
+https://amtvusdvr.tulix.tv/am2abr/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/600QxyO.png" group-title="Variedades em outros idiomas",ATV | Bélgica em holandês
 http://api.new.livestream.com/accounts/27755193/events/8452381/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sz9L37n.png" group-title="Variedades em outros idiomas",Bel Ros | Belarus
+#EXTINF:-1 tvg-id="BelRos.ru" tvg-logo="https://i.imgur.com/sz9L37n.png" group-title="Variedades em outros idiomas",Bel Ros | Belarus
 https://live3.mediacdn.ru/sr1/tro/playlist.m3u8
 #EXTINF:-1 tvg-id="Channel20.il" tvg-logo="https://i.imgur.com/vxGmKFv.png" group-title="Variedades em outros idiomas",Channel 20 | Israel
 https://dvr.ch20-cdnwiz.com/hls/live_360/index.m3u8
 #EXTINF:-1 tvg-id="5e8c4c3f141f350007936f7d" group-title="Variedades em outros idiomas" tvg-logo="https://images.pluto.tv/channels/5e8c4c3f141f350007936f7d/colorLogoPNG.png",Chefkoch | Pluto TV Alemanha
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e8c4c3f141f350007936f7d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iXcvr4W.png" group-title="Variedades em outros idiomas",CGTN em árabe | China
+#EXTINF:-1 tvg-id="CGTNArabic.cn" tvg-logo="https://i.imgur.com/iXcvr4W.png" group-title="Variedades em outros idiomas",CGTN em árabe | China
 https://livear.cgtn.com/1000a/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iXcvr4W.png" group-title="Variedades em outros idiomas",CGTN em russo | China
+#EXTINF:-1 tvg-id="CGTNRussian.cn" tvg-logo="https://i.imgur.com/iXcvr4W.png" group-title="Variedades em outros idiomas",CGTN em russo | China
 https://liveru.cgtn.com/1000r/prog_index.m3u8
 #EXTINF:-1 group-title="Variedades em outros idiomas" tvg-logo="https://i.imgur.com/CsHdYhG.png",Deutsche Welle - DW em árabe 
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/stream04/streamPlaylist.m3u8
@@ -4254,8 +4223,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dc280c9a
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=747
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rwPYEK7.png" group-title="Variedades em outros idiomas",HK Open TV | Hong Kong - China 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=746
-#EXTINF:-1 tvg-id="Indosiar.id" tvg-logo="https://i.imgur.com/PxTns91.png" group-title="Variedades em outros idiomas",Indosiar | Indonésia
-https://cdn4.mbahnunungonline.net/m3u8/id/575eeb9f08dc8db.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SccZK6g/JOJ.png" group-title="Variedades em outros idiomas",JoJ | Eslováquia 
 http://nn.geo.joj.sk/hls/joj-720.m3u8
 #EXTINF:-1 group-title="Variedades em outros idiomas" tvg-logo="https://i.ibb.co/MNRvsnZ/JOJ-Family.jpg",JoJ Family | Eslováquia 
@@ -4270,10 +4237,6 @@ https://d2rwmwucnr0d10.cloudfront.net/live.m3u8
 https://5afd52b55ff79.streamlock.net/MISTV/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="Moskva24.ru" tvg-logo="https://i.imgur.com/YyV6wW5.png" group-title="Variedades em outros idiomas",Moscow 24 | Rússia
 https://radio-live-mg.rtr-vesti.ru/hls/moscow_24/playlist.m3u8
-#EXTINF:-1 tvg-id="MyTV.id" group-title="Variedades em outros idiomas" tvg-logo="https://i.imgur.com/s7hslvv.png",MyTV | Indonésia
-https://cdn4.mbahnunungonline.net/m3u8/id/a6109060c7f55cc.m3u8
-#EXTINF:-1 tvg-id="OChannel.id" tvg-logo="https://i.imgur.com/svs3bzs.png" group-title="Variedades em outros idiomas",O Channel | Indonésia
-https://iptv.mwafa.net/vidio/206/index.m3u8?token=1999
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZjBtL6b.png" group-title="Variedades em outros idiomas",On Biz | Vietnã
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1364
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eDC7kr0.png" group-title="Variedades em outros idiomas",On Sports | Vietnã
@@ -4292,8 +4255,6 @@ https://hls.rt.com/hls/rtdru.m3u8
 https://hls.rt.com/hls/rtdru360.m3u8
 #EXTINF:-1 tvg-id="RTDoc.ru" tvg-logo="https://i.imgur.com/KgzDPn4.png" group-title="Variedades em outros idiomas",RT Doc em russo - baixa definição | Rússia
 https://hls.rt.com/hls/rtdru240.m3u8
-#EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://i.imgur.com/gzbI9Hl.png" group-title="Variedades em outros idiomas",SCTV | Indonésia
-https://cdn4.mbahnunungonline.net/m3u8/id/2b8fc230e8f847a.m3u8
 #EXTINF:-1 tvg-id="TawafTV.id" tvg-logo="https://i.imgur.com/lmspisP.png" group-title="Variedades em outros idiomas",Tawaf TV | Indonésia
 https://dgbgs3f3e3nka.cloudfront.net/hls/hanyacoba.m3u8
 #EXTINF:-1 tvg-id="TeleBarn.ch" tvg-logo="https://i.imgur.com/j1Pkdfe.png" group-title="Variedades em outros idiomas",TeleBärn | Suiça - em alemão
