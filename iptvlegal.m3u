@@ -1,5 +1,5 @@
 #EXTM3U tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml" url-tvg="https://i.mjh.nz/Plex/all.xml" tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/all.xml" tvg-url="https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml"
-### Editora: Helen Fernanda ### www.meutedio.com.br ### Contato e Pix: meutedio@mail.com ############
+### Editora: Helen Fernanda ### Dicas de EPG: www.meutedio.com.br/iptv ### Contato e Pix: meutedio@mail.com ############
 ##### Brasil: cinema ############# Brasil: cinema ############# Brasil: cinema ############# Brasil: cinema ############# Brasil: cinema ############# Brasil: cinema ############# Brasil: cinema ############# Brasil: cinema ############# Brasil: cinema ######
 #EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://images.pluto.tv/channels/61b790b985706b00072cb797/colorLogoPNG.png" group-title="Brasil: cinema em português",Adrenalina Freezone | Pluto TV Brasil
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61b790b985706b00072cb797/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
@@ -66,8 +66,34 @@ https://stmv1.srvif.com/gospelf/gospelf/chunklist_w1321445886.m3u8
 https://stmv1.srvstm.com/gmusic/gmusic/chunklist_w637142895.m3u8
 #EXTINF:-1 tvg-id="IdealTV.br" tvg-logo="https://i.imgur.com/xin86F2.png" tvg-shift="0" group-title="Brasil: cristianismo em português",Ideal TV | Brasil
 https://origin-02.nxplay.com.br/IDEAL_TV_HD_01_/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://www.igreja-online.tv/img/logo.png" group-title="Brasil: cristianismo em português",Igreja Online | Portugal 
+http://195.22.11.11:1935/igronline/igronline2/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://kktv.co.ao/wp-content/uploads/2021/05/600x600-kktvAngola-1.png" group-title="Brasil: cristianismo em português",KKTV | Angola
+http://195.22.22.66:1935/kktv_ang_apps/kktv_ang_pt1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://vipotv.com/wp-content/uploads/2021/08/Assistir-KURIAKOS-CINE-Ao-Vivo-live-vipotv.png" group-title="Brasil: cristianismo em português",Kuriakos Cine | Portugal
+http://c2.manasat.com:1935/kcine/kcine1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zl40NYi.jpg" group-title="Brasil: cristianismo em português",Kuriakos Music | Portugal
+http://c2.manasat.com:1935/kmusic/kmusic1/playlist.m3u8
 #EXTINF:-1 tvg-id="KuriakosTV.pt" tvg-logo="https://cdn.teleon.tv/logo/kuriakos_tv_pt.png" group-title="Brasil: cristianismo em português",Kuriakos TV | Portugal 
 http://195.22.11.11:1935/ktv/ktv2/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvmana1.com/wp-content/uploads/2020/04/logo_tv_mana_1.png" group-title="Brasil: cristianismo em português",Maná 1 | Portugal
+http://195.22.11.11:1935/tvmana/tvmana2/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://tvmana2.com/wp-content/plugins/phastpress/phast.php/c2VydmljZT1pbWFnZXMmc3JjPWh0dHAlM0ElMkYlMkZ0dm1hbmEyLmNvbSUyRndwLWNvbnRlbnQlMkZ1cGxvYWRzJTJGMjAyMCUyRjA0JTJGTE9HT19UVl9NQU5BMi5wbmcmY2FjaGVNYXJrZXI9MTU4NzIyMjU3NS05OTgxJnRva2VuPWJjY2I4OTg4ZmE3OTAxY2Y.q.png" group-title="Brasil: cristianismo em português",Maná 2 | Portugal
+http://195.22.11.11:1935/tvmana2/tvmana2_1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://tvmana3.com/wp-content/uploads/2020/04/LOGO_TV_MANA3-1.png" group-title="Brasil: cristianismo em português",Maná 3 | Portugal
+http://195.22.11.11:1935/tvmana3/tvmana3_1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://tvmana-argentina.ar/wp-content/uploads/2020/06/LOGO_TV_MANA_ARGENTINA_V1.png" group-title="Brasil: cristianismo em português",Maná Argentina | português e espanhol
+http://csvl03.manasat.com:1935/tvar/tvmanaar2/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://tvmanabrasil.com/wp-content/uploads/2020/04/LOGO_TV_MANA_BRASIL_V4-396x108.png" group-title="Brasil: cristianismo em português",Maná Brasil | Portugal
+http://195.22.11.11:1935/tvmanabrasil/tvmanabrasil_2/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://tvmana-english.ar/wp-content/uploads/2020/05/LOGO_TV_MANA_ENGLISH_V1.png" group-title="Brasil: cristianismo em português",Maná English | português e inglês
+http://195.22.11.11:1935/tvmana-english/english2/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://tvmana-hindi.com/wp-content/uploads/2020/07/Logo_Mana_HINDI_V1.png" group-title="Brasil: cristianismo em português",Maná Hindi | português e hindi
+http://195.22.11.11:1935/tvmana-english/english2/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://tvmana-mocambique.com/wp-content/uploads/2020/06/LOGO_TV_MOZ.png" group-title="Brasil: cristianismo em português",Maná Moçambique | Portugal
+http://streamspub.manasat.com:1935/tvmz/tvmz2/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://tvmanarusskii.ru/wp-content/uploads/2020/05/265x145.png-russo-novo.png" group-title="Brasil: cristianismo em português",Maná Rússia | português e russo
+http://195.22.11.11:1935/tvmana-ru-ua/tvmana-ru-ua2/playlist.m3u8
 #EXTINF:-1 tvg-id="RedeFamilia.br" tvg-logo="https://i.imgur.com/RCPEpPc.png" group-title="Brasil: cristianismo em português",Rede Família
 https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RedeGospel.br" tvg-logo="https://i.imgur.com/H6oHlis.png" group-title="Brasil: cristianismo em português",Rede Gospel
@@ -84,8 +110,6 @@ https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/master.m3u8
 https://59fb88a1b1108.streamlock.net/pucgoias/aovivo/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hCFVc5S.jpg" group-title="Brasil: cristianismo em português",TV Fátima | Portugal
 https://streamer-b02.videos.sapo.pt/live/santuario.stream/livestream.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ycTr2sk.png" group-title="Brasil: cristianismo em português",TV Maná 1 | Portugal
-http://195.22.11.11:1935/tvmana/tvmana2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H5zWaCa.png" group-title="Brasil: cristianismo em português",TV Pai Eterno, Goiás
 https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/master.m3u8
 ######################### Brasil: educativos e documentários ############## Brasil: educativos e documentários ############## Brasil: educativos e documentários ############## Brasil: educativos e documentários ############## Brasil: educativos e documentários ########
@@ -101,14 +125,12 @@ https://tv.unisc.br/hls/test.m3u8
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dUdZVhT.png" group-title="Brasil: educativos e documentários",Phoenix TV | Brasil
 http://video01.soultv.com.br/phoenixtv/phoenixtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QwPiPlI.png" group-title="Brasil: educativos e documentários",Rakuten Documentários | Portugal
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QwPiPlI.png" group-title="Brasil: educativos e documentários",Rakuten Documentários | português e inglês
 https://rakuten-documentaries-14-pt.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RedeMinas.br" group-title="Brasil: educativos e documentários" tvg-logo="https://pbs.twimg.com/profile_images/1151111400615550976/MQW6Uj8p.png",Rede Minas | Brasil
 https://v4-slbps-sambavideos.akamaized.net/live/3282,8114,ec4b5a296d97fa99bf990662f5b4f8e1;base64np;Mc8VDxqNjXKCAf8!/amlst:Mc_tFgfGiHOdQXPB/livestream.m3u8?sts=st=1649541316~exp=1649628316~acl=/*~hmac=c2edfa47609fd5705a2f8f70ad1f8bd47d3760cddbda48d7c3708b49435f5d73
-#EXTINF:-1 tvg-id="SESCTV.br" group-title="Brasil: educativos e documentários" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCQlj4F0w8sO6hAPUKpnxfh5GOGxG9XEzi9obcZVtYWwuDRf3otJWvZ_YQF_xbnaovDaY&usqp=CAU",Sesc TV - 1080 | Brasil
-https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2c3e9324497d5ff/video/0c884f97-4264-446f-abcd-03aa46089a96_index1080p.m3u8
-#EXTINF:-1 tvg-id="SESCTV.br" group-title="Brasil: educativos e documentários" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCQlj4F0w8sO6hAPUKpnxfh5GOGxG9XEzi9obcZVtYWwuDRf3otJWvZ_YQF_xbnaovDaY&usqp=CAU",Sesc TV - 720 | Brasil
-https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2c3e9324497d5ff/video/0c884f97-4264-446f-abcd-03aa46089a96_index720p.m3u8
+#EXTINF:-1 tvg-id="SESCTV.br" group-title="Brasil: educativos e documentários" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCQlj4F0w8sO6hAPUKpnxfh5GOGxG9XEzi9obcZVtYWwuDRf3otJWvZ_YQF_xbnaovDaY&usqp=CAU",Sesc TV | Brasil
+https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2c3e9324497d5ff/video/621b6f2c-2dc6-41f1-9302-f9583c96ee31_index1080p.m3u8
 #EXTINF:-1 tvg-id="6014761dfb91870008ea6463" tvg-logo="https://images.pluto.tv/channels/6014761dfb91870008ea6463/colorLogoPNG.png" group-title="Brasil: educativos e documentários",Turbo | Pluto TV Brasil
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6014761dfb91870008ea6463/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="TVEBahia.br" tvg-logo="https://i.imgur.com/ewJjke2.jpg" group-title="Brasil: educativos e documentários",TV Brasil | TVE Bahia
@@ -206,6 +228,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/620ff46e0
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12141b146d760007934ea7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="5f1214a637c6fd00079c652f" tvg-logo="https://i.imgur.com/g505N5r.png" group-title="Brasil: infanto-juvenis",Kids | Pluto TV Brasil 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1214a637c6fd00079c652f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-logo="http://kuriakos.com/wp-content/uploads/2017/07/Kuriakos_kids_V2.jpg" group-title="Brasil: infanto-juvenis",Kuriakos Kids | Portugal 
+http://c2.manasat.com:1935/kkids/kkids2/chunklist.m3u8
 #EXTINF:-1 tvg-id="5f6df5a173d7340007c559f7" tvg-logo="https://i.imgur.com/046zDW4.png" group-title="Brasil: infanto-juvenis",Naruto | Pluto TV Brasil 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f6df5a173d7340007c559f7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="5f12151794c1800007a8ae63" tvg-logo="https://i.imgur.com/z2Fwd4q.png" group-title="Brasil: infanto-juvenis",Nick Clássico | Pluto TV Brasil 
@@ -522,6 +546,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1ac2591
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="609059dc63be6e0007b4eca6" tvg-logo="http://images.pluto.tv/channels/609059dc63be6e0007b4eca6/colorLogoPNG.png" group-title="Cinema em espanhol",Cine Clásico | Pluto TV Argentina
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609059dc63be6e0007b4eca6/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="61373bb45168fe000773eecd" tvg-logo="http://images.pluto.tv/channels/61373bb45168fe000773eecd/colorLogoPNG.png" group-title="Cinema em espanhol",Cine Clásico | Pluto TV Espanha
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61373bb45168fe000773eecd/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="5dcdde78f080d900098550e4" tvg-logo="https://i.imgur.com/TXL1q7B.png" group-title="Cinema em espanhol",Cine Comedia | Pluto TV Argentina
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcdde78f080d900098550e4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="5f1ac8099c49f600076579b2" tvg-logo="http://images.pluto.tv/channels/5f1ac8099c49f600076579b2/colorLogoPNG.png" group-title="Cinema em espanhol",Cine Comedia | Pluto TV Espanha
@@ -578,14 +604,21 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ffe17e3d
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e972a21ad709d00074195ba/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="5fcea359e533cb0007215c71" tvg-logo="http://images.pluto.tv/channels/5fcea359e533cb0007215c71/colorLogoPNG.png" group-title="Cinema em espanhol",FilmStream | Pluto TV Argentina
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fcea359e533cb0007215c71/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="60cc807324d60a0007708dc8" tvg-logo="http://images.pluto.tv/channels/60cc807324d60a0007708dc8/colorLogoPNG.png" group-title="Cinema em espanhol",Indies | Pluto TV Espanha
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60cc807324d60a0007708dc8/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K4pTxtQ.png" group-title="Cinema em espanhol",La Corriente
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=499
 #EXTINF:-1 tvg-id="5f77977bd924d80007eee60c" tvg-logo="http://images.pluto.tv/channels/5f77977bd924d80007eee60c/colorLogoPNG.png" group-title="Cinema em espanhol",Mission Impossible | EUA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f77977bd924d80007eee60c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="5defde6d6c07b50009cf0757" tvg-logo="http://images.pluto.tv/channels/5defde6d6c07b50009cf0757/colorLogoPNG.png" group-title="Cinema em espanhol",Nuestro Cine | Pluto TV Argentina
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5defde6d6c07b50009cf0757/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f5132e362fe160040f26c15" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/runtime-espanol.png" group-title="Cinema em espanhol",Runtime Español
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f5132e362fe160040f26c15" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/runtime-espanol.png" group-title="Cinema em espanhol",Runtime Espanhol | Plex
 https://ammo-espanol-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-ammo-espanol-plex/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="6086d3f420fc8500075f8dbf" tvg-logo="http://images.pluto.tv/channels/6086d3f420fc8500075f8dbf/colorLogoPNG.png" group-title="Cinema em espanhol",Runtime | Pluto TV Espanha
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6086d3f420fc8500075f8dbf/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="5cf96b1c4f1ca3f0629f4bf0" tvg-logo="http://images.pluto.tv/channels/5cf96b1c4f1ca3f0629f4bf0/colorLogoPNG.png" group-title="Cinema em espanhol",Séptimo Arte | Pluto TV EUA
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cf96b1c4f1ca3f0629f4bf0/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
 #EXTINF:-1 tvg-id="5cf96b1c4f1ca3f0629f4bf0" tvg-logo="http://images.pluto.tv/channels/5cf96b1c4f1ca3f0629f4bf0/colorLogoPNG.png" group-title="Cinema em espanhol",Séptimo Arte | Pluto TV EUA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cf96b1c4f1ca3f0629f4bf0/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="5f2817d3d7573a00080f9175" tvg-logo="https://i.imgur.com/959gesF.png" group-title="Cinema em espanhol",Sci-Fi | Pluto TV Argentina
@@ -1014,10 +1047,16 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dd8364ea
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e94cd036cc69d0007e8a1ba/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="DeutscheWelleES.de" tvg-logo="https://i.imgur.com/CsHdYhG.png" group-title="Documentários em espanhol",Deutsche Welle - DW em espanhol
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
+#EXTINF:-1 tvg-id="61cd78920b90cb0007e28231" tvg-logo="https://images.pluto.tv/channels/61cd78920b90cb0007e28231/colorLogoPNG.png" group-title="Documentários em espanhol",Documentales | Pluto TV Espanha
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61cd78920b90cb0007e28231/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="61922be835f3910007fc58f6" tvg-logo="https://images.pluto.tv/channels/61922be835f3910007fc58f6/colorLogoPNG.png" group-title="Documentários em espanhol",En el punto de mira | Pluto TV Espanha
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61922be835f3910007fc58f6/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="5de5758e1a30dc00094fcd6c" tvg-logo="https://images.pluto.tv/channels/5de5758e1a30dc00094fcd6c/colorLogoPNG.png" group-title="Documentários em espanhol",Historia | Pluto TV Argentina
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5de5758e1a30dc00094fcd6c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="62154548a2be360007cb02f0" tvg-logo="https://images.pluto.tv/channels/62154548a2be360007cb02f0/colorLogoPNG.png" group-title="Documentários em espanhol",Ice Pilots | Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62154548a2be360007cb02f0/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="61b9edc4a4ca6100070bb407" tvg-logo="https://images.pluto.tv/channels/61b9edc4a4ca6100070bb407/colorLogoPNG.png" group-title="Documentários em espanhol",Ice Pilots | Pluto TV Espanha
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61b9edc4a4ca6100070bb407/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="5dcde27ffae9520009c0c75a" tvg-logo="https://i.imgur.com/lupvja2.png" group-title="Documentários em espanhol",Investiga | Pluto TV Argentina
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcde27ffae9520009c0c75a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="602ba1cfb386d30007aecbbe" tvg-logo="http://images.pluto.tv/channels/602ba1cfb386d30007aecbbe/colorLogoPNG.png" group-title="Documentários em espanhol",Investiga | Pluto TV Espanha
@@ -1030,8 +1069,10 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e67d41b9
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1acbed25948a0007ffbe65/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="5f1acba0d1f6340007db8843" tvg-logo="http://images.pluto.tv/channels/5f1acba0d1f6340007db8843/colorLogoPNG.png" group-title="Documentários em espanhol",Los nuevos detectives | Espanha
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1acba0d1f6340007db8843/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="ESBA22000102A" tvg-logo="https://i.imgur.com/gHOnUfn.png" group-title="Documentários em espanhol",Love Nature em espanhol 
+#EXTINF:-1 tvg-id="ESBA22000102A" tvg-logo="https://i.imgur.com/gHOnUfn.png" group-title="Documentários em espanhol",Love Nature
 https://bamus-spa-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="60dd6b1da79e4d0007309455" tvg-logo="http://images.pluto.tv/channels/60dd6b1da79e4d0007309455/colorLogoPNG.png" group-title="Documentários em espanhol",Love Nature | Pluto TV Espanha
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dd6b1da79e4d0007309455/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="5dcde2f53449c50009b2b4dc" tvg-logo="https://i.imgur.com/kExdKzl.png" group-title="Documentários em espanhol",Misterios | Pluto TV Argentina
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcde2f53449c50009b2b4dc/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="5f230e416b68ff00075b0139" tvg-logo="https://i.imgur.com/8ao4Zey.png" group-title="Documentários em espanhol",Misterios Medicos | Argentina
@@ -1050,12 +1091,16 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60511efd7
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dd85eac039bba0009e86d1d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="5d8d10ce06a9665fe54bf74a" tvg-logo="http://images.pluto.tv/channels/5d8d10ce06a9665fe54bf74a/colorLogoPNG.png" group-title="Documentários em espanhol",Naturaleza | Pluto TV EUA 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d10ce06a9665fe54bf74a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="612ce5214bb5790007ad3016" tvg-logo="https://images.pluto.tv/channels/612ce5214bb5790007ad3016/colorLogoPNG.png" group-title="Documentários em espanhol",Paranormal | Pluto TV Espanha
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/612ce5214bb5790007ad3016/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="5ea71d48af1d0b0007d837f4" tvg-logo="https://i.imgur.com/aS2Zsza.png" group-title="Documentários em espanhol",The New Detectives | Argentina
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ea71d48af1d0b0007d837f4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="5f4d882d5233170007ee880e" tvg-logo="http://images.pluto.tv/channels/5f4d882d5233170007ee880e/colorLogoPNG.png" group-title="Documentários em espanhol",Unsovled Mysteries en Español | EUA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4d882d5233170007ee880e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="5dcddfbdb7cf0e0009ae09ea" tvg-logo="http://images.pluto.tv/channels/5dcddfbdb7cf0e0009ae09ea/colorLogoPNG.png" group-title="Documentários em espanhol",Viajes | Pluto TV Argentina 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcddfbdb7cf0e0009ae09ea/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="60c343ad476ec00007c2ec1a" tvg-logo="http://images.pluto.tv/channels/60c343ad476ec00007c2ec1a/colorLogoPNG.png" group-title="Documentários em espanhol",Viajes | Pluto TV Espanha
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60c343ad476ec00007c2ec1a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="5df265697ec3510009df1ef0" tvg-logo="https://i.imgur.com/8j8RyeN.png" group-title="Documentários em espanhol",Vida Real | Pluto TV Argentina
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5df265697ec3510009df1ef0/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #### Documentários em francês ######### ############ ####### ######## ######## ######## ######## ######## Documentários em francês ############ Documentários em francês ########### ############ Documentários em francês ##################
@@ -1214,7 +1259,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d4af2ffa
 https://pbs-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="USBB800001O7" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/04/USBB800001O7_20210525T051730.png" group-title="Documentários em inglês",PBS Digital Studios | EUA 
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-samsungtvplus-pbs/CDN/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QwPiPlI.png" group-title="Documentários em inglês",Rakuten Documentários | Portugal
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QwPiPlI.png" group-title="Documentários em inglês",Rakuten Documentários | português e inglês
 https://rakuten-documentaries-14-pt.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="realstories.au" tvg-logo="https://i.imgur.com/KOkWP6i.jpg" group-title="Documentários em inglês",Real Stories | Austrália
 https://lds-realstories-samsungau.amagi.tv/playlist.m3u8
@@ -1289,35 +1334,37 @@ http://xlpore-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="USBA430000220" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/04/60/USBA430000220_20210525T051550.png" group-title="Documentários em inglês",Xplore | EUA 2
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-xplore-samsungus/playlist.m3u8
 ################# Esportes em alemão ################### Esportes em alemão ################### Esportes em alemão ################### Esportes em alemão ################### Esportes em alemão ################### Esportes em alemão ###################
-#EXTINF:-1 tvg-id="5be1be871843b56328bc3ef1" group-title="Esportes em alemão" tvg-logo="https://images.pluto.tv/channels/5be1be871843b56328bc3ef1/colorLogoPNG.png",Action Sports | Pluto TV Alemanha
+#EXTINF:-1 tvg-id="5be1be871843b56328bc3ef1" tvg-logo="https://images.pluto.tv/channels/5be1be871843b56328bc3ef1/colorLogoPNG.png" group-title="Esportes em alemão",Action Sports | Pluto TV Alemanha
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5be1be871843b56328bc3ef1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="5f760c3d41aa2d0007bfde19" group-title="Esportes em alemão" tvg-logo="https://images.pluto.tv/channels/5f760c3d41aa2d0007bfde19/colorLogoPNG.png",Auto Motor Sport | Pluto TV Alemanha
+#EXTINF:-1 tvg-id="5f760c3d41aa2d0007bfde19" tvg-logo="https://images.pluto.tv/channels/5f760c3d41aa2d0007bfde19/colorLogoPNG.png" group-title="Esportes em alemão",Auto Motor Sport | Pluto TV Alemanha
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f760c3d41aa2d0007bfde19/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="5ad9bda9fd87eb3a2717cce0" group-title="Esportes em alemão" tvg-logo="https://images.pluto.tv/channels/5ad9bda9fd87eb3a2717cce0/colorLogoPNG.png",Fight | Pluto TV Alemanha
+#EXTINF:-1 tvg-id="5ad9bda9fd87eb3a2717cce0" tvg-logo="https://images.pluto.tv/channels/5ad9bda9fd87eb3a2717cce0/colorLogoPNG.png" group-title="Esportes em alemão",Fight | Pluto TV Alemanha
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad9bda9fd87eb3a2717cce0/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="5e8b0c92783b3f0007a4c7df" group-title="Esportes em alemão" tvg-logo="https://images.pluto.tv/channels/5e8b0c92783b3f0007a4c7df/colorLogoPNG.png",Fitness | Pluto TV Alemanha
+#EXTINF:-1 tvg-id="5e8b0c92783b3f0007a4c7df" tvg-logo="https://images.pluto.tv/channels/5e8b0c92783b3f0007a4c7df/colorLogoPNG.png" group-title="Esportes em alemão",Fitness | Pluto TV Alemanha
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e8b0c92783b3f0007a4c7df/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="5ad9be1be738977e2c312134" group-title="Esportes em alemão" tvg-logo="https://images.pluto.tv/channels/5ad9be1be738977e2c312134/colorLogoPNG.png",Glory Kickboxing | Pluto TV Alemanha
+#EXTINF:-1 tvg-id="5ad9be1be738977e2c312134" tvg-logo="https://images.pluto.tv/channels/5ad9be1be738977e2c312134/colorLogoPNG.png" group-title="Esportes em alemão",Glory Kickboxing | Pluto TV Alemanha
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad9be1be738977e2c312134/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="6093f2ae4dd5ab0007d1ff9d" group-title="Esportes em alemão" tvg-logo="https://images.pluto.tv/channels/6093f2ae4dd5ab0007d1ff9d/colorLogoPNG.png",Motorvision | Pluto TV Alemanha
+#EXTINF:-1 tvg-id="6093f2ae4dd5ab0007d1ff9d" tvg-logo="https://images.pluto.tv/channels/6093f2ae4dd5ab0007d1ff9d/colorLogoPNG.png" group-title="Esportes em alemão",Motorvision | Pluto TV Alemanha
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6093f2ae4dd5ab0007d1ff9d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="5ad9bb941b95267e225e59c2" group-title="Esportes em alemão" tvg-logo="https://images.pluto.tv/channels/5ad9bb941b95267e225e59c2/colorLogoPNG.png",Sports | Pluto TV Alemanha 
+#EXTINF:-1 tvg-id="5ad9bb941b95267e225e59c2" tvg-logo="https://images.pluto.tv/channels/5ad9bb941b95267e225e59c2/colorLogoPNG.png" group-title="Esportes em alemão",Sports | Pluto TV Alemanha 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad9bb941b95267e225e59c2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="5e1452156c07b50009d0230e" group-title="Esportes em alemão" tvg-logo="https://images.pluto.tv/channels/5e1452156c07b50009d0230e/colorLogoPNG.png",Strongman | Pluto TV Alemanha
+#EXTINF:-1 tvg-id="5e1452156c07b50009d0230e" tvg-logo="https://images.pluto.tv/channels/5e1452156c07b50009d0230e/colorLogoPNG.png" group-title="Esportes em alemão",Strongman | Pluto TV Alemanha
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e1452156c07b50009d0230e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="5d1ce51dbaca4afdb7abfe5f" group-title="Esportes em alemão" tvg-logo="https://images.pluto.tv/channels/5d1ce51dbaca4afdb7abfe5f/colorLogoPNG.png",Surf | Pluto TV Alemanha 
+#EXTINF:-1 tvg-id="5d1ce51dbaca4afdb7abfe5f" tvg-logo="https://images.pluto.tv/channels/5d1ce51dbaca4afdb7abfe5f/colorLogoPNG.png" group-title="Esportes em alemão",Surf | Pluto TV Alemanha 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d1ce51dbaca4afdb7abfe5f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="5dc2a961bac1f70009ca7524" group-title="Esportes em alemão" tvg-logo="https://images.pluto.tv/channels/5dc2a961bac1f70009ca7524/colorLogoPNG.png",Unbeaten Esports | Pluto TV Alemanha
+#EXTINF:-1 tvg-id="5dc2a961bac1f70009ca7524" tvg-logo="https://images.pluto.tv/channels/5dc2a961bac1f70009ca7524/colorLogoPNG.png" group-title="Esportes em alemão",Unbeaten Esports | Pluto TV Alemanha
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dc2a961bac1f70009ca7524/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="61b33085897b9d000702b72e" group-title="Esportes em alemão" tvg-logo="https://images.pluto.tv/channels/61b33085897b9d000702b72e/colorLogoPNG.png",Waidwerk Free | Pluto TV Alemanha
+#EXTINF:-1 tvg-id="61b33085897b9d000702b72e" tvg-logo="https://images.pluto.tv/channels/61b33085897b9d000702b72e/colorLogoPNG.png" group-title="Esportes em alemão",Waidwerk Free | Pluto TV Alemanha
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61b33085897b9d000702b72e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="5e8b0d10e186bf0007e2b100" group-title="Esportes em alemão" tvg-logo="https://images.pluto.tv/channels/5e8b0d10e186bf0007e2b100/colorLogoPNG.png",Yoga | Pluto TV Alemanha
+#EXTINF:-1 tvg-id="5e8b0d10e186bf0007e2b100" tvg-logo="https://images.pluto.tv/channels/5e8b0d10e186bf0007e2b100/colorLogoPNG.png" group-title="Esportes em alemão",Yoga | Pluto TV Alemanha
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e8b0d10e186bf0007e2b100/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 ############### ESPORTES EM ESPANHOL ############### ESPORTES EM ESPANHOL ############### ESPORTES EM ESPANHOL ############### ESPORTES EM ESPANHOL ############### ESPORTES EM ESPANHOL ############### ESPORTES EM ESPANHOL ############### ESPORTES EM ESPANHOL ##########
 #EXTINF:-1 tvg-id="5f1ac8588734f8000823b7de" tvg-logo="http://images.pluto.tv/channels/5f1ac8588734f8000823b7de/colorLogoPNG.png" group-title="Esportes em espanhol",Action Sports | Pluto TV Espanha 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1ac8588734f8000823b7de/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="5f4d1697f10a0e000798ed8d" tvg-logo="https://i.imgur.com/NtMtm82.png" group-title="Esportes em espanhol",All Elite Wrestling | Argentina 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4d1697f10a0e000798ed8d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="60d356a534f63f000850cdd7" tvg-logo="http://images.pluto.tv/channels/60d356a534f63f000850cdd7/colorLogoPNG.png" group-title="Esportes em espanhol",BBC Top Gear | Pluto TV Espanha
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60d356a534f63f000850cdd7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="60492fdd9989d30007ccd30a" tvg-logo="http://images.pluto.tv/channels/60492fdd9989d30007ccd30a/colorLogoPNG.png" group-title="Esportes em espanhol",beIN Sports Xtra en español | EUA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60492fdd9989d30007ccd30alivestitch/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AfUvEG1.png" group-title="Esportes em espanhol",Canela Sports
@@ -1330,8 +1377,12 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcde07af
 https://directes-tv-int.ccma.cat/int/ngrp:es3_web/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GnKor3Y.png" group-title="Esportes em espanhol",Esport3 Exclusiu Internet em catalão
 https://directes-tv-int.ccma.cat/int/ngrp:oca2_web/master.m3u8
+#EXTINF:-1 tvg-id="6140a074a99e79000738162a" tvg-logo="http://images.pluto.tv/channels/6140a074a99e79000738162a/colorLogoPNG.png" group-title="Esportes em espanhol",Fitness | Pluto TV Espanha
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6140a074a99e79000738162a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="6144d313b34fbf0007107714" tvg-logo="http://images.pluto.tv/channels/6144d313b34fbf0007107714/colorLogoPNG.png" group-title="Esportes em espanhol",Fuel TV | Pluto TV Argentina
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6144d313b34fbf0007107714/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="60f1673d0e4370000784dc61" tvg-logo="http://images.pluto.tv/channels/60f1673d0e4370000784dc61/colorLogoPNG.png" group-title="Esportes em espanhol",Fuel TV | Pluto TV Espanha
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60f1673d0e4370000784dc61/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="5e3ddd1a3ef73b00091d5779" tvg-logo="https://i.imgur.com/Ct12Jh5.png" group-title="Esportes em espanhol",Fútbol Para Fans | Argentina 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e3ddd1a3ef73b00091d5779/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="GolTV.us" tvg-logo="https://i.imgur.com/V6bykuf.png" group-title="Esportes em espanhol",Gol TV | inglês e espanhol
@@ -1340,6 +1391,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1090
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f99a772c54853000797bf18/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="5c01df1759ee03633e7b272c" tvg-logo="http://images.pluto.tv/channels/5c01df1759ee03633e7b272c/colorLogoPNG.png" group-title="Esportes em espanhol",Lucha Libre AAA | EUA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c01df1759ee03633e7b272c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="6080345ebb49b90007ce0baf" tvg-logo="http://images.pluto.tv/channels/6080345ebb49b90007ce0baf/colorLogoPNG.png" group-title="Esportes em espanhol",Motor | Pluto TV Espanha
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6080345ebb49b90007ce0baf/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/60817e1aa6997500072d0d6d/colorLogoPNG.png" group-title="Esportes em espanhol",Motorvision
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=757
 #EXTINF:-1 tvg-id="60e5ea9a9bb4200008376f76" tvg-logo="http://images.pluto.tv/channels/60e5ea9a9bb4200008376f76/colorLogoPNG.png" group-title="Esportes em espanhol",Motorvision | Pluto TV Argentina
@@ -1352,6 +1405,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1113
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1115
 #EXTINF:-1 tvg-id="5dd6dc7480e3550009133d4a" tvg-logo="https://i.imgur.com/la5l80U.png" group-title="Esportes em espanhol",Velocidad​ | Pluto TV Argentina
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dd6dc7480e3550009133d4a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="6080381ab7c9ea00074ec64c" tvg-logo="http://images.pluto.tv/channels/6080381ab7c9ea00074ec64c/colorLogoPNG.png" group-title="Esportes em espanhol",World Poker Tour | Pluto TV Espanha
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6080381ab7c9ea00074ec64c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 ################# Esportes em francês ################# Esportes em francês ################# Esportes em francês ################# Esportes em francês ################# Esportes em francês ################# Esportes em francês ################# Esportes em francês ######
 #EXTINF:-1 tvg-id="5f8ed327f9e9b0000761141e" tvg-logo="http://images.pluto.tv/channels/5f8ed327f9e9b0000761141e/colorLogoPNG.png" group-title="Esportes em francês",Êxtreme | Pluto TV França
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed327f9e9b0000761141e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
@@ -1855,6 +1910,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ffcc21a4
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cf96dad1652631e36d43320/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="61099f2b40d0640007fc5aa2" tvg-logo="https://images.pluto.tv/channels/61099f2b40d0640007fc5aa2/colorLogoPNG.png" group-title="Humor e pets em espanhol",El Encantador de Perros | Pluto TV Argentina
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61099f2b40d0640007fc5aa2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="60e45687313c5f0007bc8e94" tvg-logo="https://images.pluto.tv/channels/60e45687313c5f0007bc8e94/colorLogoPNG.png" group-title="Humor e pets em espanhol",El Encantador de Perros | Pluto TV Espanha
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60e45687313c5f0007bc8e94/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="5ebaccf1734aaf0007142c86" tvg-logo="https://i.imgur.com/EXYSndm.png" group-title="Humor e pets em espanhol",FailArmy | Argentina
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ebaccf1734aaf0007142c86/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="5f1abf5fafb5ee0007d4d0ca" tvg-logo="http://images.pluto.tv/channels/5f1abf5fafb5ee0007d4d0ca/colorLogoPNG.png" group-title="Humor e pets em espanhol",FailArmy | Espanha 
@@ -1863,28 +1920,32 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1abf5fa
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e8397936791b30007ebb5a7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OYTYSD9.png" group-title="Humor e pets em espanhol",I Love Stand Up | Argentina
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1219
-#EXTINF:-1 tvg-id="5efb8ce2e426140007c78fd1" tvg-logo="http://images.pluto.tv/channels/5efb8ce2e426140007c78fd1/colorLogoPNG.png" group-title="Humor e pets em espanhol",MTV Animaciones | Argentina
+#EXTINF:-1 tvg-id="60a286daf888610007669801" tvg-logo="http://images.pluto.tv/channels/60a286daf888610007669801/colorLogoPNG.png" group-title="Humor e pets em espanhol",Just for Laughs | Pluto TV Espanha
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60a286daf888610007669801/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="5efb8ce2e426140007c78fd1" tvg-logo="http://images.pluto.tv/channels/5efb8ce2e426140007c78fd1/colorLogoPNG.png" group-title="Humor e pets em espanhol",MTV Animaciones | Pluto TV Argentina
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5efb8ce2e426140007c78fd1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="5e98a911c881310007d7aae2" tvg-logo="http://images.pluto.tv/channels/5e98a911c881310007d7aae2/colorLogoPNG.png" group-title="Humor e pets em espanhol",MTV Ridiculousness | Argentina
+#EXTINF:-1 tvg-id="5f1aae8c65727d0007d15a17" tvg-logo="http://images.pluto.tv/channels/5f1aae8c65727d0007d15a17/colorLogoPNG.png" group-title="Humor e pets em espanhol",MTV Prank | Espanha
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1aae8c65727d0007d15a17/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="5e98a911c881310007d7aae2" tvg-logo="http://images.pluto.tv/channels/5e98a911c881310007d7aae2/colorLogoPNG.png" group-title="Humor e pets em espanhol",MTV Ridiculousness | Pluto TV Argentina
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e98a911c881310007d7aae2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="5f2acdab16f5b3000721ae2c" tvg-logo="https://i.imgur.com/Id5HpA2.png" group-title="Humor e pets em espanhol",Oh My Pet | Argentina
+#EXTINF:-1 tvg-id="5f2acdab16f5b3000721ae2c" tvg-logo="https://i.imgur.com/Id5HpA2.png" group-title="Humor e pets em espanhol",Oh My Pet | Pluto TV Argentina
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f2acdab16f5b3000721ae2c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="5ebac65911406400078b8993" tvg-logo="https://i.imgur.com/v2TNHDt.png" group-title="Humor e pets em espanhol",People are Awesome | Argentina
+#EXTINF:-1 tvg-id="5ebac65911406400078b8993" tvg-logo="https://i.imgur.com/v2TNHDt.png" group-title="Humor e pets em espanhol",People are Awesome | Pluto TV Argentina
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ebac65911406400078b8993/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="5f1ac1780e94100007f94b3f" tvg-logo="http://images.pluto.tv/channels/5f1ac1780e94100007f94b3f/colorLogoPNG.png" group-title="Humor e pets em espanhol",People are Awesome | Espanha 
+#EXTINF:-1 tvg-id="5f1ac1780e94100007f94b3f" tvg-logo="http://images.pluto.tv/channels/5f1ac1780e94100007f94b3f/colorLogoPNG.png" group-title="Humor e pets em espanhol",People are Awesome | Pluto TV Espanha 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1ac1780e94100007f94b3f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="609ae5cd48d3200007b0a98e" tvg-logo="https://images.pluto.tv/channels/609ae5cd48d3200007b0a98e/colorLogoPNG.png" group-title="Humor e pets em espanhol",South Park | Pluto TV Argentina
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609ae5cd48d3200007b0a98e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="6132429ec9e0db0007a91425" tvg-logo="https://images.pluto.tv/channels/6132429ec9e0db0007a91425/colorLogoPNG.png" group-title="Humor e pets em espanhol",Susana Giménez | Pluto TV Argentina
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6132429ec9e0db0007a91425/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="5ebacbcae43a6d000787b88e" tvg-logo="https://i.imgur.com/ivpFJPw.png" group-title="Humor e pets em espanhol",The Pet Collective | Argentina
+#EXTINF:-1 tvg-id="5ebacbcae43a6d000787b88e" tvg-logo="https://i.imgur.com/ivpFJPw.png" group-title="Humor e pets em espanhol",The Pet Collective | Pluto TV Argentina
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ebacbcae43a6d000787b88e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="5f1abf097eb06300079b30f7" tvg-logo="http://images.pluto.tv/channels/5f1abf097eb06300079b30f7/colorLogoPNG.png" group-title="Humor e pets em espanhol",The Pet Collective | Espanha 
+#EXTINF:-1 tvg-id="5f1abf097eb06300079b30f7" tvg-logo="http://images.pluto.tv/channels/5f1abf097eb06300079b30f7/colorLogoPNG.png" group-title="Humor e pets em espanhol",The Pet Collective | Pluto TV Espanha 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1abf097eb06300079b30f7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="5f1aae8c65727d0007d15a17" tvg-logo="http://images.pluto.tv/channels/5f1aae8c65727d0007d15a17/colorLogoPNG.png" group-title="Humor e pets em espanhol",TROL | Espanha
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1aae8c65727d0007d15a17/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="5ed6828192e8b3000743ef61" tvg-logo="https://i.imgur.com/TzeCHhn.png" group-title="Humor e pets em espanhol",Wipeout | Argentina
+#EXTINF:-1 tvg-id="5ed6828192e8b3000743ef61" tvg-logo="https://i.imgur.com/TzeCHhn.png" group-title="Humor e pets em espanhol",Wipeout | Pluto TV Argentina
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ed6828192e8b3000743ef61/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="604f8125c6669b00077f7699" tvg-logo="https://i.imgur.com/TzeCHhn.png" group-title="Humor e pets em espanhol",Wipeout | Pluto TV Espanha
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/604f8125c6669b00077f7699/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #################### Humor e pets em francês ################### Humor e pets em francês ################### Humor e pets em francês ################### Humor e pets em francês ################### Humor e pets em francês ################### Humor e pets em francês ################### Humor e pets em francês ###################
 #EXTINF:-1 tvg-id="5f8eb91bb9b9e7000817e67f" tvg-logo="http://images.pluto.tv/channels/5f8eb91bb9b9e7000817e67f/colorLogoPNG.png" group-title="Humor e pets em francês",Comédie | Pluto TV França
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8eb91bb9b9e7000817e67f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
@@ -2061,10 +2122,16 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1aabee6
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5a2aea6bffc400076bb4e5/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="5dcde17bf6591d0009839e02" tvg-logo="http://images.pluto.tv/channels/5dcde17bf6591d0009839e02/colorLogoPNG.png" group-title="Infantis em espanhol",Anime | Pluto TV Argentina 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="608035b8d8705f0007260287" tvg-logo="http://images.pluto.tv/channels/608035b8d8705f0007260287/colorLogoPNG.png" group-title="Infantis em espanhol",Anime | Pluto TV Espanha 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608035b8d8705f0007260287/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="5e6a4d875d7ccf0007cc2cf1" tvg-logo="http://images.pluto.tv/channels/5e6a4d875d7ccf0007cc2cf1/colorLogoPNG.png" group-title="Infantis em espanhol",Anime Acción | Pluto TV Argentina
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e6a4d875d7ccf0007cc2cf1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="6054acc871ec430007f54c7d" tvg-logo="http://images.pluto.tv/channels/6054acc871ec430007f54c7d/colorLogoPNG.png" group-title="Infantis em espanhol",Anime Clásico | Pluto TV Espanha 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6054acc871ec430007f54c7d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="6079be62f9f8d6000783c8a4" tvg-logo="http://images.pluto.tv/channels/6079be62f9f8d6000783c8a4/colorLogoPNG.png" group-title="Infantis em espanhol",Anime Héroes | Pluto TV Argentina
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6079be62f9f8d6000783c8a4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="61373c865ed5810007173fbc" tvg-logo="http://images.pluto.tv/channels/61373c865ed5810007173fbc/colorLogoPNG.png" group-title="Infantis em espanhol",Avatar | Pluto TV Espanha
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61373c865ed5810007173fbc/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="5e67e20c93312100076f3ffe" tvg-logo="http://images.pluto.tv/channels/5e67e20c93312100076f3ffe/colorLogoPNG.png" group-title="Infantis em espanhol",Babar | Pluto TV Argentina
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e67e20c93312100076f3ffe/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="619d5e6a093e7c0007489211" tvg-logo="http://images.pluto.tv/channels/619d5e6a093e7c0007489211/colorLogoPNG.png" group-title="Infantis em espanhol",Baby Shark | Pluto TV Argentina
@@ -2091,10 +2158,14 @@ https://f4af60daf0aa422bb11765ff62a4a92e.mediatailor.us-east-1.amazonaws.com/v1/
 https://585fa7e373ba4b388f04a5f9f655cb0c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_ElPatio/playlist.m3u8
 #EXTINF:-1 tvg-id="5f4d3d06fb60d8000781fce8" tvg-logo="https://i.imgur.com/euKVFXK.png" group-title="Infantis em espanhol",El Reino Infantil | Pluto TV Argentina
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4d3d06fb60d8000781fce8/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="6054ab20a365c70007e4fd44" tvg-logo="http://images.pluto.tv/channels/6054ab20a365c70007e4fd44/colorLogoPNG.png" group-title="Infantis em espanhol",Garfield | Pluto TV Espanha
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6054ab20a365c70007e4fd44/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="5f1aa89d42a0500007363ea3" tvg-logo="http://images.pluto.tv/channels/5f1aa89d42a0500007363ea3/colorLogoPNG.png" group-title="Infantis em espanhol",Go, Diego Go! | Pluto TV Espanha
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1aa89d42a0500007363ea3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="60fafef7c2440500071266e0" tvg-logo="https://images.pluto.tv/channels/60fafef7c2440500071266e0/colorLogoPNG.png" group-title="Infantis em espanhol",Grande-ish | Pluto TV EUA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60fafef7c2440500071266e0/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="6181404ef48321000797bc41" tvg-logo="https://images.pluto.tv/channels/6181404ef48321000797bc41/colorLogoPNG.png" group-title="Infantis em espanhol",iCarly | Pluto TV Espanha
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6181404ef48321000797bc41/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="620ff0a01f9e8700076c6f9d" tvg-logo="https://images.pluto.tv/channels/620ff0a01f9e8700076c6f9d/colorLogoPNG.png" group-title="Infantis em espanhol",iCarly | Pluto TV EUA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/620ff0a01f9e8700076c6f9d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="5dcde2ac4bc6c500094ab45b" tvg-logo="https://images.pluto.tv/channels/5dcde2ac4bc6c500094ab45b/colorLogoPNG.png" group-title="Infantis em espanhol",Junior | Pluto TV Argentina
@@ -2109,16 +2180,22 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dd6dae8c
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1aab1d29b39600073e243f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="5f5a09b16cd4ab0007d24fb8" tvg-logo="http://images.pluto.tv/channels/5f1aab1d29b39600073e243f/colorLogoPNG.png" group-title="Infantis em espanhol",Kids+ | Pluto TV Espanha
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5a09b16cd4ab0007d24fb8/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="5f9996533c9de3000759ccb5" tvg-logo="https://i.imgur.com/cHI7Sbp.png" group-title="Infantis em espanhol",Las Pistas de Blue | Pluto TV Argentina
+#EXTINF:-1 tvg-id="5f9996533c9de3000759ccb5" tvg-logo="http://images.pluto.tv/channels/5f9996533c9de3000759ccb5/colorLogoPNG.png" group-title="Infantis em espanhol",Las Pistas de Blue | Pluto TV Argentina
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f9996533c9de3000759ccb5/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="61373f1a12dd9f00077dcd6f" tvg-logo="http://images.pluto.tv/channels/61373f1a12dd9f00077dcd6f/colorLogoPNG.png" group-title="Infantis em espanhol",Las Tortugas Ninja | Pluto TV Espanha
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61373f1a12dd9f00077dcd6f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="5f1aa82c150b2500077733d7" tvg-logo="http://images.pluto.tv/channels/5f1aa82c150b2500077733d7/colorLogoPNG.png" group-title="Infantis em espanhol",Pistas de Blue | Pluto TV Espanha
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1aa82c150b2500077733d7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="ESAJ4500026J3" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/05/ESAJ4500026J3_20201208T050259.png" group-title="Infantis em espanhol",Planeta Junior | Espanha
 https://8886309569b64a2780383bc1511fe3d5.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_PlanetaKidz/playlist.m3u8
+#EXTINF:-1 tvg-id="609501978c069d00074e0dd2" tvg-logo="http://images.pluto.tv/channels/609501978c069d00074e0dd2/colorLogoPNG.png" group-title="Infantis em espanhol",Planeta Junior | Pluto TV Espanha
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609501978c069d00074e0dd2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="60142258a54aeb0007751c15" tvg-logo="http://images.pluto.tv/channels/60142258a54aeb0007751c15/colorLogoPNG.png" group-title="Infantis em espanhol",Retro Cartoons | Pluto TV Argentina
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60142258a54aeb0007751c15/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="5ea7215005d66d0007e8128a" tvg-logo="https://i.imgur.com/1jXXHVr.png" group-title="Infantis em espanhol",Rugrats | Pluto TV Argentina
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ea7215005d66d0007e8128a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="610c09219fc0430007a3fce6" tvg-logo="https://i.imgur.com/1jXXHVr.png" group-title="Infantis em espanhol",Rugrats | Pluto TV Espanha
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/610c09219fc0430007a3fce6/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="5ee92e72fb286e0007285fec" tvg-logo="http://images.pluto.tv/channels/5ee92e72fb286e0007285fec/colorLogoPNG.png" group-title="Infantis em espanhol",Naruto | Pluto TV Argentina
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ee92e72fb286e0007285fec/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="60493045fbb5e50007b36f4d" tvg-logo="http://images.pluto.tv/channels/60493045fbb5e50007b36f4d/colorLogoPNG.png" group-title="Infantis em espanhol",Naruto | Pluto TV EUA
@@ -2141,6 +2218,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ea721500
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dd6de52b9914200091f047a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="60016a60a8e3520008e0d331" tvg-logo="http://images.pluto.tv/channels/60016a60a8e3520008e0d331/colorLogoPNG.png" group-title="Infantis em espanhol",Teen Stars | Pluto TV Espanha
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60016a60a8e3520008e0d331/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="609e7e423e9173000706a681" tvg-logo="http://images.pluto.tv/channels/609e7e423e9173000706a681/colorLogoPNG.png" group-title="Infantis em espanhol",Toons Clásico | Pluto TV Espanha
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609e7e423e9173000706a681/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="5ff608e60e2996000768c366" tvg-logo="http://images.pluto.tv/channels/5ff608e60e2996000768c366/colorLogoPNG.png" group-title="Infantis em espanhol",Tokusato | Pluto TV Argentina
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ff608e60e2996000768c366/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-6041643175c115002dc51259" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/Toon-Goggles-en-Espanol_logo_dark.png" group-title="Infantis em espanhol",Toon Googles en Español
@@ -2536,7 +2615,7 @@ https://livemtaasia.akamaized.net/hls/live/2039224/mtaasia2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sku0M2y.png" group-title="Islamismo",MTA8 America
 https://chlivemta.akamaized.net/hls/live/2016718/mta8/playlist.m3u8
 ### MÚSICA ########### ###### ############ ############## #################### ########### ########### ########### ########### ########### ########### ########### ############# ############## ################ ##################
-#EXTINF:-1 tvg-id="1hdru" group-title="Música" tvg-logo="https://lh3.googleusercontent.com/iHSgMsaVX7oFDLU73HzrQGBw6sOPlUxvdOOvjAZpMuYM63AqnK_0ZUP9E8t_l1pD1A=w220-rw",1HD Music | Estônia
+#EXTINF:-1 tvg-id="1HD.ru" tvg-logo="https://lh3.googleusercontent.com/iHSgMsaVX7oFDLU73HzrQGBw6sOPlUxvdOOvjAZpMuYM63AqnK_0ZUP9E8t_l1pD1A=w220-rw" group-title="Música",1HD Music | Estônia
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q3LXm9w.png" group-title="Música",Amor para todos | Canela TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1082
@@ -2614,6 +2693,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/619239613
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2535
 #EXTINF:-1 tvg-id="juice.au" tvg-logo="https://i.mjh.nz/.images/tv.juice.png" group-title="Música",Juice TV | Austrália
 https://i.mjh.nz/nz/tv.juice.m3u8
+#EXTINF:-1 tvg-id="60c8b3ddaaf9d4000780066f" tvg-logo="https://images.pluto.tv/channels/60c8b3ddaaf9d4000780066f/colorLogoPNG.png" group-title="Música",K-Pop | Pluto TV Espanha
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60c8b3ddaaf9d4000780066f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8whh5TH.png" group-title="Música",Latin X Pop
 https://c6db63f2ab884b40b3ff31e8a64bfcbb.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/latin_x_pop_plex/master.m3u8
 #EXTINF:-1 tvg-id="603d01a55123740007f8375a" group-title="Música" tvg-logo="https://images.pluto.tv/channels/603d01a55123740007f8375a/colorLogoPNG.png",Live in Concert | Pluto TV Alemanha
@@ -2632,10 +2713,14 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6047fabfc
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6047fbdbbb776a0007e7f2ff/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="5d14fd1a252d35decbc4080c" group-title="Música" tvg-logo="https://images.pluto.tv/channels/5d14fd1a252d35decbc4080c/colorLogoPNG.png",MTV Biggest Pop | Pluto TV EUA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d14fd1a252d35decbc4080c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="6087c6c5db549e0007eead39" group-title="Música" tvg-logo="https://images.pluto.tv/channels/6087c6c5db549e0007eead39/colorLogoPNG.png",MTV Good Vibes | Pluto TV Espanha
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6087c6c5db549e0007eead39/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="61923ac16d03190008138a67" tvg-logo="http://images.pluto.tv/channels/61923ac16d03190008138a67/colorLogoPNG.png" group-title="Música",MTV Love Music | Pluto TV Alemanha
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61923ac16d03190008138a67/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="600ae79fa46e17000794e84c" tvg-logo="http://images.pluto.tv/channels/600ae79fa46e17000794e84c/colorLogoPNG.png" group-title="Música",MTV Love Music | Pluto TV Espanha
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/600ae79fa46e17000794e84c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="60a26a056d55b30007918d5a" tvg-logo="http://images.pluto.tv/channels/60a26a056d55b30007918d5a/colorLogoPNG.png" group-title="Música",MTV Music Made in Spain | Pluto TV Espanha
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60a26a056d55b30007918d5a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="6047fd723b5bd00007de7092" tvg-logo="http://images.pluto.tv/channels/6047fd723b5bd00007de7092/colorLogoPNG.png" group-title="Música",MTV Spankin' New | Pluto TV Argentina
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6047fd723b5bd00007de7092livestitch/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="6047ff2e5e61cf000784e4da" tvg-logo="http://images.pluto.tv/channels/6047ff2e5e61cf000784e4da/colorLogoPNG.png" group-title="Música",MTV Spankin' New | Pluto TV Brasil
@@ -2660,6 +2745,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1085
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1086
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60b0f65c0c8ffb002c821a75" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/qwesttv-jazz&beyond_channel_logo_dark.png" group-title="Música",QwestTV Jazz & Beyond
 https://qwest-jazz-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-qwest-jazz-plex/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="60db37b8b919720007c07fa4" tvg-logo="http://images.pluto.tv/channels/60db37b8b919720007c07fa4/colorLogoPNG.png" group-title="Música",Qwest Jazz & Beyond | Pluto TV Espanha
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60db37b8b919720007c07fa4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="60db3aef7b85d300073db507" tvg-logo="http://images.pluto.tv/channels/60db3aef7b85d300073db507/colorLogoPNG.png" group-title="Música",Qwest Jazz & Beyond | Pluto TV França
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60db3aef7b85d300073db507/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="60db3bbd9397a00007ab029a" tvg-logo="http://images.pluto.tv/channels/60db3bbd9397a00007ab029a/colorLogoPNG.png" group-title="Música",Qwest Jazz & Beyond | Pluto TV Itália
@@ -2704,6 +2791,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=568
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1015
 #EXTINF:-1 tvg-id="StingrayQello.ca" tvg-logo="https://i.imgur.com/BxVk5ss.png" group-title="Música",Stingray Qello Concerts | Galxy TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1936
+#EXTINF:-1 tvg-id="60f16986acb81b0007c384ac" tvg-logo="https://images.pluto.tv/channels/60f16986acb81b0007c384ac/colorLogoPNG.png" group-title="Música",Stingray Qello Concerts | Pluto TV Espanha
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60f16986acb81b0007c384ac/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="StingrayRockAlternative.ca" tvg-logo="https://i.imgur.com/DFqfWuA.png" group-title="Música",Stingray Rock Alternative | Galxy TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1943
 #EXTINF:-1 tvg-id="StingraySoulStorm.ca" tvg-logo="https://i.imgur.com/h4NsDgP.png" group-title="Música",Stingray Soul Storm | Galxy TV
@@ -2724,7 +2813,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2548
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f982c3420de4100070a545e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="13874" tvg-id="13874" tvg-logo="https://i.imgur.com/zcpM1Ty.png" group-title="Música",Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/S5LI4ps.png" group-title="Música",V2Beat TV | Re
+#EXTINF:-1 tvg-id="6076cd1df8576d0007c82193" tvg-logo="http://images.pluto.tv/channels/6076cd1df8576d0007c82193/colorLogoPNG.png" group-title="Música",VH1 Classics | Pluto TV Espanha
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6076cd1df8576d0007c82193/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S5LI4ps.png" group-title="Música",V2Beat TV
 https://abr.de1se01.v2beat.live/playlist.m3u8
 #EXTINF:-1 tvg-id="5f32f26bcd8aea00071240e5" tvg-logo="http://images.pluto.tv/channels/5f32f26bcd8aea00071240e5/colorLogoPNG.png" group-title="Música",Vevo 70s
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
@@ -2934,6 +3025,8 @@ https://39997b2f529e4793961899e546833a75.mediatailor.us-east-1.amazonaws.com/v1/
 https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="619d59b7cbef25000728221c" tvg-logo="https://images.pluto.tv/channels/619d59b7cbef25000728221c/colorLogoPNG.png" group-title="Notícias em espanhol",Euronews | Pluto TV Argentina
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/619d59b7cbef25000728221c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="60d3583ef310610007fb02b1" tvg-logo="https://images.pluto.tv/channels/60d3583ef310610007fb02b1/colorLogoPNG.png" group-title="Notícias em espanhol",Euronews | Pluto TV Espanha
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60d3583ef310610007fb02b1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="ForoTV.mx" tvg-logo="https://i.imgur.com/JcffgvR.png" group-title="Notícias em espanhol",Foro TV | México
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_4.m3u8
 #EXTINF:-1 tvg-id="France24Spanish.fr" tvg-country="ES;LATAM" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="Notícias em espanhol",France 24 em espanhol 1
@@ -3257,6 +3350,8 @@ https://rt-ger.gcdn.co/live/rtdeutsch/playlist_800Kb.m3u8
 #EXTINF:-1 tvg-id="TRMh24.it" group-title="Notícias em outros idiomas" tvg-logo="https://i.imgur.com/WtUFMnB.png",TR24 | Itália
 http://livetr.teleromagna.it/mia/live/playlist.m3u8
 ##### novelas e séries em alemão ###### novelas e séries em alemão ###### novelas e séries em alemão ###### novelas e séries em alemão ###### novelas e séries em alemão ###### novelas e séries em alemão ####
+#EXTINF:-1 tvg-id="60dafb9a0df1ba000758d37b" tvg-logo="https://images.pluto.tv/channels/60dafb9a0df1ba000758d37b/colorLogoPNG.png" group-title="Novelas e séries em alemão",BBC Drama | Pluto TV Espanha
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dafb9a0df1ba000758d37b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="60afb576053df900076fa2f0" tvg-logo="https://images.pluto.tv/channels/60afb576053df900076fa2f0/colorLogoPNG.png" group-title="Novelas e séries em alemão",Beverly Hills 90210 | Pluto TV Alemanha
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60afb576053df900076fa2f0/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="60afbad343e3840007164348" tvg-logo="https://images.pluto.tv/channels/60afbad343e3840007164348/colorLogoPNG.png" group-title="Novelas e séries em alemão",Chaos City | Pluto TV Alemanha
@@ -3279,7 +3374,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609536871
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d767ab2b456c8cf265ce921/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="61923e214b1ec000075e63d0" tvg-logo="https://images.pluto.tv/channels/61923e214b1ec000075e63d0/colorLogoPNG.png" group-title="Novelas e séries em alemão",Sophie - Braut wider Willen | Pluto TV Alemanha
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61923e214b1ec000075e63d0/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="6152ee71bf99590007893a11" tvg-logo="https://images.pluto.tv/channels/6152ee71bf99590007893a11/colorLogoPNG.png" group-title="Novelas e séries em espanhol",Star Trek | Pluto TV Alemanha
+#EXTINF:-1 tvg-id="6152ee71bf99590007893a11" tvg-logo="https://images.pluto.tv/channels/6152ee71bf99590007893a11/colorLogoPNG.png" group-title="Novelas e séries em alemão",Star Trek | Pluto TV Alemanha
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6152ee71bf99590007893a11/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="609539fa709d6b0007b19887" tvg-logo="https://images.pluto.tv/channels/609539fa709d6b0007b19887/colorLogoPNG.png" group-title="Novelas e séries em alemão",Wer ist hier der Boss? | Pluto TV Alemanha
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60afb576053df900076fa2f0/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
@@ -3304,6 +3399,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5efb8ce2e
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e84dbf4a838b60007ffbba1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="5dcde0cc2efd2700090b7ff4" tvg-logo="http://images.pluto.tv/channels/5dcde0cc2efd2700090b7ff4/colorLogoPNG.png" group-title="Novelas e séries em espanhol",Novelas Evagina | Pluto TV Argentina
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcde0cc2efd2700090b7ff4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="60c8a24e17da110007eed4fd" tvg-logo="http://images.pluto.tv/channels/60c8a24e17da110007eed4fd/colorLogoPNG.png" group-title="Novelas e séries em espanhol",Rakuten Viki | Pluto TV Espanha
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60c8a24e17da110007eed4fd/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="RCNNovelas.co" tvg-logo="https://i.imgur.com/gbUYuOH.png" group-title="Novelas e séries em espanhol",RCN Novelas | Colômbia
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1111
 #EXTINF:-1 tvg-id="5dcde1317578340009b751d0" tvg-logo="https://i.imgur.com/KB1hXsY.png" group-title="Novelas e séries em espanhol",Series | Pluto TV Argentina
@@ -3322,7 +3419,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5de802659
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60492bb931054f00073c0b4e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="5cf96cc422df39f1a338d165" tvg-logo="http://images.pluto.tv/channels/5cf96cc422df39f1a338d165/colorLogoPNG.png" group-title="Novelas e séries em espanhol",Telemundo Telenovelas Clásicas | EUA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="5ff608e60e2996000768c366" tvg-logo="http://images.pluto.tv/channels/5ff608e60e2996000768c366/colorLogoPNG.png" group-title="Infantis em espanhol",Tokusato | Pluto TV Argentina
+#EXTINF:-1 tvg-id="60b4c06717da110007ee1af6" tvg-logo="http://images.pluto.tv/channels/60b4c06717da110007ee1af6/colorLogoPNG.png" group-title="Novelas e séries em espanhol",Telenovelas | Pluto TV Espanha
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60b4c06717da110007ee1af6/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="5ff608e60e2996000768c366" tvg-logo="http://images.pluto.tv/channels/5ff608e60e2996000768c366/colorLogoPNG.png" group-title="Novelas e séries em espanhol",Tokusato | Pluto TV Argentina
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ff608e60e2996000768c366/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 ###### Novelas e séries em espanhol: maratona #### Novelas e séries em espanhol: maratona #### Novelas e séries em espanhol: maratona #### Novelas e séries em espanhol: maratona #### Novelas e séries em espanhol: maratona #########
 #EXTINF:-1 tvg-id="5f1acce7f17797000718f9be" tvg-logo="http://images.pluto.tv/channels/5f1acce7f17797000718f9be/colorLogoPNG.png" group-title="Novelas e séries em espanhol: maratona",Ana y los 7 | Espanha
@@ -3335,8 +3434,14 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1aca831
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8463f3b02eb40007f75f9d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="5f1aa7aab66c76000790ee7e" tvg-logo="http://images.pluto.tv/channels/5f1aa7aab66c76000790ee7e/colorLogoPNG.png" group-title="Novelas e séries em espanhol: maratona",Big Time Rush | Espanha
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1aa7aab66c76000790ee7e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="6193963c5a960200074ce816" tvg-logo="http://images.pluto.tv/channels/6193963c5a960200074ce816/colorLogoPNG.png" group-title="Novelas e séries em espanhol: maratona",Constance Meyer | Espanha
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6193963c5a960200074ce816/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="5f1acd36779de70007a680d1" tvg-logo="http://images.pluto.tv/channels/5f1acd36779de70007a680d1/colorLogoPNG.png" group-title="Novelas e séries em espanhol: maratona",Curro Jiménez | Espanha
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1acd36779de70007a680d1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="60d3574e97f10800078455de" tvg-logo="http://images.pluto.tv/channels/60d3574e97f10800078455de/colorLogoPNG.png" group-title="Novelas e séries em espanhol: maratona",Doctor Who | Pluto TV Espanha
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60d3574e97f10800078455de/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="60c343007bcabe0007242aa6" tvg-logo="http://images.pluto.tv/channels/60c343007bcabe0007242aa6/colorLogoPNG.png" group-title="Novelas e séries em espanhol: maratona",El Comisario | Pluto TV Espanha
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60c343007bcabe0007242aa6/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="612f8b455ed5810007170b5f" tvg-logo="http://images.pluto.tv/channels/612f8b455ed5810007170b5f/colorLogoPNG.png" group-title="Novelas e séries em espanhol: maratona",El Mariachi | Pluto TV Argentina
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/612f8b455ed5810007170b5f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6vtOewR.png" group-title="Novelas e séries em espanhol: maratona",El Talismán | Canela TV
@@ -3367,12 +3472,16 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/604bdf4e6
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/600ae52e34a3700007000534/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="609ae5cd48d3200007b0a98e" tvg-logo="https://images.pluto.tv/channels/609ae5cd48d3200007b0a98e/colorLogoPNG.png" group-title="Novelas e séries em espanhol: maratona",South Park | Pluto TV Argentina
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609ae5cd48d3200007b0a98e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="619b7db4872c650008eb8b6a" tvg-logo="https://images.pluto.tv/channels/619b7db4872c650008eb8b6a/colorLogoPNG.png" group-title="Novelas e séries em espanhol: maratona",Star Trek | Pluto TV Espanha
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/619b7db4872c650008eb8b6a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="5e82bb378601b80007b4bd78" tvg-logo="http://images.pluto.tv/channels/5e82bb378601b80007b4bd78/colorLogoPNG.png" group-title="Novelas e séries em espanhol: maratona",The Walking Dead en Español | EUA 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e82bb378601b80007b4bd78/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RQwA3MT.png" group-title="Novelas e séries em espanhol: maratona",Tierra de Amor y Venganza | Canela TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1080
 #EXTINF:-1 tvg-id="600ae59c341b1d0007d1c7cb" tvg-logo="http://images.pluto.tv/channels/600ae59c341b1d0007d1c7cb/colorLogoPNG.png" group-title="Novelas e séries em espanhol: maratona",Tierra de lobos | Espanha
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/600ae59c341b1d0007d1c7cb/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="61bb2814ac085a00074309a6" tvg-logo="http://images.pluto.tv/channels/61bb2814ac085a00074309a6/colorLogoPNG.png" group-title="Novelas e séries em espanhol: maratona",Unidad de investigación | Pluto TV Espanha
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61bb2814ac085a00074309a6/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="5f28009b150b2500077766b8" tvg-logo="http://images.pluto.tv/channels/5f28009b150b2500077766b8/colorLogoPNG.png" group-title="Novelas e séries em espanhol: maratona",Vaya semanita | Espanha
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f28009b150b2500077766b8/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="6049295e7dcef800073c2499" tvg-logo="https://images.pluto.tv/channels/6049295e7dcef800073c2499/colorLogoPNG.png" group-title="Novelas e séries em espanhol: maratona",Viaje a las estrellas | EUA
@@ -3620,6 +3729,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ddc266f8
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6099600015e88c0007ecda25/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="6109a9f5531b840007a4a187" tvg-logo="https://images.pluto.tv/channels/6109a9f5531b840007a4a187/colorLogoPNG.png" group-title="Reality e game shows em espanhol",Cazador de Homicidas | Pluto TV Argentina
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6109a9f5531b840007a4a187/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="60ed5fb9c4716d0007d180c5" tvg-logo="https://images.pluto.tv/channels/60ed5fb9c4716d0007d180c5/colorLogoPNG.png" group-title="Reality e game shows em espanhol",Cazador de Homicidas | Pluto TV Espanha
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60ed5fb9c4716d0007d180c5/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="5dd6d935d000120009bc1132" tvg-logo="https://images.pluto.tv/channels/5dd6d935d000120009bc1132/colorLogoPNG.png" group-title="Reality e game shows em espanhol",Competencias | Pluto TV Argentina
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dd6d935d000120009bc1132/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-621674f168c966be92737ce6" tvg-logo="https://i.imgur.com/aR114pI.png" group-title="Reality e game shows em espanhol",El Conflicto | Galxy TV
@@ -3628,71 +3739,83 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2581
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2593
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-621674f168c966be92737ce6" tvg-logo="https://i.imgur.com/aR114pI.png" group-title="Reality e game shows em espanhol",El Conflicto | Galxy TV 3
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1956
-#EXTINF:-1 tvg-id="5f280149cec6be00072ab1fc" tvg-logo="http://images.pluto.tv/channels/5f280149cec6be00072ab1fc/colorLogoPNG.png" group-title="Reality e game shows em espanhol",El Conquistador del Fin | Espanha
+#EXTINF:-1 tvg-id="5f280149cec6be00072ab1fc" tvg-logo="http://images.pluto.tv/channels/5f280149cec6be00072ab1fc/colorLogoPNG.png" group-title="Reality e game shows em espanhol",El Conquistador del Fin | Pluto TV Espanha
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f280149cec6be00072ab1fc/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="61099f2b40d0640007fc5aa2" tvg-logo="https://images.pluto.tv/channels/61099f2b40d0640007fc5aa2/colorLogoPNG.png" group-title="Reality e game shows em espanhol",El Encantador de Perros | Pluto TV Argentina
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61099f2b40d0640007fc5aa2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-621674f168c966be92737ce6" tvg-logo="https://i.imgur.com/ssMfHz5.png" group-title="Reality e game shows em espanhol",El Tribunal del Pueblo | Galxy TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=80
-#EXTINF:-1 tvg-id="60492a1e6361250007679665" tvg-logo="https://images.pluto.tv/channels/60492a1e6361250007679665/colorLogoPNG.png" group-title="Reality e game shows em espanhol",Emergencia 911 | EUA
+#EXTINF:-1 tvg-id="60492a1e6361250007679665" tvg-logo="https://images.pluto.tv/channels/60492a1e6361250007679665/colorLogoPNG.png" group-title="Reality e game shows em espanhol",Emergencia 911 | Pluto TV EUA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60492a1e6361250007679665/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="5f23102d5e239d00074b092a" tvg-logo="https://i.imgur.com/gIRIFSF.png" group-title="Reality e game shows em espanhol",Empeños a lo bestia | Argentina
+#EXTINF:-1 tvg-id="5f23102d5e239d00074b092a" tvg-logo="https://i.imgur.com/gIRIFSF.png" group-title="Reality e game shows em espanhol",Empeños a lo bestia | Pluto TV Argentina
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f23102d5e239d00074b092a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="60218baa464ef900073168c1" tvg-logo="http://images.pluto.tv/channels/60218baa464ef900073168c1/colorLogoPNG.png" group-title="Reality e game shows em espanhol",Empeños a lo bestia | Espanha
+#EXTINF:-1 tvg-id="60218baa464ef900073168c1" tvg-logo="http://images.pluto.tv/channels/60218baa464ef900073168c1/colorLogoPNG.png" group-title="Reality e game shows em espanhol",Empeños a lo bestia | Pluto TV Espanha
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60218baa464ef900073168c1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="605e479d5b8229000763e697" tvg-logo="https://images.pluto.tv/channels/605e479d5b8229000763e697/colorLogoPNG.png" group-title="Reality e game shows em espanhol",Escape Perfecto | EUA 
+#EXTINF:-1 tvg-id="605e479d5b8229000763e697" tvg-logo="https://images.pluto.tv/channels/605e479d5b8229000763e697/colorLogoPNG.png" group-title="Reality e game shows em espanhol",Escape Perfecto | Pluto TV EUA 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/605e479d5b8229000763e697/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="5f9992c685a2a80007fa414a" tvg-logo="https://i.imgur.com/2At2CiW.png" group-title="Reality e game shows em espanhol",Dog el cazarrecompensas | Argentina
+#EXTINF:-1 tvg-id="5f9992c685a2a80007fa414a" tvg-logo="https://i.imgur.com/2At2CiW.png" group-title="Reality e game shows em espanhol",Dog el cazarrecompensas | Pluto TV Argentina
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f9992c685a2a80007fa414a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="5ee8d84bfb286e0007285aad" tvg-logo="https://images.pluto.tv/channels/5ee8d84bfb286e0007285aad/colorLogoPNG.png" group-title="Reality e game shows em espanhol",Fashion Stream | Pluto TV Argentina 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ee8d84bfb286e0007285aad/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="6148ab7eb75aa60007ca07a1" tvg-logo="https://images.pluto.tv/channels/6148ab7eb75aa60007ca07a1/colorLogoPNG.png" group-title="Reality e game shows em espanhol",Gracias por venir, gracias por estar | Pluto TV Argentina
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6148ab7eb75aa60007ca07a1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="5f4d3696d938c900072679fd" tvg-logo="https://i.imgur.com/o4saZ4W.png" group-title="Reality e game shows em espanhol",Historias de Ultratumba | Argentina
+#EXTINF:-1 tvg-id="5f4d3696d938c900072679fd" tvg-logo="https://i.imgur.com/o4saZ4W.png" group-title="Reality e game shows em espanhol",Historias de Ultratumba | Pluto TV Argentina
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4d3696d938c900072679fd/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="5df41355939756000921d15b" tvg-logo="https://i.imgur.com/8Z7fzym.png" group-title="Reality e game shows em espanhol",Latin Angels | Argentina
+#EXTINF:-1 tvg-id="5df41355939756000921d15b" tvg-logo="https://i.imgur.com/8Z7fzym.png" group-title="Reality e game shows em espanhol",Latin Angels | Pluto TV Argentina
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5df41355939756000921d15b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="5f1aaefb96f755000733c11a" tvg-logo="http://images.pluto.tv/channels/5f1aaefb96f755000733c11a/colorLogoPNG.png" group-title="Reality e game shows em espanhol",MADE | Espanha
+#EXTINF:-1 tvg-id="5f1aaefb96f755000733c11a" tvg-logo="http://images.pluto.tv/channels/5f1aaefb96f755000733c11a/colorLogoPNG.png" group-title="Reality e game shows em espanhol",MTV Brave | Pluto TV Espanha
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1aaefb96f755000733c11a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="60e4573c9f963e00077ecf25" tvg-logo="http://images.pluto.tv/channels/60e4573c9f963e00077ecf25/colorLogoPNG.png" group-title="Reality e game shows em espanhol",Mi Extraña Obsesión | Pluto TV Espanha
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60e4573c9f963e00077ecf25/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="6109ab25b84d6a0007504886" tvg-logo="http://images.pluto.tv/channels/6109ab25b84d6a0007504886/colorLogoPNG.png" group-title="Reality e game shows em espanhol",Mi Obsesión Favorita | Pluto TV Argentina
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6109ab25b84d6a0007504886/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="5d93b4d71754e6a4298d086e" tvg-logo="http://images.pluto.tv/channels/5d93b4d71754e6a4298d086e/colorLogoPNG.png" group-title="Reality e game shows em espanhol",Mi Obsesión Favorita | Pluto TV EUA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d93b4d71754e6a4298d086e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="5e46e64dc73db400094b5f0b" tvg-logo="https://i.imgur.com/kuYDVnj.png" group-title="Reality e game shows em espanhol",Minuto Para Ganar | Argentina
+#EXTINF:-1 tvg-id="5e46e64dc73db400094b5f0b" tvg-logo="https://i.imgur.com/kuYDVnj.png" group-title="Reality e game shows em espanhol",Minuto Para Ganar | Pluto TV Argentina
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e46e64dc73db400094b5f0b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="5fab088b3279760007d4e4fd" tvg-logo="http://images.pluto.tv/channels/5fab088b3279760007d4e4fd/colorLogoPNG.png" group-title="Reality e game shows em espanhol",MTV | Pluto TV Argentina
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fab088b3279760007d4e4fd/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="5f59f661f68f9200078870d4" tvg-logo="https://i.imgur.com/Kn9Fsgq.png" group-title="Reality e game shows em espanhol",MTV Catfish+ | Espanha
+#EXTINF:-1 tvg-id="5f59f661f68f9200078870d4" tvg-logo="https://i.imgur.com/Kn9Fsgq.png" group-title="Reality e game shows em espanhol",MTV Catfish+ | Pluto TV Espanha
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f59f661f68f9200078870d4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="5f1ab3c7778230000735cf41" tvg-logo="http://images.pluto.tv/channels/5f1ab3c7778230000735cf41/colorLogoPNG.png" group-title="Reality e game shows em espanhol",MTV Catfish TV Show | Espanha
+#EXTINF:-1 tvg-id="5f1ab3c7778230000735cf41" tvg-logo="http://images.pluto.tv/channels/5f1ab3c7778230000735cf41/colorLogoPNG.png" group-title="Reality e game shows em espanhol",MTV Catfish | Pluto TV Espanha
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1ab3c7778230000735cf41/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="5de91b7ea86ee60009d89e75" tvg-logo="https://i.imgur.com/zvm8kaR.png" group-title="Reality e game shows em espanhol",MTV Classic | Argentina
+#EXTINF:-1 tvg-id="5de91b7ea86ee60009d89e75" tvg-logo="https://i.imgur.com/zvm8kaR.png" group-title="Reality e game shows em espanhol",MTV Classic | Pluto TV Argentina
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5de91b7ea86ee60009d89e75/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="5f1ab9c6d8f1300007f54e30" tvg-logo="https://i.imgur.com/q1rGV0m.png" group-title="Reality e game shows em espanhol",MTV Cribs | Espanha
+#EXTINF:-1 tvg-id="5f1ab9c6d8f1300007f54e30" tvg-logo="https://i.imgur.com/q1rGV0m.png" group-title="Reality e game shows em espanhol",MTV Cribs | Pluto TV Espanha
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1ab9c6d8f1300007f54e30/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="5f5a0a5ea82f7200075cb926" tvg-logo="https://i.imgur.com/q1rGV0m.png" group-title="Reality e game shows em espanhol",MTV Cribs+ | Espanha 
+#EXTINF:-1 tvg-id="5f5a0a5ea82f7200075cb926" tvg-logo="https://i.imgur.com/q1rGV0m.png" group-title="Reality e game shows em espanhol",MTV Cribs+ | Pluto TV Espanha 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5a0a5ea82f7200075cb926/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="600169ec77e6f70008fa9cf0" tvg-logo="http://images.pluto.tv/channels/600169ec77e6f70008fa9cf0/colorLogoPNG.png" group-title="Reality e game shows em espanhol",MTV Dating | Espanha
+#EXTINF:-1 tvg-id="600169ec77e6f70008fa9cf0" tvg-logo="http://images.pluto.tv/channels/600169ec77e6f70008fa9cf0/colorLogoPNG.png" group-title="Reality e game shows em espanhol",MTV Dating | Pluto TV Espanha
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/600169ec77e6f70008fa9cf0/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="5f98537a5a4341000733aefe" tvg-logo="http://images.pluto.tv/channels/5f98537a5a4341000733aefe/colorLogoPNG.png" group-title="Reality e game shows em espanhol",MTV Embarazada a los 16 | Espanha
+#EXTINF:-1 tvg-id="5f98537a5a4341000733aefe" tvg-logo="http://images.pluto.tv/channels/5f98537a5a4341000733aefe/colorLogoPNG.png" group-title="Reality e game shows em espanhol",MTV Embarazada a los 16 | Pluto TV Espanha
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f98537a5a4341000733aefe/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="5cf96d351652631e36d4331f" tvg-logo="http://images.pluto.tv/channels/5cf96d351652631e36d4331f/colorLogoPNG.png" group-title="Reality e game shows em espanhol",MTV Latino | EUA
+#EXTINF:-1 tvg-id="5cf96d351652631e36d4331f" tvg-logo="http://images.pluto.tv/channels/5cf96d351652631e36d4331f/colorLogoPNG.png" group-title="Reality e game shows em espanhol",MTV Latino | Pluto TV EUA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cf96d351652631e36d4331f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="5f1aadf373bed3000794d1d7" tvg-logo="http://images.pluto.tv/channels/5f1aadf373bed3000794d1d7/colorLogoPNG.png" group-title="Reality e game shows em espanhol",MTV Originals | Espanha
+#EXTINF:-1 tvg-id="5f1aadf373bed3000794d1d7" tvg-logo="http://images.pluto.tv/channels/5f1aadf373bed3000794d1d7/colorLogoPNG.png" group-title="Reality e game shows em espanhol",MTV Originals | Pluto TV Espanha
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1aadf373bed3000794d1d7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="5f59f5b7cc331900075e7767" tvg-logo="http://images.pluto.tv/channels/5f1aadf373bed3000794d1d7/colorLogoPNG.png" group-title="Reality e game shows em espanhol",MTV Originals+ | Espanha
+#EXTINF:-1 tvg-id="5f59f5b7cc331900075e7767" tvg-logo="http://images.pluto.tv/channels/5f1aadf373bed3000794d1d7/colorLogoPNG.png" group-title="Reality e game shows em espanhol",MTV Originals+ | Pluto TV Espanha
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f59f5b7cc331900075e7767/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="61a52615cbef2500072876e2" tvg-logo="http://images.pluto.tv/channels/61a52615cbef2500072876e2/colorLogoPNG.png" group-title="Reality e game shows em espanhol",MTV Shore | Espanha
+#EXTINF:-1 tvg-id="6130d8dc943001000708548d" tvg-logo="http://images.pluto.tv/channels/6130d8dc943001000708548d/colorLogoPNG.png" group-title="Reality e game shows em espanhol",MTV Realities | Pluto TV Espanha
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6130d8dc943001000708548d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="61a52615cbef2500072876e2" tvg-logo="http://images.pluto.tv/channels/61a52615cbef2500072876e2/colorLogoPNG.png" group-title="Reality e game shows em espanhol",MTV Shore | Pluto TV Espanha
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61a52615cbef2500072876e2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="611b87946b7f420007c22361" tvg-logo="http://images.pluto.tv/channels/611b87946b7f420007c22361/colorLogoPNG.png" group-title="Reality e game shows em espanhol",MTV Tatoo a dos | Pluto TV Espanha
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/611b87946b7f420007c22361/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="604f81a49ef73300070e554f" tvg-logo="http://images.pluto.tv/channels/604f81a49ef73300070e554f/colorLogoPNG.png" group-title="Reality e game shows em espanhol",MTV Teen Mom | Pluto TV Espanha
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/604f81a49ef73300070e554f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="6076c74daa05ac0007d0eb07" tvg-logo="http://images.pluto.tv/channels/6076c74daa05ac0007d0eb07/colorLogoPNG.png" group-title="Reality e game shows em espanhol",MTV Tuning | Pluto TV Espanha
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6076c74daa05ac0007d0eb07/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="5d8d103f031154a4172d262b" tvg-logo="http://images.pluto.tv/channels/5d8d103f031154a4172d262b/colorLogoPNG.png" group-title="Reality e game shows em espanhol",Mundo | Pluto TV EUA 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d103f031154a4172d262b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="5f9afb01816137000737f799" tvg-logo="http://images.pluto.tv/channels/5f9afb01816137000737f799/colorLogoPNG.png" group-title="Reality e game shows em espanhol",Nosey Escándalos | Pluto TV Argentina
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f9afb01816137000737f799/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="5dcde197f6591d0009839e04" tvg-logo="https://i.imgur.com/Xq1Y1iO.png" group-title="Reality e game shows em espanhol",Reality | Pluto TV Argentina
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcde197f6591d0009839e04/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="5f1abdceddf6a20007f8ccd2" tvg-logo="http://images.pluto.tv/channels/5f1abdceddf6a20007f8ccd2/colorLogoPNG.png" group-title="Reality e game shows em espanhol",Real Life | Espanha
+#EXTINF:-1 tvg-id="61b87bc867b03a0007864e0d" tvg-logo="https://images.pluto.tv/channels/61b87bc867b03a0007864e0d/colorLogoPNG.png" group-title="Reality e game shows em espanhol",Reality | Pluto TV Espanha
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61b87bc867b03a0007864e0d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="5f1abdceddf6a20007f8ccd2" tvg-logo="http://images.pluto.tv/channels/5f1abdceddf6a20007f8ccd2/colorLogoPNG.png" group-title="Reality e game shows em espanhol",Real Life | Pluto TV Espanha
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1abdceddf6a20007f8ccd2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="60218d81873f0e0007cff614" tvg-logo="http://images.pluto.tv/channels/60218d81873f0e0007cff614/colorLogoPNG.png" group-title="Reality e game shows em espanhol",Rich | Espanha
+#EXTINF:-1 tvg-id="60218d81873f0e0007cff614" tvg-logo="http://images.pluto.tv/channels/60218d81873f0e0007cff614/colorLogoPNG.png" group-title="Reality e game shows em espanhol",Rich | Pluto TV Espanha
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60218d81873f0e0007cff614/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="6079bcbd9b10880007bf8e2d" tvg-logo="https://images.pluto.tv/channels/6079bcbd9b10880007bf8e2d/colorLogoPNG.png" group-title="Reality e game shows em espanhol",Ripley's Believe It or Not | Pluto TV Argentina
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6079bcbd9b10880007bf8e2d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
@@ -3940,6 +4063,10 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=670
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=723
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HOVl6Cm.png" group-title="Variedades em coreano",Hallypop USA 4
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1147
+#EXTINF:-1 tvg-id="60c8a24e17da110007eed4fd" tvg-logo="http://images.pluto.tv/channels/60c8a24e17da110007eed4fd/colorLogoPNG.png" group-title="Variedades em coreano",Rakuten Viki | Pluto TV Espanha
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60c8a24e17da110007eed4fd/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="60c8b3ddaaf9d4000780066f" tvg-logo="https://images.pluto.tv/channels/60c8b3ddaaf9d4000780066f/colorLogoPNG.png" group-title="Variedades em coreano",K-Pop | Pluto TV Espanha
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60c8b3ddaaf9d4000780066f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7u8M2YF.png" group-title="Variedades em coreano",KBS World | Coreia do Sul
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CJQ40PR.png" group-title="Variedades em coreano",K*Rush | Coreia do Sul
@@ -3956,13 +4083,13 @@ https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLi
 https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6196c76e1d310bf925e02614" tvg-logo="https://i.imgur.com/Ef2v8Aw.png" group-title="Variedades em coreano",MBC | Coreia do Sul 2
 https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OxKP8eq.png" group-title="Variedades em coreano",Mukbang TV | Coreia do Sul
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OxKP8eq.png" group-title="Variedades em coreano",Mukbang | Coreia do Sul
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=426
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OxKP8eq.png" group-title="Variedades em coreano",Mukbang TV | Coreia do Sul 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OxKP8eq.png" group-title="Variedades em coreano",Mukbang | Coreia do Sul 2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=613
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OxKP8eq.png" group-title="Variedades em coreano",Mukbang TV | Coreia do Sul 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OxKP8eq.png" group-title="Variedades em coreano",Mukbang | Coreia do Sul 3
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=880
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OxKP8eq.png" group-title="Variedades em coreano",Mukbang TV | Coreia do Sul 4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OxKP8eq.png" group-title="Variedades em coreano",Mukbang | Coreia do Sul 4
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=882
 #EXTINF:-1 tvg-logo="https://i.imgur.com/guC6EuE.png" group-title="Variedades em coreano",New K-ID 1 | legenda em inglês
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=684
@@ -3974,9 +4101,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=612
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=630
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60d4edd7b2fdec002c14112d" tvg-logo="https://i.imgur.com/guC6EuE.png" group-title="Variedades em coreano",New K-ID 5 | legenda em inglês
 https://b9860b21629b415987978bdbbfbc3095.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_NewKID/playlist.m3u8
-#EXTINF:-1 tvg-id="SBS.kr" tvg-logo="https://i.imgur.com/y6KzwfB.png" group-title="Variedades em coreano",SBS | Coreia do Sul
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y6KzwfB.png" group-title="Variedades em coreano",SBS | Coreia do Sul
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=425
-#EXTINF:-1 tvg-id="KRBB4200003ZL" tvg-logo="https://i.imgur.com/y6KzwfB.png" group-title="Variedades em coreano",SBS | Coreia do Sul 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y6KzwfB.png" group-title="Variedades em coreano",SBS | Coreia do Sul 2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=425
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y6KzwfB.png" group-title="Variedades em coreano",SBS Internacional
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=622
@@ -4051,14 +4178,20 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1051
 https://estrellatv-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-estrellatv-plex/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/q1ViZFE.png" group-title="Variedades em espanhol",Estúdio 5 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1108
+#EXTINF:-1 tvg-id="60c882460ea4a200076a2a37" tvg-logo="http://images.pluto.tv/channels/60c882460ea4a200076a2a37/colorLogoPNG.png" group-title="Variedades em espanhol",Fashion TV | Pluto TV Espanha
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60c882460ea4a200076a2a37/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="GolTV.us" tvg-logo="https://i.imgur.com/V6bykuf.png" group-title="Variedades em espanhol",Gol TV | inglês e espanhol
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1090
 #EXTINF:-1 tvg-id="5e793a7cfbdf780007f7eb75" tvg-logo="http://images.pluto.tv/channels/5e793a7cfbdf780007f7eb75/colorLogoPNG.png" group-title="Variedades em espanhol",Guía de canales | Pluto TV Argentina
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e793a7cfbdf780007f7eb75/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="HolaTVEstadosUnidos.es" tvg-logo="https://i.imgur.com/OYTYSD9.png" group-title="Variedades em espanhol",Hola TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1050
+#EXTINF:-1 tvg-logo="http://tvmana-argentina.ar/wp-content/uploads/2020/06/LOGO_TV_MANA_ARGENTINA_V1.png" group-title="Variedades em espanhol",Maná Argentina
+http://csvl03.manasat.com:1935/tvar/tvmanaar2/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BRIQeWk.png" group-title="Variedades em espanhol",Medicos TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1180
+#EXTINF:-1 tvg-id="6130d6f3f3f7bb0007dbd092" tvg-logo="http://images.pluto.tv/channels/6130d6f3f3f7bb0007dbd092/colorLogoPNG.png" group-title="Variedades em espanhol",MTV En Vivo | Pluto TV EUA
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6130d6f3f3f7bb0007dbd092/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kGmZjY3.png" group-title="Variedades em espanhol",N+ Media - Televisa | México
 https://channel04-notusa.akamaized.net/hls/live/2029754/event01/index.m3u8
 #EXTINF:-1 tvg-id="5e6690befbdf780007f78158" tvg-logo="http://images.pluto.tv/channels/5e6690befbdf780007f78158/colorLogoPNG.png" group-title="Variedades em espanhol",Nuestra Vision | EUA | espanhol
@@ -4480,6 +4613,10 @@ http://nn.geo.joj.sk/hls/family-540.m3u8
 http://nn.geo.joj.sk/hls/jojplus-540.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r0Zk0Pn.png" group-title="Variedades em outros idiomas",Lifestyle em chinês
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=746
+#EXTINF:-1 tvg-logo="http://tvmana-hindi.com/wp-content/uploads/2020/07/Logo_Mana_HINDI_V1.png" group-title="Variedades em outros idiomas",Maná Hindi | português e hindi
+http://195.22.11.11:1935/tvmana-english/english2/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://tvmanarusskii.ru/wp-content/uploads/2020/05/265x145.png-russo-novo.png" group-title="Variedades em outros idiomas",Maná Rússia | português e russo
+http://195.22.11.11:1935/tvmana-ru-ua/tvmana-ru-ua2/playlist.m3u8
 #EXTINF:-1 tvg-language="Persian" tvg-logo="https://i.imgur.com/Bh8aX4c.png" group-title="Variedades em outros idiomas",Manoto em farsi
 https://d2rwmwucnr0d10.cloudfront.net/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XaXRbxj.png" group-title="Variedades em outros idiomas",MIS Televizija | Idioma sérvio
@@ -4488,6 +4625,8 @@ https://5afd52b55ff79.streamlock.net/MISTV/_definst_/myStream/playlist.m3u8
 https://radio-live-mg.rtr-vesti.ru/hls/moscow_24/playlist.m3u8
 #EXTINF:-1 tvg-id="622882350f6aad0008c76e77" tvg-logo="https://images.pluto.tv/channels/622882350f6aad0008c76e77/colorLogoPNG.png" group-title="Variedades em outros idiomas",Nick Ukraine | Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/622882350f6aad0008c76e77/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="6228b6a38717420007375848" tvg-logo="https://images.pluto.tv/channels/6228b6a38717420007375848/colorLogoPNG.png" group-title="Variedades em outros idiomas",Nick Ukraine | Pluto TV Espanha
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6228b6a38717420007375848/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="6228b86dbb834e0007b75019" tvg-logo="https://images.pluto.tv/channels/6228b86dbb834e0007b75019/colorLogoPNG.png" group-title="Variedades em outros idiomas",Nickelodeon Ukraine | Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6228b86dbb834e0007b75019/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZjBtL6b.png" group-title="Variedades em outros idiomas",On Biz | Vietnã
