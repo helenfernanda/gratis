@@ -885,9 +885,13 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e3ddbd27
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609062295c2b8f0007199e7a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="5f998c1fc54853000797bacd" tvg-logo="https://i.imgur.com/KowCnfD.png" group-title="Culinária em espanhol",Tastemade | Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f998c1fc54853000797bacd/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="ESBA2200006B4" tvg-logo="https://i.imgur.com/KowCnfD.png" tvg-id="13847" group-title="Culinária em espanhol",Tastemade | Samsung
+#EXTINF:-1 tvg-id="ESBA2200006B4" tvg-logo="https://i.imgur.com/KowCnfD.png"  group-title="Culinária em espanhol",Tastemade | Samsung
 https://tastemadees16intl-samsungmexico.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ESBA2200006B4" tvg-logo="https://i.imgur.com/KowCnfD.png" tvg-id="13848" group-title="Culinária em espanhol",Tastemade | Samsung 2
+#EXTINF:-1 tvg-id="ESBA2200006B4" tvg-logo="https://i.imgur.com/KowCnfD.png"  group-title="Culinária em espanhol",Tastemade | Samsung 2
+https://tastemade-es16tm-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="13847" tvg-logo="https://i.imgur.com/KowCnfD.png"  group-title="Culinária em espanhol",Tastemade | Samsung 3
+https://tastemade-es16tm-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="13848" tvg-logo="https://i.imgur.com/KowCnfD.png"  group-title="Culinária em espanhol",Tastemade | Samsung 4
 https://tastemade-es16tm-samsung.amagi.tv/playlist.m3u8
 ################################## Culinária em inglês #### Culinária em inglês #### Culinária em inglês #### Culinária em inglês #### Culinária em inglês #### Culinária em inglês #### Culinária em inglês #### Culinária em inglês #### Culinária em inglês #### Culinária em inglês ###########################
 #EXTINF:-1 tvg-id="5e84f54a82f05300080e6746" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/31belIZHt8L.png" group-title="Culinária em inglês",America's Test Kitchen
@@ -1055,7 +1059,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcddfbdb
 #EXTINF:-1 tvg-id="5df265697ec3510009df1ef0" tvg-logo="https://i.imgur.com/8j8RyeN.png" group-title="Documentários em espanhol",Vida Real | Pluto TV Argentina
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5df265697ec3510009df1ef0/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #### Documentários em francês ######### ############ ####### ######## ######## ######## ######## ######## Documentários em francês ############ Documentários em francês ########### ############ Documentários em francês ##################
-#EXTINF:-1 tvg-id="60925a44f0350600075a1fdc" tvg-logo="https://images.pluto.tv/channels/60925a44f0350600075a1fdc/colorLogoPNG.png" group-title="Humor e pets em francês",Animaux | Pluto TV França
+#EXTINF:-1 tvg-id="60925a44f0350600075a1fdc" tvg-logo="https://images.pluto.tv/channels/60925a44f0350600075a1fdc/colorLogoPNG.png" group-title="Documentários em francês",Animaux | Pluto TV França
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60925a44f0350600075a1fdc/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="FRBA3300027K7" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/05/FRBA3300027K7_20210414T024607.png" group-title="Documentários em francês",Documentaires - Rakuten TV | França
 https://9dd705dfd14b4d3cac606b4672142dd9.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_RakutenDocumentaries/playlist.m3u8
@@ -1909,10 +1913,14 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db044d78
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5a4d3a00ad95e4718ae8d8db/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="5c363c2411c5ca053f198f97" tvg-logo="https://images.pluto.tv/channels/5c363c2411c5ca053f198f97/colorLogoPNG.png" group-title="Humor e pets em inglês",Comedy | Pluto TV Reino Unido
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c363c2411c5ca053f198f97/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="5f99e24636d67d0007a94e6d" tvg-logo="http://images.pluto.tv/channels/5f99e24636d67d0007a94e6d/colorLogoPNG.png" group-title="Humor e pets em inglês",Comedy Central Animation | EUA
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f99e24636d67d0007a94e6d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="5ca671f215a62078d2ec0abf" tvg-logo="pluto.tv/channels/5ca671f215a62078d2ec0abf/colorLogoPNG.png" group-title="Humor e pets em inglês",Comedy Central | Pluto TV EUA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5efe1de5e0b3f5003f5d9f76" tvg-logo="https://i.imgur.com/IBLybMe.png" group-title="Humor e pets em inglês",Comedy Dynamics | EUA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=580
+#EXTINF:-1 tvg-id="GBBA2200010K1" tvg-logo="https://i.imgur.com/r9L4gvC.png" group-title="Humor e pets em inglês",Comedy Hub
+https://uksono1-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XDqmN1R.png" group-title="Humor e pets em inglês",Dry Bar Comedy | Austrália
 https://drybar-drybarcomedy-1-au.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="5b329e0a7b9d8872aeb49ceb" tvg-logo="http://images.pluto.tv/channels/5b329e0a7b9d8872aeb49ceb/colorLogoPNG.png" group-title="Humor e pets em inglês",Dogs 24/7 | EUA
@@ -3439,10 +3447,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f15e32b2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f15e3cccf49290007053c67/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="5a4d3a00ad95e4718ae8d8db" tvg-logo="http://images.pluto.tv/channels/5a4d3a00ad95e4718ae8d8db/colorLogoPNG.png" group-title="Novelas e séries em inglês",Comedy | Pluto TV EUA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5a4d3a00ad95e4718ae8d8db/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="5f99e24636d67d0007a94e6d" tvg-logo="http://images.pluto.tv/channels/5f99e24636d67d0007a94e6d/colorLogoPNG.png" group-title="Novelas e séries em inglês",Comedy Central Animation | EUA
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f99e24636d67d0007a94e6d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="GBBA2200010K1" tvg-logo="https://i.imgur.com/r9L4gvC.png" group-title="Novelas e séries em inglês",Comedy Hub
-https://uksono1-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5efe1de5e0b3f5003f5d9f79" tvg-logo="https://i.imgur.com/YP1ysr7.png" group-title="Novelas e séries em inglês",ConTV | EUA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5efe1de5e0b3f5003f5d9f79" tvg-logo="https://i.imgur.com/YP1ysr7.png" group-title="Novelas e séries em inglês",ConTV | EUA
@@ -3561,8 +3565,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6089788de
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60802d37ee238e0007c94e64/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="60b9dc99521a1400079bdfba" tvg-logo="https://images.pluto.tv/channels/60b9dc99521a1400079bdfba/colorLogoPNG.png" group-title="Novelas e séries em italiano",Consulenze Illegali | Pluto TV Itália
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60b9dc99521a1400079bdfba/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="ITBB2000004QF" tvg-logo="https://i.imgur.com/fDGmY7Q.png" group-title="Novelas e séries em italiano",Donna TV | Itália
-https://streaming.softwarecreation.it/DonnaTv/DonnaTv/chunklist.m3u8
 #EXTINF:-1 tvg-id="ITBB2000004QF" tvg-logo="https://i.imgur.com/fDGmY7Q.png" group-title="Novelas e séries em italiano",Donna TV | Samsung Itália
 https://promosrl-donnatv-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="60a2837f8154ab0007c4dcdf" tvg-logo="https://images.pluto.tv/channels/60a2837f8154ab0007c4dcdf/colorLogoPNG.png" group-title="Novelas e séries em italiano",Le sorelle McLeod | Pluto TV Itália
@@ -3944,9 +3946,9 @@ https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=722
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60d4eddab2fdec002c141131" tvg-logo="https://i.imgur.com/wncVwti.png" group-title="Variedades em coreano",KMovies
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=742
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wncVwti.png" group-title="Variedades em coreano",KMovies 2 | legenda em inglês
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60d4eddab2fdec002c141131" tvg-logo="https://i.imgur.com/wncVwti.png" group-title="Variedades em coreano",KMovies 2 | legenda em inglês
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wncVwti.png" group-title="Variedades em coreano",KMovies 3 | legenda em inglês
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60d4eddab2fdec002c141131" tvg-logo="https://i.imgur.com/wncVwti.png" group-title="Variedades em coreano",KMovies 3 | legenda em inglês
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p43uvNC.png" group-title="Variedades em coreano",Kocowa Classic | legenda em inglês
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokukocowa/CDN/playlist.m3u8
@@ -4108,7 +4110,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1235
 ######### variedades em francês ######### variedades em francês ######### variedades em francês ######### variedades em francês ######### variedades em francês ######### variedades em francês ######### variedades em francês ######### variedades em francês ######### variedades em francês 
 #EXTINF:-1 tvg-id="Alsace20.fr" tvg-logo="https://i.imgur.com/S8TuhyF.png" group-title="Variedades em francês",Alsace 20 | França
 http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
-#EXTINF:-1 tvg-id="5f92b5ba040eaa0007074d0a" tvg-id="TelefeHD.ar" tvg-logo="https://images.pluto.tv/channels/5f92b5ba040eaa0007074d0a/colorLogoPNG.png" group-title="Variedades em francês",BET Classics | Pluto TV França
+#EXTINF:-1 tvg-id="5f92b5ba040eaa0007074d0a" tvg-logo="https://images.pluto.tv/channels/5f92b5ba040eaa0007074d0a/colorLogoPNG.png" group-title="Variedades em francês",BET Classics | Pluto TV França
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f92b5ba040eaa0007074d0a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="BX1.be" tvg-logo="https://bx1.be/wp-content/themes/BX1-2017/img/logo.png" group-title="Variedades em francês",BX1 | Bélgica - 1
 https://59959724487e3.streamlock.net/stream/live/chunklist.m3u8
@@ -4581,7 +4583,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d51dd5d3
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5bd7fb15c9a300077ee52a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="5f8eccd81062c300078a11df" tvg-logo="http://images.pluto.tv/channels/5f8eccd81062c300078a11df/colorLogoPNG.png" group-title="Videogame",Gaming TV | França
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8eccd81062c300078a11df/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="5ad9bc207ef2767e1846e5a0" group-title="Videogame" tvg-logo="https://images.pluto.tv/channels/5ad9bc207ef2767e1846e5a0/colorLogoPNG.png",IGN | Pluto TV Alemanha
+#EXTINF:-1 tvg-id="5ad9bc207ef2767e1846e5a0" tvg-logo="https://images.pluto.tv/channels/5ad9bc207ef2767e1846e5a0/colorLogoPNG.png" group-title="Videogame",IGN | Pluto TV Alemanha
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad9bc207ef2767e1846e5a0/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="5f1ac118dd7e6000077e31af" tvg-logo="http://images.pluto.tv/channels/5f1ac118dd7e6000077e31af/colorLogoPNG.png" group-title="Videogame",IGN | Pluto TV Espanha
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1ac118dd7e6000077e31af/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
@@ -4597,7 +4599,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad8d982e
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2568
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jE1gdu1.png" group-title="Videogame",Level Up | México
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2558
-#EXTINF:-1 tvg-id="5ad9bca67ef2767e1846e5a1" group-title="Videogame" tvg-logo="https://images.pluto.tv/channels/5ad9bca67ef2767e1846e5a1/colorLogoPNG.png",MinecrafTV | Alemanha
+#EXTINF:-1 tvg-id="5ad9bca67ef2767e1846e5a1" tvg-logo="https://images.pluto.tv/channels/5ad9bca67ef2767e1846e5a1/colorLogoPNG.png" group-title="Videogame",MinecrafTV | Alemanha
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad9bca67ef2767e1846e5a1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="5812b821249444e05d09cc4c" tvg-logo="http://images.pluto.tv/channels/5812b821249444e05d09cc4c/colorLogoPNG.png" group-title="Videogame",MinecrafTV | EUA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5812b821249444e05d09cc4c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
