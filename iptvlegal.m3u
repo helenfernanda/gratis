@@ -2814,8 +2814,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2548
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f982c3420de4100070a545e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="13874" tvg-id="13874" tvg-logo="https://i.imgur.com/zcpM1Ty.png" group-title="Música",Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="6076cd1df8576d0007c82193" tvg-logo="http://images.pluto.tv/channels/6076cd1df8576d0007c82193/colorLogoPNG.png" group-title="Música",VH1 Classics | Pluto TV Espanha
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6076cd1df8576d0007c82193/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/S5LI4ps.png" group-title="Música",V2Beat TV
 https://abr.de1se01.v2beat.live/playlist.m3u8
 #EXTINF:-1 tvg-id="5f32f26bcd8aea00071240e5" tvg-logo="http://images.pluto.tv/channels/5f32f26bcd8aea00071240e5/colorLogoPNG.png" group-title="Música",Vevo 70s
@@ -2838,6 +2836,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32f3977
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61d4b38226b8a50007fe03a6/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="61d4c2817a823d00070ba53e" tvg-logo="http://images.pluto.tv/channels/61d4c2817a823d00070ba53e/colorLogoPNG.png" group-title="Música",Vevo True School Hip-Hop
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61d4c2817a823d00070ba53e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="6076cd1df8576d0007c82193" tvg-logo="http://images.pluto.tv/channels/6076cd1df8576d0007c82193/colorLogoPNG.png" group-title="Música",VH1 Classics | Pluto TV Espanha
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6076cd1df8576d0007c82193/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="TheCountryNetwork.us" tvg-logo="https://i.imgur.com/tGeK5Ac.png" group-title="Música",The Country Network
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1073
 #EXTINF:-1 tvg-id="VideoRola.mx" tvg-logo="https://i.imgur.com/WlUzfjz.png" group-title="Música",Video Rola | México
@@ -3810,6 +3810,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f9992c68
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ee8d84bfb286e0007285aad/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="6148ab7eb75aa60007ca07a1" tvg-logo="https://images.pluto.tv/channels/6148ab7eb75aa60007ca07a1/colorLogoPNG.png" group-title="Reality e game shows em espanhol",Gracias por venir, gracias por estar | Pluto TV Argentina
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6148ab7eb75aa60007ca07a1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WTFbvqm.png" group-title="Reality shows em espanhol",Got Talent Global | vários idiomas
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=117
 #EXTINF:-1 tvg-id="5f4d3696d938c900072679fd" tvg-logo="https://i.imgur.com/o4saZ4W.png" group-title="Reality e game shows em espanhol",Historias de Ultratumba | Pluto TV Argentina
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4d3696d938c900072679fd/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="5df41355939756000921d15b" tvg-logo="https://i.imgur.com/8Z7fzym.png" group-title="Reality e game shows em espanhol",Latin Angels | Pluto TV Argentina
@@ -3952,7 +3954,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=685
 http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokuforensicfiles/CDN/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XuWEujn.png" group-title="Reality shows em inglês",FilmRise Mysteries 24/7 | EUA
 http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WTFbvqm.png" group-title="Reality shows em inglês",Got Talent - melhores momentos
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WTFbvqm.png" group-title="Reality shows em inglês",Got Talent Global | vários idiomas
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=117
 #EXTINF:-1 tvg-id="5c45f5a9d40d58066869fa60" tvg-logo="https://images.pluto.tv/channels/5c45f5a9d40d58066869fa60/colorLogoPNG.png" group-title="Reality shows em inglês",Ghost Dimension | Reino Unido
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c45f5a9d40d58066869fa60/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
