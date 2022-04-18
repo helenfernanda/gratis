@@ -2794,8 +2794,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1142
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1085
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TBlVP1O.png" group-title="Música",POP Pegajoso | Canela TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1086
-#EXTINF:-1 tvg-logo="https://i.imgur.com/r0Zk0Pn.png" tvg-logo="https://i.imgur.com/Bl9rGPa.png" group-title="Música",Música Latina
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1247
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60b0f65c0c8ffb002c821a75" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/qwesttv-jazz&beyond_channel_logo_dark.png" group-title="Música",QwestTV Jazz & Beyond
 https://qwest-jazz-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-qwest-jazz-plex/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="60db37b8b919720007c07fa4" tvg-logo="http://images.pluto.tv/channels/60db37b8b919720007c07fa4/colorLogoPNG.png" group-title="Música",Qwest Jazz & Beyond | Pluto TV Espanha
@@ -2864,10 +2862,12 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1073
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2548
 #EXTINF:-1 tvg-id="5f982c3420de4100070a545e" tvg-logo="https://images.pluto.tv/channels/5f982c3420de4100070a545e/colorLogoPNG.png" group-title="Música",The Story of Beat Club | Alemanha
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f982c3420de4100070a545e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="13874" tvg-id="13874" tvg-logo="https://i.imgur.com/zcpM1Ty.png" group-title="Música",Trace Urban
+#EXTINF:-1 tvg-id="13874" tvg-logo="https://i.imgur.com/zcpM1Ty.png" group-title="Música",Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/S5LI4ps.png" group-title="Música",V2Beat TV
 https://abr.de1se01.v2beat.live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xJirO2X.png" group-title="Música",VC Online | Chile
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1247
 #EXTINF:-1 tvg-id="5f32f26bcd8aea00071240e5" tvg-logo="http://images.pluto.tv/channels/5f32f26bcd8aea00071240e5/colorLogoPNG.png" group-title="Música",Vevo 70s | Pluto TV EUA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="5fd7b8bf927e090007685853" tvg-logo="http://images.pluto.tv/channels/5fd7b8bf927e090007685853/colorLogoPNG.png" group-title="Música",Vevo 80s | Pluto TV EUA
@@ -2926,7 +2926,7 @@ https://a.jsrdn.com/broadcast/8b43a16c1e/+0000/c.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kC9vaKL.jpg" group-title="Música instrumental e som ambiente",Forest Live
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953836932c837b49397355/playlist.m3u8
 #EXTINF:-1 tvg-id="USBB1000002TK" tvg-logo="https://i.imgur.com/R4190of.png" group-title="Música instrumental e som ambiente",Loupe
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1941
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1250
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Nubk9vB.png" group-title="Música instrumental e som ambiente",Mountain Live
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95387b932c837b49397357/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YKcj09n.png" group-title="Música instrumental e som ambiente",Nature TV
@@ -3798,19 +3798,13 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60a2837f8
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60802c209a26320007c92ad5/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="60b9ff2722bfa400072676ef" tvg-logo="https://images.pluto.tv/channels/60b9ff2722bfa400072676ef/colorLogoPNG.png" group-title="Novelas e séries em italiano",Serie | Pluto TV Itália
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60b9ff2722bfa400072676ef/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="619b87091a9c310008f733b5" tvg-logo="https://images.pluto.tv/channels/619b87091a9c310008f733b5/colorLogoPNG.png" group-title="Novelas e séries em italiano",Star Trek | Pluto TV Itália
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/619b87091a9c310008f733b5/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="ITBA14000026G" tvg-logo="https://i.imgur.com/770kcRF.png" group-title="Novelas e séries em italiano",Televisa Telenovelas | Itália
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 ###### Pets em inglês ####### Pets em inglês ####### Pets em inglês ####### Pets em inglês ####### Pets em inglês ####### Pets em inglês ####
-#EXTINF:-1 tvg-id="5db044d7846b170009215ef0" tvg-logo="https://images.pluto.tv/channels/5db044d7846b170009215ef0/colorLogoPNG.png" group-title="Pets em inglês",Cats 24/7 | Reino Unido
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db044d7846b170009215ef0/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="60e453641239a700071f53a1" tvg-logo="http://images.pluto.tv/channels/60e453641239a700071f53a1/colorLogoPNG.png" group-title="Pets em inglês",Dog Whisperer | Pluto TV Reino Unido
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60e453641239a700071f53a1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="5b329e0a7b9d8872aeb49ceb" tvg-logo="http://images.pluto.tv/channels/5b329e0a7b9d8872aeb49ceb/colorLogoPNG.png" group-title="Pets em inglês",Dogs 24/7 | EUA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5b329e0a7b9d8872aeb49ceb/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="5d8dc0740e843c7812dcb8db" tvg-logo="https://images.pluto.tv/channels/5d8dc0740e843c7812dcb8db/colorLogoPNG.png" group-title="Pets em inglês",Dogs 24/7 | Pluto TV Reino Unido
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8dc0740e843c7812dcb8db/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="5bb1ad55268cae539bcedb08" tvg-logo="http://images.pluto.tv/channels/5bb1ad55268cae539bcedb08/colorLogoPNG.png" group-title="Pets em inglês",The Pet Collective
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=773
 #EXTINF:-1 tvg-id="5bb1ad55268cae539bcedb08" tvg-logo="http://images.pluto.tv/channels/5bb1ad55268cae539bcedb08/colorLogoPNG.png" group-title="Pets em inglês",The Pet Collective 2
@@ -3824,27 +3818,27 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad8d819e
 https://cdnlive.codev8.net/rtvalive/smil:channel5.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KO7S0xs.png" group-title="Rádios da Espanha",CanalSur Música | castelhano
 https://cdnlive.codev8.net/rtvalive/smil:channel10.smil/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UPxfjfl.jpg" group-title="Rádios da Espanha",CanalSur Radio | castelhano
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Mct34MY.jpg" group-title="Rádios da Espanha",CanalSur Radio | castelhano
 https://cdnlive.codev8.net/rtvalive/smil:channel4.smil/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UPxfjfl.jpg" group-title="Rádios da Espanha",CanalSur Radio Almería | castelhano
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Mct34MY.jpg" group-title="Rádios da Espanha",CanalSur Radio Almería | castelhano
 https://cdnlive.codev8.net/rtvalive/smil:channel8.smil/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UPxfjfl.jpg" group-title="Rádios da Espanha",CanalSur Radio Cádiz | castelhano
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Mct34MY.jpg" group-title="Rádios da Espanha",CanalSur Radio Cádiz | castelhano
 https://cdnlive.codev8.net/rtvalive/smil:channel11.smil/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UPxfjfl.jpg" group-title="Rádios da Espanha",CanalSur Radio Campo de Gibraltar | castelhano
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Mct34MY.jpg" group-title="Rádios da Espanha",CanalSur Radio Campo de Gibraltar | castelhano
 https://cdnlive.codev8.net/rtvalive/smil:channel15.smil/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UPxfjfl.jpg" group-title="Rádios da Espanha",CanalSur Radio Córdoba | castelhano
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Mct34MY.jpg" group-title="Rádios da Espanha",CanalSur Radio Córdoba | castelhano
 https://cdnlive.codev8.net/rtvalive/smil:channel12.smil/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UPxfjfl.jpg" group-title="Rádios da Espanha",CanalSur Radio Granada | castelhano
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Mct34MY.jpg" group-title="Rádios da Espanha",CanalSur Radio Granada | castelhano
 https://cdnlive.codev8.net/rtvalive/smil:channel13.smil/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UPxfjfl.jpg" group-title="Rádios da Espanha",CanalSur Radio Huelva | castelhano
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Mct34MY.jpg" group-title="Rádios da Espanha",CanalSur Radio Huelva | castelhano
 https://cdnlive.codev8.net/rtvalive/smil:channel14.smil/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UPxfjfl.jpg" group-title="Rádios da Espanha",CanalSur Radio Jaén | castelhano
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Mct34MY.jpg" group-title="Rádios da Espanha",CanalSur Radio Jaén | castelhano
 https://cdnlive.codev8.net/rtvalive/smil:channel16.smil/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UPxfjfl.jpg" group-title="Rádios da Espanha",CanalSur Radio Jerez | castelhano
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Mct34MY.jpg" group-title="Rádios da Espanha",CanalSur Radio Jerez | castelhano
 https://cdnlive.codev8.net/rtvalive/smil:channel18.smil/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UPxfjfl.jpg" group-title="Rádios da Espanha",CanalSur Radio Málaga | castelhano
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Mct34MY.jpg" group-title="Rádios da Espanha",CanalSur Radio Málaga | castelhano
 https://cdnlive.codev8.net/rtvalive/smil:channel17.smil/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UPxfjfl.jpg" group-title="Rádios da Espanha",CanalSur Radio Sevilla | castelhano
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Mct34MY.jpg" group-title="Rádios da Espanha",CanalSur Radio Sevilla | castelhano
 https://cdnlive.codev8.net/rtvalive/smil:channel4.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p4ibEnp.png" group-title="Rádios da Espanha",Catalunya Informació | catalão
 https://directes-radio-int.ccma.cat/int/mp4:catinform/master.m3u8
@@ -3854,7 +3848,7 @@ https://directes-radio-int.ccma.cat/int/mp4:catradio/master.m3u8
 https://directes-radio-int.ccma.cat/int/mp4:catmusica/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LSRC3Jc.png" group-title="Rádios da Espanha",Flamenco Radio | castelhano
 https://cdnlive.codev8.net/rtvalive/smil:channel7.smil/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/f4a4vyF.png" group-title="Rádios da Espanha",iCat | catalão
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iRQTOvY.png" group-title="Rádios da Espanha",iCat | catalão
 https://directes-radio-int.ccma.cat/int/mp4:icatfm/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qynTyzU.jpg" group-title="Rádios da Espanha",Radio Andalucia Información | castelhano
 https://cdnlive.codev8.net/rtvalive/smil:channel6.smil/master.m3u8
@@ -4359,7 +4353,7 @@ https://directes-tv-int.ccma.cat/int/ngrp:bnd_web/master.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1232
 #EXTINF:-1 tvg-id="Canal6Nacional.mx" tvg-logo="https://i.imgur.com/PwoijDx.png" group-title="Variedades em espanhol",Canal 6 | México e EUA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1043
-#EXTINF:-1 tvg-id="CanalSurAndalucia.es" tvg-logo="https://i.imgur.com/MqR8RqK.jpg" group-title="Variedades em espanhol",CanalSur Andalucía | Espanha
+#EXTINF:-1 tvg-id="CanalSurAndalucia.es" tvg-logo="https://i.imgur.com/9X4BW1f.png" group-title="Variedades em espanhol",CanalSur Andalucía | Espanha
 https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/master.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f5132e362fe160040f26c18" tvg-logo="https://i.imgur.com/1qxm6bz.png" group-title="Variedades em espanhol",Canela TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=56
