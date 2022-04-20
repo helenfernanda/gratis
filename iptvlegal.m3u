@@ -1277,6 +1277,8 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/615af74dfe3d8e0007524511/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="620f6e0d620c6100073940e5" tvg-logo="https://images.pluto.tv/channels/620f6e0d620c6100073940e5/colorLogoPNG.png" group-title="Documentários em inglês",Royalty | Pluto TV Reino Unido
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/620f6e0d620c6100073940e5/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZaidrFy.png" group-title="Documentários em inglês",The Jet Set | EUA
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1320
 #EXTINF:-1 tvg-id="5aea40b35126c2157123aa64" tvg-logo="http://images.pluto.tv/channels/5aea40b35126c2157123aa64/colorLogoPNG.png" group-title="Documentários em inglês",The New Detectives | EUA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5aea40b35126c2157123aa64/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="5e393d5c696b3b0009775c8b" tvg-logo="https://images.pluto.tv/channels/5e393d5c696b3b0009775c8b/colorLogoPNG.png" group-title="Documentários em inglês",The New Detectives | Reino Unido
@@ -1686,8 +1688,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=733
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=734
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60aeb5cd87f9b1002ce12323" tvg-logo="https://i.imgur.com/8OgnSVV.png" group-title="Esportes em inglês: automobilismo",NHRA Championship Drag Racing 4
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=735
-#EXTINF:-1 tvg-id="RevnTV.us" tvg-logo="https://i.imgur.com/lvtXumy.png" group-title="Esportes em inglês: automobilismo",Revn | EUA
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1409
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-611c3ac2409e4d002c85a6e3" tvg-logo="https://i.imgur.com/S79UMef.png" group-title="Esportes em inglês: automobilismo",Volty
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=865
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-611c3ac2409e4d002c85a6e3" tvg-logo="https://i.imgur.com/S79UMef.png" group-title="Esportes em inglês: automobilismo",Volty 2
@@ -4560,6 +4560,8 @@ http://94.130.180.175:8081/live/greektv/chunks.m3u8?nimblesessionid=9548359
 #EXTINF:-1 tvg-id="NeaTV.gr" tvg-logo="https://i.imgur.com/kQvhyL4.png" group-title="Variedades em grego",NEA TV | Grécia
 https://live.neatv.gr:8888/hls/neatv_mid/index.m3u8
 ######### variedades em inglês ############# ######### variedades em inglês ############# ######### variedades em inglês ############# ######### variedades em inglês #############
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r0Zk0Pn.png" group-title="Variedades em inglês",1 Canal de Variedades
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1409
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MYGA5Wl.png" group-title="Variedades em inglês",30A TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=587
 #EXTINF:-1 tvg-id="623c97c966fd160008211699" tvg-logo="http://images.pluto.tv/channels/623c97c966fd160008211699/colorLogoPNG.png" group-title="Variedades em inglês",80s VS 90s | Pluto TV EUA
@@ -4710,6 +4712,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1067
 https://ion-plus.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Vz3sDxw.png" group-title="Variedades em inglês",Lex 18 | Kentucky, EUA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1151
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cT7M9tZ.png" group-title="Variedades em inglês",Living Modern
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1321
 #EXTINF:-1 tvg-id="5e14486590ba3e0009d912ff" tvg-logo="https://images.pluto.tv/channels/5e14486590ba3e0009d912ff/colorLogoPNG.png" group-title="Variedades em inglês",Made In Britain | Reino Unido
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e14486590ba3e0009d912ff/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2kTLzZv.png" group-title="Variedades em inglês",News USA
@@ -4820,10 +4824,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=950
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=951
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4aepIMW.png" group-title="Variedades em inglês",Very Local Winston-Salem, WXII
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=954
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZaidrFy.png" group-title="Variedades em inglês",Wonder The Jet Set - fuso 1
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1320
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZaidrFy.png" group-title="Variedades em inglês",Wonder The Jet Set - fuso 2
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1321
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6WSneZr.png" group-title="Variedades em inglês",YouToo America
 https://thegateway.app/YouToo/YTamerica/playlist.m3u8
 ################ Variedades em italiano ### Variedades em italiano ### Variedades em italiano ### Variedades em italiano ### Variedades em italiano ### Variedades em italiano ### Variedades em italiano ### Variedades em italiano ### Variedades em italiano ### Variedades em italiano ### Variedades em italiano ### Variedades em italiano ### Variedades em italiano ### Variedades em italiano ##############
