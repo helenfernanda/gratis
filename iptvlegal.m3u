@@ -2968,8 +2968,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61d4b3822
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61d4c2817a823d00070ba53e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="6076cd1df8576d0007c82193" tvg-logo="http://images.pluto.tv/channels/6076cd1df8576d0007c82193/colorLogoPNG.png" group-title="Música",VH1 Classics | Pluto TV Espanha
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6076cd1df8576d0007c82193/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="TheCountryNetwork.us" tvg-logo="https://i.imgur.com/tGeK5Ac.png" group-title="Música",The Country Network
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1073
 #EXTINF:-1 tvg-id="VideoRola.mx" tvg-logo="https://i.imgur.com/WlUzfjz.png" group-title="Música",Video Rola | México
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1114
 #EXTINF:-1 tvg-id="DEBA2200007V6" tvg-logo="https://i.imgur.com/wvo2EYr.jpg" group-title="Música",Xite | Alemanha 
@@ -4459,8 +4457,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=872
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60d4ede2b2fdec002c14113b" tvg-logo="https://i.imgur.com/kOqUFyh.png" group-title="Variedades em coreano",YG TV 5
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=888
 ######### variedades em espanhol ############# ######### variedades em espanhol ###################### variedades em espanhol ############# ######### variedades em espanhol #############
-#EXTINF:-1 tvg-logo="https://i.imgur.com/r0Zk0Pn.png" group-title="Variedades em espanhol",1 Canal Cristão Hispânico
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1236
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r0Zk0Pn.png" group-title="Variedades em espanhol",1 Canal Hispânico
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1281
 #EXTINF:-1 tvg-id="324.es" tvg-logo="https://i.imgur.com/D552JHe.png" group-title="Variedades em espanhol",3/24 | catalão e castelhano
@@ -4633,6 +4629,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1105
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1269
 #EXTINF:-1 tvg-id="VePlusPanregional.ve" tvg-logo="https://i.imgur.com/UwLUOiS.png" group-title="Variedades em espanhol",Ve Plus
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1095
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SxnlCnP.png" group-title="Variedades em espanhol",Vida Nueva Centro Evangélico
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1236
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gMVw3cJ.png" group-title="Variedades em espanhol",WOW TV | El Salvador
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1235
 ######### variedades em francês ######### variedades em francês ######### variedades em francês ######### variedades em francês ######### variedades em francês ######### variedades em francês ######### variedades em francês ######### variedades em francês ######### variedades em francês 
@@ -4736,10 +4734,6 @@ https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastaweplus/playlist.m3u8
 https://aweencore-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="AXSTV.us" tvg-logo="https://i.imgur.com/wscT4uA.png" group-title="Variedades em inglês",Axs TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1031
-#EXTINF:-1 tvg-id="BBCOneHD.uk" tvg-logo="https://i.imgur.com/dRAmeO3.png" group-title="Variedades em inglês",BBC One | Reino Unido
-http://nimplus5.giniko.com/bbcone/bbcone/index.m3u8?nimblesessionid=23998318&wmsAuthSign=c2VydmVyX3RpbWU9NC8yMi8yMDIyIDM6MTY6NDcgUE0maGFzaF92YWx1ZT1ZK21EWVJUSjRqMzMyYjdKbmZNcDNRPT0mdmFsaWRtaW51dGVzPTE0NDA=
-#EXTINF:-1 tvg-id="BBCTwoHD.uk" tvg-logo="https://i.imgur.com/FCD1lcH.png" group-title="Variedades em inglês",BBC Two | Reino Unido
-http://nimplus6.giniko.com/bbctwo/bbctwo/index.m3u8?nimblesessionid=23998400&wmsAuthSign=c2VydmVyX3RpbWU9NC8yMi8yMDIyIDM6MjE6MjMgUE0maGFzaF92YWx1ZT0wakxha0kwT1E5Ry85Q2NSUStjTzN3PT0mdmFsaWRtaW51dGVzPTE0NDA=
 #EXTINF:-1 tvg-id="5887ba337b8e94223eb121bd" tvg-logo="http://images.pluto.tv/channels/5887ba337b8e94223eb121bd/colorLogoPNG.png" group-title="Variedades em inglês",Best Life | Pluto TV EUA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5887ba337b8e94223eb121bd/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="61858ac0491af10007f8ce4f" tvg-logo="https://images.pluto.tv/channels/61858ac0491af10007f8ce4f/colorLogoPNG.png" group-title="Variedades em inglês",Best of The Drew Barrymore Show | Pluto TV EUA
