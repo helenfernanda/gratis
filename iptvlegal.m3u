@@ -523,6 +523,10 @@ https://cdn.jmvstream.com/w/AVJ-10760/playlist/master.m3u8
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/tvbrasilcentral/live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V9jVgsc.png" group-title="Brasil: variedades em português",TV Brasil Central | Goiás
 http://wz3.dnip.com.br/tvbrasil/tvbrasil.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="TVBRICSPortuguese.ru" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/YMZteda.png" group-title="Variedades em português",TV BRICS | legenda em português
+https://brics.bonus-tv.ru/cdn/brics/portuguese/playlist.m3u8
+#EXTINF:-1 tvg-id="TVBRICSPortuguese.ru" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/YMZteda.png" group-title="Variedades em português",TV BRICS | legenda em português 2
+https://porbrics.mediacdn.ru/cdn/brics/portuguese/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbr-str.srvsite.com/arquivos/7051/cabecalho-7051-20200320104612.png" group-title="Brasil: variedades em português",TV Carioca | Brasil
 https://srv5.zcast.com.br/tvcarioca/tvcarioca/chunklist_w1896676795.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mYp2T7g.png" group-title="Brasil: variedades em português",TV Destaque Nacional | SP - Brasil
@@ -5080,6 +5084,10 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1537
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=279
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-614b690391ca6324200844fc" tvg-logo="https://i.imgur.com/88bPAmg.png" group-title="Variedades em inglês",The Grid | EUA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1026
+#EXTINF:-1 tvg-id="TVBRICSChinese.ru" tvg-logo="https://i.imgur.com/YMZteda.png" group-title="Variedades em inglês",TV BRICS | legenda em inglês
+https://engbrics.mediacdn.ru/cdn/brics/english/playlist.m3u8
+#EXTINF:-1 tvg-id="TVBRICSChinese.ru" tvg-logo="https://i.imgur.com/YMZteda.png" group-title="Variedades em inglês",TV BRICS | legenda em inglês 2
+https://brics.bonus-tv.ru/cdn/brics/english/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/heZgbmp.png" group-title="Variedades em inglês",TV Grace | inglês e espanhol
 https://streamyes.alsolnet.com/tvgracia_02/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3o57u2t.png" group-title="Variedades em inglês",Spydar TV
@@ -5208,6 +5216,10 @@ https://hls.rt.com/hls/rtdru.m3u8
 https://hls.rt.com/hls/rtdru360.m3u8
 #EXTINF:-1 tvg-id="RTDoc.ru" tvg-logo="https://i.imgur.com/KgzDPn4.png" group-title="Variedades em russo",RT Doc em russo - baixa definição | Rússia
 https://hls.rt.com/hls/rtdru240.m3u8
+#EXTINF:-1 tvg-id="TVBRICSRussian.ru" tvg-logo="https://i.imgur.com/YMZteda.png" group-title="Variedades em russo",TV BRICS | Rússia
+https://brics.bonus-tv.ru/cdn/brics/russian/playlist.m3u8
+#EXTINF:-1 tvg-id="TVBRICS.ru" tvg-logo="https://i.imgur.com/YMZteda.png" group-title="Variedades em russo",TV BRICS | Rússia 2
+https://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zgovOVe.png" group-title="Variedades em russo",Univer TV | Rússia
 https://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8
 ######### Variedades em vários idiomas ###################### Variedades em vários idiomas ###################### Variedades em vários idiomas ###################### Variedades em vários idiomas ###################### Variedades em vários idiomas ###################### Variedades em vários idiomas ###################### Variedades em vários idiomas #############
@@ -5259,6 +5271,14 @@ https://be0102fb526c4b05b37b45f2e6200c67.mediatailor.us-east-1.amazonaws.com/v1/
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1362
 #EXTINF:-1 tvg-id="TawafTV.id" tvg-logo="https://i.imgur.com/lmspisP.png" group-title="Variedades em vários idiomas",Tawaf TV | Indonésia
 https://dgbgs3f3e3nka.cloudfront.net/hls/hanyacoba.m3u8
+#EXTINF:-1 tvg-id="TVBRICSChinese.ru" tvg-logo="https://i.imgur.com/YMZteda.png" group-title="Variedades em vários idiomas",TV BRICS | legenda em chinês
+https://brics.bonus-tv.ru/cdn/brics/chinese/playlist.m3u8
+#EXTINF:-1 tvg-id="TVBRICSChinese.ru" tvg-logo="https://i.imgur.com/YMZteda.png" group-title="Variedades em vários idiomas",TV BRICS | legenda em chinês 2
+https://chibrics.mediacdn.ru/cdn/brics/chinese/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 tvg-id="TVBRICSChinese.ru" tvg-logo="https://i.imgur.com/YMZteda.png" group-title="Variedades em vários idiomas",TV BRICS | legenda em inglês
+https://engbrics.mediacdn.ru/cdn/brics/english/playlist.m3u8
+#EXTINF:-1 tvg-id="TVBRICSChinese.ru" tvg-logo="https://i.imgur.com/YMZteda.png" group-title="Variedades em vários idiomas",TV BRICS | legenda em inglês 2
+https://brics.bonus-tv.ru/cdn/brics/english/playlist.m3u8
 #EXTINF:-1 tvg-id="TVRINasional.id" tvg-logo="https://i.imgur.com/tV1Ak8r.png" group-title="Variedades em vários idiomas",TVRI | Indonésia
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
 ################### Videogame ############### Videogame ############### Videogame ############### Videogame ############### Videogame ############### Videogame ############### Videogame ############### Videogame ############### Videogame ############### 
