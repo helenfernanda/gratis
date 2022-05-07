@@ -183,11 +183,11 @@ https://streaming03.zas.media:1936/tvfuturo/tvfuturo/chunklist.m3u8
 https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvfaap.png" group-title="Brasil: educativos e documentários",TV Faap | Brasil
 http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8
-#EXTINF:-1 tvg-id="TVMackenzie.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/c3mh10E.png" group-title="Brasil: eduativos e documentários",TV Mackenzie | Brasil
+#EXTINF:-1 tvg-id="TVMackenzie.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/c3mh10E.png" group-title="Brasil: educativos e documentários",TV Mackenzie | Brasil
 https://player.internetaovivo.com:8443/live_tvmackenzieabr/tvmackenzieabr/playlist.m3u8
 #EXTINF:-1 tvg-id="TVParanaTurismo.br" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjjKFPE1dR10rEbyAE2fus0Mu0iQ0mEwehWdlf6uQ=s250-c-k-c0x00ffffff-no-rj"group-title="Brasil: educativos e documentários",TV Paraná Turismo | Brasil
 http://200.189.113.201/hls/tve.m3u8
-#EXTINF:-1 tvg-id="UniTVPortoAlegre.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/GmA5uuk.png" group-title="Brasil: educativos e documentários",UniTV Porto Alegre (480p)
+#EXTINF:-1 tvg-id="UniTVPortoAlegre.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/GmA5uuk.png" group-title="Brasil: educativos e documentários",UniTV Porto Alegre | Brasil
 http://unitvaovivo.ufrgs.br:8080/live.ogg
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cJdj9OP.png" group-title="Brasil: educativos e documentários",Universidade da Pessoa | Brasil 
 http://video01.soultv.com.br/universidadedapessoa/universidadedapessoa/playlist.m3u8
@@ -639,8 +639,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1541
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d695f7db53adf96b78e7ce3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60a9d105d162b9002d05a60e" tvg-logo="https://i.imgur.com/E08VIuX.png" group-title="Celebridades e cultura pop em inglês",US Weekly | EUA
 https://5e075c7a96014ebb9326fe748ea748ce.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_USWeeklyTV/playlist.m3u8
-#EXTINF:-1 tvg-id="WorldFashionChannelInternational.ru" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/JyslMHb.jpg" group-title="Celebridades e cultura pop em inglês",World Fashion Channel
-https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ocpd2zC.png" group-title="Celebridades e cultura pop em inglês",Young Hollywood | EUA
 https://younghollywood-rakuten.amagi.tv/playlist.m3u8
 ### cinema em alemão ###### cinema em alemão ###### cinema em alemão ###### cinema em alemão ###### cinema em alemão ###### cinema em alemão ###### cinema em alemão ###### cinema em alemão ###
@@ -1287,8 +1285,10 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f984f4a0
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dd8364ea1d6780009929902/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="5e94cd036cc69d0007e8a1ba" tvg-logo="http://images.pluto.tv/channels/5e94cd036cc69d0007e8a1ba/colorLogoPNG.png" group-title="Documentários em espanhol",Crímenes Imperfectos | EUA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e94cd036cc69d0007e8a1ba/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="DWEspanol.de" tvg-logo="https://i.imgur.com/CsHdYhG.png" group-title="Documentários em espanhol",Deutsche Welle - DW em espanhol
+#EXTINF:-1 tvg-id="DWEspanol.de" tvg-logo="https://i.imgur.com/CsHdYhG.png" group-title="Documentários em espanhol",Deutsche Welle - DW em espanhol | Alemanha
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
+#EXTINF:-1 tvg-id="DWEspanol.de" tvg-logo="https://i.imgur.com/CsHdYhG.png" group-title="Documentários em espanhol",Deutsche Welle - DW em espanhol | YouTube
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/dwespanol/live
 #EXTINF:-1 tvg-id="61cd78920b90cb0007e28231" tvg-logo="https://images.pluto.tv/channels/61cd78920b90cb0007e28231/colorLogoPNG.png" group-title="Documentários em espanhol",Documentales | Pluto TV Espanha
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61cd78920b90cb0007e28231/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="61922be835f3910007fc58f6" tvg-logo="https://images.pluto.tv/channels/61922be835f3910007fc58f6/colorLogoPNG.png" group-title="Documentários em espanhol",En el punto de mira | Pluto TV Espanha
@@ -3362,6 +3362,8 @@ https://directes-tv-int.ccma.cat/int/ngrp:324_web/chunklist.m3u8
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/A24com/live
 #EXTINF:-1 tvg-id="61f94a2866401100074e9dee" tvg-logo="https://images.pluto.tv/channels/61f94a2866401100074e9dee/colorLogoPNG.png" group-title="Notícias em espanhol",CHV Noticias | Pluto TV Argentina
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61f94a2866401100074e9dee/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="C5N.ar" tvg-logo="https://i.imgur.com/EEUGnKM.png" group-title="Notícias em espanhol",C5N | YT Argentina
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/c5n/live
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60089d97f682a3002c34829b" tvg-logo="https://images.pluto.tv/channels/60492e6d7f3f560007ab0f62/colorLogoPNG.png" group-title="Notícias em espanhol",Estrella News | EUA 
 https://estrellanews-plex.amagi.tv/amRdirect/us_privacy=1---&did=83cf59f7-dc7f-5753-8faa-ab958f6c33e3&dnt=0&X-Plex-Token=jePnUaVx_dJ5XWHmG6ob&channelId=60089d97f682a3002c34829b/hls/amagi_hls_data_plexAAAAA-estrellanews-plex/CDN/384x216_435600/index.m3u8
 #EXTINF:-1 tvg-id="60492e6d7f3f560007ab0f62" tvg-logo="https://images.pluto.tv/channels/60492e6d7f3f560007ab0f62/colorLogoPNG.png" group-title="Notícias em espanhol",Estrella News | Pluto TV EUA
@@ -3412,6 +3414,8 @@ https://rt-esp.gcdn.co/live/rtesp/playlist_2500Kb.m3u8
 https://rt-esp.gcdn.co/live/rtesp/playlist_1600Kb.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5oiqFfl.png" group-title="Notícias em espanhol",RT TV em espanhol 4 - baixa
 https://rt-esp.gcdn.co/live/rtesp/playlist_800Kb.m3u8
+#EXTINF:-1 tvg-id="RTVE.es" tvg-logo="https://i.imgur.com/84Ih7eR.png" group-title="Notícias em espanhol",RTVE Noticias | YT Espanha
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/rtvenoticias/live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rPVPH9V.png" group-title="Notícias em espanhol",Super Noticias 33 | República Dominicana
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1181
 #EXTINF:-1 tvg-id="TVE24h.es" tvg-logo="https://i.imgur.com/JuYFnOi.png" group-title="Notícias em espanhol",TVE 24h | Espanha
@@ -4542,6 +4546,10 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f0dc00b1
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5877acecb16bb1e042ee453f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="5d49455dfd09fd7d4c0daf26" tvg-logo="https://images.pluto.tv/channels/5d49455dfd09fd7d4c0daf26/colorLogoPNG.png" group-title="Reality shows em inglês",Weddings | Pluto TV Reino Unido
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d49455dfd09fd7d4c0daf26/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="WorldFashionChannelInternational.ru" tvg-language="English" tvg-logo="https://i.imgur.com/dYmlyyF.png" group-title="Reality shows em inglês",World Fashion Channel
+https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
+#EXTINF:-1 tvg-id="WorldFashionChannelInternational.ru" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/JyslMHb.jpg" group-title="A novidade",World Fashion Channel
+https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
 ############ reality shows em italiano ############# reality shows em italiano ############# reality shows em italiano ############# reality shows em italiano ############# reality shows em italiano ####
 #EXTINF:-1 tvg-id="60e4507a06171800072339a3" tvg-logo="https://images.pluto.tv/channels/60e4507a06171800072339a3/colorLogoPNG.png" group-title="Reality shows em italiano",Il Banco dei Pugni | Pluto TV Itália
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60e4507a06171800072339a3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
@@ -4730,6 +4738,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1281
 https://directes-tv-int.ccma.cat/int/ngrp:324_web/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RmAwTms.png" group-title="Variedades em espanhol",Aliento Vision | EUA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1230
+#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-logo="https://i.imgur.com/k2QiTNg.png" group-title="Variedades em espanhol",América Tucumán TDA 28.1 | YT Argentina
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/AmericaTucuman/live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MK9DPEK.png" group-title="Variedades em espanhol",Andalucía Turismo | Espanha
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1253
 #EXTINF:-1 tvg-id="Antena3Internacional.es" tvg-logo="https://i.imgur.com/RmXIVDk.png" group-title="Variedades em espanhol",Antena 3 Internacional
@@ -4784,6 +4794,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1465
 https://cdn4.hostlagarto.com:8081/static/canal6tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1vnp5N1.png" group-title="Variedades em espanhol",Demand Africa em espanhol 
 https://demandafrica-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HHTqUQf.png" group-title="Variedades em espanhol",El Doce | YT Argentina
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/eldoce/live
 #EXTINF:-1 tvg-id="ElTreceInternacional.ar" tvg-logo="https://i.imgur.com/RAmpibH.png" group-title="Variedades em espanhol",El Trece Internacional
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1107
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aXfU4Xf.png" group-title="Variedades em espanhol",Enntivisión | República Dominicana
@@ -4860,6 +4872,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1218
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1217
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hrFKJUX.png" group-title="Variedades em espanhol",Telecanal 12 | República Dominicana
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1188
+#EXTINF:-1 tvg-id="TelefeCordoba.ar" tvg-logo="https://i.imgur.com/SHsmE7A.png" group-title="Variedades em espanhol",Telefe Córdoba | YT Argentina
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC3OQ66wEJaOPHK25IBdWR_g/live
 #EXTINF:-1 tvg-id="5de91cf02fc07c0009910465" tvg-logo="https://images.pluto.tv/channels/5de91cf02fc07c0009910465/colorLogoPNG.png" group-title="Variedades em espanhol",Telefe Hits | Pluto TV Argentina
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5de91cf02fc07c0009910465/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="5f523aa5523ae000074745ec" tvg-logo="https://images.pluto.tv/channels/5f523aa5523ae000074745ec/colorLogoPNG.png" group-title="Variedades em espanhol",Telefe Noticias | Argentina
@@ -4882,6 +4896,10 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1256
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1117
 #EXTINF:-1 tvg-id="GaliciaTVEuropa.es" tvg-logo="https://i.imgur.com/wBQZqvb.png" group-title="Variedades em espanhol",Televisión de Galicia - em galego | Espanha
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1249
+#EXTINF:-1 tvg-id="TVPublica.ar" tvg-logo="https://i.imgur.com/k2QiTNg.png" group-title="Variedades em espanhol",Televisión Pública | YT Argentina
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/TVPublicaArgentina/live
+#EXTINF:-1 tvg-id="TVPublica.ar" tvg-logo="https://i.imgur.com/k2QiTNg.png" group-title="A novidade",Televisión Pública | YT Argentina
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/TVPublicaArgentina/live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eWlMQxt.png" group-title="Variedades em espanhol",Ten TV Canal 10 | Honduras
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1653
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YSgvAxv.png" group-title="Variedades em espanhol",TV Venezuela
