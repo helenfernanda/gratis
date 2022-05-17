@@ -606,7 +606,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dc1cb279
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e8dc0af6784d10007d8ad42/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V7Mor8b.png" group-title="Casa e decoração",The Beach Show | EUA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1504
-#EXTINF:-1 tvg-id="USAJ3400005BA" tvg-logo="https://i.imgur.com/ceUXLGp.png" group-title="Casa e decoração",The Design Network | Samsung EUA 
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f0641d3e8ffda004033b16e" tvg-logo="https://i.imgur.com/ceUXLGp.png" group-title="Casa e decoração",The Design Network | Samsung EUA 
 https://e60c9a5d763348c6a86c6d98fce3c52a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_TheDesignNetwork/playlist.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f0641d3e8ffda004033b16e" tvg-logo="https://i.imgur.com/ceUXLGp.png" group-title="Casa e decoração",The Design Network | Plex EUA
 https://9215cc5c363c4ed297905b3ca9195080.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_TheDesignNetwork-2/playlist.m3u8
@@ -855,6 +855,10 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=441
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1679
 #EXTINF:-1 tvg-logo="https://i.imgur.com/brhVsou.png" group-title="Cinema em inglês",Cinema Hausa, Nigéria | legenda em inglês
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1533
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KS6HUCi.png" group-title="Cinema em inglês",CinePast
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1694
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KS6HUCi.png" group-title="Cinema em inglês",CinePast 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1695
 #EXTINF:-1 tvg-id="USAK3508709A" tvg-logo="https://i.imgur.com/ujmPyit.jpg" group-title="Cinema em inglês",CineVault Westerns | EUA
 https://20995731713c495289784ab260b3c830.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_CinevaultWesterns/playlist.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60a9d104d162b9002d05a60a" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/Cinehouse_logo_dark.png" group-title="Cinema em inglês",Cinehouse | Plex 
@@ -1027,6 +1031,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=822
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1850
 #EXTINF:-1 tvg-id="UpTV.us" tvg-logo="https://i.imgur.com/ZdSrOQB.png" group-title="Cinema em inglês",UpTV | EUA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1040
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0KJLBIY.png" group-title="Cinema em inglês",Urban Action
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1697
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G7IOBNf.png" group-title="Cinema em inglês",Watch It Scream! | Galxy TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=85
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G7IOBNf.png" group-title="Cinema em inglês",Watch It Scream! | Galxy TV 2
@@ -4984,7 +4990,7 @@ http://94.130.180.175:8081/live/greektv/chunks.m3u8?nimblesessionid=9548359
 #EXTINF:-1 tvg-id="NeaTV.gr" tvg-logo="https://i.imgur.com/kQvhyL4.png" group-title="Variedades em grego",NEA TV | Grécia
 https://live.neatv.gr:8888/hls/neatv_mid/index.m3u8
 ######### variedades em inglês ############# ######### variedades em inglês ############# ######### variedades em inglês ############# ######### variedades em inglês #############
-#EXTINF:-1 tvg-logo="https://i.imgur.com/r0Zk0Pn.png" group-title="Cinema em inglês",1 Canal Aleatório
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r0Zk0Pn.png" group-title="Variedades em inglês",1 Canal Aleatório
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1433
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LKuVKdy.png" group-title="Variedades em inglês",30aTV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=587
