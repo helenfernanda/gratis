@@ -43,6 +43,10 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171d344
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K21P6kb.png" group-title="Brasil: cinema em português",Revry Brasil
 http://linear-181.frequency.stream/dist/roku/181/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="62545ed3dab4380007582f7c" tvg-logo="https://images.pluto.tv/channels/62545ed3dab4380007582f7c/colorLogoPNG.png" group-title="Brasil: cinema em português",Namorados | Pluto TV Brasil 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62545ed3dab4380007582f7c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="62545ed3dab4380007582f7c" tvg-logo="https://images.pluto.tv/channels/62545ed3dab4380007582f7c/colorLogoPNG.png" group-title="A novidade",Namorados | Brasil: cinema em português
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62545ed3dab4380007582f7c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K21P6kb.png" group-title="A novidade",Revry Brasil | Cinema em português
 http://linear-181.frequency.stream/dist/roku/181/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Brasil: cinema em português",RunTime | Brasil
@@ -242,8 +246,12 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1212fb8
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f6108d8cc331900075e98e4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="61a528267e1b8b0007357920" tvg-logo="https://images.pluto.tv/channels/61a528267e1b8b0007357920/colorLogoPNG.png" group-title="Brasil: esportes - lifestyle - realities",MTV Com o Ex | Brasil 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61a528267e1b8b0007357920/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="620fdc7d8a36fc000710e3ba" tvg-logo="https://images.pluto.tv/channels/620fdc7d8a36fc000710e3ba/colorLogoPNG.png" group-title="Brasil: esportes - lifestyle - realities",MTV Teen Mom | Pluto TV Brasil
+#EXTINF:-1 tvg-id="620fdc7d8a36fc000710e3ba" tvg-logo="https://images.pluto.tv/channels/620fdc7d8a36fc000710e3ba/colorLogoPNG.png" group-title="Brasil: esportes - lifestyle - realities",MTV Jovens e Mães - Teen Mom | Pluto TV Brasil
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/620fdc7d8a36fc000710e3ba/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="625463563b8ddc0007134aeb" tvg-logo="https://images.pluto.tv/channels/625463563b8ddc0007134aeb/colorLogoPNG.png" group-title="Brasil: esportes - lifestyle - realities",MTV Shore | Pluto TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/625463563b8ddc0007134aeb/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="625463563b8ddc0007134aeb" tvg-logo="https://images.pluto.tv/channels/625463563b8ddc0007134aeb/colorLogoPNG.png" group-title="A novidade",MTV Shore | Brasil: esportes - lifestyle - realities
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/625463563b8ddc0007134aeb/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OvEGVYS.png" group-title="Brasil: esportes - lifestyle - realities",NBA Brasil - horários | YouTube
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/nbabrasil/live
 #EXTINF:-1 tvg-id="5f9b05a99547eb0007676b02" tvg-logo="https://images.pluto.tv/channels/5f9b05a99547eb0007676b02/colorLogoPNG.png?w=300" group-title="Brasil: esportes - lifestyle - realities",Nosey Escândalos | Brasil 
@@ -277,10 +285,14 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/604b79c55
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 #EXTINF:-1 tvg-id="6079c1539b05aa0007a57495" tvg-logo="http://images.pluto.tv/channels/6079c1539b05aa0007a57495/colorLogoPNG.png" group-title="Brasil: infanto-juvenis",As Aventuras de Jackie Chan | Pluto TV Brasil 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6079c1539b05aa0007a57495/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="5f99aad4e82db50007fac4b2" tvg-logo="https://i.imgur.com/bHhxhRb.png" group-title="Brasil: infanto-juvenis",As Pistas de Blue | Brasil 
+#EXTINF:-1 tvg-id="5f99aad4e82db50007fac4b2" tvg-logo="https://i.imgur.com/bHhxhRb.png" group-title="Brasil: infanto-juvenis",As Pistas de Blue | Pluto TV Brasil 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f99aad4e82db50007fac4b2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="5f4fb4cf605ddf000748e16f" tvg-logo="http://images.pluto.tv/channels/5f4fb4cf605ddf000748e16f/colorLogoPNG.png" group-title="Brasil: infanto-juvenis",Babyfirst | Brasil 
+#EXTINF:-1 tvg-id="5f4fb4cf605ddf000748e16f" tvg-logo="http://images.pluto.tv/channels/5f4fb4cf605ddf000748e16f/colorLogoPNG.png" group-title="Brasil: infanto-juvenis",Babyfirst | Pluto TV Brasil 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4fb4cf605ddf000748e16f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="62545c0b002f4b0007688b61" tvg-logo="http://images.pluto.tv/channels/62545c0b002f4b0007688b61/colorLogoPNG.png" group-title="Brasil: infanto-juvenis",Bob Esponja | Pluto TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62545c0b002f4b0007688b61/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="62545c0b002f4b0007688b61" tvg-logo="http://images.pluto.tv/channels/62545c0b002f4b0007688b61/colorLogoPNG.png" group-title="A novidade",Bob Esponja | Brasil: infanto-juvenil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62545c0b002f4b0007688b61/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WklXZlV.png" group-title="Brasil: infanto-juvenis",Clubinho Fun | Brasil
 http://45.165.178.82:8000/play/a011/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/f5/1d/08/f51d08be05919290355ac004cdd5c2d6.png" group-title="Brasil: infanto-juvenis",Desenhos antigos 1 | Brasil
@@ -385,11 +397,15 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60a8126a0
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ff768b6a4c8b80008498610/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="Canal29.br" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/dcb3ff84b8f31ddc39ef213b42402f75.jpg" group-title="Brasil: novelas - seriados - humor",Canal 29 - séries antigas | Brasil
 https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/playlist.m3u8
-#EXTINF:-1 tvg-id="6001f3018502100007f528ac" tvg-logo="https://images.pluto.tv/channels/6001f3018502100007f528ac/colorLogoPNG.png" group-title="Brasil: novelas - seriados - humor",Comédia | Brasil
+#EXTINF:-1 tvg-id="6001f3018502100007f528ac" tvg-logo="https://images.pluto.tv/channels/6001f3018502100007f528ac/colorLogoPNG.png" group-title="Brasil: novelas - seriados - humor",Comédia | Pluto TV Brasil
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6001f3018502100007f528ac/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="5f357e91b18f0b00073583d2" tvg-logo="https://images.pluto.tv/channels/5f357e91b18f0b00073583d2/colorLogoPNG.png" group-title="Brasil: novelas - seriados - humor",Comedy Central | Brasil
+#EXTINF:-1 tvg-id="5f357e91b18f0b00073583d2" tvg-logo="https://images.pluto.tv/channels/5f357e91b18f0b00073583d2/colorLogoPNG.png" group-title="Brasil: novelas - seriados - humor",Comedy Central | Pluto TV Brasil
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f357e91b18f0b00073583d2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="5f5141c1605ddf000748eb1b" tvg-logo="https://images.pluto.tv/channels/5f5141c1605ddf000748eb1b/colorLogoPNG.png" group-title="Brasil: novelas - seriados - humor",FailArmy | Brasil 
+#EXTINF:-1 tvg-id="625464a945b6a200079257d1" tvg-logo="https://images.pluto.tv/channels/625464a945b6a200079257d1/colorLogoPNG.png" group-title="Brasil: novelas - seriados - humor",Death Note | Pluto TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/625464a945b6a200079257d1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="625464a945b6a200079257d1" tvg-logo="https://images.pluto.tv/channels/625464a945b6a200079257d1/colorLogoPNG.png" group-title="A novidade",Death Note | Brasil: novelas - seriados - humor
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/625464a945b6a200079257d1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="5f5141c1605ddf000748eb1b" tvg-logo="https://images.pluto.tv/channels/5f5141c1605ddf000748eb1b/colorLogoPNG.png" group-title="Brasil: novelas - seriados - humor",FailArmy | Pluto TV Brasil 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5141c1605ddf000748eb1b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="CGhost.br" tvg-country="BR" tvg-logo="https://i.imgur.com/sUK7lI0.png" group-title="Brasil: novelas - seriados - humor",C-Ghost | Brasil
 https://stmv.video.expressolider.com.br/ghostv/ghostv/playlist.m3u8
@@ -411,6 +427,11 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f512365a
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCfWfURwaMuPwPcpFrdTk_XA/live
 #EXTINF:-1 tvg-id="5f515d080e738d000739e19c" tvg-logo="https://images.pluto.tv/channels/5f515d080e738d000739e19c/colorLogoPNG.png" group-title="Brasil: novelas - seriados - humor",People are Awesome | Pluto TV Brasil
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f515d080e738d000739e19c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="624f4e6bd5888f000754c53a" tvg-logo="https://images.pluto.tv/channels/624f4e6bd5888f000754c53a/colorLogoPNG.png" group-title="Brasil: novelas - seriados - humor",Plantão Noturno - The Night Shift | Pluto TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/624f4e6bd5888f000754c53a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="624f4e6bd5888f000754c53a" tvg-logo="https://images.pluto.tv/channels/624f4e6bd5888f000754c53a/colorLogoPNG.png" group-title="A novidade",Plantão Noturno - The Night Shift | Brasil: novelas - seriados - humor
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/624f4e6bd5888f000754c53a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="5f36f2346ede750007332d11" tvg-logo="https://images.pluto.tv/channels/5f36f2346ede750007332d11/colorLogoPNG.png" group-title="Brasil: novelas - seriados - humor",Porta dos Fundos | Pluto TV Brasil 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f36f2346ede750007332d11/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="5f1212ad1728050007a523b8" tvg-logo="https://images.pluto.tv/channels/5f1212ad1728050007a523b8/colorLogoPNG.png" group-title="Brasil: novelas - seriados - humor",Retrô | Pluto TV Brasil
@@ -491,6 +512,10 @@ http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/602e80c762306a0007179876/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="NovaEraTV.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/IK3F9Uq.png" group-title="Brasil: variedades em português",Nova Era TV | Lages SC Brasil
 http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
+#EXTINF:-1 tvg-id="606caf1bcdedd4000745fb1f" tvg-logo="https://images.pluto.tv/channels/606caf1bcdedd4000745fb1f/colorLogoPNG.png" group-title="Brasil: variedades em português",Orgulho LGBTQIA+ | Pluto TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/606caf1bcdedd4000745fb1f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="606caf1bcdedd4000745fb1f" tvg-logo="https://images.pluto.tv/channels/606caf1bcdedd4000745fb1f/colorLogoPNG.png" group-title="A novidade",Orgulho LGBTQIA+ | Brasil: variedades em português
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/606caf1bcdedd4000745fb1f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="60072798dcf437000755b4f3" tvg-logo="https://images.pluto.tv/channels/60072798dcf437000755b4f3/colorLogoPNG.png" group-title="Brasil: variedades em português",Paramount+ Apresenta | Pluto TV Brasil
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60072798dcf437000755b4f3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="PortoCanal.pt" tvg-logo="https://i.imgur.com/xLyv1oL.png" group-title="Brasil: variedades em português",Porto TV 1 | Portugal
@@ -513,6 +538,8 @@ https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/playlist.m3u8
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TAAIoOK.png" group-title="Brasil: variedades em português",Rede TVT | Dailymotion Brasil
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/redetvt
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K21P6kb.png" group-title="Brasil: variedades em português",Revry Brasil
+http://linear-181.frequency.stream/dist/roku/181/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="RTP1.pt" tvg-logo="https://i.imgur.com/gsS7Kv5.png" group-title="Brasil: variedades em português",RTP 1 | Portugal
 https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTPAcores.pt" tvg-logo="https://i.imgur.com/vkSRSWQ.png" group-title="Brasil: variedades em português",RTP Açores | Portugal
@@ -635,6 +662,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/601a0342d
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=780
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6TbzJZ5.png" group-title="Celebridades e cultura pop em inglês",Bang Showbiz
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1714
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-62280644c9f485cc7afe8c48" tvg-logo="https://i.imgur.com/ei1Eiqz.png" group-title="Celebridade e cultura pop em inglês",BlackPix | EUA
+http://linear-276.frequency.stream/dist/roku/276/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="5d8bf1472907815f66a866dd" tvg-logo="http://images.pluto.tv/channels/5d8bf1472907815f66a866dd/colorLogoPNG.png" group-title="Celebridades e cultura pop em inglês",Celebrity | EUA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8bf1472907815f66a866dd/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="5dc0c78281eddb0009a02d5e" tvg-logo="http://images.pluto.tv/channels/5dc0c78281eddb0009a02d5e/colorLogoPNG.png" group-title="Celebridades e cultura pop em inglês",ET Live | EUA
@@ -765,6 +794,10 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5136317
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1102
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cLL5Olb.png" group-title="Cinema em espanhol",Cinemundo | Jungo
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1397
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tkAdpEZ.png" group-title="Cinema em espanhol",De Película | Roku
+http://linear-354.frequency.stream/dist/roku/354/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tkAdpEZ.png" group-title="A novidade",De Película | Cinema em espanhol
+http://linear-354.frequency.stream/dist/roku/354/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="5ffe17e3d765170007c3a4fe" tvg-logo="http://images.pluto.tv/channels/5ffe17e3d765170007c3a4fe/colorLogoPNG.png" group-title="Cinema em espanhol",España | Pluto TV Argentina
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ffe17e3d765170007c3a4fe/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="5e972a21ad709d00074195ba" tvg-logo="https://i.imgur.com/Q5HuqXA.png" group-title="Cinema em espanhol",Estrellas de Acción | Argentina 
@@ -837,8 +870,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60b4d6c80
 #EXTINF:-1 tvg-id="FRBA3300021ME" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/11/FRBA3300021ME_20210714T000816.png" group-title="Cinema em francês",Wild Side TV | França
 https://dba2f9e98eb44a478946116c5e90e55b.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-fr_WildSideTV/playlist.m3u8
 ####### CINEMA EM inglês ############################# ####### CINEMA EM inglês ############################# ####### CINEMA EM inglês ############################# ####### CINEMA EM inglês #############################
-#EXTINF:-1 tvg-logo="https://i.imgur.com/r0Zk0Pn.png" group-title="Cinema em inglês",1 Canal de Cinema 
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1421
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r0Zk0Pn.png" group-title="Cinema em inglês",1 Canal de Ficção
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1429
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r0Zk0Pn.png" group-title="Cinema em inglês",1 Canal de Filmes
@@ -869,6 +900,10 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1708
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d4af2a24f1c5ab2d298776b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="58af4c093a41ca9d4ecabe96" tvg-logo="http://images.pluto.tv/channels/58af4c093a41ca9d4ecabe96/colorLogoPNG.png" group-title="Cinema em inglês",Black Cinema | EUA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/58af4c093a41ca9d4ecabe96/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-62280644c9f485cc7afe8c48" tvg-logo="https://i.imgur.com/ei1Eiqz.png" group-title="Cinema em inglês",BlackPix | EUA
+http://linear-276.frequency.stream/dist/roku/276/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-62280644c9f485cc7afe8c48" tvg-logo="https://i.imgur.com/ei1Eiqz.png" group-title="A novidade",BlackPix | Cinema em inglês
+http://linear-276.frequency.stream/dist/roku/276/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CpUKPwo.png" group-title="Cinema em inglês",Bloody Disgusting | EUA
 https://bloodydisgusting-tcl.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="USAK3508704A" tvg-logo="https://i.imgur.com/1qxm6bz.png" group-title="Cinema em inglês",Canela TV em inglês
@@ -1013,6 +1048,8 @@ https://mytime-tcl.amagi.tv/playlist.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2526
 #EXTINF:-1 tvg-id="5cb0cae7a461406ffe3f5213" tvg-logo="http://images.pluto.tv/channels/5cb0cae7a461406ffe3f5213/colorLogoPNG.png" group-title="Cinema em inglês",Paramount Movie Channel | EUA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r0Zk0Pn.png" group-title="Cinema em inglês",Prime Time Drama
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1421
 #EXTINF:-1 tvg-id="617b37b361e0fd0008cfd8c5" tvg-logo="http://images.pluto.tv/channels/617b37b361e0fd0008cfd8c5/colorLogoPNG.png" group-title="Cinema em inglês",Reaction | Pluto TV EUA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/617b37b361e0fd0008cfd8c5/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CSiaCj5.png" group-title="Cinema em inglês",Ready Set Action
@@ -1263,6 +1300,10 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6193c353d
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/606b5ee42b54a100079dd593/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="USBA3000042O6" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/50/USBA3000042O6_20210525T051452.png" group-title="Culinária em inglês",Kitchen Nightmares | EUA 
 https://d12hafsmzbqmzo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/KitchenNightmare2-prod/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rPak7RQ.png" group-title="Culinária em inglês",Let's Dine | Local Now 
+https://linear-274.frequency.stream/dist/roku/274/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rPak7RQ.png" group-title="A novidade",Let's Dine | Culinária em inglês
+https://linear-274.frequency.stream/dist/roku/274/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="dtv_EPGPlanet Eat" tvg-logo="https://i.imgur.com/1VhV54C.png" group-title="Culinária em inglês",Planet Eat
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1435
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6041643175c115002dc5125d" tvg-logo="https://i.imgur.com/b9w2mGn.png" group-title="Culinária em inglês",So Yummy!
@@ -1621,8 +1662,12 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/59c01b195
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dc2c444bac1f70009ca756e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="5812be1c249444e05d09cc50" tvg-logo="http://images.pluto.tv/channels/5812be1c249444e05d09cc50/colorLogoPNG.png" group-title="Documentários em inglês",True Crime | Pluto TV EUA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5812be1c249444e05d09cc50/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/j3libxD.png" group-title="Documentários em inglês",True History
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-614398a08f30fa61e0da7c97" tvg-logo="https://i.imgur.com/j3libxD.png" group-title="Documentários em inglês",True History
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=72
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-614398a08f30fa61e0da7c97" tvg-logo="https://i.imgur.com/j3libxD.png" group-title="Documentários em inglês",True History
+http://linear-188.frequency.stream/dist/roku/188/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-614398a08f30fa61e0da7c97" tvg-logo="https://i.imgur.com/j3libxD.png" group-title="Documentários em inglês",True History
+http://linear-243.frequency.stream/dist/roku/243/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="5ebd0ff1e1a4770007479dc7" tvg-logo="https://images.pluto.tv/channels/5ebd0ff1e1a4770007479dc7/colorLogoPNG.png" group-title="Documentários em inglês",Truly | Reino Unido
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ebd0ff1e1a4770007479dc7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="5b4e96a0423e067bd6df6901" tvg-logo="http://images.pluto.tv/channels/5b4e96a0423e067bd6df6901/colorLogoPNG.png" group-title="Documentários em inglês",Unsolved Mysteries | EUA
@@ -1964,10 +2009,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=963
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca1de9208ee5378be82db3b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="5e78faa05a0e200007a6f487" tvg-logo="https://images.pluto.tv/channels/5e78faa05a0e200007a6f487/colorLogoPNG.png" group-title="Esportes em inglês: automobilismo",Full Custom Garage
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e78faa05a0e200007a6f487/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gzVR6uv.png" group-title="Esportes em inglês: automobilismo",Fun Roads TV
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=978
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gzVR6uv.png" group-title="Esportes em inglês: automobilismo",Fun Roads TV 2
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1072
 #EXTINF:-1 tvg-id="611468532f5f180007fbbc9c" tvg-logo="https://images.pluto.tv/channels/611468532f5f180007fbbc9c/colorLogoPNG.png" group-title="Esportes em inglês: automobilismo",MAVTV Select | Pluto TV EUA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/611468532f5f180007fbbc9c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0mp2go2.png" group-title="Esportes em inglês: automobilismo",MotoAmerica TV
@@ -2025,6 +2066,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1402
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1037
 #EXTINF:-1 tvg-id="USAJ2200012RN" tvg-logo="http://images.pluto.tv/channels/5d486bed428fe37d8cadba45/colorLogoPNG.png" group-title="Esportes em inglês: caça - pesca - rodeio",PursuitUP | EUA 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1165
+#EXTINF:-1 tvg-id="USAJ2200012RN" tvg-logo="http://images.pluto.tv/channels/5d486bed428fe37d8cadba45/colorLogoPNG.png" group-title="Esportes em inglês: caça - pesca - rodeio",PursuitUP | Roku
+https://linear-205.frequency.stream/dist/roku/205/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="SportsmanChannel.us" tvg-logo="https://i.imgur.com/WTEdWLN.png" group-title="Esportes em inglês: caça - pesca - rodeio",Sportsman Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1038
 #EXTINF:-1 tvg-id="61b3ec5ac547920007daf647" tvg-logo="http://images.pluto.tv/channels/61b3ec5ac547920007daf647/colorLogoPNG.png" group-title="Esportes em inglês: lutas",Waypoint TV | Pluto TV EUA
@@ -4599,6 +4642,10 @@ http://linear-119.frequency.stream/dist/roku/119/hls/master/playlist.m3u8
 http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokuforensicfiles/CDN/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XuWEujn.png" group-title="Reality shows em inglês",FilmRise Mysteries 24/7 | EUA
 http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gzVR6uv.png" group-title="Reality shows em inglês",Fun Roads TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=978
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gzVR6uv.png" group-title="Reality shows em inglês",Fun Roads TV 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1072
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5fc6f3a92b6f7b002e77ffad" tvg-logo="https://i.imgur.com/yPe4bke.png" group-title="Reality shows em inglês",GFN TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1403
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WTFbvqm.png" group-title="Reality shows em inglês",Got Talent Global | vários idiomas
@@ -4609,7 +4656,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c45f5a9d
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f27bbe4779de70007a6d1c1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="5e4bf0db50560a000948ce52" tvg-logo="https://images.pluto.tv/channels/5e4bf0db50560a000948ce52/colorLogoPNG.png" group-title="Reality shows em inglês",Her | Pluto TV Reino Unido
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e4bf0db50560a000948ce52/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NrVoYML.png" group-title="Reality shows em inglês",Highway Thru Hell Channel
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NrVoYML.png" group-title="Reality shows em inglês",Highway Thru Hell Channel | Canadá
 http://linear-120.frequency.stream/dist/roku/120/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NrVoYML.png" group-title="A novidade",Highway Thru Hell Channel | Reality shows em inglês
 http://linear-120.frequency.stream/dist/roku/120/hls/master/playlist.m3u8
@@ -4633,6 +4680,10 @@ http://linear-246.frequency.stream/dist/roku/246/hls/master/playlist.m3u8
 http://linear-246.frequency.stream/dist/roku/246/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fXK6LJI.png" group-title="Reality shows em inglês",Jenny Live | espanhol e inglês
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1453
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WEgL9i9.png" group-title="Reality shows em inglês",Kin | EUA
+http://linear-278.frequency.stream/dist/roku/278/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WEgL9i9.png" group-title="A novidade",Kin | Reality shows em inglês
+http://linear-278.frequency.stream/dist/roku/278/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5eea605674085f0040ddc79d" tvg-logo="https://i.imgur.com/3LBntt0.png" group-title="Reality shows em inglês",Law & Crime
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=970
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5eea605674085f0040ddc79d" tvg-logo="https://i.imgur.com/3LBntt0.png" group-title="Reality shows em inglês",Law & Crime 2
@@ -5059,7 +5110,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1233
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=754
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MmHf9Zn.png" group-title="Variedades em espanhol",Revry LatinX | EUA 2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=764
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MmHf9Zn.png" group-title="Variedades em espanhol",Revry LatinX | EUA 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MmHf9Zn.png" group-title="Variedades em espanhol",Revry LatinX | Roku
 http://linear-142.frequency.stream/dist/roku/142/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23007/spanglish/thumbh_20220308_182113.png" group-title="Variedades em espanhol",Spanglish
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1376
