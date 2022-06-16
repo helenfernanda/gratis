@@ -4895,6 +4895,10 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5bb1af6a2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f62dc3a71bc8b0007572fb0/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="60e452730e76f20007598de8" tvg-logo="https://images.pluto.tv/channels/60e452730e76f20007598de8/colorLogoPNG.png" group-title="Reality shows em inglês: crimes e julgamentos",Homicide Hunter | Pluto TV Reino Unido
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60e452730e76f20007598de8/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f5132da62fe160040f26b5b" tvg-logo="https://i.imgur.com/N5eKnkk.png" group-title="Reality shows em inglês: crimes e julgamentos",Judge Faith
+https://35f8d561e25c470b974ab6f6b3df22cc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_JudgeFaith/playlist.m3u8?ads.wurl_channel=536&ads.wurl_name=JudgeFaith&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=vB1fQVteisRvSpyJtSgH&ads.plex_id=5f5132da62fe160040f26b5b&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f5132da62fe160040f26b5b" tvg-logo="https://i.imgur.com/N5eKnkk.png" group-title="A novidade",Judge Faith | Reality shows em inglês: crimes e julgamentos
+https://35f8d561e25c470b974ab6f6b3df22cc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_JudgeFaith/playlist.m3u8?ads.wurl_channel=536&ads.wurl_name=JudgeFaith&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=vB1fQVteisRvSpyJtSgH&ads.plex_id=5f5132da62fe160040f26b5b&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wfhyh8W.png" group-title="Reality shows em inglês: crimes e julgamentos",Justice for All
 http://linear-220.frequency.stream/dist/roku/220/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OvEgGmh.png" group-title="Reality shows em inglês: crimes e julgamentos",Justice With Judge Mablean
@@ -5246,6 +5250,10 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e793a7cf
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1050
 #EXTINF:-1 tvg-id="IciRadioCanadaTeleMontreal.ca" tvg-logo="https://i.imgur.com/5SKffsW.png" group-title="Variedades em espanhol",ICI Télévision | Canadá - francês e espanhol
 https://ici-i.akamaihd.net/hls/live/873426/ICI-Live-Stream/master.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60240f57676235002df19f49" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/juntos_logo_dark_v3.png" group-title="Variedades em espanhol",Juntos TV | Plex
+https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-juntos-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=vB1fQVteisRvSpyJtSgH&channelId=60240f57676235002df19f49
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60240f57676235002df19f49" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/juntos_logo_dark_v3.png" group-title="A novidade",Juntos TV | Variedades em espanhol
+https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-juntos-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=vB1fQVteisRvSpyJtSgH&channelId=60240f57676235002df19f49
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1l68whd.png" group-title="Variedades em espanhol",Maná Argentina
 http://csvl03.manasat.com:1935/tvar/tvmanaar2/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BRIQeWk.png" group-title="Variedades em espanhol",Medicos TV
