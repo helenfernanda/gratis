@@ -3,6 +3,7 @@
 ## 👩🏽‍🦱 Editora: Helen Fernanda - Goiânia - Brasil 🇧🇷
 ## 🔗 Dicas de EPG e apps: www.meutedio.com.br/iptv
 ## 📧 Contato e 💰 Pix: meutedio@mail.com
+## 🆕 21-junho-2022 - Novos canais do Brasil: TV Luzilândia - Vila TV - Cine Life Classic - Lass TV - NGT - TVV
 ## 🆕 20-junho-2022 - Novo canal: Comedy - Humor em inglês
 ## 🆕 20-junho-2022 - Novo canal: Fronteira Movies - Brasil: cinema
 ## 🆕 20-junho-2022 - Novo canal: Zona TUDN - Esportes em espanhol
@@ -12,15 +13,6 @@
 ## 🆕 20-junho-2022 - Novo canal: Noticias Univision - Notícias em espanhol
 ## 🆕 20-junho-2022 - Novo canal: Canal 5 - Infantis em espanhol
 ## 🆕 20-junho-2022 - Novo canal: Foro TV | Roku - Notícias em espanhol
-## 🆕 15-junho-2022 - Novos canais em inglês em diversos grupos.
-## 🆕 15-junho-2022 - Novo canal Saber Más em Documentários em espanhol.
-## 🆕 15-junho-2022 - Novo canal The Red Green em Humor em inglês.
-## 🆕 15-junho-2022 - Novo canal Allied Esports em Videogame.
-## 🆕 14-junho-2022 - Novo grupo: Reality shows em inglês: crimes e julgamentos - Tem reality show de escândalo - falsos julgamentos - julgamentos reais - realities policiais e documentários sobre crimes 
-## 🆕 14-junho-2022 - Novo canal: Os Três Patetas | Pluto TV Brasil // Grupo: Brasil: novelas - seriados - humor
-## 🆕 14-junho-2022 - Novo canal: AutoTV Perú // Grupo: Esportes em espanhol
-## 🆕 14-junho-2022 - Novo canal: Yamato Animation // Grupo: Novelas e séries em italiano // Conteúdo legendado com áudio original japonês
-## 🆕 14-junho-2022 - Novo canal: Reelz // Grupo: Celebridades e cultura pop em inglês
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r0Zk0Pn.png" group-title="A novidade",Crimes e julgamentos em inglês
 https://raw.githubusercontent.com/helenfernanda/gratis/main/aviso-14jun2022.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r0Zk0Pn.png" group-title="A novidade",RTP de Portugal
@@ -44,6 +36,10 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12101f0
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="5f171f032cd22e0007f17f3d" tvg-logo="https://images.pluto.tv/channels/5f171f032cd22e0007f17f3d/colorLogoPNG.png" group-title="Brasil: cinema em português",Cine Família | Brasil
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CrVUxYU.png" group-title="Brasil: cinema em português",Cine Life Classics | Brasil 
+https://alanza.iptv2022.com/CLC/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CrVUxYU.png" group-title="A novidade",Cine Life Classics | Brasil: cinema em português
+https://alanza.iptv2022.com/CLC/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="5f171f988ab9780007fa95ea" tvg-logo="https://images.pluto.tv/channels/5f171f988ab9780007fa95ea/colorLogoPNG.png" group-title="Brasil: cinema em português",Cine Romance | Brasil
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171f988ab9780007fa95ea/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="5f120e94a5714d00074576a1" tvg-logo="https://images.pluto.tv/channels/5f120e94a5714d00074576a1/colorLogoPNG.png" group-title="Brasil: cinema em português",Cine Sucessos | Brasil
@@ -301,7 +297,7 @@ https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/esporteinterativo/live
 #EXTINF:-1 tvg-id="TVIReality.pt" tvg-logo="https://i.imgur.com/zLSRXLH.png" group-title="Brasil: esportes - lifestyle - realities",TVI Reality | Portugal
 https://video-auth2.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-480p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zejxG2A.png" group-title="Brasil: variedades em português",UOL Esporte - horários | YouTube
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zejxG2A.png" group-title="Brasil: esportes - lifestyle - realities",UOL Esporte - horários | YouTube
 http://free.fullspeed.tv/iptv-query?https://www.youtube.com/c/UOLEsporte/live
 #EXTINF:-1 tvg-id="5f32d4d9ec194100070c7449" tvg-logo="https://i.imgur.com/YuTPeFV.png" group-title="Brasil: esportes - lifestyle - realities",Vida Real | Pluto TV Brasil 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32d4d9ec194100070c7449/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
@@ -540,6 +536,18 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fa97a8a7
 http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8
 #EXTINF:-1 tvg-id="602e80c762306a0007179876" tvg-logo="https://images.pluto.tv/channels/602e80c762306a0007179876/colorLogoPNG.png" group-title="Brasil: variedades em português",Jovem Pan | Pluto TV Brasil
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/602e80c762306a0007179876/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Emaofdr.png" group-title="A novidade",Lass TV | Brasil: variedades em português
+https://streaming03.zas.media:1936/lasstv/lasstv/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Emaofdr.png" group-title="Brasil: variedades em português",Lass TV
+https://streaming03.zas.media:1936/lasstv/lasstv/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Emaofdr.png" group-title="Brasil: variedades em português",Lass TV 2
+https://alanza.iptv2022.com/LASS_TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u6DuMQk.png" group-title="A novidade",NGT SP | Brasil: variedades
+https://alanza.iptv2022.com/NGT_SP/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u6DuMQk.png" group-title="Brasil: variedades em português",NGT SP
+https://alanza.iptv2022.com/NGT_SP/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u6DuMQk.png" group-title="Brasil: variedades em português",NGT SP 2
+https://cdn.jmvstream.com/w/LVW-10431/ngrp:LVW10431_AREnhc6KcP_all/master.m3u8
 #EXTINF:-1 tvg-id="NovaEraTV.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/IK3F9Uq.png" group-title="Brasil: variedades em português",Nova Era TV | Lages SC Brasil
 http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
 #EXTINF:-1 tvg-id="606caf1bcdedd4000745fb1f" tvg-logo="https://images.pluto.tv/channels/606caf1bcdedd4000745fb1f/colorLogoPNG.png" group-title="Brasil: variedades em português",Orgulho LGBTQIA+ | Pluto TV Brasil
@@ -634,6 +642,10 @@ https://5a2b083e9f360.streamlock.net/pdsertaotv/pdsertaotv.sdp/chunklist_w145650
 https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8
 #EXTINF:-1 tvg-id="TVGazeta.br" tvg-logo="https://i.imgur.com/lAXbfuU.png" group-title="Brasil: variedades em português",TV Gazeta - Brasil | Dailymotion
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/tvgazeta
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k0JG2Pr.png" group-title="Brasil: variedades em português",TV Luzilândia | Piauí
+https://alanza.iptv2022.com/TV_LUZILANDIA/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k0JG2Pr.png" group-title="A novidade",TV Luzilândia | Brasil: variedades em português
+https://alanza.iptv2022.com/TV_LUZILANDIA/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="TVMAX.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/2Pg0baJ.png" group-title="Brasil: variedades em português",TV MAX Rio | Brasil
 https://59f1cbe63db89.streamlock.net:1443/tvmax/tvmax/playlist.m3u8
 #EXTINF:-1 tvg-id="Tvmetropole.br" tvg-logo="https://i.imgur.com/EhJNGIy.png" group-title="Brasil: variedades em português",TV Metrópole | Caucaia - CE - Brasil
@@ -648,6 +660,14 @@ http://flash1.crossdigital.com.br:1935/2063/2063/live.m3u8
 https://596639ebdd89b.streamlock.net/tvuniao/tvuniao/playlist.m3u8
 #EXTINF:-1 tvg-id="TVVerdesCampos.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/1pxpVjh.png" group-title="Brasil: variedades em português",TV Verdes Campos | PI Brasil
 https://596639ebdd89b.streamlock.net/8124/8124/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CP37H9k.png" group-title="Brasil: variedades em português",TV Votorantim | SP Brasil
+https://alanza.iptv2022.com/TV_VOTORANTIM/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CP37H9k.png" group-title="A novidade",TV Votorantim | Brasil: variedades
+https://alanza.iptv2022.com/TV_VOTORANTIM/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cse41jq.png" group-title="Brasil: variedades em português",Vila TV
+https://alanza.iptv2022.com/VILA_TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cse41jq.png" group-title="A novidade",Vila TV | Brasil: variedades
+https://alanza.iptv2022.com/VILA_TV/tracks-v1a1/mono.m3u8
 ####################################### Casa e decoração e espanhol############################
 #EXTINF:-1 tvg-id="5fb5836fe745b600070fc743" tvg-logo="http://images.pluto.tv/channels/5fb5836fe745b600070fc743/colorLogoPNG.png" group-title="Casa e decoração",BBC Home | EUA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5836fe745b600070fc743/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
@@ -1616,14 +1636,12 @@ https://inwonder-samsungau.amagi.tv/playlist.m3u8
 https://inwonder-samsungbrazil.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="USBB600003MK" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/76/USBB600003MK_20210525T051552.png" group-title="Documentários em inglês",Jack Hanna Channel | EUA 
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-litton-jackhannah-samsungus/playlist.m3u8
-#EXTINF:-1 tvg-id="USBB1000003HL" tvg-logo="https://i.imgur.com/KkWjqsW.png" group-title="Documentários em inglês",Journy | EUA 
-https://vcnplex.teleosmedia.com/linear/ovation/journy/playlist.m3u8
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f5132df62fe160040f26bc2" tvg-logo="https://i.imgur.com/KkWjqsW.png" group-title="Documentários em inglês",Journy | Roku 
-https://linear-252.frequency.stream/252/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f5132df62fe160040f26bc2" tvg-logo="https://i.imgur.com/KkWjqsW.png" group-title="Documentários em inglês",Journy 3 
-https://linear-291.frequency.stream/291/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f5132df62fe160040f26bc2" tvg-logo="https://i.imgur.com/KkWjqsW.png" group-title="Documentários em inglês",Journy 4
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/KkWjqsW.png" group-title="Documentários em inglês",Journy | EUA
 https://linear-298.frequency.stream/298/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/KkWjqsW.png" group-title="Documentários em inglês",Journy | Roku 
+https://linear-252.frequency.stream/252/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f5132df62fe160040f26bc2" tvg-logo="https://i.imgur.com/KkWjqsW.png" group-title="Documentários em inglês",Journy | Plex  
+https://linear-291.frequency.stream/291/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60995eb136c72d002da7bbcb" tvg-logo="https://i.imgur.com/gHOnUfn.png" group-title="Documentários em inglês",Love Nature | EUA 
 https://bamus-eng-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f5132e262fe160040f26bf2" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/17/CAAJ3400017AE_20210525T051443.png" group-title="Documentários em inglês",Magellan TV Now | Distro TV
@@ -1828,17 +1846,21 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e98b0447
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1709
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DiBEioC.png" group-title="Esportes em espanhol",Tigo Sports | Paraguai
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1113
-#EXTINF:-1 tvg-id="TUDNMexico.mx" tvg-logo="https://i.imgur.com/6UQox9e.png" group-title="Esportes em espanhol",TUDN | México
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6UQox9e.png" group-title="A novidade",TUDN | Esportes em espanhol
 http://linear-360.frequency.stream/360/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="TUDNMexico.mx" tvg-logo="https://i.imgur.com/6UQox9e.png" group-title="A novidade",TUDN | Esportes em espanhol
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6UQox9e.png" group-title="Esportes em espanhol",TUDN 1 - horários | México
 http://linear-360.frequency.stream/360/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="TUDNMexico.mx" tvg-logo="https://i.imgur.com/6UQox9e.png" group-title="Esportes em espanhol",TUDN 2 | Televisa
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6UQox9e.png" group-title="Esportes em espanhol",TUDN 2 - horários  | México
+http://linear-361.frequency.stream/361/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6UQox9e.png" group-title="Esportes em espanhol",TUDN 3 - horários  | México
 http://linear-362.frequency.stream/362/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="TUDNMexico.mx" tvg-logo="https://i.imgur.com/6UQox9e.png" group-title="Esportes em espanhol",TUDN 3 | Televisa
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6UQox9e.png" group-title="Esportes em espanhol",TUDN 4 - horários  | México
+http://linear-363.frequency.stream/363/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6UQox9e.png" group-title="Esportes em espanhol",TUDN 5 - horários | Televisa
 http://linear-364.frequency.stream/364/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6UQox9e.png" group-title="Esportes em espanhol",Zona TUDN | México
+#EXTINF:-1 tvg-id="TUDNMexico.mx" tvg-logo="https://i.imgur.com/6UQox9e.png" group-title="Esportes em espanhol",Zona TUDN | México
 http://linear-356.frequency.stream/356/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6UQox9e.png" group-title="Esportes em espanhol",Zona TUDN | Vix
+#EXTINF:-1 tvg-id="TUDNMexico.mx" tvg-logo="https://i.imgur.com/6UQox9e.png" group-title="Esportes em espanhol",Zona TUDN | Vix
 http://linear-357.frequency.stream/357/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6UQox9e.png" group-title="A novidade",Zona TUDN | Esportes em espanhol
 http://linear-356.frequency.stream/356/hls/master/playlist.m3u8
@@ -5359,7 +5381,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1201
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1460
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DJReACX.png" group-title="Variedades em espanhol",Televigo | Espanha
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1256
-#EXTINF:-1 tvg-id="XEFBTDT.mx" tvg-logo="https://i.imgur.com/qrJygUL.png" group-title="Variedades em espanhol",Televisa | México
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qrJygUL.png" group-title="Variedades em espanhol",Televisa | México
 http://linear-317.frequency.stream/317/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ii5cMnq.png" group-title="Variedades em espanhol",Televisión Consciente
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1117
