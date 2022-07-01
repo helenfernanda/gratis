@@ -4,13 +4,14 @@
 ## 🔗 Dicas de EPG e apps: www.meutedio.com.br/iptv
 ## ▶️ Telegram: https://t.me/meutedio
 ## 📧 Contato e 💰 Pix: meutedio@mail.com
+## 🆕 1º-julho-2022 - Novo canal Record TV do Pluto TV Brasil - não é a programação da TV aberta - 
 ## 🆕 29-junho-2022 - Novos canais: Chive TV - Comet - Chicken Soup for The Soul - PBS Kids. Em A NOVIDADE você confere o grupo de cada um deles.
 ## 🆕 28-junho-2022 - Novos canais Adult Swim no grupo Humor em Inglês: Last Stream on The Left // Off The Air (no limiar entre humor e horror) // Your Pretty Face is Going to Hell
 ## 🆕 28-junho-2022 - Novo canal indiano: Flowers TV // Variedades em vários idiomas // EPG: https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml	
 ## 🆕 28-junho-2022 - Confira mais no grupo A NOVIDADE.
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sLAAQ34.png" group-title="A novidade",Amigo Secreto | somente nos cinemas
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sLAAQ34.png" group-title="A novidade",Amigo Secreto - teaser | somente nos cinemas
 https://video.twimg.com/ext_tw_video/1541903249497882626/pu/pl/1280x720/_5YQUk55TnShP8YH.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sLAAQ34.png" group-title="A novidade",Amigo Secreto | em várias salas do Brasil
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sLAAQ34.png" group-title="A novidade",Amigo Secreto - trailer | em várias salas do Brasil
 https://video.twimg.com/ext_tw_video/1541430179586887680/pu/pl/640x360/D2wksKxJkxTgoIPp.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r0Zk0Pn.png" group-title="A novidade",Crimes e julgamentos em inglês
 https://raw.githubusercontent.com/helenfernanda/gratis/main/aviso-14jun2022.ts
@@ -37,6 +38,13 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fa1612a6
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12101f0b12f00007844c7c/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="5f12101f0b12f00007844c7c" tvg-logo="https://images.pluto.tv/channels/5f12101f0b12f00007844c7c/colorLogoPNG.png" group-title="Brasil: cinema em português",Cine Comédia | sem propaganda
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12101f0b12f00007844c7c/master.m3u8??deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="62545ed3dab4380007582f7c" tvg-logo="https://images.pluto.tv/channels/62545ed3dab4380007582f7c/colorLogoPNG.png" group-title="Brasil: cinema em português",Cine Comédia Romântica | Pluto TV Brasil 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62545ed3dab4380007582f7c/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="62545ed3dab4380007582f7c" tvg-logo="https://images.pluto.tv/channels/62545ed3dab4380007582f7c/colorLogoPNG.png" group-title="Brasil: cinema em português",Cine Comédia Romântica | sem propaganda
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62545ed3dab4380007582f7c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="62545ed3dab4380007582f7c" tvg-logo="https://images.pluto.tv/channels/62545ed3dab4380007582f7c/colorLogoPNG.png" group-title="A novidade",Cine Comédia Romântica - novo nome do canal Namorados | Brasil: cinema
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62545ed3dab4380007582f7c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="5f1210d14ae1f80007bafb1d" tvg-logo="https://images.pluto.tv/channels/5f1210d14ae1f80007bafb1d/colorLogoPNG.png" group-title="Brasil: cinema em português",Cine Drama | Pluto TV Brasil
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="5f1210d14ae1f80007bafb1d" tvg-logo="https://images.pluto.tv/channels/5f1210d14ae1f80007bafb1d/colorLogoPNG.png" group-title="Brasil: cinema em português",Cine Drama | sem propaganda
@@ -83,10 +91,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171d344
 https://srv4.zcast.com.br/fronteiramovies/fronteiramovies/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Fvg43uJ.png" group-title="Brasil: cinema em português",MyTime Movie Network | Brasil
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="62545ed3dab4380007582f7c" tvg-logo="https://images.pluto.tv/channels/62545ed3dab4380007582f7c/colorLogoPNG.png" group-title="Brasil: cinema em português",Namorados | Pluto TV Brasil 
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62545ed3dab4380007582f7c/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="62545ed3dab4380007582f7c" tvg-logo="https://images.pluto.tv/channels/62545ed3dab4380007582f7c/colorLogoPNG.png" group-title="Brasil: cinema em português",Namorados | sem propaganda
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62545ed3dab4380007582f7c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K21P6kb.png" group-title="Brasil: cinema em português",Revry Brasil
 http://linear-181.frequency.stream/181/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Brasil: cinema em português",RunTime | Brasil
@@ -715,6 +719,12 @@ https://streamer-a01.videos.sapo.pt/live/portocanal/playlist.m3u8
 https://streamer-b02.videos.sapo.pt/live/portocanal/playlist.m3u8
 #EXTINF:-1 tvg-id="Primertv.br" tvg-logo="https://i.imgur.com/VZaj5Oc.png" group-title="Brasil: variedades em português",Primer TV | Brasil
 http://200.194.238.229:8383/live/primer/playlist.m3u8
+#EXTINF:-1 tvg-id="61f185ae10150a0007049e0c" tvg-logo="https://images.pluto.tv/channels/61f185ae10150a0007049e0c/colorLogoPNG.png" group-title="Brasil: variedades em português",Record TV | Pluto TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61f185ae10150a0007049e0c/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="61f185ae10150a0007049e0c" tvg-logo="https://images.pluto.tv/channels/61f185ae10150a0007049e0c/colorLogoPNG.png" group-title="Brasil: variedades em português",Record TV - Pluto TV | sem propaganda
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61f185ae10150a0007049e0c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="RecordTVSaoPaulo.br" tvg-logo="https://images.pluto.tv/channels/61f185ae10150a0007049e0c/colorLogoPNG.png" group-title="Brasil: variedades em português",Record TV | São Paulo
+https://spo4.akamaized.net/hls/live/2029736/spo4/index.m3u8?hdnts=exp=1656697298~acl=/*~hmac=d8712579e5b43e2575ef9413dafcab3fae57f316edf2203c6bc74469e6909e1e
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3Veyrj4.png" group-title="Brasil: variedades em português",Rede América | Pouso Alegre - MG - Brasil
 https://monchyxd.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/redeamericatv/playlist.m3u8
 #EXTINF:-1 tvg-id="RedeBrasil.br" tvg-logo="https://i.imgur.com/ZgnRZ47.png" group-title="Brasil: variedades em português",Rede Brasil
@@ -822,24 +832,45 @@ https://alanza.iptv2022.com/VILA_TV/tracks-v1a1/mono.m3u8
 ####################################### Casa e decoração e espanhol############################
 #EXTINF:-1 tvg-id="5fb5836fe745b600070fc743" tvg-logo="http://images.pluto.tv/channels/5fb5836fe745b600070fc743/colorLogoPNG.png" group-title="Casa e decoração",BBC Home | EUA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5836fe745b600070fc743/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
+#EXTINF:-1 tvg-id="5fb5836fe745b600070fc743" tvg-logo="http://images.pluto.tv/channels/5fb5836fe745b600070fc743/colorLogoPNG.png" group-title="Casa e decoração",BBC Home | sem propaganda
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5836fe745b600070fc743/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="5ef0fbed39ff730007383a69" tvg-logo="https://images.pluto.tv/channels/5ef0fbed39ff730007383a69/colorLogoPNG.png" group-title="Casa e decoração",Dabl | Pluto TV EUA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ef0fbed39ff730007383a69/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="5ef0fbed39ff730007383a69" tvg-logo="https://images.pluto.tv/channels/5ef0fbed39ff730007383a69/colorLogoPNG.png" group-title="Casa e decoração",Dabl | sem propaganda
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ef0fbed39ff730007383a69/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="60f03e32b6455d000748b640" tvg-logo="https://images.pluto.tv/channels/60f03e32b6455d000748b640/colorLogoPNG.png" group-title="Casa e decoração",Extreme American Homes | Pluto TV Reino Unido
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60f03e32b6455d000748b640/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="60f03e32b6455d000748b640" tvg-logo="https://images.pluto.tv/channels/60f03e32b6455d000748b640/colorLogoPNG.png" group-title="Casa e decoração",Extreme American Homes | sem propaganda
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60f03e32b6455d000748b640/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="5dd6ab8056beb000091fc6b6" tvg-logo="https://i.imgur.com/qiekvJw.png" group-title="Casa e decoração",Hogar | Pluto TV Argentina 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dd6ab8056beb000091fc6b6/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="5dd6ab8056beb000091fc6b6" tvg-logo="https://i.imgur.com/qiekvJw.png" group-title="Casa e decoração",Hogar | sem propaganda 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dd6ab8056beb000091fc6b6/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="5eb96303f5bb020008e7e44f" tvg-logo="https://images.pluto.tv/channels/5eb96303f5bb020008e7e44f/colorLogoPNG.png" group-title="Casa e decoração",Home | Pluto TV Alemanha
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5eb96303f5bb020008e7e44f/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="5eb96303f5bb020008e7e44f" tvg-logo="https://images.pluto.tv/channels/5eb96303f5bb020008e7e44f/colorLogoPNG.png" group-title="Casa e decoração",Home | Alemanha | sem propaganda
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5eb96303f5bb020008e7e44f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="6022bd17849c620007f43ae0" tvg-logo="https://images.pluto.tv/channels/6022bd17849c620007f43ae0/colorLogoPNG.png" group-title="Casa e decoração",Home | Pluto TV EUA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6022bd17849c620007f43ae0/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="6022bd17849c620007f43ae0" tvg-logo="https://images.pluto.tv/channels/6022bd17849c620007f43ae0/colorLogoPNG.png" group-title="Casa e decoração",Home | EUA | sem propaganda
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6022bd17849c620007f43ae0/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="5db04c9eedc89300090d2884" tvg-logo="https://images.pluto.tv/channels/6022bd17849c620007f43ae0/colorLogoPNG.png" group-title="Casa e decoração",Home | Pluto TV Reino Unido 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db04c9eedc89300090d2884/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="5c5c2e9d8002db3c3e0b1c72" tvg-logo="https://images.pluto.tv/channels/5c5c2e9d8002db3c3e0b1c72/colorLogoPNG.png" group-title="Casa e decoração",Homes Under Hammer | Reino Unido
+#EXTINF:-1 tvg-id="5db04c9eedc89300090d2884" tvg-logo="https://images.pluto.tv/channels/6022bd17849c620007f43ae0/colorLogoPNG.png" group-title="Casa e decoração",Home | Reino Unido | sem propaganda 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db04c9eedc89300090d2884/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="5c5c2e9d8002db3c3e0b1c72" tvg-logo="https://images.pluto.tv/channels/5c5c2e9d8002db3c3e0b1c72/colorLogoPNG.png" group-title="Casa e decoração",Homes Under Hammer | Pluto TV Reino Unido
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c5c2e9d8002db3c3e0b1c72/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="5c5c2e9d8002db3c3e0b1c72" tvg-logo="https://images.pluto.tv/channels/5c5c2e9d8002db3c3e0b1c72/colorLogoPNG.png" group-title="Casa e decoração",Homes Under Hammer | Reino Unido | sem propaganda
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c5c2e9d8002db3c3e0b1c72/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="5dc1cb279c91420009db261d" tvg-logo="http://images.pluto.tv/channels/5dc1cb279c91420009db261d/colorLogoPNG.png" group-title="Casa e decoração",Lively Place | Pluto TV EUA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dc1cb279c91420009db261d/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="5e8dc0af6784d10007d8ad42" tvg-logo="https://images.pluto.tv/channels/5e8dc0af6784d10007d8ad42/colorLogoPNG.png" group-title="Casa e decoração",Secret Dealers | Reino Unido
+#EXTINF:-1 tvg-id="5dc1cb279c91420009db261d" tvg-logo="http://images.pluto.tv/channels/5dc1cb279c91420009db261d/colorLogoPNG.png" group-title="Casa e decoração",Lively Place | EUA | sem propaganda
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dc1cb279c91420009db261d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="5e8dc0af6784d10007d8ad42" tvg-logo="https://images.pluto.tv/channels/5e8dc0af6784d10007d8ad42/colorLogoPNG.png" group-title="Casa e decoração",Secret Dealers | Pluto TV Reino Unido
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e8dc0af6784d10007d8ad42/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="5e8dc0af6784d10007d8ad42" tvg-logo="https://images.pluto.tv/channels/5e8dc0af6784d10007d8ad42/colorLogoPNG.png" group-title="Casa e decoração",Secret Dealers | Reino Unido | sem propaganda
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e8dc0af6784d10007d8ad42/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V7Mor8b.png" group-title="Casa e decoração",The Beach Show | EUA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1504
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f0641d3e8ffda004033b16e" tvg-logo="https://i.imgur.com/ceUXLGp.png" group-title="Casa e decoração",The Design Network | Samsung EUA 
@@ -848,14 +879,20 @@ https://e60c9a5d763348c6a86c6d98fce3c52a.mediatailor.us-east-1.amazonaws.com/v1/
 https://9215cc5c363c4ed297905b3ca9195080.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_TheDesignNetwork-2/playlist.m3u8
 #EXTINF:-1 tvg-id="5f4ff8c8bcf3d600078af3eb" tvg-logo="https://i.imgur.com/ceUXLGp.png" group-title="Casa e decoração",The Design Network | Pluto TV EUA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4ff8c8bcf3d600078af3eblivestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="5f4ff8c8bcf3d600078af3eb" tvg-logo="https://i.imgur.com/ceUXLGp.png" group-title="Casa e decoração",The Design Network | EUA | sem propaganda
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4ff8c8bcf3d600078af3eblivestitch/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="USAK3508701A" tvg-logo="http://images.pluto.tv/channels/5d51e791b7dba3b2ae990ab2/colorLogoPNG.png" group-title="Casa e decoração",This Old House | Samsung EUA
 https://26487f8be0614420a64b6f5964563a75.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_ThisOldHouse/playlist.m3u8
 #EXTINF:-1 tvg-id="5d51e791b7dba3b2ae990ab2" tvg-logo="http://images.pluto.tv/channels/5d51e791b7dba3b2ae990ab2/colorLogoPNG.png" group-title="Casa e decoração",This Old House | Pluto TV EUA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d51e791b7dba3b2ae990ab2/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="5d51e791b7dba3b2ae990ab2" tvg-logo="http://images.pluto.tv/channels/5d51e791b7dba3b2ae990ab2/colorLogoPNG.png" group-title="Casa e decoração",This Old House | EUA | sem propaganda
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d51e791b7dba3b2ae990ab2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="USAJ3400020KC" tvg-logo="http://images.pluto.tv/channels/601a0342dcf4370007566891/colorLogoPNG.png" group-title="Casa e decoração",Tiny House Nation | Samsung EUA
 https://4f2d358e390a41cd8e87e74a954d9624.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_TinyHouseNation/playlist.m3u8
 #EXTINF:-1 tvg-id="601a0342dcf4370007566891" tvg-logo="http://images.pluto.tv/channels/601a0342dcf4370007566891/colorLogoPNG.png" group-title="Casa e decoração",Tiny House Nation | Pluto TV EUA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/601a0342dcf4370007566891/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="601a0342dcf4370007566891" tvg-logo="http://images.pluto.tv/channels/601a0342dcf4370007566891/colorLogoPNG.png" group-title="Casa e decoração",Tiny House Nation | EUA | sem propaganda 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/601a0342dcf4370007566891/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 ########################################### Celebridades e cultura pop em inglês ###### Celebridades e cultura pop em inglês ###### Celebridades e cultura pop em inglês ###### Celebridades e cultura pop em inglês ###### Celebridades e cultura pop em inglês ###### Celebridades e cultura pop em inglês ###### Celebridades e cultura pop em inglês ###### Celebridades e cultura pop em inglês ###### Celebridades e cultura pop em inglês ###### Celebridades e cultura pop em inglês ###### Celebridades e cultura pop em inglês ############################
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-606605549dbfca002d2ae875" tvg-logo="https://i.imgur.com/Sa39Z1b.png" group-title="Celebridades e cultura pop em inglês",Axs TV Now
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=780
@@ -4177,10 +4214,18 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=102
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=617
 #EXTINF:-1 tvg-id="5812afe1d0f0b8d55dde67fa" tvg-logo="https://i.imgur.com/nK0m3L9.png" group-title="Notícias em inglês",Cheddar | EUA 5
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=620
+#EXTINF:-1 tvg-id="USAJ3504714A" tvg-logo="https://i.imgur.com/nK0m3L9.png" group-title="Notícias em inglês",Cheddar | Local Now
+https://livestream.chdrstatic.com/e1bced8988f6a21da2206247c69538b6d4b12898ae8245c3a72f57e21384ccba/localnow/localnowlive/cheddardigital/index.m3u8
 #EXTINF:-1 tvg-id="5812afe1d0f0b8d55dde67fa" tvg-logo="https://i.imgur.com/nK0m3L9.png" group-title="Notícias em inglês",Cheddar | Pluto TV EUA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5812afe1d0f0b8d55dde67fa/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="5ca1e02c08ee5378be82db47" tvg-logo="https://i.imgur.com/nK0m3L9.png" group-title="Notícias em inglês",Cheddar | Pluto TV Reino Unido
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca1e02c08ee5378be82db47/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="USAJ3504714A" tvg-logo="https://i.imgur.com/nK0m3L9.png" group-title="Notícias em inglês",Cheddar | Samsung
+https://cheddar.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="USAJ3504714A" tvg-logo="https://i.imgur.com/nK0m3L9.png" group-title="Notícias em inglês",Cheddar | Stirr
+https://dai.google.com/linear/hls/event/frfwucAPTVunrpitYiymwg/master.m3u8
+#EXTINF:-1 tvg-id="USAJ3504714A" tvg-logo="https://i.imgur.com/nK0m3L9.png" group-title="Notícias em inglês",Cheddar | Web Live
+https://livestream.chdrstatic.com/b93e5b0d43ea306310a379971e384964acbe4990ce193c0bd50078275a9a657d/cheddar-42620/cheddarweblive/cheddar/index.m3u8
 #EXTINF:-1 tvg-id="5421f71da6af422839419cb3" tvg-logo="http://images.pluto.tv/channels/5421f71da6af422839419cb3/colorLogoPNG.png" group-title="Notícias em inglês",CNN | EUA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5421f71da6af422839419cb3/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="CNN.us" tvg-logo="http://images.pluto.tv/channels/5421f71da6af422839419cb3/colorLogoPNG.png" group-title="Notícias em inglês",CNN | Roku EUA
