@@ -365,6 +365,10 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd1419a3
 https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1J9f1r7.png" group-title="Brasil: esportes - lifestyle - realities",TNT Sports - horários | YouTube
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/esporteinterativo/live
+#EXTINF:-1 tvg-id="TraceBrazuca.fr" tvg-logo="https://i.imgur.com/453JQfl.png" group-title="Brasil: esportes - lifestyle - realities",Trace Brazuca
+https://tracebrazuca-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_62ab7e667be954333c3f72f4_tracebrazuca-live/SmR77z5V11S8PUJxydj6GQfO.m3u8
+#EXTINF:-1 tvg-id="TraceBrazuca.fr" tvg-logo="https://i.imgur.com/453JQfl.png" group-title="A novidade",Trace Brazuca | Brasil: esportes - lifestyle - realities
+https://tracebrazuca-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_62ab7e667be954333c3f72f4_tracebrazuca-live/SmR77z5V11S8PUJxydj6GQfO.m3u8
 #EXTINF:-1 tvg-id="TVIReality.pt" tvg-logo="https://i.imgur.com/zLSRXLH.png" group-title="Brasil: esportes - lifestyle - realities",TVI Reality | Portugal
 https://video-auth2.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-480p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zejxG2A.png" group-title="Brasil: esportes - lifestyle - realities",UOL Esporte - horários | YouTube
@@ -3902,10 +3906,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1073
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2548
 #EXTINF:-1 tvg-id="5f982c3420de4100070a545e" tvg-logo="https://images.pluto.tv/channels/5f982c3420de4100070a545e/colorLogoPNG.png" group-title="Música",The Story of Beat Club | Alemanha
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f982c3420de4100070a545e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="https://i.imgur.com/453JQfl.png" group-title="Música",Trace Brazuca
-https://tracebrazuca-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_62ab7e667be954333c3f72f4_tracebrazuca-live/SmR77z5V11S8PUJxydj6GQfO.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/453JQfl.png" group-title="A novidade",Trace Brazuca | Música
-https://tracebrazuca-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_62ab7e667be954333c3f72f4_tracebrazuca-live/SmR77z5V11S8PUJxydj6GQfO.m3u8
 #EXTINF:-1 tvg-id="DEBA3300030O1" tvg-logo="https://i.imgur.com/zcpM1Ty.png" group-title="Música",Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TlRjDYf.png?1" group-title="Música",UrbancrisTV | República Dominicana
