@@ -3,6 +3,9 @@
 ## 👩🏽‍💻 Editora: Helen Fernanda - Goiânia - Brasil 🇧🇷
 ## 🔗 Dicas de EPG - apps: www.meutedio.com.br/iptv
 ## 📧 Contato e 💰 Pix: meutedio@mail.com
+## 🆕 29-julho-2022 - Novo grupo *Variedades em turco** com novos canais do Chipre e da Turquia.
+## 🆕 29-julho-2022 - Novos canais no grupo *Variedades em turco*.
+## 🆕 29-julho-2022 - Novo canal de música Reload.
 ## 🆕 28-julho-2022 - 7NN realocado para Variedades em Espanhol porque só tem alguns horários de jornalismo.
 ## 🆕 28-julho-2022 - Novo grupo: Variedades em árabe - com canais que já estavam na lista e alguns novos. Canais em árabe que estavam em //Variedades em vários idiomas// foram movidos. Demais canais foram mantidos nos dois grupos.
 ## 🆕 28-julho-2022 - Novos canais: TBO 🇧🇷; Rede Sim 🇧🇷; La Rock 22 🇳🇮; La Redonda FM 🇪🇨; La Redonda TV 🇪🇨; Abu Dhabi 🇦🇪; Abu Dhabi Sports 🇦🇪; National Geographic; vários canais árabes 
@@ -1285,6 +1288,10 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c665db3e
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c5c31f2f21b553c1f673fb0/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hy5ixW8.png" group-title="Cinema em inglês",Dimensions - a sci-fi experience
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1491
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hy5ixW8.png" group-title="Cinema em inglês",Dimensions | link 2
+https://simultv.s.llnwi.net/o054/Dimensions/interlink.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hy5ixW8.png" group-title="Cinema em inglês",Dimensions | link 3
+https://simultv.s.llnwi.net/n4s4/Atari/Dime/interlink.m3u8
 #EXTINF:-1 tvg-id="localnow_All The Drama" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/608a0e28a918527ee77eabe8" group-title="Cinema em inglês",Drama | Local Now
 https://linear-141.frequency.stream/dist/localnow/141/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="5b4e92e4694c027be6ecece1" tvg-logo="http://images.pluto.tv/channels/5b4e92e4694c027be6ecece1/colorLogoPNG.png" group-title="Cinema em inglês",Drama | Pluto TV EUA
@@ -2005,13 +2012,13 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5bd833b41
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:-1 tvg-id="NASATVUHD.us" tvg-logo="https://i.imgur.com/bjkDk1x.png" group-title="Documentários em inglês",Nasa TV - Ask Nasa | EUA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1706
-#EXTINF:-1 tvg-id="NationalGeographicAsia.us" tvg-logo="https://i.imgur.com/8AzhVid.png" group-title="Documentários em inglês",National Geographic | Tailândia
+#EXTINF:-1 tvg-id="NationalGeographicAsia.us" tvg-logo="https://i.imgur.com/8AzhVid.png" group-title="Documentários em inglês",National Geographic | Vietnã
 https://livecdn.fptplay.net/hda2/natgeohd_vhls.smil/master.m3u8
-#EXTINF:-1 tvg-id="NationalGeographicAsia.us" tvg-logo="https://i.imgur.com/8AzhVid.png" group-title="A novidade",National Geographic - Tailândia | Documentários em inglês
+#EXTINF:-1 tvg-id="NationalGeographicAsia.us" tvg-logo="https://i.imgur.com/8AzhVid.png" group-title="A novidade",National Geographic - Vietnã | Documentários em inglês
 https://livecdn.fptplay.net/hda2/natgeohd_vhls.smil/master.m3u8
-#EXTINF:-1 tvg-id="NationalGeographicWildAsia.us" tvg-logo="https://i.imgur.com/8AzhVid.png" group-title="Documentários em inglês",National Geographic Wild | Tailândia
+#EXTINF:-1 tvg-id="NationalGeographicWildAsia.us" tvg-logo="https://i.imgur.com/8AzhVid.png" group-title="Documentários em inglês",National Geographic Wild | Vietnã
 https://livecdn.fptplay.net/hda3/natgeowild_vhls.smil/master.m3u8
-#EXTINF:-1 tvg-id="NationalGeographicWildAsia.us" tvg-logo="https://i.imgur.com/8AzhVid.png" group-title="A novidade",National Geographic Wild - Tailândia | Documentários em inglês
+#EXTINF:-1 tvg-id="NationalGeographicWildAsia.us" tvg-logo="https://i.imgur.com/8AzhVid.png" group-title="A novidade",National Geographic Wild - Vietnã | Documentários em inglês
 https://livecdn.fptplay.net/hda3/natgeowild_vhls.smil/master.m3u8
 #EXTINF:-1 tvg-id="61eeb5c3d740670007da3abb" tvg-logo="https://images.pluto.tv/channels/61eeb5c3d740670007da3abb/colorLogoPNG.png" group-title="Documentários em inglês",Nature Time | Pluto TV EUA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61eeb5c3d740670007da3abb/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
@@ -2111,6 +2118,8 @@ https://wildearth-rakuten.amagi.tv/playlist.m3u8
 https://wildearth-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60d4edddb2fdec002c141135" tvg-logo="https://i.imgur.com/ssxtGlH.png" group-title="Documentários em inglês",Wild Earth | Brasil - Samsung
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-escapetonature-wildearth-samsungbr/playlist.m3u8
+#EXTINF:-1 tvg-id="Xplore.cy" tvg-logo="https://i.imgur.com/ErFj6rR.png" group-title="Documentários em inglês",Xplore - legenda em grego | Chipre
+https://web.onair-radio.eu/explorecy/explorecy/master.m3u8
 #EXTINF:-1 tvg-id="USBA430000220" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/04/60/USBA430000220_20210525T051550.png" group-title="Documentários em inglês",Xplore | EUA 1
 http://xlpore-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="USBA430000220" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/04/60/USBA430000220_20210525T051550.png" group-title="Documentários em inglês",Xplore | EUA 2
@@ -3853,6 +3862,12 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60db3bbd9
 https://qwest-mix-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60b0f65c0c8ffb002c821a77" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/qwesttv-mix_channel_logo_dark.png" group-title="Música",QwestTV Mix 2
 https://qwest-mix-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-qwest-mix-plex/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="Reload.cy" tvg-country="CY" tvg-logo="https://i.imgur.com/ZOKNxfc.png" group-title="Música",Reload | Chipre
+http://web.onair-radio.eu:1935/video/video/playlist.m3u8
+#EXTINF:-1 tvg-id="Reload.cy" tvg-country="CY" tvg-logo="https://i.imgur.com/ZOKNxfc.png" group-title="Música",Reload | Chipre - link 2
+https://web.onair-radio.eu/video/video/master.m3u8
+#EXTINF:-1 tvg-id="Reload.cy" tvg-country="CY" tvg-logo="https://i.imgur.com/ZOKNxfc.png" group-title="A novidade",Reload | Música
+http://web.onair-radio.eu:1935/video/video/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tdiBgzm.png" group-title="Música",Ritmos Inolvidables | Canela TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1081
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tdiBgzm.png" group-title="Música",Ritmos Inolvidables | Canela TV 2
@@ -4623,14 +4638,8 @@ https://player-api.new.livestream.com/accounts/27755193/events/8511193/live.m3u8
 http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
 #EXTINF:-1 tvg-id="ABCNews.al" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQppoJvg5Inz_5KVl8gzhD8ydrZqta2qffqDLgaag=s400-c-k-c0x00ffffff-no-rj" group-title="Notícias em outros idiomas",ABC News | Albânia
 https://tv2.abcnews.al/live/abcnews/chunks.m3u8
-#EXTINF:-1 tvg-id="AlJazeeraChannel.qa" tvg-logo="https://i.imgur.com/zHNwsNZ.png" group-title="Notícias em outros idiomas",Al Jazeera em árabe
-https://live-hls-web-aja.getaj.net/AJA/06.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zHNwsNZ.png" group-title="Notícias em outros idiomas",Al Jazeera Mubasher
-https://live-hls-web-ajm.getaj.net/AJM/06.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraBalkans.qa" tvg-logo="https://i.imgur.com/zHNwsNZ.png" group-title="Notícias em outros idiomas",Al Jazeera Balkas em croata
 https://live-hls-web-ajb.getaj.net/AJB/01.m3u8
-#EXTINF:-1 tvg-id="BenguturkTV.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/HwyLlTz.png" group-title="Notícias em outros idiomas",Bengü Türk | Turquia
-https://tv.ensonhaber.com/tv/tr/benguturk/index.m3u8
 #EXTINF:-1 tvg-id="BenguturkTV.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/HwyLlTz.png" group-title="A novidade",Bengü Türk | Notícias em outros idiomas
 https://tv.ensonhaber.com/tv/tr/benguturk/index.m3u8
 #EXTINF:-1 tvg-id="BeritaSatuHD.id" tvg-logo="https://i.imgur.com/WlgyKOR.png" group-title="Notícias em outros idiomas",Berita Satu | Indonésia
@@ -4639,26 +4648,8 @@ https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-logo="https://i.imgur.com/u9vsQRi.png" group-title="Notícias em outros idiomas",CNN Indonésia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CsHdYhG.png" group-title="Notícias em outros idiomas",Deutsche Welle - DW em árabe 
-https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/stream04/streamPlaylist.m3u8
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6245efe9f137de43897ea1ae" tvg-logo="https://i.imgur.com/TrC7TG6.png" group-title="Notícias em outros idiomas",Euronews em alemão
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2573
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6245efe9f137de43897ea1ae" tvg-logo="https://i.imgur.com/TrC7TG6.png" group-title="Notícias em outros idiomas",Euronews em alemão 2
-https://rakuten-euronews-5-de.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6245f13093b402a3d1097789" tvg-logo="https://images.pluto.tv/channels/61b86ea479a4390007c6d5fc/colorLogoPNG.png" group-title="Notícias em outros idiomas",Euronews em italiano
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2574
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6245f13093b402a3d1097789" tvg-logo="https://images.pluto.tv/channels/61b86ea479a4390007c6d5fc/colorLogoPNG.png" group-title="Notícias em outros idiomas",Euronews em italiano 2
-https://rakuten-euronews-3-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="61b86ea479a4390007c6d5fc" tvg-logo="https://images.pluto.tv/channels/61b86ea479a4390007c6d5fc/colorLogoPNG.png" group-title="Notícias em outros idiomas",Euronews | Pluto TV Itália
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61b86ea479a4390007c6d5fc/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="EuronewsRusskiy.fr" tvg-logo="https://i.imgur.com/TrC7TG6.png" group-title="Notícias em outros idiomas",Euronews em russo
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2576
-#EXTINF:-1 tvg-id="France24Arabic.fr" tvg-language="Arabic" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="Notícias em outros idiomas",France 24 em árabe
-https://static.france24.com/live/F24_AR_HI_HLS/live_tv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KsqyfPh.png" group-title="Notícias em outros idiomas",ГІТ – Громадське Інтерактивне Телебачення | Ucrânia
 https://stream.uagit.tv/gittv.m3u8
-#EXTINF:-1 tvg-id="IonianTV.gr" tvg-logo="https://i.imgur.com/zuXu5tQ.png" group-title="Notícias em outros idiomas",Ionian TV | Grécia
-https://stream.ioniantv.gr/ionian/live_abr/playlist.m3u8
 #EXTINF:-1 tvg-id="IranIntl.uk" tvg-language="Persian" tvg-logo="https://i.imgur.com/oeiaea6.png" group-title="Notícias em outros idiomas",Iran International | Irã
 https://live.playstop.me/LS-63503-4/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AoKbWXF.png" group-title="Notícias em outros idiomas",Jakarta Globe News Channel | Indonésia
@@ -4667,26 +4658,8 @@ http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
 http://knews.livebox.co.in/youtubehls/live.m3u8
 #EXTINF:-1 tvg-id="News24.al" tvg-logo="https://i.imgur.com/EpND0EO.png" group-title="Notícias em outros idiomas",News 24 | Albânia
 http://tv.balkanweb.com:8081/news24/livestream/chunks.m3u8
-#EXTINF:-1 tvg-id="RBKTV.ru" tvg-logo="https://i.imgur.com/A7PCY1R.png" group-title="Notícias em outros idiomas",RBK - РБК | Rússia
-https://e5-online-video.rbc.ru/online2/rbctv_576p/index.m3u8
 #EXTINF:-1 tvg-id="RepublicBharat.in" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/89/INBA490002119_20210413T092036.png" group-title="Notícias em outros idiomas",Republic Bharat | Índia
 https://republicworld.amagi.tv/hls/amagi_hls_data_samsungin-republicbharat-samsungindia/CDN/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5oiqFfl.png" group-title="Notícias em outros idiomas",RT em alemão 1 - full HD | Rússia
-https://rt-ger.gcdn.co/live/rtdeutsch/playlist_4500Kb.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5oiqFfl.png" group-title="Notícias em outros idiomas",RT em alemão 2 - HD | Rússia
-https://rt-ger.gcdn.co/live/rtdeutsch/playlist_2500Kb.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5oiqFfl.png" group-title="Notícias em outros idiomas",RT em alemão 3 - definição média | Rússia
-https://rt-ger.gcdn.co/live/rtdeutsch/playlist_1600Kb.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5oiqFfl.png" group-title="Notícias em outros idiomas",RT em alemão 4 - definição baixa | Rússia
-https://rt-ger.gcdn.co/live/rtdeutsch/playlist_800Kb.m3u8
-#EXTINF:-1 tvg-id="SkyNewsArabia.ae" tvg-logo="https://i.imgur.com/oOPsB1U.png" group-title="Notícias em outros idiomas",Sky News Arabia
-https://stream.skynewsarabia.com/hls/sna.m3u8
-#EXTINF:-1 tvg-id="SkyNewsArabia.ae" tvg-logo="https://i.imgur.com/oOPsB1U.png" group-title="Notícias em outros idiomas",Sky News Arabia | YouTube
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/SkyNewsArabia/live
-#EXTINF:-1 tvg-id="TRMh24.it" tvg-logo="https://i.imgur.com/WtUFMnB.png" group-title="Notícias em outros idiomas",TR24 | Itália
-http://livetr.teleromagna.it/mia/live/playlist.m3u8
-#EXTINF:-1 tvg-id="ElHeddafTV.fr" tvg-logo="https://i.imgur.com/qd1sCE8.png" group-title="Notícias em outros idiomas",El Heddaf TV - esportes | Argélia
-https://cdn02.hta.dz/abr_htatv/EL_HEDDAF_TV/htatv/EL_HEDDAF_TV_720p/playlist.m3u8
 ##### novelas e séries em alemão ###### novelas e séries em alemão ###### novelas e séries em alemão ###### novelas e séries em alemão ###### novelas e séries em alemão ###### novelas e séries em alemão ####
 #EXTINF:-1 tvg-id="622f6e1e2792150007e0b2ff" tvg-logo="https://images.pluto.tv/channels/622f6e1e2792150007e0b2ff/colorLogoPNG.png" group-title="Novelas e séries em alemão",Alle hassen Chris | Pluto TV Espanha
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/622f6e1e2792150007e0b2ff/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
@@ -5702,22 +5675,34 @@ https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/index.
 https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/index_1_av-p.m3u8
 #EXTINF:-1 tvg-id="tvsn.au" tvg-logo="https://i.imgur.com/TuHnkxP.png" group-title="Televendas em inglês",TVSN | Austrália 
 https://tvsn-i.akamaihd.net/hls/live/261837/tvsn/tvsn_750.m3u8
-### Variedades em alemão ### Variedades em alemão ### Variedades em alemão ### Variedades em alemão ### Variedades em alemão ### Variedades em alemão ### Variedades em alemão ###
-#EXTINF:-1 tvg-id="5e8c4c3f141f350007936f7d" tvg-logo="https://images.pluto.tv/channels/5e8c4c3f141f350007936f7d/colorLogoPNG.png" group-title="Variedades em alemão",Chefkoch | Pluto TV Alemanha
+### Variedades e notícias em alemão ### Variedades e notícias em alemão ### Variedades e notícias em alemão ### Variedades e notícias em alemão ### Variedades e notícias em alemão ### Variedades e notícias em alemão ### Variedades e notícias em alemão ###
+#EXTINF:-1 tvg-id="5e8c4c3f141f350007936f7d" tvg-logo="https://images.pluto.tv/channels/5e8c4c3f141f350007936f7d/colorLogoPNG.png" group-title="Variedades e notícias em alemão",Chefkoch | Pluto TV Alemanha
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e8c4c3f141f350007936f7d/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="61c198f58a80a4000703ff28" tvg-logo="https://images.pluto.tv/channels/61c198f58a80a4000703ff28/colorLogoPNG.png" group-title="Variedades em alemão",Ekstrem hjemmeservice | Pluto TV Alemanha
+#EXTINF:-1 tvg-id="61c198f58a80a4000703ff28" tvg-logo="https://images.pluto.tv/channels/61c198f58a80a4000703ff28/colorLogoPNG.png" group-title="Variedades e notícias em alemão",Ekstrem hjemmeservice | Pluto TV Alemanha
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61c198f58a80a4000703ff28/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="DasErste.de" tvg-logo="https://i.imgur.com/aENrUjy.png" group-title="Variedades em alemão",Das Erste | Alemanha
+#EXTINF:-1 tvg-id="DasErste.de" tvg-logo="https://i.imgur.com/aENrUjy.png" group-title="Variedades e notícias em alemão",Das Erste | Alemanha
 https://mcdn.daserste.de/daserste/int/master.m3u8
-#EXTINF:-1 tvg-id="5dc280c9aa218c0009724b4b" tvg-logo="https://images.pluto.tv/channels/5dc280c9aa218c0009724b4b/colorLogoPNG.png" group-title="Variedades em alemão",Food | Pluto TV Alemanha
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6245efe9f137de43897ea1ae" tvg-logo="https://i.imgur.com/TrC7TG6.png" group-title="Variedades e notícias em alemão",Euronews em alemão
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2573
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6245efe9f137de43897ea1ae" tvg-logo="https://i.imgur.com/TrC7TG6.png" group-title="Variedades e notícias em alemão",Euronews em alemão | link 2
+https://rakuten-euronews-5-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="5dc280c9aa218c0009724b4b" tvg-logo="https://images.pluto.tv/channels/5dc280c9aa218c0009724b4b/colorLogoPNG.png" group-title="Variedades e notícias em alemão",Food | Pluto TV Alemanha
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dc280c9aa218c0009724b4b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="qs24.ch" tvg-logo="https://i.imgur.com/cyMYUgp.png" group-title="Variedades em alemão",QS24 | Suiça - em alemão
+#EXTINF:-1 tvg-id="qs24.ch" tvg-logo="https://i.imgur.com/cyMYUgp.png" group-title="Variedades e notícias em alemão",QS24 | Suiça - em alemão
 https://h030.video-stream-hosting.de/quantisana-live/_definst_/smil:livestream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ihbU61b.png" group-title="Variedades em alemão",Rcadia
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ihbU61b.png" group-title="Variedades e notícias em alemão",Rcadia
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=853
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ihbU61b.png" group-title="Variedades em alemão",Rcadia - inglês e alemão | Alemanha
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ihbU61b.png" group-title="Variedades e notícias em alemão",Rcadia - inglês e alemão | Alemanha
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=853
-#EXTINF:-1 tvg-id="TeleBarn.ch" tvg-logo="https://i.imgur.com/j1Pkdfe.png" group-title="Variedades em alemão",TeleBärn | Suiça - em alemão
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5oiqFfl.png" group-title="Variedades e notícias em alemão",RT em alemão 1 - full HD | Rússia
+https://rt-ger.gcdn.co/live/rtdeutsch/playlist_4500Kb.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5oiqFfl.png" group-title="Variedades e notícias em alemão",RT em alemão 2 - HD | Rússia
+https://rt-ger.gcdn.co/live/rtdeutsch/playlist_2500Kb.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5oiqFfl.png" group-title="Variedades e notícias em alemão",RT em alemão 3 - definição média | Rússia
+https://rt-ger.gcdn.co/live/rtdeutsch/playlist_1600Kb.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5oiqFfl.png" group-title="Variedades e notícias em alemão",RT em alemão 4 - definição baixa | Rússia
+https://rt-ger.gcdn.co/live/rtdeutsch/playlist_800Kb.m3u8
+#EXTINF:-1 tvg-id="TeleBarn.ch" tvg-logo="https://i.imgur.com/j1Pkdfe.png" group-title="Variedades e notícias em alemão",TeleBärn | Suiça - em alemão
 https://klive.kaltura.com/env/cluster-1-a.live.nvp1/live/hls/p/1719221/e/1_obr1n222/tl/main/st/0/t/_O-oCNON5VqA2aG8WYVDeg/index-s32.m3u8
 ## Variedades em árabe ## ## Variedades em árabe ## ## Variedades em árabe ## ## Variedades em árabe ## ## Variedades em árabe ## ## Variedades em árabe ## ## Variedades em árabe ## ## Variedades em árabe ## ## Variedades em árabe ## ## Variedades em árabe ## ## Variedades em árabe ## ## Variedades em árabe ## 
 #EXTINF:-1 tvg-id="AbuDhabiAloula.ae" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/jytGYJq.jpeg" group-title="Variedades em árabe",Abu Dhabi Al Oula
@@ -5750,10 +5735,18 @@ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/al_aoula_laayoune.m3u8
 #EXTINF:-1 tvg-id="AlAoulaLaayoune.ma" tvg-country="MA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/NTJI3PQ.png" group-title="A novidade",Al Aoula Laayoune - Marrocos | Variedades em árabe
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/al_aoula_laayoune.m3u8
+#EXTINF:-1 tvg-id="AlJazeeraChannel.qa" tvg-logo="https://i.imgur.com/zHNwsNZ.png" group-title="Variedades em árabe",Al Jazeera em árabe
+https://live-hls-web-aja.getaj.net/AJA/06.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zHNwsNZ.png" group-title="Variedades em árabe",Al Jazeera Mubasher
+https://live-hls-web-ajm.getaj.net/AJM/06.m3u8
 #EXTINF:-1 tvg-id="CGTNArabic.cn" tvg-logo="https://i.imgur.com/y5uCaes.png" group-title="Variedades em árabe",CGTN em árabe | China
 https://livear.cgtn.com/1000a/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CsHdYhG.png" group-title="Variedades em árabe",Deutsche Welle - DW em árabe 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1276
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CsHdYhG.png" group-title="Variedades em árabe",Deutsche Welle | link 2
+https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/stream04/streamPlaylist.m3u8
+#EXTINF:-1 tvg-id="ElHeddafTV.fr" tvg-logo="https://i.imgur.com/qd1sCE8.png" group-title="Variedades em árabe",El Heddaf TV - esportes | Argélia
+https://cdn02.hta.dz/abr_htatv/EL_HEDDAF_TV/htatv/EL_HEDDAF_TV_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="France24Arabic.fr" tvg-language="Arabic" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="Variedades em árabe",France 24 - YouTube | notícias
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/FRANCE24Arabic/live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/o2J8W52.png" group-title="Variedades em árabe",Hala London | inglês e árabe
@@ -5764,6 +5757,10 @@ https://live.presstv.ir/ifilmlive/smil:ifilmar.smil/chunklist.m3u8
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicAbuDhabi.ae" tvg-language="Arabic" tvg-logo="https://i.imgur.com/8AzhVid.png" group-title="A novidade",National Geographic Abu Dhabi | Variedades em árabe
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SkyNewsArabia.ae" tvg-logo="https://i.imgur.com/oOPsB1U.png" group-title="Variedades em árabe",Sky News Arabia
+https://stream.skynewsarabia.com/hls/sna.m3u8
+#EXTINF:-1 tvg-id="SkyNewsArabia.ae" tvg-logo="https://i.imgur.com/oOPsB1U.png" group-title="Variedades em árabe",Sky News Arabia | YouTube
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/SkyNewsArabia/live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gjgCB9l.png" group-title="Variedades em árabe",Yas TV - esportes | Emirados Árabes
 https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
 ### Variedades em chinês ##### Variedades em chinês ##### Variedades em chinês ##### Variedades em chinês ##### Variedades em chinês ##### Variedades em chinês ##########
@@ -6151,16 +6148,30 @@ https://streaming01.divercom.be/notele_live/_definst_/direct.stream/chunklist_w1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qjcUn49.png" group-title="Variedades em francês",VoxAfrica | francês e inglês
 https://1927901613.rsc.cdn77.org/1927901613/tracks-v1a1/mono.m3u8
 ######### variedades em grego ############# variedades em grego ############# variedades em grego ############# variedades em grego ############# variedades em grego ############# variedades em grego ############# variedades em grego ############# variedades em grego ####
+#EXTINF:-1 tvg-id="EgnatiaTileorasi.gr" tvg-country="GR" tvg-language="Greek" tvg-logo="https://i.imgur.com/FicHMOy.png" group-title="Variedades em grego",Εγνατία Τηλεόραση | Grécia
+https://video.streams.ovh:1936/egnatiatv/egnatiatv/index.m3u8
+#EXTINF:-1 tvg-id="EgnatiaTileorasi.gr" tvg-country="GR" tvg-language="Greek" tvg-logo="https://i.imgur.com/FicHMOy.png" group-title="A novidade",Εγνατία Τηλεόραση | Variedades em grego
+https://video.streams.ovh:1936/egnatiatv/egnatiatv/index.m3u8
 #EXTINF:-1 tvg-id="ERTWorld.gr" tvg-logo="https://i.imgur.com/hhzd5CG.png" group-title="Variedades em grego",ERT World | Grécia
 https://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_worldmedium.m3u8
+#EXTINF:-1 tvg-id="IonianTV.gr" tvg-logo="https://i.imgur.com/zuXu5tQ.png" group-title="Variedades em grego",Ionian TV | Grécia
+https://stream.ioniantv.gr/ionian/live_abr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c8gZ2W4.png" group-title="Variedades em grego",Irida TV | Grécia
 https://www.hellasnet.tv/rest.live.hn/ws.iri/playlist.m3u8
 #EXTINF:-1 tvg-id="ΚreteTV.gr" tvg-logo="https://i.imgur.com/LJ5oL6j.png" group-title="Variedades em grego",KPHTH TV - Krete - Crete | Grécia
 http://live.cretetv.gr:1935/cretetv/myStream/chunklist_w1733220557.m3u8
+#EXTINF:-1 tvg-id="MessatidaTV.gr" tvg-country="GR" tvg-language="Greek" tvg-logo="https://i.imgur.com/y3pUxXe.png" group-title="Variedades em grego",Μεσσάτιδα TV | Grécia
+https://vod.streams.ovh:3037/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7X5CKar.png" group-title="Variedades em grego",Montreal Greek | Grécia
 http://94.130.180.175:8081/live/greektv/chunks.m3u8?nimblesessionid=9548359
 #EXTINF:-1 tvg-id="NeaTV.gr" tvg-logo="https://i.imgur.com/kQvhyL4.png" group-title="Variedades em grego",NEA TV | Grécia
 https://live.neatv.gr:8888/hls/neatv_mid/index.m3u8
+#EXTINF:-1 tvg-id="Xplore.cy" tvg-logo="https://i.imgur.com/ErFj6rR.png" group-title="Variedades em grego",Xplore | Chipre
+https://web.onair-radio.eu/explorecy/explorecy/master.m3u8
+#EXTINF:-1 tvg-id="Xplore.cy" tvg-logo="https://i.imgur.com/ErFj6rR.png" group-title="Variedades em grego",Xplore | Chipre - link 2
+http://web.onair-radio.eu:1935/explorecy/explorecy/playlist.m3u8
+#EXTINF:-1 tvg-id="Xplore.cy" tvg-language="Greek" tvg-logo="https://i.imgur.com/ErFj6rR.png" group-title="A novidade",Xplore | Variedades em grego
+https://web.onair-radio.eu/explorecy/explorecy/master.m3u8
 ######### variedades em inglês ############# ######### variedades em inglês ############# ######### variedades em inglês ############# ######### variedades em inglês #############
 #EXTINF:-1 tvg-id="30AInvestmentPitch.us" tvg-logo="https://i.imgur.com/LKuVKdy.png" group-title="Variedades em inglês",30aTV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=587
@@ -6568,68 +6579,74 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=951
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=954
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6WSneZr.png" group-title="Variedades em inglês",YouToo America
 https://thegateway.app/YouToo/YTamerica/playlist.m3u8
-################ Variedades em italiano ### Variedades em italiano ### Variedades em italiano ### Variedades em italiano ### Variedades em italiano ### Variedades em italiano ### Variedades em italiano ### Variedades em italiano ### Variedades em italiano ### Variedades em italiano ### Variedades em italiano ### Variedades em italiano ### Variedades em italiano ### Variedades em italiano ##############
-#EXTINF:-1 tvg-id="ITBB2000002SV" tvg-logo="https://i.imgur.com/bwfHCGZ.png" group-title="Variedades em italiano",Alma TV Food
+################ Variedades e notícias em italiano ### Variedades e notícias em italiano ### Variedades e notícias em italiano ### Variedades e notícias em italiano ### Variedades e notícias em italiano ### Variedades e notícias em italiano ### Variedades e notícias em italiano ### Variedades e notícias em italiano ### Variedades e notícias em italiano ### Variedades e notícias em italiano ### Variedades e notícias em italiano ### Variedades e notícias em italiano ### Variedades e notícias em italiano ### Variedades e notícias em italiano ##############
+#EXTINF:-1 tvg-id="ITBB2000002SV" tvg-logo="https://i.imgur.com/bwfHCGZ.png" group-title="Variedades e notícias em italiano",Alma TV Food
 https://promosrl-almatvfood-1-it.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ITBB20000035L" tvg-logo="https://i.imgur.com/bwfHCGZ.png" group-title="Variedades em italiano",Alma TV Travel
+#EXTINF:-1 tvg-id="ITBB20000035L" tvg-logo="https://i.imgur.com/bwfHCGZ.png" group-title="Variedades e notícias em italiano",Alma TV Travel
 https://promosrl-almatvtravel-1-it.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="BomChannel.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/kJXk1oa.png" group-title="Variedades em italiano",Bom Channel | Itália
+#EXTINF:-1 tvg-id="BomChannel.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/kJXk1oa.png" group-title="Variedades e notícias em italiano",Bom Channel | Itália
 https://5f22d76e220e1.streamlock.net/BOMCHANNEL/BOMCHANNEL/playlist.m3u8
-#EXTINF:-1 tvg-id="BomChannel.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/kJXk1oa.png" group-title="A novidade",Bom Channel | Variedades em italiano
+#EXTINF:-1 tvg-id="BomChannel.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/kJXk1oa.png" group-title="A novidade",Bom Channel | Variedades e notícias em italiano
 https://5f22d76e220e1.streamlock.net/BOMCHANNEL/BOMCHANNEL/playlist.m3u8
-#EXTINF:-1 tvg-id="CafeTV24.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/qu6K9R7.png" group-title="Variedades em italiano",Cafè TV 24 | Itália 
+#EXTINF:-1 tvg-id="CafeTV24.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/qu6K9R7.png" group-title="Variedades e notícias em italiano",Cafè TV 24 | Itália 
 https://srvx1.selftv.video/cafe/live/playlist.m3u8
-#EXTINF:-1 tvg-id="CafeTV24.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/qu6K9R7.png" group-title="A novidade",Cafè TV 24 | Variedades em italiano
+#EXTINF:-1 tvg-id="CafeTV24.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/qu6K9R7.png" group-title="A novidade",Cafè TV 24 | Variedades e notícias em italiano
 https://srvx1.selftv.video/cafe/live/playlist.m3u8
-#EXTINF:-1 tvg-id="Canale2Altamura.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/uh4R5Ih.png" group-title="Variedades em italiano",Canale 2 Altamura | Itália
+#EXTINF:-1 tvg-id="Canale2Altamura.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/uh4R5Ih.png" group-title="Variedades e notícias em italiano",Canale 2 Altamura | Itália
 https://59d7d6f47d7fc.streamlock.net/canale2/canale2/playlist.m3u8
-#EXTINF:-1 tvg-id="Canale2Altamura.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/uh4R5Ih.png" group-title="A novidade",Canale 2 Altamura | Variedades em italiano
+#EXTINF:-1 tvg-id="Canale2Altamura.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/uh4R5Ih.png" group-title="A novidade",Canale 2 Altamura | Variedades e notícias em italiano
 https://59d7d6f47d7fc.streamlock.net/canale2/canale2/playlist.m3u8
-#EXTINF:-1 tvg-id="Canale7.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/hbBUwI4.png" group-title="Variedades em italiano",Canale 7 | Itália
+#EXTINF:-1 tvg-id="Canale7.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/hbBUwI4.png" group-title="Variedades e notícias em italiano",Canale 7 | Itália
 http://wms.shared.streamshow.it/canale7/canale7/playlist.m3u8
-#EXTINF:-1 tvg-id="Canale7.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/hbBUwI4.png" group-title="Variedades em italiano",Canale 7 - link 2 | Itália
+#EXTINF:-1 tvg-id="Canale7.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/hbBUwI4.png" group-title="Variedades e notícias em italiano",Canale 7 - link 2 | Itália
 http://wms.shared.streamshow.it/canale7/mp4:canale7/playlist.m3u8
-#EXTINF:-1 tvg-id="Canale7.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/hbBUwI4.png" group-title="A novidade",Canale 7 | Variedades em italiano
+#EXTINF:-1 tvg-id="Canale7.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/hbBUwI4.png" group-title="A novidade",Canale 7 | Variedades e notícias em italiano
 http://wms.shared.streamshow.it/canale7/canale7/playlist.m3u8
-#EXTINF:-1 tvg-id="608aa718a8ec810007d87fee" tvg-logo="https://images.pluto.tv/channels/608aa718a8ec810007d87fee/colorLogoPNG.png" group-title="Variedades em italiano",Cucina | Pluto TV Itália
+#EXTINF:-1 tvg-id="608aa718a8ec810007d87fee" tvg-logo="https://images.pluto.tv/channels/608aa718a8ec810007d87fee/colorLogoPNG.png" group-title="Variedades e notícias em italiano",Cucina | Pluto TV Itália
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608aa718a8ec810007d87fee/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="608aa8a5709d6b0007b132fe" tvg-logo="https://images.pluto.tv/channels/608aa8a5709d6b0007b132fe/colorLogoPNG.png" group-title="Variedades em italiano",Documentari | Pluto TV Itália
+#EXTINF:-1 tvg-id="608aa8a5709d6b0007b132fe" tvg-logo="https://images.pluto.tv/channels/608aa8a5709d6b0007b132fe/colorLogoPNG.png" group-title="Variedades e notícias em italiano",Documentari | Pluto TV Itália
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608aa8a5709d6b0007b132fe/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="608014d19a26320007c92ab6" tvg-logo="https://images.pluto.tv/channels/608014d19a26320007c92ab6/colorLogoPNG.png" group-title="Variedades em italiano",FailArmy | Pluto TV Itália
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6245f13093b402a3d1097789" tvg-logo="https://images.pluto.tv/channels/61b86ea479a4390007c6d5fc/colorLogoPNG.png" group-title="Variedades e notícias em italiano",Euronews em italiano
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2574
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6245f13093b402a3d1097789" tvg-logo="https://images.pluto.tv/channels/61b86ea479a4390007c6d5fc/colorLogoPNG.png" group-title="Variedades e notícias em italiano",Euronews em italiano | link 2
+https://rakuten-euronews-3-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="61b86ea479a4390007c6d5fc" tvg-logo="https://images.pluto.tv/channels/61b86ea479a4390007c6d5fc/colorLogoPNG.png" group-title="Variedades e notícias em italiano",Euronews | Pluto TV Itália
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61b86ea479a4390007c6d5fc/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="608014d19a26320007c92ab6" tvg-logo="https://images.pluto.tv/channels/608014d19a26320007c92ab6/colorLogoPNG.png" group-title="Variedades e notícias em italiano",FailArmy | Pluto TV Itália
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608014d19a26320007c92ab6/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="60c88130ab4a9800074e5f87" tvg-logo="https://images.pluto.tv/channels/60c88130ab4a9800074e5f87/colorLogoPNG.png" group-title="Variedades em italiano",Fashion TV | Pluto TV Itália
+#EXTINF:-1 tvg-id="60c88130ab4a9800074e5f87" tvg-logo="https://images.pluto.tv/channels/60c88130ab4a9800074e5f87/colorLogoPNG.png" group-title="Variedades e notícias em italiano",Fashion TV | Pluto TV Itália
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60c88130ab4a9800074e5f87/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="FoodNetworkItalia.us" tvg-logo="https://i.imgur.com/3FtKnsF.png" group-title="Variedades em italiano",Food Network | Itália 
+#EXTINF:-1 tvg-id="FoodNetworkItalia.us" tvg-logo="https://i.imgur.com/3FtKnsF.png" group-title="Variedades e notícias em italiano",Food Network | Itália 
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_6@1000854/master.m3u8
-#EXTINF:-1 tvg-id="60b9dbea1f19550007dd0dfa" tvg-logo="https://images.pluto.tv/channels/60b9dbea1f19550007dd0dfa/colorLogoPNG.png" group-title="Variedades em italiano",Fuel TV | Pluto TV Itália
+#EXTINF:-1 tvg-id="60b9dbea1f19550007dd0dfa" tvg-logo="https://images.pluto.tv/channels/60b9dbea1f19550007dd0dfa/colorLogoPNG.png" group-title="Variedades e notícias em italiano",Fuel TV | Pluto TV Itália
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60b9dbea1f19550007dd0dfa/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="61e9119366401100074dd3fd" tvg-logo="https://images.pluto.tv/channels/61e9119366401100074dd3fd/colorLogoPNG.png" group-title="Variedades em italiano",Got Game | Pluto TV Itália
+#EXTINF:-1 tvg-id="61e9119366401100074dd3fd" tvg-logo="https://images.pluto.tv/channels/61e9119366401100074dd3fd/colorLogoPNG.png" group-title="Variedades e notícias em italiano",Got Game | Pluto TV Itália
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61e9119366401100074dd3fd/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="6093f48c95132a00075fd859" tvg-logo="https://images.pluto.tv/channels/6093f48c95132a00075fd859/colorLogoPNG.png" group-title="Variedades em italiano",Just for Laughs | Pluto TV Itália
+#EXTINF:-1 tvg-id="6093f48c95132a00075fd859" tvg-logo="https://images.pluto.tv/channels/6093f48c95132a00075fd859/colorLogoPNG.png" group-title="Variedades e notícias em italiano",Just for Laughs | Pluto TV Itália
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6093f48c95132a00075fd859/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RN84VgD.png" group-title="Variedades em italiano",Italian Fishing TV | Itália
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RN84VgD.png" group-title="Variedades e notícias em italiano",Italian Fishing TV | Itália
 https://itftv-italianfishingtv-1-it.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="60802b37709d6b0007b0c549" tvg-logo="https://images.pluto.tv/channels/60802b37709d6b0007b0c549/colorLogoPNG.png" group-title="Variedades em italiano",Natura | Pluto TV Itália
+#EXTINF:-1 tvg-id="60802b37709d6b0007b0c549" tvg-logo="https://images.pluto.tv/channels/60802b37709d6b0007b0c549/colorLogoPNG.png" group-title="Variedades e notícias em italiano",Natura | Pluto TV Itália
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60802b37709d6b0007b0c549/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="608017cbe375e400070cc981" tvg-logo="https://images.pluto.tv/channels/608017cbe375e400070cc981/colorLogoPNG.png" group-title="Variedades em italiano",People ara Awesome | Pluto TV Itália
+#EXTINF:-1 tvg-id="608017cbe375e400070cc981" tvg-logo="https://images.pluto.tv/channels/608017cbe375e400070cc981/colorLogoPNG.png" group-title="Variedades e notícias em italiano",People ara Awesome | Pluto TV Itália
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608017cbe375e400070cc981/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="Rai3.it" tvg-logo="https://i.imgur.com/jm1Rwon.png" group-title="Variedades em italiano",Rai 3 | Itália 
+#EXTINF:-1 tvg-id="Rai3.it" tvg-logo="https://i.imgur.com/jm1Rwon.png" group-title="Variedades e notícias em italiano",Rai 3 | Itália 
 http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
-#EXTINF:-1 tvg-id="609404b0a8ec810007d8de9d" tvg-logo="https://images.pluto.tv/channels/609404b0a8ec810007d8de9d/colorLogoPNG.png" group-title="Variedades em italiano",Scherzi e risate | Pluto TV Itália
+#EXTINF:-1 tvg-id="609404b0a8ec810007d8de9d" tvg-logo="https://images.pluto.tv/channels/609404b0a8ec810007d8de9d/colorLogoPNG.png" group-title="Variedades e notícias em italiano",Scherzi e risate | Pluto TV Itália
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609404b0a8ec810007d8de9d/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="608030eff4b6f70007e1684c" tvg-logo="https://images.pluto.tv/channels/608030eff4b6f70007e1684c/colorLogoPNG.png" group-title="Variedades em italiano",Sport | Pluto TV Itália
+#EXTINF:-1 tvg-id="608030eff4b6f70007e1684c" tvg-logo="https://images.pluto.tv/channels/608030eff4b6f70007e1684c/colorLogoPNG.png" group-title="Variedades e notícias em italiano",Sport | Pluto TV Itália
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608030eff4b6f70007e1684c/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="teleromagna" tvg-logo="https://i.imgur.com/T2cK6aE.png" group-title="Variedades em italiano",Teleromagna | Itália
+#EXTINF:-1 tvg-id="teleromagna" tvg-logo="https://i.imgur.com/T2cK6aE.png" group-title="Variedades e notícias em italiano",Teleromagna | Itália
 http://livetr.teleromagna.it/teleromagna/live/playlist.m3u8
-#EXTINF:-1 tvg-id="60801317a0ccef00072aaf75" tvg-logo="https://images.pluto.tv/channels/60801317a0ccef00072aaf75/colorLogoPNG.png" group-title="Variedades em italiano",The Pet Collective | Pluto TV Itália
+#EXTINF:-1 tvg-id="60801317a0ccef00072aaf75" tvg-logo="https://images.pluto.tv/channels/60801317a0ccef00072aaf75/colorLogoPNG.png" group-title="Variedades e notícias em italiano",The Pet Collective | Pluto TV Itália
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60801317a0ccef00072aaf75/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="TRMh24.it" tvg-logo="https://i.imgur.com/WtUFMnB.png" group-title="Variedades em italiano",TR24 | Itália
+#EXTINF:-1 tvg-id="TRMh24.it" tvg-logo="https://i.imgur.com/WtUFMnB.png" group-title="Variedades e notícias em italiano",TR24 | Itália
 http://livetr.teleromagna.it/mia/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MARgffW.png" group-title="Variedades em italiano",Vatican News | YT - vários idiomas
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MARgffW.png" group-title="Variedades e notícias em italiano",Vatican News | YT - vários idiomas
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/VaticanNews/live
-#EXTINF:-1 tvg-id="VH1Italia.us" tvg-logo="https://images.pluto.tv/channels/61cd822216e2fd00086d0aeb/colorLogoPNG.png" group-title="Variedades em italiano",VH1 | Itália
+#EXTINF:-1 tvg-id="VH1Italia.us" tvg-logo="https://images.pluto.tv/channels/61cd822216e2fd00086d0aeb/colorLogoPNG.png" group-title="Variedades e notícias em italiano",VH1 | Itália
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
-#EXTINF:-1 tvg-id="61cd822216e2fd00086d0aeb" tvg-logo="https://images.pluto.tv/channels/61cd822216e2fd00086d0aeb/colorLogoPNG.png" group-title="Variedades em italiano",VH1+ | Pluto TV Itália
+#EXTINF:-1 tvg-id="61cd822216e2fd00086d0aeb" tvg-logo="https://images.pluto.tv/channels/61cd822216e2fd00086d0aeb/colorLogoPNG.png" group-title="Variedades e notícias em italiano",VH1+ | Pluto TV Itália
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61cd822216e2fd00086d0aeb/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 ### Variedades em russo ##### Variedades em russo ##### Variedades em russo ##### Variedades em russo ##### Variedades em russo ##### Variedades em russo ##### Variedades em russo #####
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2Q8J1sC.png" group-title="Variedades em russo",7 канал | Cazaquistão
@@ -6680,17 +6697,58 @@ https://brics.bonus-tv.ru/cdn/brics/russian/playlist.m3u8
 https://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zgovOVe.png" group-title="Variedades em russo",Univer TV | Rússia
 https://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8
+## Variedades em turco #### Variedades em turco #### Variedades em turco #### Variedades em turco #### Variedades em turco #### Variedades em turco #### Variedades em turco #### Variedades em turco ##
+#EXTINF:-1 tvg-id="360TV.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/WnGtiGe.png" group-title="A novidade",360 TV - Turquia | Variedades em turco
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
+#EXTINF:-1 tvg-id="360TV.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/WnGtiGe.png" group-title="Variedades em turco",360 TV | Turquia
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
+#EXTINF:-1 tvg-id="AkitTV.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/zG7NM55/Jagn7PG.png" group-title="Variedades em turco",Akit TV | Turquia
+https://akittv-live.ercdn.net/akittv/akittv.m3u8
+#EXTINF:-1 tvg-id="BenguturkTV.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/HwyLlTz.png" group-title="Variedades em turco",Bengü Türk | Turquia
+https://tv.ensonhaber.com/tv/tr/benguturk/index.m3u8
+#EXTINF:-1 tvg-id="BesiktasWebTV.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/bRhnM6W/qti5aea.png" group-title="Variedades em turco",Beşiktaş Web TV | Turquia
+https://s01.vpis.io/besiktas/besiktas.m3u8
+#EXTINF:-1 tvg-id="BeyazTV.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/uykIdML.png" group-title="Variedades em turco",Beyaz TV | Turquia
+https://tv.ensonhaber.com/tv/tr/beyaztv/index.m3u8
+#EXTINF:-1 tvg-id="BeyazTV.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/uykIdML.png" group-title="A novidade",Beyaz TV | Variedades em turco
+https://tv.ensonhaber.com/tv/tr/beyaztv/index.m3u8
+#EXTINF:-1 tvg-id="BloombergHT.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/HBVqEk5.png" group-title="Variedades em turco",Bloomberg HT | Turquia
+https://tv.ensonhaber.com/tv/tr/bloomberght/index.m3u8
+#EXTINF:-1 tvg-id="BloombergHT.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/HBVqEk5.png" group-title="A novidade",Bloomberg HT | Variedades em turco
+https://tv.ensonhaber.com/tv/tr/bloomberght/index.m3u8
+#EXTINF:-1 tvg-id="BRT1HD.cy" tvg-country="CY" tvg-language="Turkish" tvg-logo="https://i.imgur.com/G3VRPwW.png" group-title="Variedades em turco",BRT 1 HD | Chipre
+http://wms.brtk.net:1935/live/BRTHD/playlist.m3u8
+#EXTINF:-1 tvg-id="BRT2HD.cy" tvg-country="CY" tvg-language="Turkish" tvg-logo="https://i.imgur.com/zxYvkYP.png" group-title="Variedades em turco",BRT 2 HD | Chipre
+http://wms.brtk.net:1935/live/brt2/playlist.m3u8
+#EXTINF:-1 tvg-id="BRT1HD.cy" tvg-country="CY" tvg-language="Turkish" tvg-logo="https://i.imgur.com/G3VRPwW.png" group-title="A novidade",BRT 1 HD | Variedades em turco
+http://wms.brtk.net:1935/live/BRTHD/playlist.m3u8
+#EXTINF:-1 tvg-id="BRT2HD.cy" tvg-country="CY" tvg-language="Turkish" tvg-logo="https://i.imgur.com/zxYvkYP.png" group-title="A novidade",BRT 2 HD | Variedades em turco
+http://wms.brtk.net:1935/live/brt2/playlist.m3u8
+#EXTINF:-1 tvg-id="CayTV.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/STGRGjK.png" group-title="Variedades em turco",Cay TV | Turquia
+http://stream2.taksimbilisim.com:1935/caytv/bant1/CAYTV.m3u8
+#EXTINF:-1 tvg-id="KuzeyKibris.cy" tvg-country="CY" tvg-language="Turkish" tvg-logo="https://i.imgur.com/udGGsuq.png" group-title="Variedades em turco",Kuzey Kibris TV | Chipre
+http://kuzeykibris.tv/m3u8/tv_kktv.m3u8
+#EXTINF:-1 tvg-id="KuzeyKibris.cy" tvg-country="CY" tvg-language="Turkish" tvg-logo="https://i.imgur.com/udGGsuq.png" group-title="A novidade",Kuzey Kibris TV | Variedades em turco
+http://kuzeykibris.tv/m3u8/tv_kktv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x75ZTC8.png" group-title="Variedades em turco",TV Em | Turquia
+https://cdn.yayin.com.tr/TVEM/TVEM/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/x75ZTC8.png" group-title="Variedades em turco",TV Em | Turquia - link 2
+http://cdn-tvem.yayin.com.tr/TVEM/TVEM/master.m3u8
+#EXTINF:-1 tvg-id="VuslatTV.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/o6cj0Ri.png" group-title="Variedades em turco",Vuslat TV | Turquia
+http://yayin3.canlitv.com:1935/live/vuslattv/HasBahCa.m3u8
+#EXTINF:-1 tvg-id="VuslatTV.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/o6cj0Ri.png" group-title="A novidade",Vuslat TV | Variedades em turco
+http://yayin3.canlitv.com:1935/live/vuslattv/HasBahCa.m3u8
 ######### Variedades em vários idiomas ###################### Variedades em vários idiomas ###################### Variedades em vários idiomas ###################### Variedades em vários idiomas ###################### Variedades em vários idiomas ###################### Variedades em vários idiomas ###################### Variedades em vários idiomas #############
-#EXTINF:-1 tvg-id="360TV.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/WnGtiGe.png" group-title="Variedades em vários idiomas",360 TV | Turquia
-https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
-#EXTINF:-1 tvg-id="360TV.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/WnGtiGe.png" group-title="A novidade",360 TV - Turquia | Variedades em vários idiomas
-https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 #EXTINF:-1 tvg-id="H1.am" tvg-logo="https://i.imgur.com/soKUFs5.png" group-title="Variedades em vários idiomas",1 TV | Armênia
 https://amtvusdvr.tulix.tv/am2abr/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="7kanal.ua" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/CX6hzIa.png" group-title="Variedades em vários idiomas",7 канал | Ucrânia
 https://cdn10.live-tv.od.ua:8083/7tvod/7tvod-abr/playlist.m3u8
 #EXTINF:-1 tvg-id="7kanal.ua" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/CX6hzIa.png" group-title="A novidade",7 канал - Ucrânia | Variedades em vários idiomas
 https://cdn10.live-tv.od.ua:8083/7tvod/7tvod-abr/playlist.m3u8
+#EXTINF:-1 tvg-id="ARB24.az" tvg-country="AZ" tvg-language="Azerbaijani" tvg-logo="https://i.imgur.com/mtvIFyq.png" group-title="Variedades em vários idiomas",ARB 24 | Azerbaijão
+http://85.132.81.184:8080/arb24/live1/index.m3u8
+#EXTINF:-1 tvg-id="ARB24.az" tvg-country="AZ" tvg-language="Azerbaijani" tvg-logo="https://i.imgur.com/mtvIFyq.png" group-title="A novidade",ARB 24 - Azerbaijão | Variedades em vários idiomas
+http://85.132.81.184:8080/arb24/live1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L7a2386.png" group-title="Variedades em vários idiomas",Area Ten TV - em pidgin | Nigéria
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1728
 #EXTINF:-1 tvg-id="ATVAvrupa.tr" tvg-logo="https://i.imgur.com/600QxyO.png" group-title="Variedades em vários idiomas",ATV | Bélgica em neerlandês (holandês)
@@ -6705,8 +6763,6 @@ https://dns2.rtvbn.com:8080/live/index.m3u8
 https://dns2.rtvbn.com:8080/live/index.m3u8
 #EXTINF:-1 tvg-id="Channel20.il" tvg-logo="https://i.imgur.com/vxGmKFv.png" group-title="Variedades em vários idiomas",Channel 20 | Israel
 https://dvr.ch20-cdnwiz.com/hls/live_360/index.m3u8
-#EXTINF:-1 tvg-id="ElHeddafTV.fr" tvg-logo="https://i.imgur.com/qd1sCE8.png" group-title="Variedades em vários idiomas",El Heddaf TV - esportes | Argélia
-https://cdn02.hta.dz/abr_htatv/EL_HEDDAF_TV/htatv/EL_HEDDAF_TV_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E9MtX4o.png" group-title="Variedades em vários idiomas",Elshinta TV | Indonésia
 http://group2-swiftservesd-1.dens.tv/s/s10/index.m3u8
 #EXTINF:-1 tvg-id="FlowersTV.in" tvg-logo="https://i.imgur.com/BpCY0YP.png" group-title="Variedades em vários idiomas",Flowers TV | língua malaiala | Índia
@@ -6749,10 +6805,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1774
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1362
 #EXTINF:-1 tvg-id="TawafTV.id" tvg-logo="https://i.imgur.com/lmspisP.png" group-title="Variedades em vários idiomas",Tawaf TV | Indonésia
 https://dgbgs3f3e3nka.cloudfront.net/hls/hanyacoba.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/x75ZTC8.png" group-title="Variedades em vários idiomas",TV Em | Turquia
-https://cdn.yayin.com.tr/TVEM/TVEM/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/x75ZTC8.png" group-title="Variedades em vários idiomas",TV Em | Turquia - link 2
-http://cdn-tvem.yayin.com.tr/TVEM/TVEM/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oKerZnf.png" group-title="Variedades em vários idiomas",Ten Orísun - em iorubá | Nigéria
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1728
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M7V8Ng2.png?1" group-title="Variedades em vários idiomas",TV Punjab | Índia
