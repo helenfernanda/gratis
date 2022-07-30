@@ -3,6 +3,7 @@
 ## 👩🏽‍💻 Editora: Helen Fernanda - Goiânia - Brasil 🇧🇷
 ## 🔗 Dicas de EPG - apps: www.meutedio.com.br/iptv
 ## 📧 Contato e 💰 Pix: meutedio@mail.com
+## 🆕 30-julho-2022 - Novos canais: Lone Star; Classic Rock Network; The Film Detective; Go See Westers; Party Poker; Bowery Classics; Gago TV; Animax
 ## 🆕 29-julho-2022 - Novo grupo *Variedades em turco** com novos canais do Chipre e da Turquia.
 ## 🆕 29-julho-2022 - Novos canais no grupo *Variedades em turco*.
 ## 🆕 29-julho-2022 - Novo canal de música Reload.
@@ -10,8 +11,6 @@
 ## 🆕 28-julho-2022 - Novo grupo: Variedades em árabe - com canais que já estavam na lista e alguns novos. Canais em árabe que estavam em //Variedades em vários idiomas// foram movidos. Demais canais foram mantidos nos dois grupos.
 ## 🆕 28-julho-2022 - Novos canais: TBO 🇧🇷; Rede Sim 🇧🇷; La Rock 22 🇳🇮; La Redonda FM 🇪🇨; La Redonda TV 🇪🇨; Abu Dhabi 🇦🇪; Abu Dhabi Sports 🇦🇪; National Geographic; vários canais árabes 
 ## 🆕 27-julho-2022 - Novos canais: La 7 de La Rioja; 7NN; 101 Málaga; 7 канал Ucrânia; 360° Russia; 360 Turquia; Bengü Türk; BN TV; Bom Channel;Cafè TV 24; Canale 2; Canale 7
-## 🆕 20-julho-2022 - Novos canais: Canção Nova; Evangelizar; Trace Latina; TED Talks; Drone TV; Super Single Songs
-## 🆕 13-julho-2022 - Novos canais do Pluto TV Brasil: Canal UOL; MTV Miaw; MTV Catfish; Mestres do Ilusionismo 
 #EXTINF:-1 tvg-id="AbuDhabiAloula.ae" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/jytGYJq.jpeg" group-title="A novidade",Abu Dhabi Al Oula | Variedades em árabe
 https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AbuDhabiEmirates.ae" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/jytGYJq.png" group-title="A novidade",Abu Dhabi Emirates | Variedades em árabe
@@ -22,8 +21,6 @@ https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AbuDhabiSports3.ae" tvg-country="AE" tvg-language="Arabic;English" tvg-logo="https://i.imgur.com/IRPokyG.png" group-title="A novidade",Abu Dhabi Sports 3 | Variedades em árabe
 https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/r0Zk0Pn.png" group-title="A novidade",YouTube e Dailymotion
-https://raw.githubusercontent.com/helenfernanda/gratis/main/aviso-26abr2022.ts
 ##### Brasil: cinema ############# Brasil: cinema ############# Brasil: cinema ############# Brasil: cinema ############# Brasil: cinema ############# Brasil: cinema ############# Brasil: cinema ############# Brasil: cinema ############# Brasil: cinema ######
 #EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://images.pluto.tv/channels/61b790b985706b00072cb797/colorLogoPNG.png" group-title="Brasil: cinema em português",Adrenalina Freezone | Pluto TV Brasil
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61b790b985706b00072cb797/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
@@ -952,6 +949,14 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1714
 http://linear-276.frequency.stream/276/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="5d8bf1472907815f66a866dd" tvg-logo="http://images.pluto.tv/channels/5d8bf1472907815f66a866dd/colorLogoPNG.png" group-title="Celebridades e cultura pop em inglês",Celebrity | EUA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8bf1472907815f66a866dd/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6196c8c01d310bf925e02615" tvg-logo="https://i.imgur.com/LFbxI9m.png" group-title="Celebridades e cultura pop em inglês",Classic Rock Network
+https://cdn17.fntvchannel.com/index.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6196c8c01d310bf925e02615" tvg-logo="https://i.imgur.com/LFbxI9m.png" group-title="Celebridades e cultura pop em inglês",Classic Rock Network - link 2
+https://cdn17.fntvchannel.com/v1/master/02eeb1726c343dc9c30c32e93dee82013e157021/ClassicRock-Channel-Plex/index.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6196c8c01d310bf925e02615" tvg-logo="https://i.imgur.com/LFbxI9m.png" group-title="Celebridades e cultura pop em inglês",Classic Rock Network - link 3
+https://cdn17.fntvchannel.com/index.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6196c8c01d310bf925e02615" tvg-logo="https://i.imgur.com/LFbxI9m.png" group-title="A novidade",Classic Rock Network | Celebridades e cultura pop em inglês
+https://cdn17.fntvchannel.com/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t5671WU.png" group-title="Celebridades e cultura pop em inglês",Georgia Hollywood Review TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1507
 #EXTINF:-1 tvg-id="localnow_Local Now Music" tvg-logo="https://i.imgur.com/6RvuAoD.png" group-title="Celebridades e cultura pop em inglês",Local Now Music | Música
@@ -1214,6 +1219,10 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d4af2a24
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/58af4c093a41ca9d4ecabe96/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CpUKPwo.png" group-title="Cinema em inglês",Bloody Disgusting | EUA
 https://bloodydisgusting-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="DistroTV_Bowery Classics" tvg-logo="https://i.imgur.com/LeusTQY.png" group-title="Cinema em inglês",Bowery Classics | Distro TV
+https://dai.google.com/linear/hls/event/7D2Q73U6RpyYzJYog5Lx6Q/master.m3u8
+#EXTINF:-1 tvg-id="DistroTV_Bowery Classics" tvg-logo="https://i.imgur.com/LeusTQY.png" group-title="A novidade",Bowery Classics | Cinema em inglês
+https://dai.google.com/linear/hls/event/7D2Q73U6RpyYzJYog5Lx6Q/master.m3u8
 #EXTINF:-1 tvg-id="USAK3508704A" tvg-logo="https://i.imgur.com/1qxm6bz.png" group-title="Cinema em inglês",Canela TV em inglês
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=148
 #EXTINF:-1 tvg-id="USAK3508704A" tvg-logo="https://i.imgur.com/1qxm6bz.png" group-title="Cinema em inglês",Canela TV 2
@@ -1368,6 +1377,10 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2594
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1483
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-621672e42c2627c068e73ad8" tvg-logo="https://i.imgur.com/iuosgyp.png" group-title="Cinema em inglês",Galxy TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2595
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Xr5eiym.png" group-title="Cinema em inglês",Go See Westerns
+https://cdn18.fntvchannel.com/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Xr5eiym.png" group-title="A novidade",Go See Westerns | Cinema em inglês
+https://cdn18.fntvchannel.com/index.m3u8
 #EXTINF:-1 tvg-id="USBB19000017U" tvg-logo="https://i.imgur.com/hcLUKfv.jpg" group-title="Cinema em inglês",Hallmark Movies & More | EUA
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="HDNetMovies.us" tvg-logo="https://i.imgur.com/903gq7d.png" group-title="Cinema em inglês",HDNET Movies
@@ -1484,8 +1497,24 @@ https://dai.google.com/linear/hls/event/MdbYPXWRStmMq1DaQhsBUw/master.m3u8
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/591105034c1806b47438342c/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="5c45f0427b2c0c065e91aab5" tvg-logo="https://images.pluto.tv/channels/5c45f0427b2c0c065e91aab5/colorLogoPNG.png" group-title="Cinema em inglês",The Asylum Channel | Reino Unido
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c45f0427b2c0c065e91aab5/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5eea605674085f0040ddc7a3" tvg-logo="https://i.imgur.com/CGVbkJn.png" group-title="Cinema em inglês",The Film Detective
+https://filmdetective-plex.amagi.tv/index.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5eea605674085f0040ddc7a3" tvg-logo="https://i.imgur.com/CGVbkJn.png" group-title="A novidade",The Film Detective | Cinema em inglês
+https://filmdetective-plex.amagi.tv/index.m3u8
 #EXTINF:-1 tvg-id="localnow_Film Noir Channel" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6202a9788f79e1178d503402" group-title="Cinema em inglês",The Film Noir Network
 https://filmnoirchannel-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_61f84d4e1740b917e57d7033_filmnoirchannel-live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Sxf26dk.png" group-title="Cinema em inglês",The Lone Star Channel | Distro
+https://a.jsrdn.com/broadcast/5oWx2VgEmK/+0000/c.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Sxf26dk.png" group-title="Cinema em inglês",The Lone Star Channel | Distro - link 2
+https://dai.google.com/linear/hls/event/i98gkOy4R6GGN_j-P3wZvw/master.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6196c9241d310bf925e02616" tvg-logo="https://i.imgur.com/Sxf26dk.png" group-title="Cinema em inglês", The Lone Star Channel | Plex
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6196c9241d310bf925e02616.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=y4Rf78msRg4_dQbMaoax
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6196c9241d310bf925e02616" tvg-logo="https://i.imgur.com/Sxf26dk.png" group-title="Cinema em inglês",The Lone Star Channel | Rakuten
+https://lonestar-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6196c9241d310bf925e02616" tvg-logo="https://i.imgur.com/Sxf26dk.png" group-title="Cinema em inglês",The Lone Star Channel | Rakuten - link 2
+https://lonestar-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lonestar-rakuten/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6196c9241d310bf925e02616" tvg-logo="https://i.imgur.com/Sxf26dk.png" group-title="A novidade",The Lone Star Channel | Cinema em inglês
+https://lonestar-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="5b4e69e08291147bd04a9fd7" tvg-logo="http://images.pluto.tv/channels/5b4e69e08291147bd04a9fd7/colorLogoPNG.png" group-title="Cinema em inglês",Thrillers | Pluto TV EUA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5b4e69e08291147bd04a9fd7/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="5dbfedccc563080009b60f4a" tvg-logo="https://images.pluto.tv/channels/5dbfedccc563080009b60f4a/colorLogoPNG.png" group-title="Cinema em inglês",Thrillers | Pluto TV Reino Unido
@@ -2020,6 +2049,8 @@ https://livecdn.fptplay.net/hda2/natgeohd_vhls.smil/master.m3u8
 https://livecdn.fptplay.net/hda3/natgeowild_vhls.smil/master.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicWildAsia.us" tvg-logo="https://i.imgur.com/8AzhVid.png" group-title="A novidade",National Geographic Wild - Vietnã | Documentários em inglês
 https://livecdn.fptplay.net/hda3/natgeowild_vhls.smil/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8AzhVid.png" group-title="Documentários em inglês",National Geographic | YouTube
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/NatGeo/live
 #EXTINF:-1 tvg-id="61eeb5c3d740670007da3abb" tvg-logo="https://images.pluto.tv/channels/61eeb5c3d740670007da3abb/colorLogoPNG.png" group-title="Documentários em inglês",Nature Time | Pluto TV EUA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61eeb5c3d740670007da3abb/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="UNWebTV.us" tvg-language="English" tvg-logo="https://i.imgur.com/lPyJhBN.png" group-title="Documentários em inglês",ONU Web TV
@@ -2368,6 +2399,12 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1098
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f84ce2ac265700008d48dcf/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6LxXto4.png" group-title="Esportes em inglês",Paragliding TV
 https://streamads.ottera.tv/playlist.m3u8?network_id=701
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6196c99e3b964c65b53de32f" tvg-logo="https://i.imgur.com/dCdjJkb.png" group-title="Esportes em inglês",Party Poker TV
+https://cdn15.fntvchannel.com/index.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6196c99e3b964c65b53de32f" tvg-logo="https://i.imgur.com/dCdjJkb.png" group-title="Esportes em inglês",Party Poker TV - link 2
+https://cdn19.fntvchannel.com/v1/master/02eeb1726c343dc9c30c32e93dee82013e157021/PartyPoker-Plex/index.m3u8?ads.X-PLEX-TOKEN=y4Rf78msRg4_dQbMaoax&ads.CHANNEL=6196c99e3b964c65b53de32f&ads.DEVICE_ID=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.DNT=0
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6196c99e3b964c65b53de32f" tvg-logo="https://i.imgur.com/dCdjJkb.png" group-title="A novidade",Party Poker TV | Esportes em inglês
+https://cdn15.fntvchannel.com/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X7XNAMS.png" group-title="Esportes em inglês",PX Sports - legenda em espanhol | México
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1709
 #EXTINF:-1 tvg-id="60d39387706fe50007fda8e8" tvg-logo="https://images.pluto.tv/channels/60d39387706fe50007fda8e8/colorLogoPNG.png" group-title="Esportes em inglês",PBR Rode Pass | Pluto TV EUA
@@ -2595,7 +2632,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62792f34f
 #EXTINF:-1 tvg-id="5ebc8688f3697d00072f7cf8" tvg-logo="http://images.pluto.tv/channels/5ebc8688f3697d00072f7cf8/colorLogoPNG.png" group-title="Esportes em inglês: lutas",Bellator MMA | Pluto TV EUA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-611c3ac2409e4d002c85a6df" tvg-logo="https://i.imgur.com/J5sEZhQ.png" group-title="Esportes em inglês: lutas",Black Belt
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=749
+https://ov.ottera.tv/live/master.m3u8?channel=jun_bb
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-611c3ac2409e4d002c85a6df" tvg-logo="https://i.imgur.com/J5sEZhQ.png" group-title="Esportes em inglês: lutas",Black Belt 2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=903
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-611c3ac2409e4d002c85a6df" tvg-logo="https://i.imgur.com/J5sEZhQ.png" group-title="Esportes em inglês: lutas",Black Belt 3
@@ -2607,7 +2644,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1760
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-611c3ac2409e4d002c85a6df" tvg-logo="https://i.imgur.com/J5sEZhQ.png" group-title="Esportes em inglês: lutas",Black Belt 6
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1782
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-611c3ac2409e4d002c85a6df" tvg-logo="https://i.imgur.com/J5sEZhQ.png" group-title="Esportes em inglês: lutas",Black Belt 7
-https://ov.ottera.tv/live/master.m3u8?channel=jun_bb
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=749
 #EXTINF:-1 tvg-id="5fac425f949b4600079938f3" tvg-logo="http://images.pluto.tv/channels/5fac425f949b4600079938f3/colorLogoPNG.png" group-title="Esportes em inglês: lutas",Boxing | Pluto TV EUA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fac425f949b4600079938f3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f0ff265d71dcb00449ec02a" tvg-logo="https://i.imgur.com/w3RulQE.png" group-title="Esportes em inglês: lutas",Channel Fight
@@ -4051,8 +4088,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1441
 https://linear-144.frequency.stream/dist/localnow/144/hls/hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Nubk9vB.png" group-title="Música instrumental e som ambiente",Mountain Live
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95387b932c837b49397357/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8AzhVid.png" group-title="Música instrumental e som ambiente",National Geographic | YouTube
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/NatGeo/live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YKcj09n.png" group-title="Música instrumental e som ambiente",Nature TV
 https://stmv1.srvif.com/nattv/nattv/chunklist_w267529618.m3u8
 #EXTINF:-1 tvg-id="StingrayNaturescape.ca" tvg-logo="https://i.imgur.com/zmZil0O.png" group-title="Música instrumental e som ambiente",Naturescape by Stingray
@@ -5467,6 +5502,16 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f778a59b
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d51ddf0369acdb278dfb05e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="5f7787e802a7ee0007a08d20" tvg-logo="http://images.pluto.tv/channels/5f7787e802a7ee0007a08d20/colorLogoPNG.png" group-title="Reality shows em inglês",Love & Hip Hop 2 | EUA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f7787e802a7ee0007a08d20/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6196c76e1d310bf925e02614" tvg-logo="https://i.imgur.com/oD0ht0J.png" group-title="A novidade",MBC | Reality shows em inglês
+https://cdn16.fntvchannel.com/index.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6196c76e1d310bf925e02614" tvg-logo="https://i.imgur.com/oD0ht0J.png" group-title="Reality shows em inglês",MBC | Plex
+https://cdn16.fntvchannel.com/index.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6196c76e1d310bf925e02614" tvg-logo="https://i.imgur.com/oD0ht0J.png" group-title="Reality shows em inglês",MBC | link 2
+https://cdn12.fntvchannel.com/index.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6196c76e1d310bf925e02614" tvg-logo="https://i.imgur.com/oD0ht0J.png" group-title="Reality shows em inglês",MBC | link 3
+https://cdn21.fntvchannel.com/index.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6196c76e1d310bf925e02614" tvg-logo="https://i.imgur.com/oD0ht0J.png" group-title="Reality shows em inglês",MBC | link 4
+https://cdn27.fntvchannel.com/index.m3u8
 #EXTINF:-1 tvg-id="6081648340382e0007f73d45" tvg-logo="http://images.pluto.tv/channels/6081648340382e0007f73d45/colorLogoPNG.png" group-title="Reality shows em inglês",Most Haunted | Pluto TV Reino Unido
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6081648340382e0007f73d45/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="5ea813c04958cd00078e9caf" tvg-logo="http://images.pluto.tv/channels/5ea813c04958cd00078e9caf/colorLogoPNG.png" group-title="Reality shows em inglês",MTV Dating | Pluto TV Alemanha
@@ -5705,63 +5750,71 @@ https://rt-ger.gcdn.co/live/rtdeutsch/playlist_800Kb.m3u8
 #EXTINF:-1 tvg-id="TeleBarn.ch" tvg-logo="https://i.imgur.com/j1Pkdfe.png" group-title="Variedades e notícias em alemão",TeleBärn | Suiça - em alemão
 https://klive.kaltura.com/env/cluster-1-a.live.nvp1/live/hls/p/1719221/e/1_obr1n222/tl/main/st/0/t/_O-oCNON5VqA2aG8WYVDeg/index-s32.m3u8
 ## Variedades em árabe ## ## Variedades em árabe ## ## Variedades em árabe ## ## Variedades em árabe ## ## Variedades em árabe ## ## Variedades em árabe ## ## Variedades em árabe ## ## Variedades em árabe ## ## Variedades em árabe ## ## Variedades em árabe ## ## Variedades em árabe ## ## Variedades em árabe ## 
-#EXTINF:-1 tvg-id="AbuDhabiAloula.ae" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/jytGYJq.jpeg" group-title="Variedades em árabe",Abu Dhabi Al Oula
+#EXTINF:-1 tvg-id="AbuDhabiAloula.ae" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/jytGYJq.jpeg" group-title="Variedades e notícias em árabe",Abu Dhabi Al Oula
 https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AbuDhabiEmirates.ae" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/jytGYJq.png" group-title="Variedades em árabe",Abu Dhabi Emirates
+#EXTINF:-1 tvg-id="AbuDhabiEmirates.ae" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/jytGYJq.png" group-title="Variedades e notícias em árabe",Abu Dhabi Emirates
 https://admdn3.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AbuDhabiSports1.ae" tvg-country="ARAB;MAGHREB" tvg-language="Arabic;English" tvg-logo="https://i.imgur.com/lKl2wZH.png" group-title="Variedades em árabe",Abu Dhabi Sports 1
+#EXTINF:-1 tvg-id="AbuDhabiSports1.ae" tvg-country="ARAB;MAGHREB" tvg-language="Arabic;English" tvg-logo="https://i.imgur.com/lKl2wZH.png" group-title="Variedades e notícias em árabe",Abu Dhabi Sports 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AbuDhabiSports2.ae" tvg-country="AE" tvg-language="Arabic;English" tvg-logo="https://i.imgur.com/9q8gFsq.png" group-title="Variedades em árabe",Abu Dhabi Sports 2
+#EXTINF:-1 tvg-id="AbuDhabiSports2.ae" tvg-country="AE" tvg-language="Arabic;English" tvg-logo="https://i.imgur.com/9q8gFsq.png" group-title="Variedades e notícias em árabe",Abu Dhabi Sports 2
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AbuDhabiSports3.ae" tvg-country="AE" tvg-language="Arabic;English" tvg-logo="https://i.imgur.com/IRPokyG.png" group-title="Variedades em árabe",Abu Dhabi Sports 3
+#EXTINF:-1 tvg-id="AbuDhabiSports3.ae" tvg-country="AE" tvg-language="Arabic;English" tvg-logo="https://i.imgur.com/IRPokyG.png" group-title="Variedades e notícias em árabe",Abu Dhabi Sports 3
 https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AjmanTV.ae" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/xZ2pJ7W.png" group-title="Variedades em árabe",Ajman TV | Emirados Árabes
+#EXTINF:-1 tvg-id="AjmanTV.ae" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/xZ2pJ7W.png" group-title="Variedades e notícias em árabe",Ajman TV | Emirados Árabes
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/d3e9fc3b874a46159ce3724d802e3f8d/playlist.m3u8
 #EXTINF:-1 tvg-id="AjmanTV.ae" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/xZ2pJ7W.png" group-title="A novidade",Ajman TV - Emirados Árabes | Variedades em árabe
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/d3e9fc3b874a46159ce3724d802e3f8d/playlist.m3u8
-#EXTINF:-1 tvg-id="AjyalTV.ps" tvg-country="PS" tvg-language="Arabic" tvg-logo="https://i.imgur.com/UeGk71E.png" group-title="Variedades em árabe",Ajyal TV | Palestina
+#EXTINF:-1 tvg-id="AjyalTV.ps" tvg-country="PS" tvg-language="Arabic" tvg-logo="https://i.imgur.com/UeGk71E.png" group-title="Variedades e notícias em árabe",Ajyal TV | Palestina
 http://htvajyal.mada.ps:8888/ajyal/index.m3u8
-#EXTINF:-1 tvg-id="AjyalTV.ps" tvg-country="PS" tvg-language="Arabic" tvg-logo="https://i.imgur.com/UeGk71E.png" group-title="A novidade",Ajyal TV | Palestina
+#EXTINF:-1 tvg-id="AjyalTV.ps" tvg-country="PS" tvg-language="Arabic" tvg-logo="https://i.imgur.com/UeGk71E.png" group-title="A novidade",Ajyal TV | Variedades e notícias em árabe
 http://htvajyal.mada.ps:8888/ajyal/index.m3u8
-#EXTINF:-1 tvg-id="AlAlam.ir" tvg-country="IR" tvg-language="Arabic" tvg-logo="https://i.imgur.com/jY1u1zz.png" group-title="Variedades em árabe",Al Alam | Irã
+#EXTINF:-1 tvg-id="AlAlam.ir" tvg-country="IR" tvg-language="Arabic" tvg-logo="https://i.imgur.com/jY1u1zz.png" group-title="Variedades e notícias em árabe",Al Alam | Irã
 https://live2.alalam.ir/alalam.m3u8
-#EXTINF:-1 tvg-id="AlAlam.ir" tvg-country="IR" tvg-language="Arabic" tvg-logo="https://i.imgur.com/jY1u1zz.png" group-title="A novidade",Al Alam | Irã
+#EXTINF:-1 tvg-id="AlAlam.ir" tvg-country="IR" tvg-language="Arabic" tvg-logo="https://i.imgur.com/jY1u1zz.png" group-title="A novidade",Al Alam | Varidades e notícias em árabe
 https://live2.alalam.ir/alalam.m3u8
-#EXTINF:-1 tvg-id="AlAoulaInternational.ma" tvg-country="MA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/NTJI3PQ.png" group-title="Variedades em árabe",Al Aoula International | Marrocos
+#EXTINF:-1 tvg-id="AlAoulaInternational.ma" tvg-country="MA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/NTJI3PQ.png" group-title="Variedades e notícias em árabe",Al Aoula International | Marrocos
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter.m3u8
 #EXTINF:-1 tvg-id="AlAoulaInternational.ma" tvg-country="MA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/NTJI3PQ.png" group-title="A novidade",Al Aoula International - Marrocos | Variedades em árabe
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter.m3u8
-#EXTINF:-1 tvg-id="AlAoulaLaayoune.ma" tvg-country="MA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/NTJI3PQ.png" group-title="Variedades em árabe",Al Aoula Laayoune | Marrocos
+#EXTINF:-1 tvg-id="AlAoulaLaayoune.ma" tvg-country="MA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/NTJI3PQ.png" group-title="Variedades e notícias em árabe",Al Aoula Laayoune | Marrocos
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/al_aoula_laayoune.m3u8
 #EXTINF:-1 tvg-id="AlAoulaLaayoune.ma" tvg-country="MA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/NTJI3PQ.png" group-title="A novidade",Al Aoula Laayoune - Marrocos | Variedades em árabe
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/al_aoula_laayoune.m3u8
-#EXTINF:-1 tvg-id="AlJazeeraChannel.qa" tvg-logo="https://i.imgur.com/zHNwsNZ.png" group-title="Variedades em árabe",Al Jazeera em árabe
+#EXTINF:-1 tvg-id="AlEkhbariya.sa" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/ndTGlOh.png" group-title="Variedades e notícias em árabe",Al Ekhbariya | Arábia Saudita
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/ekhbariyatv/live
+#EXTINF:-1 tvg-id="AlEkhbariya.sa" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/ndTGlOh.png" group-title="A novidade",Al Ekhbariya | Variedades e notícias em árabe
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/ekhbariyatv/live
+#EXTINF:-1 tvg-id="AlGhadTV.eg" tvg-country="EG" tvg-language="Arabic" tvg-logo="https://i.imgur.com/8OJgco9.png" group-title="Variedades e notícias em árabe",Al Ghad - YouTube | Egito
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/alghadtv/live
+#EXTINF:-1 tvg-id="AlGhadTV.eg" tvg-country="EG" tvg-language="Arabic" tvg-logo="https://i.imgur.com/8OJgco9.png" group-title="A novidade",Al Ghad - YouTube | Variedades em árabe
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/alghadtv/live
+#EXTINF:-1 tvg-id="AlJazeeraChannel.qa" tvg-logo="https://i.imgur.com/zHNwsNZ.png" group-title="Variedades e notícias em árabe",Al Jazeera em árabe
 https://live-hls-web-aja.getaj.net/AJA/06.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zHNwsNZ.png" group-title="Variedades em árabe",Al Jazeera Mubasher
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zHNwsNZ.png" group-title="Variedades e notícias em árabe",Al Jazeera Mubasher
 https://live-hls-web-ajm.getaj.net/AJM/06.m3u8
-#EXTINF:-1 tvg-id="CGTNArabic.cn" tvg-logo="https://i.imgur.com/y5uCaes.png" group-title="Variedades em árabe",CGTN em árabe | China
+#EXTINF:-1 tvg-id="CGTNArabic.cn" tvg-logo="https://i.imgur.com/y5uCaes.png" group-title="Variedades e notícias em árabe",CGTN em árabe | China
 https://livear.cgtn.com/1000a/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CsHdYhG.png" group-title="Variedades em árabe",Deutsche Welle - DW em árabe 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CsHdYhG.png" group-title="Variedades e notícias em árabe",Deutsche Welle - DW em árabe 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1276
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CsHdYhG.png" group-title="Variedades em árabe",Deutsche Welle | link 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CsHdYhG.png" group-title="Variedades e notícias em árabe",Deutsche Welle | link 2
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/stream04/streamPlaylist.m3u8
-#EXTINF:-1 tvg-id="ElHeddafTV.fr" tvg-logo="https://i.imgur.com/qd1sCE8.png" group-title="Variedades em árabe",El Heddaf TV - esportes | Argélia
+#EXTINF:-1 tvg-id="ElHeddafTV.fr" tvg-logo="https://i.imgur.com/qd1sCE8.png" group-title="Variedades e notícias em árabe",El Heddaf TV - esportes | Argélia
 https://cdn02.hta.dz/abr_htatv/EL_HEDDAF_TV/htatv/EL_HEDDAF_TV_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="France24Arabic.fr" tvg-language="Arabic" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="Variedades em árabe",France 24 - YouTube | notícias
+#EXTINF:-1 tvg-id="France24Arabic.fr" tvg-language="Arabic" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="Variedades e notícias em árabe",France 24 - YouTube | notícias
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/FRANCE24Arabic/live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/o2J8W52.png" group-title="Variedades em árabe",Hala London | inglês e árabe
+#EXTINF:-1 tvg-logo="https://i.imgur.com/o2J8W52.png" group-title="Variedades e notícias em árabe",Hala London | inglês e árabe
 https://halaldn.cdn.mangomolo.com/halavd/smil:halavd.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZTdKpLg.png" group-title="Variedades em árabe",iFilm em árabe | Irã
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZTdKpLg.png" group-title="Variedades e notícias em árabe",iFilm em árabe | Irã
 https://live.presstv.ir/ifilmlive/smil:ifilmar.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="NationalGeographicAbuDhabi.ae" tvg-language="Arabic" tvg-logo="https://i.imgur.com/8AzhVid.png" group-title="Variedades em árabe",National Geographic Abu Dhabi
+#EXTINF:-1 tvg-id="NationalGeographicAbuDhabi.ae" tvg-language="Arabic" tvg-logo="https://i.imgur.com/8AzhVid.png" group-title="Variedades e notícias em árabe",National Geographic Abu Dhabi
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicAbuDhabi.ae" tvg-language="Arabic" tvg-logo="https://i.imgur.com/8AzhVid.png" group-title="A novidade",National Geographic Abu Dhabi | Variedades em árabe
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="SkyNewsArabia.ae" tvg-logo="https://i.imgur.com/oOPsB1U.png" group-title="Variedades em árabe",Sky News Arabia
+#EXTINF:-1 tvg-id="SkyNewsArabia.ae" tvg-logo="https://i.imgur.com/oOPsB1U.png" group-title="Variedades e notícias em árabe",Sky News Arabia
 https://stream.skynewsarabia.com/hls/sna.m3u8
-#EXTINF:-1 tvg-id="SkyNewsArabia.ae" tvg-logo="https://i.imgur.com/oOPsB1U.png" group-title="Variedades em árabe",Sky News Arabia | YouTube
+#EXTINF:-1 tvg-id="SkyNewsArabia.ae" tvg-logo="https://i.imgur.com/oOPsB1U.png" group-title="Variedades e notícias em árabe",Sky News Arabia | YouTube
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/SkyNewsArabia/live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gjgCB9l.png" group-title="Variedades em árabe",Yas TV - esportes | Emirados Árabes
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gjgCB9l.png" group-title="Variedades e notícias em árabe",Yas TV - esportes | Emirados Árabes
 https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
 ### Variedades em chinês ##### Variedades em chinês ##### Variedades em chinês ##### Variedades em chinês ##### Variedades em chinês ##### Variedades em chinês ##########
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6oJrKiH.png" group-title="Variedades em chinês",CTI TV | YT Taiwan
@@ -5910,8 +5963,6 @@ https://limited38.todostreaming.es/live/101tv-web101tv.m3u8
 https://directes-tv-int.ccma.cat/int/ngrp:324_web/master.m3u8
 #EXTINF:-1 tvg-id="7NN.es" tvg-logo="https://i.imgur.com/GA6Buba.png" group-title="Variedades em espanhol",7NN | Espanha
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/7nntv
-#EXTINF:-1 tvg-id="7NN.es" tvg-logo="https://i.imgur.com/GA6Buba.png" group-title="A novidade",7NN | Variedades em espanol
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/7nntv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RmAwTms.png" group-title="Variedades em espanhol",Aliento Vision | EUA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1230
 #EXTINF:-1 tvg-id="AmericaTV.ar" tvg-logo="https://i.imgur.com/k2QiTNg.png" group-title="Variedades em espanhol",América Tucumán TDA 28.1 | YT Argentina
@@ -6014,11 +6065,7 @@ https://ici-i.akamaihd.net/hls/live/873426/ICI-Live-Stream/master.m3u8
 https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-juntos-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=vB1fQVteisRvSpyJtSgH&channelId=60240f57676235002df19f49
 #EXTINF:-1 tvg-id="7LaRioja.es" tvg-language="Spanish" tvg-logo="https://i.imgur.com/fgauhTK.png" group-title="Variedades em espanhol",La 7 de La Rioja | Espanha
 https://pc-la7delarioja-hls.flumotion.com/playlist.m3u8
-#EXTINF:-1 tvg-id="7LaRioja.es" tvg-language="Spanish" tvg-logo="https://i.imgur.com/fgauhTK.png" group-title="A novidade",La 7 de La Rioja | Variedades em espanhol
-https://pc-la7delarioja-hls.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-id="LaRock22.ni" tvg-logo="https://i.imgur.com/DizPH5m.png" group-title="Variedades em espanhol",La Rock 22 | Nicarágua
-http://138.117.4.70:8075/channel22/playlist.m3u8
-#EXTINF:-1 tvg-id="LaRock22.ni" tvg-logo="https://i.imgur.com/DizPH5m.png" group-title="A novidade",La Rock 22 | Variedades em espanhol
 http://138.117.4.70:8075/channel22/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1l68whd.png" group-title="Variedades em espanhol",Maná Argentina
 http://csvl03.manasat.com:1935/tvar/tvmanaar2/chunklist.m3u8
@@ -6148,27 +6195,27 @@ https://streaming01.divercom.be/notele_live/_definst_/direct.stream/chunklist_w1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qjcUn49.png" group-title="Variedades em francês",VoxAfrica | francês e inglês
 https://1927901613.rsc.cdn77.org/1927901613/tracks-v1a1/mono.m3u8
 ######### variedades em grego ############# variedades em grego ############# variedades em grego ############# variedades em grego ############# variedades em grego ############# variedades em grego ############# variedades em grego ############# variedades em grego ####
-#EXTINF:-1 tvg-id="EgnatiaTileorasi.gr" tvg-country="GR" tvg-language="Greek" tvg-logo="https://i.imgur.com/FicHMOy.png" group-title="Variedades em grego",Εγνατία Τηλεόραση | Grécia
+#EXTINF:-1 tvg-id="EgnatiaTileorasi.gr" tvg-country="GR" tvg-language="Greek" tvg-logo="https://i.imgur.com/FicHMOy.png" group-title="Variedades e notícias em grego",Εγνατία Τηλεόραση | Grécia
 https://video.streams.ovh:1936/egnatiatv/egnatiatv/index.m3u8
 #EXTINF:-1 tvg-id="EgnatiaTileorasi.gr" tvg-country="GR" tvg-language="Greek" tvg-logo="https://i.imgur.com/FicHMOy.png" group-title="A novidade",Εγνατία Τηλεόραση | Variedades em grego
 https://video.streams.ovh:1936/egnatiatv/egnatiatv/index.m3u8
-#EXTINF:-1 tvg-id="ERTWorld.gr" tvg-logo="https://i.imgur.com/hhzd5CG.png" group-title="Variedades em grego",ERT World | Grécia
+#EXTINF:-1 tvg-id="ERTWorld.gr" tvg-logo="https://i.imgur.com/hhzd5CG.png" group-title="Variedades e notícias em grego",ERT World | Grécia
 https://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_worldmedium.m3u8
-#EXTINF:-1 tvg-id="IonianTV.gr" tvg-logo="https://i.imgur.com/zuXu5tQ.png" group-title="Variedades em grego",Ionian TV | Grécia
+#EXTINF:-1 tvg-id="IonianTV.gr" tvg-logo="https://i.imgur.com/zuXu5tQ.png" group-title="Variedades e notícias em grego",Ionian TV | Grécia
 https://stream.ioniantv.gr/ionian/live_abr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/c8gZ2W4.png" group-title="Variedades em grego",Irida TV | Grécia
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c8gZ2W4.png" group-title="Variedades e notícias em grego",Irida TV | Grécia
 https://www.hellasnet.tv/rest.live.hn/ws.iri/playlist.m3u8
-#EXTINF:-1 tvg-id="ΚreteTV.gr" tvg-logo="https://i.imgur.com/LJ5oL6j.png" group-title="Variedades em grego",KPHTH TV - Krete - Crete | Grécia
+#EXTINF:-1 tvg-id="ΚreteTV.gr" tvg-logo="https://i.imgur.com/LJ5oL6j.png" group-title="Variedades e notícias em grego",KPHTH TV - Krete - Crete | Grécia
 http://live.cretetv.gr:1935/cretetv/myStream/chunklist_w1733220557.m3u8
-#EXTINF:-1 tvg-id="MessatidaTV.gr" tvg-country="GR" tvg-language="Greek" tvg-logo="https://i.imgur.com/y3pUxXe.png" group-title="Variedades em grego",Μεσσάτιδα TV | Grécia
+#EXTINF:-1 tvg-id="MessatidaTV.gr" tvg-country="GR" tvg-language="Greek" tvg-logo="https://i.imgur.com/y3pUxXe.png" group-title="Variedades e notícias em grego",Μεσσάτιδα TV | Grécia
 https://vod.streams.ovh:3037/stream/play.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7X5CKar.png" group-title="Variedades em grego",Montreal Greek | Grécia
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7X5CKar.png" group-title="Variedades e notícias em grego",Montreal Greek | Grécia
 http://94.130.180.175:8081/live/greektv/chunks.m3u8?nimblesessionid=9548359
-#EXTINF:-1 tvg-id="NeaTV.gr" tvg-logo="https://i.imgur.com/kQvhyL4.png" group-title="Variedades em grego",NEA TV | Grécia
+#EXTINF:-1 tvg-id="NeaTV.gr" tvg-logo="https://i.imgur.com/kQvhyL4.png" group-title="Variedades e notícias em grego",NEA TV | Grécia
 https://live.neatv.gr:8888/hls/neatv_mid/index.m3u8
-#EXTINF:-1 tvg-id="Xplore.cy" tvg-logo="https://i.imgur.com/ErFj6rR.png" group-title="Variedades em grego",Xplore | Chipre
+#EXTINF:-1 tvg-id="Xplore.cy" tvg-logo="https://i.imgur.com/ErFj6rR.png" group-title="Variedades e notícias em grego",Xplore | Chipre
 https://web.onair-radio.eu/explorecy/explorecy/master.m3u8
-#EXTINF:-1 tvg-id="Xplore.cy" tvg-logo="https://i.imgur.com/ErFj6rR.png" group-title="Variedades em grego",Xplore | Chipre - link 2
+#EXTINF:-1 tvg-id="Xplore.cy" tvg-logo="https://i.imgur.com/ErFj6rR.png" group-title="Variedades e notícias em grego",Xplore | Chipre - link 2
 http://web.onair-radio.eu:1935/explorecy/explorecy/playlist.m3u8
 #EXTINF:-1 tvg-id="Xplore.cy" tvg-language="Greek" tvg-logo="https://i.imgur.com/ErFj6rR.png" group-title="A novidade",Xplore | Variedades em grego
 https://web.onair-radio.eu/explorecy/explorecy/master.m3u8
@@ -6337,6 +6384,16 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1350
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2191
 #EXTINF:-1 tvg-id="6176fddda3a6160007f60433" tvg-logo="https://images.pluto.tv/channels/6176fddda3a6160007f60433/colorLogoPNG.png" group-title="Variedades em inglês",Fuse Beat | Pluto TV EUA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6176fddda3a6160007f60433/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6196c6843b964c65b53de32e"  tvg-logo="https://i.imgur.com/ehfOF9n.png" group-title="Cinema em inglês",Gago TV
+https://cdn20.fntvchannel.com/index.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6196c6843b964c65b53de32e"  tvg-logo="https://i.imgur.com/ehfOF9n.png" group-title="Cinema em inglês",Gago TV - link 2
+https://cdn20.fntvchannel.com/v1/master/02eeb1726c343dc9c30c32e93dee82013e157021/GAGO-Channel-Plex/index.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6196c6843b964c65b53de32e"  tvg-logo="https://i.imgur.com/ehfOF9n.png" group-title="Cinema em inglês",Gago TV - link 3
+https://cdn22.fntvchannel.com/index.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6196c6843b964c65b53de32e"  tvg-logo="https://i.imgur.com/ehfOF9n.png" group-title="Cinema em inglês",Gago TV - link 4
+https://cdn23.fntvchannel.com/index.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6196c6843b964c65b53de32e"  tvg-logo="https://i.imgur.com/ehfOF9n.png" group-title="A novidade",Gago TV | Cinema em inglês
+https://cdn20.fntvchannel.com/index.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-621672e42c2627c068e73ad8" tvg-logo="https://i.imgur.com/iuosgyp.png" group-title="Variedades em inglês",Galxy TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2584
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5eea605474085f0040ddc76d" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/glewedtv_3.png" group-title="Variedades em inglês",Glewed TV
@@ -6586,22 +6643,14 @@ https://promosrl-almatvfood-1-it.samsung.wurl.tv/playlist.m3u8
 https://promosrl-almatvtravel-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="BomChannel.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/kJXk1oa.png" group-title="Variedades e notícias em italiano",Bom Channel | Itália
 https://5f22d76e220e1.streamlock.net/BOMCHANNEL/BOMCHANNEL/playlist.m3u8
-#EXTINF:-1 tvg-id="BomChannel.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/kJXk1oa.png" group-title="A novidade",Bom Channel | Variedades e notícias em italiano
-https://5f22d76e220e1.streamlock.net/BOMCHANNEL/BOMCHANNEL/playlist.m3u8
 #EXTINF:-1 tvg-id="CafeTV24.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/qu6K9R7.png" group-title="Variedades e notícias em italiano",Cafè TV 24 | Itália 
 https://srvx1.selftv.video/cafe/live/playlist.m3u8
-#EXTINF:-1 tvg-id="CafeTV24.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/qu6K9R7.png" group-title="A novidade",Cafè TV 24 | Variedades e notícias em italiano
-https://srvx1.selftv.video/cafe/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Canale2Altamura.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/uh4R5Ih.png" group-title="Variedades e notícias em italiano",Canale 2 Altamura | Itália
-https://59d7d6f47d7fc.streamlock.net/canale2/canale2/playlist.m3u8
-#EXTINF:-1 tvg-id="Canale2Altamura.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/uh4R5Ih.png" group-title="A novidade",Canale 2 Altamura | Variedades e notícias em italiano
 https://59d7d6f47d7fc.streamlock.net/canale2/canale2/playlist.m3u8
 #EXTINF:-1 tvg-id="Canale7.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/hbBUwI4.png" group-title="Variedades e notícias em italiano",Canale 7 | Itália
 http://wms.shared.streamshow.it/canale7/canale7/playlist.m3u8
 #EXTINF:-1 tvg-id="Canale7.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/hbBUwI4.png" group-title="Variedades e notícias em italiano",Canale 7 - link 2 | Itália
 http://wms.shared.streamshow.it/canale7/mp4:canale7/playlist.m3u8
-#EXTINF:-1 tvg-id="Canale7.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/hbBUwI4.png" group-title="A novidade",Canale 7 | Variedades e notícias em italiano
-http://wms.shared.streamshow.it/canale7/canale7/playlist.m3u8
 #EXTINF:-1 tvg-id="608aa718a8ec810007d87fee" tvg-logo="https://images.pluto.tv/channels/608aa718a8ec810007d87fee/colorLogoPNG.png" group-title="Variedades e notícias em italiano",Cucina | Pluto TV Itália
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608aa718a8ec810007d87fee/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="608aa8a5709d6b0007b132fe" tvg-logo="https://images.pluto.tv/channels/608aa8a5709d6b0007b132fe/colorLogoPNG.png" group-title="Variedades e notícias em italiano",Documentari | Pluto TV Itália
@@ -6745,6 +6794,10 @@ https://amtvusdvr.tulix.tv/am2abr/tracks-v1a1/mono.m3u8
 https://cdn10.live-tv.od.ua:8083/7tvod/7tvod-abr/playlist.m3u8
 #EXTINF:-1 tvg-id="7kanal.ua" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/CX6hzIa.png" group-title="A novidade",7 канал - Ucrânia | Variedades em vários idiomas
 https://cdn10.live-tv.od.ua:8083/7tvod/7tvod-abr/playlist.m3u8
+#EXTINF:-1 tvg-id="AnimaxAsia.sg" tvg-logo="https://i.imgur.com/sMcdkLt.png" group-title="Variedades em vários idiomas",Animax | áudio japonês, legenda vietnamita
+https://livecdn.fptplay.net/hda3/animaxport_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AnimaxAsia.sg" tvg-logo="https://i.imgur.com/sMcdkLt.png" group-title="A novidade",Animax | Variedades em vários idiomas
+https://livecdn.fptplay.net/hda3/animaxport_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ARB24.az" tvg-country="AZ" tvg-language="Azerbaijani" tvg-logo="https://i.imgur.com/mtvIFyq.png" group-title="Variedades em vários idiomas",ARB 24 | Azerbaijão
 http://85.132.81.184:8080/arb24/live1/index.m3u8
 #EXTINF:-1 tvg-id="ARB24.az" tvg-country="AZ" tvg-language="Azerbaijani" tvg-logo="https://i.imgur.com/mtvIFyq.png" group-title="A novidade",ARB 24 - Azerbaijão | Variedades em vários idiomas
