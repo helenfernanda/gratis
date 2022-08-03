@@ -3,12 +3,15 @@
 ## 👩🏽‍💻 Editora: Helen Fernanda - Goiânia - Brasil 🇧🇷
 ## 🔗 Dicas de EPG - apps: www.meutedio.com.br/iptv
 ## 📧 Contato e 💰 Pix: meutedio@mail.com
+## 🆕 03-agosto-2022 | Biography Pluto TV UK agora se chama Music e está na categoria de Celebridades.
 ## 🆕 02-agosto-2022 | Novos canais: RBA TV - TV Brasil; Discover Film; Gravitas Adrenaline; Gravitas Movies; Gravitas Documentaries; Documentary+; Horrorfy; Trailers From Hell; True Crime Now; Unexplained; Wonder; i24 News Updates; Todo Life; Todo Crimen; Commune
 ## 🆕 30-julho-2022 | Novos canais: Lone Star; Classic Rock Network; The Film Detective; Go See Westers; Party Poker; Bowery Classics; Gago TV; Animax
 ## 🆕 29-julho-2022 | Novo grupo *Variedades em turco** com novos canais do Chipre e da Turquia.
 ## 🆕 29-julho-2022 | Novos canais no grupo *Variedades em turco*.
 ## 🆕 29-julho-2022 | Novo canal de música Reload.
 ##### Brasil: cinema ############# Brasil: cinema ############# Brasil: cinema ############# Brasil: cinema ############# Brasil: cinema ############# Brasil: cinema ############# Brasil: cinema ############# Brasil: cinema ############# Brasil: cinema ######
+#EXTINF:-1 tvg-id="5d4af2a24f1c5ab2d298776b" tvg-logo="https://images.pluto.tv/channels/5d4af2a24f1c5ab2d298776b/colorLogoPNG.png" group-title="A novidade",Music | Celebridades e cultura pop em inglês
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d4af2a24f1c5ab2d298776b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://images.pluto.tv/channels/61b790b985706b00072cb797/colorLogoPNG.png" group-title="Brasil: cinema em português",Adrenalina Freezone | Pluto TV Brasil
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61b790b985706b00072cb797/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://images.pluto.tv/channels/61b790b985706b00072cb797/colorLogoPNG.png" group-title="Brasil: cinema em português",Adrenalina Freezone | sem propaganda
@@ -217,9 +220,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6014761df
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/tvbrasil/live
 #EXTINF:-1 tvg-id="TVBrasil.br" tvg-logo="https://i.imgur.com/faZEzAh.png" group-title="Brasil: educativos e documentários",TV Brasil Web | Dailymotion
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x82pp99
-#EXTINF:-1 tvg-id="TVBrasil.br" tvg-logo="https://i.imgur.com/ewJjke2.jpg" group-title="Brasil: educativos e documentários",TV Brasil - RBA TV | Rio do Sul - SC
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ewJjke2.jpg" group-title="Brasil: educativos e documentários",TV Brasil - RBA TV | Rio do Sul - SC
 https://streaming03.zas.media:1936/rbatv/rbatv/playlist_w998049439.m3u8
-#EXTINF:-1 tvg-id="TVBrasil.br" tvg-logo="https://i.imgur.com/ewJjke2.jpg" group-title="A novidade",TV Brasil - RBA TV | Brasil: educativos e documentários
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ewJjke2.jpg" group-title="A novidade",TV Brasil - RBA TV | Brasil: educativos e documentários
 https://streaming03.zas.media:1936/rbatv/rbatv/playlist_w998049439.m3u8
 #EXTINF:-1 tvg-id="TVEBahia.br" tvg-logo="https://i.imgur.com/ewJjke2.jpg" group-title="Brasil: educativos e documentários",TV Brasil | TVE Bahia
 http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
@@ -960,6 +963,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=759
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=782
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60db63d29ec966002c9ea6f0" tvg-logo="https://i.imgur.com/BmOUAQ1.png" group-title="Celebridades e cultura pop em inglês",Made in Hollywood | EUA 3
 https://ov.ottera.tv/live/master.m3u8?channel=mvf_mh
+#EXTINF:-1 tvg-id="5d4af2a24f1c5ab2d298776b" tvg-logo="https://images.pluto.tv/channels/5d4af2a24f1c5ab2d298776b/colorLogoPNG.png" group-title="Celebridades e cultura pop em inglês",Music | Pluto TV Reino Unido
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d4af2a24f1c5ab2d298776b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="localnow_Music Legends Network" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6202b520b797e303fc3090c2" group-title="Celebridades e cultura pop em inglês",Music Legends Network
 https://musiclegendsnetwork-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_61fb0bb3d6ac764c3e25a5eb_musiclegendsnetwork-live/m.m3u8
 #EXTINF:-1 tvg-id="5dc0c78281eddb0009a02d5e" tvg-logo="http://images.pluto.tv/channels/5dc0c78281eddb0009a02d5e/colorLogoPNG.png" group-title="Celebridades e cultura pop em inglês",Mixible | EUA
@@ -1214,8 +1219,6 @@ https://linear-133.frequency.stream/dist/localnow/133/hls/master/playlist.m3u8
 http://linear-122.frequency.stream/122/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZJF9J72.png?1" group-title="Cinema em inglês",A-Z Classic Flix
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1708
-#EXTINF:-1 tvg-id="5d4af2a24f1c5ab2d298776b" tvg-logo="https://images.pluto.tv/channels/5d4af2a24f1c5ab2d298776b/colorLogoPNG.png" group-title="Cinema em inglês",Biography | Pluto TV Reino Unido
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d4af2a24f1c5ab2d298776b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="58af4c093a41ca9d4ecabe96" tvg-logo="http://images.pluto.tv/channels/58af4c093a41ca9d4ecabe96/colorLogoPNG.png" group-title="Cinema em inglês",Black Cinema | EUA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/58af4c093a41ca9d4ecabe96/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CpUKPwo.png" group-title="Cinema em inglês",Bloody Disgusting | EUA
@@ -1963,8 +1966,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1154
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1373
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5v6MUeS.png" group-title="Documentários em inglês",Beautiful Planet | Xiaomi
 https://answermedia-beautiful-planet-1-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="5d4af2a24f1c5ab2d298776b" tvg-logo="https://images.pluto.tv/channels/5d4af2a24f1c5ab2d298776b/colorLogoPNG.png" group-title="Documentários em inglês",Biography | Pluto TV Reino Unido
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d4af2a24f1c5ab2d298776b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="5211" tvg-logo="https://i.imgur.com/y5uCaes.png" group-title="Documentários em inglês",CGTN Documentary Channel | China
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V6lVa4l.png" group-title="Documentários em inglês",Coronavírus
