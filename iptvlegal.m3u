@@ -725,7 +725,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/602e80c76
 https://streaming03.zas.media:1936/lasstv/lasstv/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Emaofdr.png" group-title="Brasil: variedades em português",Lass TV 2
 https://alanza.iptv2022.com/LASS_TV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/09PPMJ8.png" group-title="Brasil: notícias em português",Litoral News | YT Brasil
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/09PPMJ8.png" group-title="Brasil: variedades em português",Litoral News | YT Brasil
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/LitoralNews/live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CrqC9Qh.png" group-title="Brasil: variedades em português",Mais Favela TV
 https://d8nlqpvobfd9y.cloudfront.net/index/1.m3u8
@@ -2334,20 +2334,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e98b0447
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1709
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DiBEioC.png" group-title="Esportes em espanhol",Tigo Sports | Paraguai
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1113
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6UQox9e.png" group-title="Esportes em espanhol",TUDN 1 - horários | México
-http://linear-360.frequency.stream/360/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6UQox9e.png" group-title="Esportes em espanhol",TUDN 2 - horários | México
-http://linear-361.frequency.stream/361/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6UQox9e.png" group-title="Esportes em espanhol",TUDN 3 - horários | México
-http://linear-362.frequency.stream/362/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6UQox9e.png" group-title="Esportes em espanhol",TUDN 4 - horários | México
-http://linear-363.frequency.stream/363/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6UQox9e.png" group-title="Esportes em espanhol",TUDN 5 - horários | Televisa
-http://linear-364.frequency.stream/364/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="TUDNMexico.mx" tvg-logo="https://i.imgur.com/6UQox9e.png" group-title="Esportes em espanhol",Zona TUDN | México
-http://linear-356.frequency.stream/356/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="TUDNMexico.mx" tvg-logo="https://i.imgur.com/6UQox9e.png" group-title="Esportes em espanhol",Zona TUDN | Vix
-http://linear-357.frequency.stream/357/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://i.imgur.com/NQ0qCf8.png" group-title="Esportes em espanhol",TyC Sports | Argentina
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1115
 #EXTINF:-1 tvg-id="5dd6dc7480e3550009133d4a" tvg-logo="https://i.imgur.com/la5l80U.png" group-title="Esportes em espanhol",Velocidad​ | Pluto TV Argentina
@@ -4576,12 +4562,12 @@ https://rt-esp.gcdn.co/live/rtesp/playlist_2500Kb.m3u8
 https://rt-esp.gcdn.co/live/rtesp/playlist_1600Kb.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5oiqFfl.png" group-title="Notícias em espanhol",RT TV em espanhol 4 - baixa
 https://rt-esp.gcdn.co/live/rtesp/playlist_800Kb.m3u8
+#EXTINF:-1 tvg-id="TVE24h.es" tvg-logo="https://i.imgur.com/JuYFnOi.png" group-title="Notícias em espanhol",RTVE 24h | Espanha
+https://rtvelivestream.akamaized.net/segments/24h/24h_main.m3u8
 #EXTINF:-1 tvg-id="RTVE.es" tvg-logo="https://i.imgur.com/84Ih7eR.png" group-title="Notícias em espanhol",RTVE Noticias | YT Espanha
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/rtvenoticias/live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rPVPH9V.png" group-title="Notícias em espanhol",Super Noticias 33 | República Dominicana
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1181
-#EXTINF:-1 tvg-id="TVE24h.es" tvg-logo="https://i.imgur.com/JuYFnOi.png" group-title="Notícias em espanhol",TVE 24h | Espanha
-https://rtvelivestreamv3.akamaized.net/24h/24h_main.m3u8
 #EXTINF:-1 tvg-id="5f523aa5523ae000074745ec" tvg-logo="https://images.pluto.tv/channels/5f523aa5523ae000074745ec/colorLogoPNG.png" group-title="Notícias em espanhol",Telefe Noticias | Pluto TV Argentina
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f523aa5523ae000074745ec/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="627d1b12c8540700073b3f39" tvg-logo="https://images.pluto.tv/channels/627d1b12c8540700073b3f39/colorLogoPNG.png" group-title="Notícias em espanhol",Telefe Noticias | Pluto TV Espanha
