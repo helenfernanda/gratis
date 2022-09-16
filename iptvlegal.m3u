@@ -602,8 +602,8 @@ https://xilam-animation-2-br.samsung.wurl.tv/playlist.m3u8
 https://playout175.livextend.cloud/livenlin4/2liveartvpub/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CNu0JI0.png" group-title="Brasil: notícias em português",Band Jornalismo - horários | YT Brasil
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/bandjornalismo/live
-#EXTINF:-1 tvg-id="BandNews.br" tvg-logo=" https://i.imgur.com/WwSAtkh.png" group-title="Brasil: notícias em português",Band News - off-line | Brasil
-https://evpp.mm.uol.com.br/geob_band/bandnewstv/playlist.m3u8
+#EXTINF:-1 tvg-id="BandNews.br" tvg-logo=" https://i.imgur.com/WwSAtkh.png" group-title="Brasil: notícias em português",Band News | Brasil
+https://gintna100.tulix.tv/gin_live/band-news-hd/cff3af9893c7c7a73f1b1e388368c457/6325cb65/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fPeO9hi.png" group-title="Brasil: notícias em português",BandNews FM | Goiânia GO
 https://5a2b083e9f360.streamlock.net/nexdial/nexdial.stream/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fPeO9hi.png" group-title="Brasil: notícias em português",BandNews FM | YT São Paulo SP
@@ -1086,10 +1086,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e1efdbf9
 #EXTINF:-1 tvg-id="61923bd34b1ec000075e5e89" tvg-logo="https://images.pluto.tv/channels/61923bd34b1ec000075e5e89/colorLogoPNG.png" group-title="Cinema em alemão",Weddings | Pluto TV Alemanha
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61923bd34b1ec000075e5e89/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 ############################## CINEMA EM ESPANHOL ################## CINEMA EM ESPANHOL ################## CINEMA EM ESPANHOL ################## CINEMA EM ESPANHOL ################## CINEMA EM ESPANHOL ################## CINEMA EM ESPANHOL ################## CINEMA EM ESPANHOL ################## CINEMA EM ESPANHOL ################## CINEMA EM ESPANHOL ################## CINEMA EM ESPANHOL ##################
-#EXTINF:-1 tvg-logo="https://i.imgur.com/r0Zk0Pn.png" group-title="Cinema em espanhol",1 Canal de Filmes | inglês e espanhol
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1393
-#EXTINF:-1 tvg-id="Atrecine.es" tvg-logo="https://i.imgur.com/D1GasnX.png" group-title="Cinema em espanhol",A3Cine
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1101
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m9BKIY6.png" group-title="Cinema em espanhol",Acción Mexicana | Canela TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1153
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m9BKIY6.png" group-title="Cinema em espanhol",Acción Mexicana | Canela TV 2
@@ -1200,6 +1196,12 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1680
 https://lacorriente-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_61b8be666e55fa31437a50a7_lacorriente-live/master.m3u8?channel=ottpri_sl_lc
 #EXTINF:-1 tvg-id="5f77977bd924d80007eee60c" tvg-logo="http://images.pluto.tv/channels/5f77977bd924d80007eee60c/colorLogoPNG.png" group-title="Cinema em espanhol",Mission Impossible | EUA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f77977bd924d80007eee60c/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-logo="https://imgur.com/KmVeTtJ" group-title="Cinema em espanhol",Must See Movies
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1393
+#EXTINF:-1 tvg-logo="https://imgur.com/KmVeTtJ" group-title="A novidade",Must See Movies | Cinema em espanhol
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1393
+#EXTINF:-1 tvg-logo="https://imgur.com/KmVeTtJ" group-title="Cinema em espanhol",Must See Movies | link 2
+https://917ebd53b511440f9669a926b4ba9153.mediatailor.us-east-1.amazonaws.com/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/npplayout-VivaLive/11a34eba-a706-48c1-a67f-742d647d6af1/0.m3u8
 #EXTINF:-1 tvg-id="5defde6d6c07b50009cf0757" tvg-logo="http://images.pluto.tv/channels/5defde6d6c07b50009cf0757/colorLogoPNG.png" group-title="Cinema em espanhol",Nuestro Cine | Pluto TV Argentina
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5defde6d6c07b50009cf0757/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="60fb2f47c133270007327375" tvg-logo="http://images.pluto.tv/channels/60fb2f47c133270007327375/colorLogoPNG.png" group-title="Cinema em espanhol",Pelis y Popcorn | Pluto TV EUA
@@ -1264,8 +1266,6 @@ https://dba2f9e98eb44a478946116c5e90e55b.mediatailor.us-east-1.amazonaws.com/v1/
 ####### CINEMA EM inglês ############################# ####### CINEMA EM inglês ############################# ####### CINEMA EM inglês ############################# ####### CINEMA EM inglês #############################
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r0Zk0Pn.png" group-title="Cinema em inglês",1 Canal de Ficção
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1429
-#EXTINF:-1 tvg-logo="https://i.imgur.com/r0Zk0Pn.png" group-title="Cinema em inglês",1 Canal de Filmes | inglês e espanhol
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1393
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r0Zk0Pn.png" group-title="Cinema em inglês",1 Canal de Cinema Amador
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1410
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r0Zk0Pn.png" group-title="Cinema em inglês",1 Canal de Filmes Antigos
@@ -1701,6 +1701,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1236
 ## Cristianismo em inglês #### Cristianismo em inglês #### Cristianismo em inglês #### Cristianismo em inglês ###
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qNcnbAn.png" group-title="Cristianismo em inglês",Accelerate TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2537
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zUjagO4.png" group-title="Cristianismo em inglês",Amazing Discoveries
+https://dvrfl02.tulix.tv/gfaith-amazing/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/B6coPPE.png" group-title="Cristianismo em inglês",Christian Broadcasting Network | EUA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1396
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5efe1de8e0b3f5003f5d9f91" tvg-logo="https://i.imgur.com/arqyb65.png" tvg-id="13679" group-title="Cristianismo em inglês",Dove Channel | EUA 
@@ -1713,6 +1715,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d486b874
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1527
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t3tWr4D.png?1" group-title="Cristianismo em inglês",IBCN Free Family Entertainment 2
 https://vse2-sa-all98.secdn.net/tvstartup10-channel/live/mp4:iraedge/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/perMBvv.png" group-title="Cristianismo em inglês",NRB TV | EUA
+https://dvrfl02.tulix.tv/gusa-nrbtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4vK8j0n.png" group-title="Cristianismo em inglês",Providence Christian Network
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1487
 #EXTINF:-1 tvg-id="Sonlife.uk" tvg-logo="https://i.imgur.com/p6og1yz.png" group-title="Cristianismo em inglês",Sonlife | Reino Unido
@@ -4892,6 +4896,10 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/Vatic
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1041
 #EXTINF:-1 tvg-id="5bdce04659ee03633e758130" tvg-logo="http://images.pluto.tv/channels/5bdce04659ee03633e758130/colorLogoPNG.png" group-title="Notícias em inglês",Weather Nation | EUA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5bdce04659ee03633e758130/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MAbZMQC.png" group-title="A novidade",Wion TV | Notícias em inglês
+https://d1tdkdc0esjoxj.cloudfront.net/out/v1/f2054baeb8e94043bfc9c8cca2a0013d/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MAbZMQC.png" group-title="Notícias em inglês",Wion TV | Índia
+https://d1tdkdc0esjoxj.cloudfront.net/out/v1/f2054baeb8e94043bfc9c8cca2a0013d/index.m3u8
 #EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5bdce04659ee03633e758130/colorLogoPNG.png" group-title="Notícias em inglês",Yahoo! News
 https://content.uplynk.com/channel/411ba7ca8cb6403a9e73509e49c3a77b.m3u8
 ######## Notícias em inglês: dinheiro ######## Notícias em inglês: dinheiro ######## Notícias em inglês: dinheiro ######## Notícias em inglês: dinheiro ######## Notícias em inglês: dinheiro ######## Notícias em inglês: dinheiro ########
@@ -6523,6 +6531,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=979
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1133
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-614b82e2fda2ea37754acbb8" tvg-logo="https://i.imgur.com/nc7ah7v.png" group-title="Variedades em inglês",Family Time | EUA 4
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1134
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/mJBaMiv.png" group-title="Variedades em inglês",Flikon | Nigéria
+https://stream-us-east-1.getpublica.com/cl/c1e777a9-303a-4ed9-9335-9d88031ca0a7/1080x1920_7909038_0_f.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TF0DF6K.png" group-title="Variedades em inglês",Flixstop
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2525
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TF0DF6K.png" group-title="Variedades em inglês",Flixstop 2
