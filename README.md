@@ -2,7 +2,7 @@
 
 <p>Atualizações relevantes são avisadas no Telegram: <a target="_blank" href="https://t.me/meutedio">@meutedio</a>.</p>
 
-<p>Contato e Pix: <code>meutedio📧mail.com</code></p>
+<p>Contato e Pix: <code>pix📧meutedio.com</code></p>
 
 
 
