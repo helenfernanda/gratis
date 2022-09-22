@@ -2,12 +2,13 @@
 ## TV Meu Tédio
 ## 👩🏽‍💻 Editora: Helen Fernanda - Goiânia - Brasil 🇧🇷
 ## 🔗 Dicas de EPG - apps: www.meutedio.com.br/iptv
-## 📧 Contato e 💰 Pix: meutedio@mail.com
+## 📧 Contato e 💰 Pix: pix@meutedio.com 
+## 🆕 22-setembro-2022 | Novos canais Pluto TV Brasil: A culpa é do Cabral; Cocoricó; Os arquivos do FBI; Rede TV; The Ed Sullivan Show - em inglês; TV Cultura.
 ## 🆕 15-setembro-2022 | Novos canais brasileiros *Band RS* e **Sebrae - Canal Empreender**. Novos canais em inglês e espanhol.
 ## 🆕 17-setembro-2022 | Novos canais em inglês e espanhol.
 ### A novidade ### A novidade ### A novidade ### A novidade ### A novidade ### A novidade ### A novidade ### A novidade 
-#EXTINF:-1 tvg-id="5f1efad04320070007dbb60b" tvg-logo="https://images.pluto.tv/channels/5f1efad04320070007dbb60b/colorLogoPNG.png" group-title="A novidade",The Grio | Variedades em inglês
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1efad04320070007dbb60b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="62e010e6cd663f0007e57dc8" tvg-logo="https://images.pluto.tv/channels/62e010e6cd663f0007e57dc8/colorLogoPNG.png" group-title="A novidade",TV Cultura - episódios | Brasil: educativos e documentários
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62e010e6cd663f0007e57dc8/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 ##### Brasil: cinema ############# Brasil: cinema ############# Brasil: cinema ############# Brasil: cinema ############# Brasil: cinema ############# Brasil: cinema ############# Brasil: cinema ############# Brasil: cinema ############# Brasil: cinema ######
 #EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://images.pluto.tv/channels/61b790b985706b00072cb797/colorLogoPNG.png" group-title="Brasil: cinema em português",Adrenalina Freezone | Pluto TV Brasil
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61b790b985706b00072cb797/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
@@ -247,6 +248,8 @@ https://5b33b873179a2.streamlock.net:1443/live/livestream/index.m3u8
 https://streaming03.zas.media:1936/tvfuturo/tvfuturo/chunklist.m3u8
 #EXTINF:-1 tvg-id="TVCulturaNacional.br" tvg-logo="https://i.imgur.com/zmheeSl.png" group-title="Brasil: educativos e documentários",TV Cultura | TV Guará - MA
 https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/chunklist.m3u8
+#EXTINF:-1 tvg-id="62e010e6cd663f0007e57dc8" tvg-logo="https://images.pluto.tv/channels/62e010e6cd663f0007e57dc8/colorLogoPNG.png" group-title="Brasil: educativos e documentários",TV Cultura - episódios | Pluto TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62e010e6cd663f0007e57dc8/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvfaap.png" group-title="Brasil: educativos e documentários",TV Faap | Brasil
 http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8
 #EXTINF:-1 tvg-id="TVMackenzie.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/c3mh10E.png" group-title="Brasil: educativos e documentários",TV Mackenzie | Brasil
@@ -364,6 +367,10 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f9b05a99
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61099df8cee03b00074b2ecf/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="61099df8cee03b00074b2ecf" tvg-logo="https://images.pluto.tv/channels/61099df8cee03b00074b2ecf/colorLogoPNG.png" group-title="Brasil: esportes - lifestyle - realities",O encantador de cães | link 2 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61099df8cee03b00074b2ecf/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="620d12a82e8ac50007c269c3" tvg-logo="https://images.pluto.tv/channels/620d12a82e8ac50007c269c3/colorLogoPNG.png" group-title="Brasil: esportes - lifestyle - realities",Os arquivos do FBI | Pluto TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/620d12a82e8ac50007c269c3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="620d12a82e8ac50007c269c3" tvg-logo="https://images.pluto.tv/channels/620d12a82e8ac50007c269c3/colorLogoPNG.png" group-title="A novidade",Os arquivos do FBI | Brasil: esportes - lifestyle - realities
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/620d12a82e8ac50007c269c3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="61bb72a7bf8c520007a8fd27" tvg-logo="https://images.pluto.tv/channels/61bb72a7bf8c520007a8fd27/colorLogoPNG.png" group-title="Brasil: esportes - lifestyle - realities",Pronto-Socorro: histórias de emergência | Pluto TV Brasil
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61bb72a7bf8c520007a8fd27/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="61bb72a7bf8c520007a8fd27" tvg-logo="https://images.pluto.tv/channels/61bb72a7bf8c520007a8fd27/colorLogoPNG.png" group-title="Brasil: esportes - lifestyle - realities",Pronto-Socorro: histórias de emergência | link 2
@@ -393,6 +400,11 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32d4d9e
 #EXTINF:-1 tvg-id="Yeeaah.br" tvg-logo="https://i.imgur.com/S7DCwx0.png" group-title="Brasil: esportes - lifestyle - realities",Yeeaah | Brasil
 https://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
 #### Brasil: humor - novelas - séries ######### Brasil: humor - novelas - séries ########### Brasil: humor - novelas - séries ####### Brasil: humor - novelas - séries #### Brasil: humor - novelas - séries ########## Brasil: humor - novelas - séries 
+#EXTINF:-1 tvg-id="62fd6b865a502400075b2caf" tvg-logo="https://images.pluto.tv/channels/62fd6b865a502400075b2caf/colorLogoPNG.png" group-title="A novidade",A culpa é do cabral | Brasil: humor - novelas - séries
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62fd6b865a502400075b2caf/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="62fd6b865a502400075b2caf" tvg-logo="https://images.pluto.tv/channels/62fd6b865a502400075b2caf/colorLogoPNG.png" group-title="Brasil: humor - novelas - séries",A culpa é do cabral | Pluto TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62fd6b865a502400075b2caf/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HVvXmtr.png" group-title="Brasil: humor - novelas - séries",AniTV
 https://tv01.livemustv.com.br/livemustv1358/livemustv1358/playlist.m3u8
 #EXTINF:-1 tvg-id="animetv.br" tvg-logo="https://1.bp.blogspot.com/-FUSTK4Z1fQs/X8zzV_cWjHI/AAAAAAAAD6E/eNDHUFUuADsTAkTJTcT_ulbcI9-y6IisACLcBGAsYHQ/s0/ANIME%2BTV.png" group-title="Brasil: humor - novelas - séries",Anime TV | Brasil 
@@ -538,6 +550,10 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62545c0b0
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62545c0b002f4b0007688b61/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WklXZlV.png" group-title="Brasil: infanto-juvenis",Clubinho Fun | Brasil
 http://45.165.178.82:8000/play/a011/index.m3u8
+#EXTINF:-1 tvg-id="62d969fd8451a30007f0fd94" tvg-logo="https://images.pluto.tv/channels/62d969fd8451a30007f0fd94/colorLogoPNG.png" group-title="Brasil: infanto-juvenis",Cocoricó | Pluto TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62d969fd8451a30007f0fd94/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="62d969fd8451a30007f0fd94" tvg-logo="https://images.pluto.tv/channels/62d969fd8451a30007f0fd94/colorLogoPNG.png" group-title="A novidade",Cocoricó | Brasil: infanto-juvenis
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62d969fd8451a30007f0fd94/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/f5/1d/08/f51d08be05919290355ac004cdd5c2d6.png" group-title="Brasil: infanto-juvenis",Desenhos antigos 1 | Brasil
 https://srv5.zcast.com.br/tvmanchete/tvmanchete/playlist.m3u8
 #EXTINF:-1 tvg-id="620ff46e0a576e0007dc2f89" tvg-logo="https://images.pluto.tv/channels/620ff46e0a576e0007dc2f89/colorLogoPNG.png" group-title="Brasil: infanto-juvenis",iCarly | Pluto TV Brasil
@@ -697,8 +713,6 @@ https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8
 http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
 #EXTINF:-1 tvg-id="RBATV.br" tvg-logo="https://i.imgur.com/b92nQTD.png" group-title="Brasil: variedades em português",Band | RBA TV - PA - Brasil
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
-#EXTINF:-1 tvg-id="BandRS.br" tvg-logo="https://i.imgur.com/b92nQTD.png" group-title="A novidade",Band RS | Brasil: variedades em português
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/BandRS/live
 #EXTINF:-1 tvg-id="BandSP.br" tvg-logo="https://i.imgur.com/b92nQTD.png" group-title="Brasil: variedades em português",Band SP | Brasil
 https://stream-04.sv4.dailymotion.com/sec(9adq8njh6Ix1Bfv2jmbm43zh8Y45ZL-LIiOKDVLm37WuO66vc37IUytdQYg_vR99)/dm/3/x83vbd6/s/live-3.m3u8
 #EXTINF:-1 tvg-id="BandRS.br" tvg-logo="https://i.imgur.com/b92nQTD.png" group-title="Brasil: variedades em português",Band RS | Brasil
@@ -783,6 +797,10 @@ https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m
 https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/playlist.m3u8
 #EXTINF:-1 tvg-id="RedeTV.br" tvg-logo="https://listaiptv.gratis/logos/imagens/pampa.png" group-title="Brasil: variedades em português",Rede TV | TV Pampa - RS - Brasil
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
+#EXTINF:-1 tvg-id="6048fc47a44e540007745d2b" tvg-logo="https://images.pluto.tv/channels/6048fc47a44e540007745d2b/colorLogoPNG.png" group-title="Brasil: variedades em português",Rede TV - episódios | Pluto TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6048fc47a44e540007745d2b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="6048fc47a44e540007745d2b" tvg-logo="https://images.pluto.tv/channels/6048fc47a44e540007745d2b/colorLogoPNG.png" group-title="A novidade",Rede TV - episódios | Brasil: variedades
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6048fc47a44e540007745d2b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TAAIoOK.png" group-title="Brasil: variedades em português",Rede TVT | Dailymotion Brasil
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/redetvt
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K21P6kb.png" group-title="Brasil: variedades em português",Revry Brasil
@@ -821,8 +839,6 @@ http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8
 https://streaming.portaltvparaense.com.br/rtp_live/tracks-v1a1/mono.m3u8 
 #EXTINF:-1 tvg-id="TVSerraDourada.br" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="Brasil: variedades em português",SBT | TV Serra Dourada - Goiás
 https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalEmpreender.br" tvg-logo="https://i.imgur.com/Lrx8nl8.png" group-title="A novidade",Sebrae - Canal Empreender | Brasil: variedades em português
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/Sebrae/live
 #EXTINF:-1 tvg-id="CanalEmpreender.br" tvg-logo="https://i.imgur.com/Lrx8nl8.png" group-title="Brasil: variedades em português",Sebrae - Canal Empreender | Brasil
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/Sebrae/live
 #EXTINF:-1 tvg-id="SIC.pt" tvg-logo="https://i.imgur.com/xXS3GTp.png" group-title="Brasil: variedades em português",SIC | Portugal
@@ -941,8 +957,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5836fe
 #EXTINF:-1 tvg-id="5fb5836fe745b600070fc743" tvg-logo="http://images.pluto.tv/channels/5fb5836fe745b600070fc743/colorLogoPNG.png" group-title="Casa e decoração em inglês",BBC Home & Garden | Pluto TV EUA - link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5836fe745b600070fc743/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 channel-id="stirr-externallinearfeed-03-06-2019-235515534-03-06-2019" tvg-id="externallinearfeed-03-06-2019-235515534-03-06-2019" tvg-logo="https://i.imgur.com/HMh6lWi.png" group-title="Casa e decoração em inglês",Big Life TV | Stirr
-https://dai.google.com/linear/hls/event/qnfB93O0RVGrVBYwNjk8Zw/master.m3u8
-#EXTINF:-1 channel-id="stirr-externallinearfeed-03-06-2019-235515534-03-06-2019" tvg-id="externallinearfeed-03-06-2019-235515534-03-06-2019" tvg-logo="https://i.imgur.com/HMh6lWi.png" group-title="A novidade",Big Life TV | Casa e decoração em inglês
 https://dai.google.com/linear/hls/event/qnfB93O0RVGrVBYwNjk8Zw/master.m3u8
 #EXTINF:-1 channel-id="stirr-externallinearfeed-03-06-2019-235515534-03-06-2019" tvg-id="externallinearfeed-03-06-2019-235515534-03-06-2019" tvg-logo="https://i.imgur.com/HMh6lWi.png" group-title="Casa e decoração em inglês",Big Life TV | Viva Live TV
 https://biglife.sinclair.wurl.com/manifest/playlist.m3u8
@@ -1205,8 +1219,6 @@ https://lacorriente-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc3
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f77977bd924d80007eee60c/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ttfoaTD.png" group-title="Cinema em espanhol",Must See Movies
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1393
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ttfoaTD.png" group-title="A novidade",Must See Movies | Cinema em espanhol
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1393
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ttfoaTD.png" group-title="Cinema em espanhol",Must See Movies | link 2
 https://917ebd53b511440f9669a926b4ba9153.mediatailor.us-east-1.amazonaws.com/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/npplayout-VivaLive/11a34eba-a706-48c1-a67f-742d647d6af1/0.m3u8
 #EXTINF:-1 tvg-id="5defde6d6c07b50009cf0757" tvg-logo="http://images.pluto.tv/channels/5defde6d6c07b50009cf0757/colorLogoPNG.png" group-title="Cinema em espanhol",Nuestro Cine | Pluto TV Argentina
@@ -1281,8 +1293,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca525b65
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4d86f519358a00072b978e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7R5IVv5.png" group-title="Cinema em inglês",A+ Cinema - legendados em inglês 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1525
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7R5IVv5.png" group-title="A novidade",A+ Cinema | Cinema em inglês 
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1525
 #EXTINF:-1 tvg-id="561d7d484dc7c8770484914a" tvg-logo="http://images.pluto.tv/channels/561d7d484dc7c8770484914a/colorLogoPNG.png" group-title="Cinema em inglês",Action | Pluto TV EUA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/561d7d484dc7c8770484914a/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="5dbfeb961b411c00090b52b3" tvg-logo="https://images.pluto.tv/channels/5dbfeb961b411c00090b52b3/colorLogoPNG.png" group-title="Cinema em inglês",Action | Pluto TV Reino Unido
@@ -1291,15 +1301,11 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dbfeb961
 https://linear-133.frequency.stream/dist/localnow/133/hls/master/playlist.m3u8
 #EXTINF:-1 channel-id="stirr-externallinearfeed-03-24-2022-03-24-2022" tvg-id="externallinearfeed-03-24-2022-03-24-2022" tvg-logo="https://i.imgur.com/epBx99b.png" group-title="Cinema em inglês",Alter | cinema e séries de horror
 https://dai.google.com/linear/hls/event/m8v8NmeOSAGo1rZqjCpdtA/master.m3u8
-#EXTINF:-1 channel-id="stirr-externallinearfeed-03-24-2022-03-24-2022" tvg-id="externallinearfeed-03-24-2022-03-24-2022" tvg-logo="https://i.imgur.com/epBx99b.png" group-title="A novidade",Alter | Cinema em inglês
-https://dai.google.com/linear/hls/event/m8v8NmeOSAGo1rZqjCpdtA/master.m3u8
 #EXTINF:-1 tvg-id="localnow_Always Christmas" tvg-logo="https://i.imgur.com/L52YdsK.png" group-title="Cinema em inglês",Always Christmas | Roku
 http://linear-122.frequency.stream/122/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZJF9J72.png?1" group-title="Cinema em inglês",A-Z Classic Flix
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1708
 #EXTINF:-1 tvg-logo="https://i.imgur.com/41V40tr.png" group-title="Cinema em inglês",ArcTV Africa
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1429
-#EXTINF:-1 tvg-logo="https://i.imgur.com/41V40tr.png" group-title="A novidade",ArcTV Africa | Cinema em inglês
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1429
 #EXTINF:-1 tvg-id="58af4c093a41ca9d4ecabe96" tvg-logo="http://images.pluto.tv/channels/58af4c093a41ca9d4ecabe96/colorLogoPNG.png" group-title="Cinema em inglês",Black Cinema | EUA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/58af4c093a41ca9d4ecabe96/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
@@ -1634,8 +1640,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1040
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0KJLBIY.png" group-title="Cinema em inglês",Urban Action
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1697
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Urdhxv5.png" group-title="Cinema em inglês",Urban Action Showcase Cinema
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1410
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Urdhxv5.png" group-title="A novidade",UASC | Cinema em inglês
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1410
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G7IOBNf.png" group-title="Cinema em inglês",Watch It Scream! | Galxy TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=85
@@ -2030,8 +2034,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed58b2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/611e7811eb9daf000764cbfd/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 ##### documentários em inglês #### documentários em inglês #### documentários em inglês #### documentários em inglês #### documentários em inglês #### documentários em inglês #### documentários em inglês #####
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OB8RaKa.png" group-title="Documentários em inglês",Yebo! | Viva Live TV
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1427
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OB8RaKa.png" group-title="A novidade",Yebo! | Documentários em inglês
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1427
 #EXTINF:-1 tvg-id="5ddf901280e3550009139c86" tvg-logo="https://images.pluto.tv/channels/5ddf901280e3550009139c86/colorLogoPNG.png" group-title="Documentários em inglês",5 Building Britain | Reino Unido
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ddf901280e3550009139c86/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
@@ -3137,8 +3139,6 @@ https://d5d8af44e2824000ad28245f2de6dd04.mediatailor.us-east-1.amazonaws.com/v1/
 https://e97038ca286943df8bf2c4b4b640803d.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LocalNow_TheRedGreenChannel/playlist.m3u8
 #EXTINF:-1 channel-id="stirr-the-tim-conway-show" tvg-id="the-tim-conway-show" tvg-logo="https://i.imgur.com/A4QYbNl.png" group-title="Humor em inglês",The Tim Conway Show | Stirr
 https://dai.google.com/linear/hls/event/v51OvZmXQOizl-KOgpXw1Q/master.m3u8
-#EXTINF:-1 channel-id="stirr-the-tim-conway-show" tvg-id="the-tim-conway-show" tvg-logo="https://i.imgur.com/A4QYbNl.png" group-title="A novidade",The Tim Conway Show | Humor em inglês
-https://dai.google.com/linear/hls/event/v51OvZmXQOizl-KOgpXw1Q/master.m3u8
 #EXTINF:-1 tvg-id="5dae084727c8af0009fe40a4" tvg-logo="http://images.pluto.tv/channels/5dae084727c8af0009fe40a4/colorLogoPNG.png" group-title="Humor em inglês",Tosh.0 | EUA 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dae084727c8af0009fe40a4/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z2a8k2W.png" group-title="Humor em inglês",Twisted Mirror Comedy
@@ -4239,8 +4239,6 @@ https://content.uplynk.com/channel/3e4b9cada2b74cf18977298804134a36.m3u8
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5317bfebff98025b3200ff99/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 channel-id="stirr-soar-11-20-2019-200325249" tvg-id="soar-11-20-2019-200325249" tvg-logo="https://i.imgur.com/wQYHCEq.png" group-title="Música instrumental e som ambiente",SOAR - Sailing Over America | Stirr
 https://dai.google.com/linear/hls/event/_PDxBUttQYqkxPnmh3VOZA/master.m3u8
-#EXTINF:-1 channel-id="stirr-soar-11-20-2019-200325249" tvg-id="soar-11-20-2019-200325249" tvg-logo="https://i.imgur.com/wQYHCEq.png" group-title="A novidade",SOAR | Música instrumental e som ambiente
-https://dai.google.com/linear/hls/event/_PDxBUttQYqkxPnmh3VOZA/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PlOQ6sI.png" group-title="Música instrumental e som ambiente",Sunset Live
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538a5932c837b4939735b/playlist.m3u8
 #EXTINF:-1 tvg-id="dtv_EPGTranquil Thunderstorms" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22801/tranquil-thunderstorms/logo_20200305_210647.png" group-title="Música instrumental e som ambiente",Tranquil Thunderstorms | Distro TV
@@ -4451,10 +4449,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5efbd29e4
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62f54c11b3af68000702c304/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="62f54c6439183b000769fb8f" tvg-logo="http://images.pluto.tv/channels/62f54c6439183b000769fb8f/colorLogoPNG.png" group-title="Maratona de episódios em inglês",CSI New York | Pluto TV EUA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62f54c6439183b000769fb8f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="62f54c11b3af68000702c304" tvg-logo="http://images.pluto.tv/channels/62f54c11b3af68000702c304/colorLogoPNG.png" group-title="A novidade",CSI Miami | Maratona de episódios em inglês
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62f54c11b3af68000702c304/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="62f54c6439183b000769fb8f" tvg-logo="http://images.pluto.tv/channels/62f54c6439183b000769fb8f/colorLogoPNG.png" group-title="A novidade",CSI New York | Maratona de episódios em inglês
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62f54c6439183b000769fb8f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="5f778729ac60bd0007023d07" tvg-logo="http://images.pluto.tv/channels/5f778729ac60bd0007023d07/colorLogoPNG.png" group-title="Maratona de episódios em inglês",CSI 2 | EUA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f778729ac60bd0007023d07/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="5ef3958c66ac540007d6e6a7" tvg-logo="http://images.pluto.tv/channels/5ef3958c66ac540007d6e6a7/colorLogoPNG.png" group-title="Maratona de episódios em inglês",Dark Shadows | EUA
@@ -4502,8 +4496,6 @@ https://99d1e7f275ff4c95aa3f108d03329711.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="5dc2c00abfed110009d97243" tvg-logo="https://images.pluto.tv/channels/5dc2c00abfed110009d97243/colorLogoPNG.png" group-title="Maratona de episódios em inglês",Sherlock | Pluto TV Reino Unido
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dc2c00abfed110009d97243/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 channel-id="stirr-space-1999-11-21-2019" tvg-id="space-1999-11-21-2019" tvg-logo="https://i.imgur.com/UZHDUGO.png" group-title="Maratona de episódios em inglês",Space 1999 | Stirr
-https://dai.google.com/linear/hls/event/NeKNJHuzSeCiN_7Fcuo83Q/master.m3u8
-#EXTINF:-1 channel-id="stirr-space-1999-11-21-2019" tvg-id="space-1999-11-21-2019" tvg-logo="https://i.imgur.com/UZHDUGO.png" group-title="A novidade",Space 1999 | Maratona de episódios em inglês
 https://dai.google.com/linear/hls/event/NeKNJHuzSeCiN_7Fcuo83Q/master.m3u8
 #EXTINF:-1 tvg-id="5efbd39f8c4ce900075d7698" tvg-logo="http://images.pluto.tv/channels/5efbd39f8c4ce900075d7698/colorLogoPNG.png" group-title="Maratona de episódios em inglês",Star Trek | EUA 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5efbd39f8c4ce900075d7698/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
@@ -4930,8 +4922,6 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/Vatic
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1041
 #EXTINF:-1 tvg-id="5bdce04659ee03633e758130" tvg-logo="http://images.pluto.tv/channels/5bdce04659ee03633e758130/colorLogoPNG.png" group-title="Notícias em inglês",Weather Nation | EUA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5bdce04659ee03633e758130/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MAbZMQC.png" group-title="A novidade",Wion TV | Notícias em inglês
-https://d1tdkdc0esjoxj.cloudfront.net/out/v1/f2054baeb8e94043bfc9c8cca2a0013d/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MAbZMQC.png" group-title="Notícias em inglês",Wion TV | Índia
 https://d1tdkdc0esjoxj.cloudfront.net/out/v1/f2054baeb8e94043bfc9c8cca2a0013d/index.m3u8
 #EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5bdce04659ee03633e758130/colorLogoPNG.png" group-title="Notícias em inglês",Yahoo! News
@@ -5429,8 +5419,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61325566b
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6099600015e88c0007ecda25/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="60d393e5579a420007ee553c" tvg-logo="http://images.pluto.tv/channels/60d393e5579a420007ee553c/colorLogoPNG.png" group-title="Reality e game shows em espanhol",Casos de la Dra. Polo | Pluto TV EUA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60d393e5579a420007ee553c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="60d393e5579a420007ee553c" tvg-logo="http://images.pluto.tv/channels/60d393e5579a420007ee553c/colorLogoPNG.png" group-title="A novidade",Casos de la Dra. Polo | Reality e game shows em espanhol
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60d393e5579a420007ee553c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="6109a9f5531b840007a4a187" tvg-logo="https://images.pluto.tv/channels/6109a9f5531b840007a4a187/colorLogoPNG.png" group-title="Reality e game shows em espanhol",Cazador de Homicidas | Pluto TV Argentina
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6109a9f5531b840007a4a187/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="60ed5fb9c4716d0007d180c5" tvg-logo="https://images.pluto.tv/channels/60ed5fb9c4716d0007d180c5/colorLogoPNG.png" group-title="Reality e game shows em espanhol",Cazador de Homicidas | Pluto TV Espanha
@@ -5685,8 +5673,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2192
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8beeb39b5d5d5f8c672530/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 channel-id="stirr-externallinearfeed-03-13-2020-03-13-2020" tvg-id="externallinearfeed-03-13-2020-03-13-2020" tvg-logo="https://i.imgur.com/YAHdppR.png" group-title="Reality shows em inglês",LiveXLive | Stirr
 https://dai.google.com/linear/hls/event/xC8SDBfbTKCTCa20kFJQXQ/master.m3u8
-#EXTINF:-1 channel-id="stirr-externallinearfeed-03-13-2020-03-13-2020" tvg-id="externallinearfeed-03-13-2020-03-13-2020" tvg-logo="https://i.imgur.com/YAHdppR.png" group-title="A novidade",LiveXLive | Reality shows em inglês
-https://dai.google.com/linear/hls/event/xC8SDBfbTKCTCa20kFJQXQ/master.m3u8
 #EXTINF:-1 tvg-id="620f6f9e36a49b000761f0d5" tvg-logo="http://images.pluto.tv/channels/620f6f9e36a49b000761f0d5/colorLogoPNG.png" group-title="Reality shows em inglês",Location, location, location | Pluto TV Reino Unido 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/620f6f9e36a49b000761f0d5/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="5ce5a8954311f992edbe1da2" tvg-logo="http://images.pluto.tv/channels/5ce5a8954311f992edbe1da2/colorLogoPNG.png" group-title="Reality shows em inglês",Logo | Pluto TV EUA
@@ -5924,8 +5910,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8a02476
 #EXTINF:-1 tvg-id="5c5e03cefe80153c33969f30" tvg-logo="http://images.pluto.tv/channels/5c5e03cefe80153c33969f30/colorLogoPNG.png" group-title="Televendas em inglês",Inside Vizio | EUA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c5e03cefe80153c33969f30/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 channel-id="stirr-externallinearfeed-08-27-2021-08-27-2021" tvg-id="externallinearfeed-08-27-2021-08-27-2021" tvg-logo="https://i.imgur.com/qCyJ2vV.png" group-title="Televendas em inglês",ONTV4U | Stirr
-https://dai.google.com/linear/hls/event/571lW-W1Th6Go5EV3Qa19Q/master.m3u8
-#EXTINF:-1 channel-id="stirr-externallinearfeed-08-27-2021-08-27-2021" tvg-id="externallinearfeed-08-27-2021-08-27-2021" tvg-logo="https://i.imgur.com/qCyJ2vV.png" group-title="A novidade",ONTV4U | Televendas em inglês
 https://dai.google.com/linear/hls/event/571lW-W1Th6Go5EV3Qa19Q/master.m3u8
 #EXTINF:-1 tvg-id="USAK3508723A" tvg-logo="http://images.pluto.tv/channels/5bdcdf1e851dd5632e2c11d1/colorLogoPNG.png" group-title="Televendas em inglês",QVC | EUA - Samsung
 https://qvc.samsung.wurl.com/manifest/playlist.m3u8
@@ -6623,8 +6607,6 @@ https://ion-plus.samsung.wurl.com/manifest/playlist.m3u8
 https://ion-ion-plus-1-us.xumo.wurl.tv/playlist.m3u8?l1br3&date0502&ScXumo&epgSSg&catUSAFreeTV
 #EXTINF:-1 channel-id="stirr-its-showtime-at-the-apollo" tvg-id="its-showtime-at-the-apollo" tvg-logo="https://i.imgur.com/eUQkQ9R.png" group-title="Variedades em inglês",It's Showtime at the Apollo | Stirr
 https://dai.google.com/linear/hls/event/fAFfTnCAT2K8d83sYsA-cw/master.m3u8
-#EXTINF:-1 channel-id="stirr-its-showtime-at-the-apollo" tvg-id="its-showtime-at-the-apollo" tvg-logo="https://i.imgur.com/eUQkQ9R.png" group-title="A novidade",It's Showtime at the Apollo | Variedades em inglês
-https://dai.google.com/linear/hls/event/fAFfTnCAT2K8d83sYsA-cw/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Vz3sDxw.png" group-title="Variedades em inglês",Lex 18 | Kentucky - EUA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1151
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LfQzLJi.png" group-title="Variedades em inglês",Lifestyle
@@ -6733,8 +6715,6 @@ https://sparktv-samsunguk.amagi.tv/playlist.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1423
 #EXTINF:-1 channel-id="stirr-dco" tvg-id="dco" tvg-logo="https://i.imgur.com/IECGvbY.png" group-title="Variedades em inglês",STIRR 
 https://dai.google.com/linear/hls/event/4aD5IJf0QgKUJwPbq2fngg/master.m3u8
-#EXTINF:-1 channel-id="stirr-dco" tvg-id="dco" tvg-logo="https://i.imgur.com/IECGvbY.png" group-title="A novidade",STIRR | Variedades em inglês
-https://dai.google.com/linear/hls/event/4aD5IJf0QgKUJwPbq2fngg/master.m3u8
 ## COMEÇAM CANAIS STIRR CITY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6o9puBw.png" group-title="Variedades em inglês",Stirr City - California: Bakersfield
 https://dai.google.com/linear/hls/event/-4GLQIcZTUWzP8vDAXNQsQ/master.m3u8
@@ -6761,6 +6741,8 @@ https://dai.google.com/linear/hls/event/PPMxI7GZSRG6Kgkp2gSF1g/master.m3u8
 https://linear-165.frequency.stream/dist/localnow/165/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bqm7gEc.png" group-title="Variedades em inglês",Teen Africa TV | Nigéria
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1537
+#EXTINF:-1 tvg-id="62e013a824f1bd0007a55631" tvg-logo="https://images.pluto.tv/channels/62e013a824f1bd0007a55631/colorLogoPNG.png" group-title="Variedades em inglês",The Ed Sullivan Show | Pluto TV Brasil
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62e013a824f1bd0007a55631/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="62a8e433fbf5460007698214" tvg-logo="https://images.pluto.tv/channels/62a8e433fbf5460007698214/colorLogoPNG.png" group-title="Variedades em inglês",The Ed Sullivan Show | Pluto TV EUA
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62a8e433fbf5460007698214/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cyyQzYh.png" group-title="Variedades em inglês",The Grapevine | EUA
