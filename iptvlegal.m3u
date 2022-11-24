@@ -287,6 +287,10 @@ https://cdn.cdnseguro.com/altraltv/altraltv/playlist.m3u8
 https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
 #EXTINF:-1 tvg-id="Canal11.pt" tvg-logo="https://i.imgur.com/n8O1sgs.png" group-title="Brasil: esportes - lifestyle - realities",Canal 11 - futebol | Portugal
 https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index.m3u8
+#EXTINF:-1 tvg-id="CazeTV.br" tvg-logo="https://i.imgur.com/m2OuD7o.png" group-title="Brasil: esportes - lifestyle - realities",Cazé TV - Twitch | Brasil
+https://monchyxd.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/casimito
+#EXTINF:-1 tvg-id="CazeTV.br" tvg-logo="https://i.imgur.com/m2OuD7o.png" group-title="Brasil: esportes - lifestyle - realities",Cazé TV - YouTube | Brasil
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/cazetv/live
 #EXTINF:-1 tvg-id="CGhost.br" tvg-country="BR" tvg-logo="https://i.imgur.com/sUK7lI0.png" group-title="Brasil: esportes - lifestyle - realities",C-Ghost | Brasil
 https://stmv.video.expressolider.com.br/ghostv/ghostv/playlist.m3u8
 #EXTINF:-1 tvg-id="5f32d2db0af67400077f29c4" tvg-logo="https://images.pluto.tv/channels/5f32d2db0af67400077f29c4/colorLogoPNG.png" group-title="Brasil: esportes - lifestyle - realities",Esportes | Pluto TV Brasil
@@ -683,16 +687,12 @@ https://cdn.jmvstream.com/w/LVW-8711/ngrp:LVW8711_tG0F3TEBDL_all/playlist.m3u8
 https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
 #EXTINF:-1 tvg-id="Cbn.br" tvg-logo="https://m.cbn.globoradio.globo.com/estaticos/img/CBN_1024x1024.png" group-title="Brasil: notícias em português",CBN SP | Brasil
 https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
-
 #EXTINF:-1 tvg-id="CNNBrasil.br" tvg-logo="https://i.imgur.com/5AK7gLc.png" group-title="Brasil: notícias em português",CNN Brasil | Soul TV
 http://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
-
 #EXTINF:-1 tvg-id="CNNBrasil.br" tvg-logo="https://i.imgur.com/5AK7gLc.png" group-title="Brasil: notícias em português",CNN Brasil - link 1 | YouTube
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/CNNbrasil/live
-
 #EXTINF:-1 tvg-id="CNNBrasil.br" tvg-logo="https://i.imgur.com/5AK7gLc.png" group-title="Brasil: notícias em português",CNN Brasil - link 2 | YouTube
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/@CNNbrasil
-
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6245cd154f27f4e9c76d67e9" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ec2b06ac-61e3-4707-a17b-562d69044a5c/euronews_portuguese_logo.png" group-title="Brasil: notícias em português",Euronews em português
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2575
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6245cd154f27f4e9c76d67e9" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ec2b06ac-61e3-4707-a17b-562d69044a5c/euronews_portuguese_logo.png" group-title="Brasil: notícias em português",Euronews em português | Plex
@@ -949,11 +949,12 @@ http://flash1.crossdigital.com.br:1935/2063/2063/live.m3u8
 https://596639ebdd89b.streamlock.net/tvuniao/tvuniao/playlist.m3u8
 #EXTINF:-1 tvg-id="TVVerdesCampos.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/1pxpVjh.png" group-title="Brasil: variedades em português",TV Verdes Campos | PI Brasil
 https://596639ebdd89b.streamlock.net/8124/8124/playlist.m3u8
+#EXTINF:-1 tvg-id="TVVerdesCampos.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/1pxpVjh.png" group-title="Brasil: variedades em português",TV Verdes Campos Sat - YouTube | Brasil
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/@TVVerdesCamposSat/live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CP37H9k.png" group-title="Brasil: variedades em português",TV Votorantim | SP Brasil
 https://alanza.iptv2022.com/TV_VOTORANTIM/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cse41jq.png" group-title="Brasil: variedades em português",Vila TV
 https://alanza.iptv2022.com/VILA_TV/tracks-v1a1/mono.m3u8
-
 #### Caça; pesca e rodeio em inglês ####### Caça; pesca e rodeio em inglês ####### Caça; pesca e rodeio em inglês ####### Caça; pesca e rodeio em inglês ####### Caça; pesca e rodeio em inglês ####### Caça; pesca e rodeio em inglês ####
 #EXTINF:-1 tvg-id="TheCowboyChannel.us" tvg-logo="https://i.imgur.com/Bsln8wI.png" group-title="Caça; pesca e rodeio em inglês",Cowboy Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1054
