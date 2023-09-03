@@ -489,6 +489,11 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62545c0b0
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/646663b01593940008990a57/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="646663b01593940008990a57" tvg-logo="http://images.pluto.tv/channels/646663b01593940008990a57/colorLogoPNG.png" group-title="Brasil: infanto-juvenis",Captain Tsubasa - Super Campeões - link 2 | Pluto TV Brasil
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/646663b01593940008990a57/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+<<<<<<< HEAD
+=======
+#EXTINF:-1 tvg-id="646663b01593940008990a57" tvg-logo="http://images.pluto.tv/channels/646663b01593940008990a57/colorLogoPNG.png" group-title="A novidade",Captain Tsubasa - Super Campeões | Brasil: infanto-juvenis
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/646663b01593940008990a57/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+>>>>>>> fb6d09518f27e2a632b6bf73051e3230b028937d
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WklXZlV.png" group-title="Brasil: infanto-juvenis",Clubinho Fun | Brasil
 http://45.165.178.82:8000/play/a011/index.m3u8
 #EXTINF:-1 tvg-id="62d969fd8451a30007f0fd94" tvg-logo="https://images.pluto.tv/channels/62d969fd8451a30007f0fd94/colorLogoPNG.png" group-title="Brasil: infanto-juvenis",Cocoricó | Pluto TV Brasil
@@ -5398,7 +5403,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60b9dc995
 https://promosrl-donnatv-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="60a2837f8154ab0007c4dcdf" tvg-logo="https://images.pluto.tv/channels/60a2837f8154ab0007c4dcdf/colorLogoPNG.png" group-title="Novelas e séries em italiano",Le sorelle McLeod | Pluto TV Itália
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60a2837f8154ab0007c4dcdf/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="60802c209a26320007c92ad5" tvg-logo="https://images.pluto.tv/channels/60802c209a26320007c92ad5/colorLogoPNG.png" group-title="Novelas e plutséries em italiano",Mutant X | Pluto TV Itália
+#EXTINF:-1 tvg-id="60802c209a26320007c92ad5" tvg-logo="https://images.pluto.tv/channels/60802c209a26320007c92ad5/colorLogoPNG.png" group-title="Novelas e séries em italiano",Mutant X | Pluto TV Itália
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60802c209a26320007c92ad5/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="60b9ff2722bfa400072676ef" tvg-logo="https://images.pluto.tv/channels/60b9ff2722bfa400072676ef/colorLogoPNG.png" group-title="Novelas e séries em italiano",Serie | Pluto TV Itália
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60b9ff2722bfa400072676ef/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
