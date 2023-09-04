@@ -91,6 +91,10 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171d344
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171d3442a0500007362f22/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qpPZJWy.png" group-title="Brasil: cinema em português",Fronteira Movies
 https://srv4.zcast.com.br/fronteiramovies/fronteiramovies/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DF6CIfC.png" group-title="Brasil: cinema em português",MovieSphere | Brasil
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-runtimelatam/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DF6CIfC.png" group-title="A novidade",MovieSphere | Brasil: cinema
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-runtimelatam/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Fvg43uJ.png" group-title="Brasil: cinema em português",MyTime Movie Network | Brasil
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K21P6kb.png" group-title="Brasil: cinema em português",Revry Brasil
@@ -106,6 +110,10 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4865
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Brasil: cinema em português",RunTime Crime | Brasil
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Brasil: cinema em português",RunTime Família | Brasil
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="A novidade",RunTime Família | Brasil: cinema
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Brasil: cinema em português",RunTime Romance | Brasil
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
 #EXTINF:-1 tvg-id="62c5d32e2c48f9000715b6e9" tvg-logo="https://images.pluto.tv/channels/62c5d32e2c48f9000715b6e9/colorLogoPNG.png" group-title="Brasil: cinema em português",RunTime TV e Filmes | Pluto TV Brasil
@@ -756,11 +764,11 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61dc56caa
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb9dc84e83e70008abea92/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="63eb9dc84e83e70008abea92" tvg-logo="https://images.pluto.tv/channels/63eb9dc84e83e70008abea92/colorLogoPNG.png" group-title="Brasil: maratona de ficção",MacGyver | Pluto TV Brasil - link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb9dc84e83e70008abea92/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="64877764dc7a760008a12799" tvg-logo="https://images.pluto.tv/channels/64877764dc7a760008a12799/colorLogoPNG.png" group-title="Brasil: humor - novelas - séries",Mad About You | Pluto TV Brasil
+#EXTINF:-1 tvg-id="64877764dc7a760008a12799" tvg-logo="https://images.pluto.tv/channels/64877764dc7a760008a12799/colorLogoPNG.png" group-title="Brasil: maratona de ficção",Mad About You | Pluto TV Brasil
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64877764dc7a760008a12799/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="64877764dc7a760008a12799" tvg-logo="https://images.pluto.tv/channels/64877764dc7a760008a12799/colorLogoPNG.png" group-title="Brasil: humor - novelas - séries",Mad About You | Pluto TV Brasil - link 2
+#EXTINF:-1 tvg-id="64877764dc7a760008a12799" tvg-logo="https://images.pluto.tv/channels/64877764dc7a760008a12799/colorLogoPNG.png" group-title="Brasil: maratona de ficção",Mad About You | Pluto TV Brasil - link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64877764dc7a760008a12799/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="64877764dc7a760008a12799" tvg-logo="https://images.pluto.tv/channels/64877764dc7a760008a12799/colorLogoPNG.png" group-title="A novidade",Mad About You | Brasil: humor - novelas - séries
+#EXTINF:-1 tvg-id="64877764dc7a760008a12799" tvg-logo="https://images.pluto.tv/channels/64877764dc7a760008a12799/colorLogoPNG.png" group-title="A novidade",Mad About You | Brasil:  maratona de ficção
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64877764dc7a760008a12799/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="63eb9fdda995710008991c54" tvg-logo="https://images.pluto.tv/channels/63eb9fdda995710008991c54/colorLogoPNG.png" group-title="Brasil: maratona de ficção",NCIS | Pluto TV Brasil
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb9fdda995710008991c54/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
@@ -833,6 +841,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/619e6614c
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6102e04e9ab1db0007a980a1livestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="6102e04e9ab1db0007a980a1" tvg-logo="https://i.imgur.com/iC5UoAN.png" group-title="Brasil: notícias em português",Record News | link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6102e04e9ab1db0007a980a1livestitch/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="6102e04e9ab1db0007a980a1" tvg-logo="https://i.imgur.com/iC5UoAN.png" group-title="Brasil: notícias em português",Record News | RunTime Brasil
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5431
 #EXTINF:-1 tvg-id="RecordNews.br" tvg-logo="https://i.imgur.com/iVlD2qP.png" group-title="Brasil: notícias em português",Record News - Rede Sim | Espírito Santo
 https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
 #EXTINF:-1 tvg-id="RTP3.pt" tvg-logo="https://i.imgur.com/MXV6Wl5.png" group-title="Brasil: notícias em português",RTP 3 | Portugal
