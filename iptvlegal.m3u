@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Plex/all.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/all.xml"
+#EXTM3U x-tvg-url="https://www.bevy.be/bevyfiles/brazil.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Plex/all.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/all.xml"
 ## 📺 TV Meu Tédio
 ## 👩🏽‍💻 Editora: Helen Fernanda - Brasília - Brasil 🇧🇷
 ## 🔗 Dicas de EPG e apps: www.meutedio.com.br/iptv
@@ -123,6 +123,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62c5d32e2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QapVmCb.png" group-title="Brasil: cinema em português",Soul Cine Clube | Brasil 
 https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
 #### Brasil: cristianismo em português ######## Brasil: cristianismo em português ######## Brasil: cristianismo em português ######## Brasil: cristianismo em português ######## Brasil: cristianismo em português ######## Brasil: cristianismo em português ######## Brasil: cristianismo em português ######## Brasil: cristianismo em português ####
+#EXTINF:-1 tvg-id="TVCancaoNova.br" tvg-logo="https://i.imgur.com/wacTreN.png" group-title="Brasil: cristianismo em português",Canção Nova - YouTube | Brasil
+https://ythls.onrender.com/channel/UCVrKQMmA2ew9LFzeIDaOFgw.m3u8
 #EXTINF:-1 tvg-id="TVCancaoNovaPortugal.pt" tvg-logo="https://i.imgur.com/wacTreN.png" group-title="Brasil: cristianismo em português",Canção Nova | Portugal
 https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova/master.m3u8
 #EXTINF:-1 tvg-id="RedeCNTRiodeJaneiro.br" tvg-logo="https://i.imgur.com/ySQnKtP.png" group-title="Brasil: cristianismo em português",CNT Cuiabá | Brasil
@@ -260,6 +262,10 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62cd9e5a5
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6298bd10d88ef000073f16b7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="6298bd10d88ef000073f16b7" tvg-logo="https://images.pluto.tv/channels/6298bd10d88ef000073f16b7/colorLogoPNG.png" group-title="Brasil: educativos e documentários",Smithsonian Channel - link 2 | Pluto TV Brasil
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6298bd10d88ef000073f16b7/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="SpaceTodayTV.br" tvg-logo="https://yt3.googleusercontent.com/WAZB0H8e-u5ypkyl_lol08jLETezqqNbtIaafgp7O5m_WtpSb8OVXqmNO0_GW2Q8UFXdXB2E1w=s400-c-k-c0x00ffffff-no-rj" group-title="Brasil: educativos e documentários",Space Today TV | Brasil 
+https://service.webvideocore.net/CL1olYogIrDWvwqiIKK7eHbBxDyYany25g-L4QOVH5_l5daXY9tfEZPDJS0YHgpW/a_50acwl5q0f0g.m3u8
+#EXTINF:-1 tvg-id="SpaceTodayTV.br" tvg-logo="https://yt3.googleusercontent.com/WAZB0H8e-u5ypkyl_lol08jLETezqqNbtIaafgp7O5m_WtpSb8OVXqmNO0_GW2Q8UFXdXB2E1w=s400-c-k-c0x00ffffff-no-rj" group-title="Brasil: educativos e documentários",Space Today YouTube - não é 24h | Brasil
+https://ythls.onrender.com/channel/UC_Fk7hHbl7vv_7K8tYqJd5A.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QwPiPlI.png" group-title="Brasil: educativos e documentários",Rakuten Documentários | português e inglês
 https://rakuten-documentaries-14-pt.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RedeMinas.br" tvg-logo="https://pbs.twimg.com/profile_images/1151111400615550976/MQW6Uj8p.png" group-title="Brasil: educativos e documentários",Rede Minas | Brasil
@@ -286,8 +292,8 @@ http://wowza.softhost.com.br:1935/ufg/smil:tvufgweb/playlist.m3u8
 http://flash.softhost.com.br:1935/ufg/tvufgweb/playlist.m3u8
 #EXTINF:-1 tvg-id="TVUniSantos.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/qYlBrxw.png" group-title="Brasil: educativos e documentários",TV Brasil | TV UniSantos
 http://live.cdn.upx.com/7550/myStream.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="TVCulturaNacional.br" tvg-logo="https://i.imgur.com/r18rHyH.png" group-title="Brasil: educativos e documentários",TV Cultura | Brasil
-https://d28367vmhj4ljz.cloudfront.net/out/v1/f26e176ce67244de862cd9b21d823934/index.m3u8
+#EXTINF:-1 tvg-id="TVCulturaNacional.br" tvg-logo="https://i.imgur.com/zmheeSl.png" group-title="Brasil: educativos e documentários",TV Cultura | São Paulo
+https://d1pin3134ri4ue.cloudfront.net/out/v1/7d782712e13148bf966beda0ac08bbe2/index.mpd
 #EXTINF:-1 tvg-id="TVCulturaNacional.br" tvg-logo="https://i.imgur.com/r18rHyH.png" group-title="Brasil: educativos e documentários",TV Cultura | Catve - PR
 http://wowza4.catve.com.br:1935/live/livestream/media.m3u8
 #EXTINF:-1 tvg-id="TVCulturaNacional.br" tvg-logo="https://i.imgur.com/r18rHyH.png" group-title="Brasil: educativos e documentários",TV Cultura | Catve - PR 2
@@ -296,14 +302,14 @@ https://5b33b873179a2.streamlock.net:1443/live/livestream/index.m3u8
 https://streaming03.zas.media:1936/tvfuturo/tvfuturo/chunklist.m3u8
 #EXTINF:-1 tvg-id="TVCulturaNacional.br" tvg-logo="https://i.imgur.com/zmheeSl.png" group-title="Brasil: educativos e documentários",TV Cultura | TV Guará - MA
 https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/chunklist.m3u8
-#EXTINF:-1 tvg-id="TVCulturaNacional.br" tvg-logo="https://i.imgur.com/zmheeSl.png" group-title="Brasil: educativos e documentários",TV Cultura - Jornalismo - não é 24h | São Paulo 
+#EXTINF:-1 tvg-id="TVCulturaNacional.br" tvg-logo="https://i.imgur.com/zmheeSl.png" group-title="Brasil: educativos e documentários",TV Cultura - YouTube - não é 24h | São Paulo 
 https://ythls.onrender.com/channel/UCjOJvvYe6tyEHY21OD33h8A.m3u8
+#EXTINF:-1 tvg-id="TVCulturaNacional.br" tvg-logo="https://i.imgur.com/zmheeSl.png" group-title="Brasil: educativos e documentários",TV Cultura - Jornalismo - não é 24h | São Paulo 
+https://ythls.onrender.com/channel/UCXdXYG8dUmEv6jhEji_lSHg.m3u8
 #EXTINF:-1 tvg-id="TVCulturaNacional.br" tvg-logo="https://i.imgur.com/zmheeSl.png" group-title="Brasil: educativos e documentários",TV Cultura - Provoca - não é 24h | São Paulo 
 https://ythls.onrender.com/channel/UCKdVW7Np-9l3CM5daYcGEAw.m3u8
 #EXTINF:-1 tvg-id="TVCulturaNacional.br" tvg-logo="https://i.imgur.com/zmheeSl.png" group-title="Brasil: educativos e documentários",TV Cultura - Roda Viva - não é 24h | São Paulo 
 https://ythls.onrender.com/channel/UCNVsZnDXOM4PodYIEgM2e4w.m3u8
-#EXTINF:-1 tvg-id="TVCulturaNacional.br" tvg-logo="https://i.imgur.com/zmheeSl.png" group-title="Brasil: educativos e documentários",TV Cultura - Jornalismo - não é 24h | São Paulo 
-https://ythls.onrender.com/channel/UCXdXYG8dUmEv6jhEji_lSHg.m3u8
 #EXTINF:-1 tvg-id="62e010e6cd663f0007e57dc8" tvg-logo="https://images.pluto.tv/channels/62e010e6cd663f0007e57dc8/colorLogoPNG.png" group-title="Brasil: educativos e documentários",TV Cultura - episódios | Pluto TV Brasil
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62e010e6cd663f0007e57dc8/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvfaap.png" group-title="Brasil: educativos e documentários",TV Faap | Brasil
@@ -860,6 +866,12 @@ https://bloomberg-bloomberg-3-br.samsung.wurl.com/manifest/playlist.m3u8
 https://ythls.onrender.com/channel/UCoja0MNI4SIvXqJR3szbSfw.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SmbDprb.png" group-title="Brasil: notícias em português",Câmara São Paulo | Brasil
 https://cdn.jmvstream.com/w/LVW-8711/ngrp:LVW8711_tG0F3TEBDL_all/playlist.m3u8
+#EXTINF:-1 tvg-id="64b9370b409629000802d32b" tvg-logo="https://images.pluto.tv/channels/64b9370b409629000802d32b/colorLogoPNG.png" group-title="Brasil: variedades em português",Canal UOL | Pluto TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64b9370b409629000802d32b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="64b9370b409629000802d32b" tvg-logo="https://images.pluto.tv/channels/64b9370b409629000802d32b/colorLogoPNG.png" group-title="Brasil: variedades em português",Canal UOL | Pluto TV Brasil - link 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64b9370b409629000802d32b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="64b9370b409629000802d32b" tvg-logo="https://images.pluto.tv/channels/64b9370b409629000802d32b/colorLogoPNG.png" group-title="A novidade",Canal UOL | Brasil: variedades em português
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64b9370b409629000802d32b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="Cbn.br" tvg-logo="https://m.cbn.globoradio.globo.com/estaticos/img/CBN_1024x1024.png" group-title="Brasil: notícias em português",CBN RJ | Brasil
 https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
 #EXTINF:-1 tvg-id="Cbn.br" tvg-logo="https://m.cbn.globoradio.globo.com/estaticos/img/CBN_1024x1024.png" group-title="Brasil: notícias em português",CBN SP | Brasil
@@ -888,6 +900,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6102e04e9
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6102e04e9ab1db0007a980a1livestitch/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="6102e04e9ab1db0007a980a1" tvg-logo="https://i.imgur.com/iC5UoAN.png" group-title="Brasil: notícias em português",Record News | RunTime Brasil
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5431
+#EXTINF:-1 tvg-id="RecordNews.br" tvg-logo="https://i.imgur.com/iC5UoAN.png" group-title="Brasil: notícias em português",Record News - YouTube | Brasil
+https://ythls.onrender.com/channel/UCuiLR4p6wQ3xLEm15pEn1Xw.m3u8
 #EXTINF:-1 tvg-id="RecordNews.br" tvg-logo="https://i.imgur.com/iVlD2qP.png" group-title="Brasil: notícias em português",Record News - Rede Sim | Espírito Santo
 https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaQlmrXK5zioRCKwbPT6w01brlaZOuzJDXEq3QnSRA=s800-c-k-c0x00ffffff-no-rj" group-title="Brasil: notícias em português",Rede TVT - não é 24h | YouTube
@@ -912,6 +926,8 @@ https://stream3.camara.gov.br/tv2/manifest.m3u8
 https://ythls.onrender.com/channel/UC0qlZ5jxxueKNzUERcrllNw.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zejxG2A.png" group-title="Brasil: notícias em português",UOL - não é 24h | YouTube
 https://ythls.onrender.com/channel/UCVFbXI6Gu8U2f9Gjtxw4A-Q.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaR4UsnlNEkxYTiJCSNhR-95u89KYa_lv3ANM18O7A=s400-c-k-c0x00ffffff-no-rj" group-title="Brasil: notícias em português",Veja.com - não é 24h | YouTube
+https://ythls.onrender.com/channel/UCV6Ue4o5UIeKQ3IEkjnXRlg.m3u8
 ################### Brasil: rádios em português #######################
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sxkjkAn.png" group-title="Brasil: rádios em português",98 FM | BH MG
 https://radio98fm-lh.akamaihd.net/i/pp_1@359238/master.m3u8
@@ -970,22 +986,16 @@ https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8
 https://stmv1.srvstm.com/victor7513/victor7513/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PyCpEI8.png" group-title="Brasil: variedades em português",Agrobrasil TV
 http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
-#EXTINF:-1 tvg-id="BandSP.br" tvg-logo="https://i.imgur.com/b92nQTD.png" group-title="Brasil: variedades em português",Band | Brasil
-https://spalla-babbage.akamaized.net/live/0187f2ed-02d2-7d04-8f99-bf8a0a59e749/s1/playlist-1080p.m3u8
 #EXTINF:-1 tvg-id="RBATV.br" tvg-logo="https://i.imgur.com/b92nQTD.png" group-title="Brasil: variedades em português",Band | RBA TV - PA - Brasil
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
-#EXTINF:-1 tvg-id="BCCTV.br" tvg-logo="https://i.imgur.com/6M73DBe.png" group-title="Brasil: variedades em português",BCC TV | Brasil
-https://video01.kshost.com.br/bccinternational523/bccinternational523/playlist.m3u8
-#EXTINF:-1 tvg-id="BRSuperTV.br" tvg-logo="https://i.imgur.com/yhPMFEr.png" group-title="Brasil: variedades em português",BR Super TV | Brasil
-http://177.137.208.46:9080/hls/brsupertv.m3u8
 #EXTINF:-1 tvg-id="BRSuperTV.br" tvg-logo="https://i.imgur.com/yhPMFEr.png" group-title="Brasil: variedades em português",BR Super TV | Soul TV Brasil
-http://tv.brsuper.com.br:9080/hls/brsupertv.m3u8
+http://brsupertv.brsuper.com.br:9080/hls/brsupertv.m3u8
 #EXTINF:-1 tvg-id="CanalPlural.br" tvg-logo="https://i.imgur.com/sFG3dSr.png" group-title="Brasil: variedades em português",Canal Plural - São José dos Campos - SP
 https://stmv2.samcast.com.br/osc6197/osc6197/playlist_w1376166006.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Cj6kg2X.png" group-title="Brasil: variedades em português",CBTV Now
 https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
-#EXTINF:-1 tvg-id="combrasil.br" tvg-logo="https://combrasiltv.com.br/wp-content/uploads/2020/02/logo_site.png" group-title="Brasil: variedades em português",Com Brasil
-https://596639ebdd89b.streamlock.net/8032/8032/chunklist.m3u8
+#EXTINF:-1 tvg-id="combrasil.br" tvg-logo="https://combrasiltv.com.br/wp-content/uploads/2022/07/Logo-COMBR.png" group-title="Brasil: variedades em português",Com Brasil
+https://br5093.streamingdevideo.com.br/abc/abc/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RQZEcbT.png" group-title="Brasil: variedades em português",CTV | Brasil 
 https://5d2c98775bafe.streamlock.net/8020/8020/playlist.m3u8
 #EXTINF:-1 tvg-id="demaistv.br" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5a0ca2ab1c68adcde7bf577af87071b8.jpg" group-title="Brasil: variedades em português",D+ TV | Brasil
@@ -996,16 +1006,10 @@ https://demandafrica-por-samsungbr.amagi.tv/playlist.m3u8
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fa97a8a75cc210007c9041d/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="ISTV.br" tvg-logo="https://i.imgur.com/ZcHrNoa.png" group-title="Brasil: variedades em português",ISTV | Soul TV Brasil
 https://cdn.jmvstream.com/w/LVW-11215/LVW11215_D0pTqTBcCE/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NoZ1YpZ.png" group-title="Brasil: variedades em português",ITV | Itu SP Brasil
-http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8
-#EXTINF:-1 tvg-id="602e80c762306a0007179876" tvg-logo="https://images.pluto.tv/channels/602e80c762306a0007179876/colorLogoPNG.png" group-title="Brasil: variedades em português",Jovem Pan | Pluto TV Brasil
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/602e80c762306a0007179876/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="602e80c762306a0007179876" tvg-logo="https://images.pluto.tv/channels/602e80c762306a0007179876/colorLogoPNG.png" group-title="Brasil: variedades em português",Jovem Pan | link 2 
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/602e80c762306a0007179876/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Emaofdr.png" group-title="Brasil: variedades em português",Lass TV 2
-https://alanza.iptv2022.com/LASS_TV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CrqC9Qh.png" group-title="Brasil: variedades em português",Mais Favela TV
-https://d8nlqpvobfd9y.cloudfront.net/index/1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Emaofdr.png" group-title="Brasil: variedades em português",Lass TV
+https://tv02.zas.media:1936/lasstv/lasstv/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CrqC9Qh.png" group-title="Brasil: variedades em português",Mais Favela TV - não é 24h | Brasil
+https://ythls.onrender.com/channel/UCkgOz-my1nu6G4hKKZTf-UA.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u6DuMQk.png" group-title="Brasil: variedades em português",NGT SP
 https://isaocorp.cloudecast.com/ngt/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="NovaEraTV.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/IK3F9Uq.png" group-title="Brasil: variedades em português",Nova Era TV | Lages SC Brasil
@@ -2527,6 +2531,12 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60e5ea9a9
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e98b0447665f200078caded/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X7XNAMS.png" group-title="Esportes em espanhol",PX Sports - legenda em espanhol | México
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1709
+#EXTINF:-1 tvg-id="63dac28760bc8f0008a7654b" tvg-logo="https://images.pluto.tv/channels/63dac28760bc8f0008a7654b/colorLogoPNG.png" group-title="Esportes em espanhol",RealMadrid TV | Pluto TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63dac28760bc8f0008a7654b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="63dac28760bc8f0008a7654b" tvg-logo="https://images.pluto.tv/channels/63dac28760bc8f0008a7654b/colorLogoPNG.png" group-title="Esportes em espanhol",RealMadrid TV | Pluto TV Brasil - link 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63dac28760bc8f0008a7654b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="63dac28760bc8f0008a7654b" tvg-logo="https://images.pluto.tv/channels/63dac28760bc8f0008a7654b/colorLogoPNG.png" group-title="A novidade",RealMadrid TV | Esportes em espanhol
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63dac28760bc8f0008a7654b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DiBEioC.png" group-title="Esportes em espanhol",Tigo Sports | Paraguai
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1113
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://i.imgur.com/NQ0qCf8.png" group-title="Esportes em espanhol",TyC Sports | Argentina
