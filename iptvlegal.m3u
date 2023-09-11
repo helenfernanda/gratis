@@ -223,7 +223,7 @@ https://ythls.onrender.com/channel/UCBqosmarVhVAKYXGVt1JvnA.m3u8
 #EXTINF:-1 tvg-id="CanalGov.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Canal_Gov_Logo.png/640px-Canal_Gov_Logo.png" group-title="Brasil: educativos e documentários",Canal Gov | Brasil
 https://canalgov-stream.ebc.com.br/mux_video_ts/index-1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7kRysMu.png?1" group-title="Brasil: educativos e documentários",Canal Libras
-https://canallibras-stream.ebc.com.br/chunks.m3u8
+https://canallibras-stream.ebc.com.br/mux_video_ts/index-1.m3u8
 #EXTINF:-1 tvg-id="CanalSaude.br" tvg-logo="https://i.imgur.com/iWPpWzW.png" group-title="Brasil: educativos e documentários",Canal Saúde | Brasil
 https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz.stream/master.m3u8
 #EXTINF:-1 tvg-id="culturapara" tvg-logo="https://i.imgur.com/vfYMS0k.png" group-title="Brasil: educativos e documentários",Cultura do Pará | Brasil
@@ -4325,14 +4325,28 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/623b93628
 #EXTINF:-1 tvg-id="623b93628e6ded0007337d4d" tvg-logo="https://images.pluto.tv/channels/623b93628e6ded0007337d4d/colorLogoPNG.png" group-title="A novidade",Xite Gospel | Música
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/623b93628e6ded0007337d4d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 ##### Música instrumental e som ambiente ############## Música instrumental e som ambiente ############## Música instrumental e som ambiente ############## Música instrumental e som ambiente ############## Música instrumental e som ambiente ############## Música instrumental e som ambiente ##############
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/233mp_lOFYDWMmy0cQQWqaUeQ1bBtH8MK2p6fhdA00lnraxo8bwMtuJ077R8mlnn2cWA8ngP=s400-c-k-c0x00ffffff-no-rj" group-title="Música instrumental e som ambiente",Afro Lofi | YouTube
+https://ythls.onrender.com/channel/UCtT5o5ovUH19FEPzYDvw7KQ.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/233mp_lOFYDWMmy0cQQWqaUeQ1bBtH8MK2p6fhdA00lnraxo8bwMtuJ077R8mlnn2cWA8ngP=s400-c-k-c0x00ffffff-no-rj" group-title="Música instrumental e som ambiente",Afro Lofi - Chill & Smoke | YouTube
+https://ythls.onrender.com/video/mO2O76rAA08.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/233mp_lOFYDWMmy0cQQWqaUeQ1bBtH8MK2p6fhdA00lnraxo8bwMtuJ077R8mlnn2cWA8ngP=s400-c-k-c0x00ffffff-no-rj" group-title="Música instrumental e som ambiente",Afro Lofi - Good Vibrations | YouTube
+https://ythls.onrender.com/video/WJktfqMP7yY.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/233mp_lOFYDWMmy0cQQWqaUeQ1bBtH8MK2p6fhdA00lnraxo8bwMtuJ077R8mlnn2cWA8ngP=s400-c-k-c0x00ffffff-no-rj" group-title="Música instrumental e som ambiente",Afro Lofi - Soul | YouTube
+https://ythls.onrender.com/video/Vgcp2ZGkyvo.m3u8
 #EXTINF:-1 channel-id="stirr-externallinearfeed-11-06-2019-184659187-11-06-2019" tvg-id="externallinearfeed-11-06-2019-184659187-11-06-2019" tvg-logo="https://i.imgur.com/zmZil0O.png" group-title="Música instrumental e som ambiente",Ambiance
 https://dai.google.com/linear/hls/event/6RPZlzksTCyB1euPqLcBZQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rtZWruX.png" group-title="Música instrumental e som ambiente",Aurora Live
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953819932c837b49397345/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sLMheVj.png" group-title="Música instrumental e som ambiente",Baroque Music | YouTube
+https://ythls.onrender.com/video/2gO1v2GPMFk.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0exyBE6.png" group-title="Música instrumental e som ambiente",Beautiful Melody | YouTube
+https://ythls.onrender.com/channel/UCC0XEDBRtOO2GPC_DP4hR3w.m3u8
 #EXTINF:-1 tvg-id="5f779951372da90007fd45e8" tvg-logo="http://images.pluto.tv/channels/5f779951372da90007fd45e8/colorLogoPNG.png" group-title="Música instrumental e som ambiente",Clássica | Pluto TV EUA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f779951372da90007fd45e8/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0B5kpS2.png" group-title="Música instrumental e som ambiente",Coffeehouse | Local Now
 http://linear-272.frequency.stream/272/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kjUsOFN.png" group-title="Música instrumental e som ambiente",Cozy Bedroom | YouTube
+https://ythls.onrender.com/channel/UCrXaYAnixY-U-xSeQPxHB5g.m3u8
 #EXTINF:-1 tvg-id="DEAH3904006A" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/37/DEAH3904006A_20210609T004634.png" group-title="Música instrumental e som ambiente",Deluxe Lounge HD | Alemanha
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/ec8e5c43-6fae-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
 #EXTINF:-1 tvg-id="ATAJ0500413A" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/08/ATAJ0500413A_20210609T004625.png" group-title="Música instrumental e som ambiente",Deluxe Lounge HD | Áustria
@@ -4347,10 +4361,16 @@ https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/abb4746a-80c1-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=GB&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
 #EXTINF:-1 tvg-id="CHAJ0500413A" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/64/CHAJ0500413A_20210609T004603.png" group-title="Música instrumental e som ambiente",Deluxe Lounge HD | Suíça
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/ce7c5fb8-6fae-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=CH&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rvwqScE.png" group-title="Música instrumental e som ambiente",Dreamhop Music | YouTube
+https://ythls.onrender.com/channel/UCz9_4daWw-uWuqeB6_IkhMg.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fDV10iU.png" group-title="Música instrumental e som ambiente",Drone TV
 https://airvuz-dronetv-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OPL6Wsh.png" group-title="Música instrumental e som ambiente",eScapes Smooth Jazz
 https://linear-251.frequency.stream/251/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y5YV9d3.png" group-title="Música instrumental e som ambiente",Explore Live - Brooks Falls | YouTube
+https://ythls.onrender.com/video/HsLvnFQW_yM.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y5YV9d3.png" group-title="Música instrumental e som ambiente",Explore Oceans - Pipeline Cam | YouTube
+https://ythls.onrender.com/video/VI8Wj5EwoRM.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hqBag1J.png" group-title="Música instrumental e som ambiente",Fireplace Lounge
 https://a.jsrdn.com/broadcast/aee08372e5/+0000/c.m3u8
 #EXTINF:-1 tvg-id="dtv_EPGFireplace Lounge" tvg-logo="https://i.imgur.com/hqBag1J.png" group-title="Música instrumental e som ambiente",Fireplace Lounge | Distro TV
@@ -4363,6 +4383,14 @@ https://dai.google.com/linear/hls/event/SUiAUobmTi6nMfIemEKjTA/master.m3u8
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953836932c837b49397355/playlist.m3u8
 #EXTINF:-1 tvg-id="dtv_EPGIsland Escape" tvg-logo="https://i.imgur.com/aWwR7do.png" group-title="Música instrumental e som ambiente",Island Escape | Distro TV
 https://dai.google.com/linear/hls/event/IpUm6gZ6Tz-pEotpMRsZ4w/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/11HqpkG.png" group-title="Música instrumental e som ambiente",Lofi Girl | YouTube
+https://ythls.onrender.com/channel/UCSJ4gkVC6NrvII8umztf0Ow.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/11HqpkG.png" group-title="Música instrumental e som ambiente",Lofi Girl - gaming | YouTube
+https://ythls.onrender.com/video/4xDzrJKXOOY.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/11HqpkG.png" group-title="Música instrumental e som ambiente",Lofi Girl - sleep | YouTube
+https://ythls.onrender.com/video/rUxyKA_-grg.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/11HqpkG.png" group-title="Música instrumental e som ambiente",Lofi Girl - study | YouTube
+https://ythls.onrender.com/video/jfKfPfyJRdk.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xtyVr1q.png" group-title="Música instrumental e som ambiente",Local Now
 http://linear-244.frequency.stream/244/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="USBB1000002TK" tvg-logo="https://i.imgur.com/R4190of.png" group-title="Música instrumental e som ambiente",Loupe
@@ -4407,6 +4435,8 @@ https://qwest-classic-lg.amagi.tv/playlist.m3u8
 https://qwest-classic-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60aeb06487f9b1002ce1231b" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/qwesttv-classical_channel_logo_dark.png" group-title="Música instrumental e som ambiente",QwestTV Classical 2
 https://qwest-classic-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-qwest-classic-plex/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5ewQNfJ.png" group-title="Música instrumental e som ambiente",Relax My Cat | YouTube
+https://ythls.onrender.com/channel/UC89zrYB2M6mj00nHdHWD-EA.m3u8
 #EXTINF:-1 tvg-id="dtv_EPGRelaxing Rain" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22801/relaxing-rain/logo_20200229_001723.png" group-title="Música instrumental e som ambiente",Relaxing Rain | Distro TV
 https://dai.google.com/linear/hls/event/N-tqcU4fRBGJsIWzsgMfmg/master.m3u8
 #EXTINF:-1 tvg-id="3e4b9cada2b74cf18977298804134a36" tvg-logo="https://i.imgur.com/YITPJFX.png" group-title="Música instrumental e som ambiente",Screendreams by Invincible
@@ -4730,6 +4760,8 @@ http://linear-358.frequency.stream/358/hls/master/playlist.m3u8
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61f94a2866401100074e9dee/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="627d1b936d4ded0007d7642f" tvg-logo="https://images.pluto.tv/channels/627d1b936d4ded0007d7642f/colorLogoPNG.png" group-title="Notícias em espanhol",Chilevision Noticias | Pluto TV Espanha
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/627d1b936d4ded0007d7642f/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="DWEspanol.de" tvg-logo="https://i.imgur.com/CsHdYhG.png" group-title="Notícias em espanhol",Deutsche Welle - DW em espanhol | YouTube
+https://ythls.onrender.com/channel/UCT4Jg8h03dD0iN3Pb5L0PMA.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60089d97f682a3002c34829b" tvg-logo="https://images.pluto.tv/channels/60492e6d7f3f560007ab0f62/colorLogoPNG.png" group-title="Notícias em espanhol",Estrella News | EUA 
 https://estrellanews-plex.amagi.tv/amRdirect/us_privacy=1---&did=83cf59f7-dc7f-5753-8faa-ab958f6c33e3&dnt=0&X-Plex-Token=jePnUaVx_dJ5XWHmG6ob&channelId=60089d97f682a3002c34829b/hls/amagi_hls_data_plexAAAAA-estrellanews-plex/CDN/384x216_435600/index.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60089d97f682a3002c34829b" tvg-logo="https://images.pluto.tv/channels/60492e6d7f3f560007ab0f62/colorLogoPNG.png" group-title="Notícias em espanhol",Estrella News | EUA - link 2
