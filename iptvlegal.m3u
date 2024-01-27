@@ -839,8 +839,6 @@ https://evpp.mm.uol.com.br/band/nativafm_sjc/playlist.m3u8
 https://27433.live.streamtheworld.com/NATIVA_SPAAC/HLS/1518c71c-f47e-474a-93c5-96bb92b4834f/0/playlist.m3u8
 #EXTINF:-1 tvg-language="Portuguese" tvg-logo="https://i.imgur.com/89c0Ixi.png" group-title="Brasil: rádios em português",Play FM São Paulo | BandPlay
 https://19813.live.streamtheworld.com/PLAY_SPAAC/HLS/4630fec5-5ccf-4406-bc06-edab6af6b021/0/playlist.m3u8
-#EXTINF:-1 tvg-language="Portuguese" tvg-logo="https://i.imgur.com/dFOg0qj.png" group-title="Brasil: rádios em português",Rádio Clube TV | Portugal
-https://stmv1.srvsite.com/clubefmradio/clubefmradio/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L19LnxD.png" group-title="Brasil: rádios em português",Rádio Sociedade | Salvador BA
 https://radiosociedade-lh.akamaihd.net/i/pp_1@368264/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DPsqixB.png" group-title="Brasil: rádios em português",Rádio UFRGS | RS Brasil
@@ -942,6 +940,8 @@ https://utvsoultv.acessaradios.com.br/utvsoultv/utvsoultv.stream/playlist.m3u8
 http://linear-181.frequency.stream/181/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="RTP 1 HD" tvg-logo="https://i.imgur.com/gsS7Kv5.png" group-title="Brasil: variedades em português",RTP 1 | Portugal
 https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTP 2 HD" tvg-logo="https://i.imgur.com/IclFRK9.png" group-title="Brasil: variedades em português",RTP 2 | Portugal
+https://streaming-live.rtp.pt/liverepeater/smil:rtp2HD.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTP Açores" tvg-logo="https://i.imgur.com/vkSRSWQ.png" group-title="Brasil: variedades em português",RTP Açores | Portugal
 https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTP África" tvg-logo="https://i.imgur.com/vkSRSWQ.png" group-title="Brasil: variedades em português",RTP África | Portugal
@@ -950,7 +950,7 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTP Madeira" tvg-logo="https://i.imgur.com/vZrqQPX.png" group-title="Brasil: variedades em português",RTP Madeira | Portugal
 https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTP Memória" tvg-logo="https://i.imgur.com/vZrqQPX.png" group-title="Brasil: variedades em português",RTP Memória | Portugal
+#EXTINF:-1 tvg-id="RTP Memória" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rtpMemoria_negativo_horiz_RGB.png" group-title="Brasil: variedades em português",RTP Memória | Portugal
 https://streaming-live.rtp.pt/liverepeater/smil:estudoemcasa.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SBTNacional.br" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="Brasil: variedades em português",SBT | Bem TV | Tangará da Serra | MT
 https://5a2b083e9f360.streamlock.net/bemtv/bemtv.sdp/master.m3u8
@@ -1028,13 +1028,13 @@ https://video01.kshost.com.br/tiago2001/tiago2001/playlist.m3u8
 https://video05.logicahost.com.br/tvsulba/tvsulba/playlist.m3u8
 #EXTINF:-1 tvg-id="TVSPE.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/zTaRKN7.png" group-title="Brasil: variedades em português",TVS Surubim PE | Brasil
 https://video01.kshost.com.br/antonio9510/antonio9510/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Rede.União.de.Televisão.png" group-title="Brasil: variedades em português",TV União | Brasília | Brasil
+#EXTINF:-1 tvg-id="TVUniaoFortaleza.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Rede.União.de.Televisão.png" group-title="Brasil: variedades em português",TV União | Brasília | Brasil
 https://live.uniaoplus.com/hls/sqYJRqIsBLTW36TC.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Rede.União.de.Televisão.png" group-title="Brasil: variedades em português",TV União |  Fortaleza | Brasil
+#EXTINF:-1 tvg-id="TVUniaoFortaleza.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Rede.União.de.Televisão.png" group-title="Brasil: variedades em português",TV União | Fortaleza | Brasil
 https://live.uniaoplus.com/hls/8b43MluBjzR7M1Uk.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Rede.União.de.Televisão.png" group-title="Brasil: variedades em português",TV União | Natal | Brasil
+#EXTINF:-1 tvg-id="TVUniaoFortaleza.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Rede.União.de.Televisão.png" group-title="Brasil: variedades em português",TV União | Natal | Brasil
 https://live.uniaoplus.com/hls/0gmf9QNc7bQ6V0Lu.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Rede.União.de.Televisão.png" group-title="Brasil: variedades em português",TV União | Rio Branco | Brasil
+#EXTINF:-1 tvg-id="TVUniaoFortaleza.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Rede.União.de.Televisão.png" group-title="Brasil: variedades em português",TV União | Rio Branco | Brasil
 https://live.uniaoplus.com/hls/8b43MluBjzR7M1Uk.m3u8
 #EXTINF:-1 tvg-language="Portuguese" tvg-logo="https://ulbtv.com.br/wp-content/uploads/2023/04/20230412_114257.png" group-title="Brasil: variedades em português",ULB TV | Brasil
 https://stmv1.paineltv.net/ulbtv/ulbtv/playlist.m3u8
