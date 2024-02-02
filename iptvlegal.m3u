@@ -9,6 +9,8 @@
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61b790b985706b00072cb797/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://images.pluto.tv/channels/61b790b985706b00072cb797/colorLogoPNG.png" group-title="Brasil: cinema em português",Adrenalina Freezone | link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61b790b985706b00072cb797/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-logo="https://imgur.com/TRhivEt.png" group-title="Brasil: cinema em português",Adrenalina Freezone
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3459
 #EXTINF:-1 tvg-id="5fa1612a669ba0000702017b" tvg-logo="https://images.pluto.tv/channels/5fa1612a669ba0000702017b/colorLogoPNG.png" group-title="Brasil: cinema em português",Cine Clássicos | Pluto TV Brasil
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fa1612a669ba0000702017b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="5fa1612a669ba0000702017b" tvg-logo="https://images.pluto.tv/channels/5fa1612a669ba0000702017b/colorLogoPNG.png" group-title="Brasil: cinema em português",Cine Clássicos | link 2
@@ -523,8 +525,10 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5442
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f997e44949bc70007a6941e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="5f997e44949bc70007a6941e" tvg-logo="https://i.imgur.com/kJHRcfo.png" group-title="Brasil: infanto-juvenis",Turma da Mônica | Pluto TV BR link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f997e44949bc70007a6941e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="TVR.br" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/logo_CERTP_PNG__MOAFOfq.png" group-title="Brasil: infanto-juvenis",TV R | Brasil 
+#EXTINF:-1 tvg-id="TVR.br" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/logo_CERTP_PNG__MOAFOfq.png" group-title="Brasil: infanto-juvenis",TV R | Brasil
 https://video01.soultv.com.br/tvr/tvr/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HwwQeLo.png" group-title="Brasil: infanto-juvenis",TV ZYN - SBT | Brasil
+https://amg01391-sbtinfast-amg01391c2-runtime-latam-1337.playouts.now.amagi.tv/playlist/amg01391-addigital-tvzyn-runtimelatam/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zDhlE6Z.png" group-title="Brasil: infanto-juvenis",Xabarín Clube | em galego | Espanha
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1251
 ###### Brasil LIFESTYLE #### BRASIL: LIFESTYLE ######### BRASIL: REALITIES ######### BRASIL REALITIES ############# Brasil LIFESTYLE #### BRASIL: LIFESTYLE ######### BRASIL: REALITIES ######### BRASIL REALITIES ############# Brasil LIFESTYLE #### BRASIL: LIFESTYLE ######### BRASIL: REALITIES ######### BRASIL REALITIES #######
