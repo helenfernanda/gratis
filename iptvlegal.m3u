@@ -4478,8 +4478,12 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60d3583ef
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60492dcf1c9b6a00089f41df/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="ForoTV.mx" tvg-logo="https://i.imgur.com/JcffgvR.png" group-title="Notícias em espanhol",Foro TV | México
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_4.m3u8
-#EXTINF:-1 channel-id="pluto-652e922db4b047000825f975" tvg-id="652e922db4b047000825f975" tvg-logo="https://images.pluto.tv/channels/652e922db4b047000825f975/colorLogoPNG.png" tvg-chno="707" group-title="Mexico" , Milenio Televisión | Pluto TV México
+#EXTINF:-1 channel-id="pluto-652e922db4b047000825f975" tvg-id="652e922db4b047000825f975" tvg-logo="https://images.pluto.tv/channels/652e922db4b047000825f975/colorLogoPNG.png" tvg-chno="707" group-title="Notícias em espanhol",Milenio Televisión | Pluto TV México
 https://jmp2.uk/PlutoTV/652e922db4b047000825f975-alt.m3u8
+#EXTINF:-1 channel-id="pluto-652e922db4b047000825f975" tvg-id="652e922db4b047000825f975" tvg-logo="https://images.pluto.tv/channels/652e922db4b047000825f975/colorLogoPNG.png" tvg-chno="707" group-title="Notícias em espanhol",Milenio Televisión | Pluto TV México ~ link 2
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/652e922db4b047000825f975/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-652e922db4b047000825f975" tvg-id="652e922db4b047000825f975" tvg-logo="https://images.pluto.tv/channels/652e922db4b047000825f975/colorLogoPNG.png" tvg-chno="707" group-title="Notícias em espanhol",Milenio Televisión | Pluto TV México ~ link 3
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/652e922db4b047000825f975/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="TVE24h.es" tvg-logo="https://i.imgur.com/JuYFnOi.png" group-title="Notícias em espanhol",RTVE 24h | Espanha
 https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr_576.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rPVPH9V.png" group-title="Notícias em espanhol",Super Noticias 33 | República Dominicana
